@@ -371,7 +371,7 @@ passenegr (black passenger)
 
 dickflect
 
-Legionardo
+Legionardo (when Leo plays ME3MP as geth infiltrator)
 
 secrent (secret rent?)
 
@@ -410,8 +410,6 @@ serveral
 orkout (grunt-inducing exercise)
 
 Chooseday (very american Tuesday)
-
-Sundom
 
 "sooner than later"
 
