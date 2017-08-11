@@ -57,6 +57,7 @@ wrotten (something that's written but also rotten because it sucks)
 
 fatmate (a fat flatmate?)
 
+shittyzen (a bad citizen)
 
 ---
 
