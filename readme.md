@@ -59,6 +59,9 @@ fatmate (a fat flatmate?)
 
 shittyzen (a bad citizen)
 
+bitcon (bitcoin con)
+
+
 ---
 
 ### LeoJo
@@ -505,3 +508,5 @@ eggsistence (existing in a vegetable state?)
 bedcause (because of something that happened in a bed?)
 
 crysader (grieving, sad crusader)
+
+"suicide squat"
