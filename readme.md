@@ -510,3 +510,5 @@ bedcause (because of something that happened in a bed?)
 crysader (grieving, sad crusader)
 
 "suicide squat"
+
+mythinformation
