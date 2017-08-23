@@ -514,3 +514,5 @@ crysader (grieving, sad crusader)
 mythinformation
 
 mythconception
+
+trycer (shooting blind with tracer rounds?)
