@@ -30,7 +30,6 @@ squatmate (someone you squat with — either as gopniks or when you occupy somet
 
 grosseries (groceries you don't really want to eat)
 
-
 "I'll splay your spleen and splatter your brains all over the splashboard, then splice the remains together with a splint, it will be splendid!"
 
 goregone (something that's luckily in the past but not without blood spilled)
@@ -61,6 +60,7 @@ shittyzen (a bad citizen)
 
 bitcon (bitcoin con)
 
+weakend (a crappy weekend)
 
 ---
 
