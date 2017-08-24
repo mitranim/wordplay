@@ -516,3 +516,5 @@ mythinformation
 mythconception
 
 trycer (shooting blind with tracer rounds?)
+
+apparantus (automatic ranting machine)
