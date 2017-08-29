@@ -62,6 +62,10 @@ bitcon (bitcoin con)
 
 weakend (a crappy weekend)
 
+condolescendence
+
+terrorform (terraforming an inhabited planet? genocidal terraform?)
+
 ---
 
 ### LeoJo
