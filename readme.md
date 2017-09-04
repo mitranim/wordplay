@@ -66,6 +66,8 @@ condolescendence (a condescending condolence)
 
 terrorform (terraforming an inhabited planet? genocidal terraform?)
 
+bottlefield (a field of bottles formed as an aftermath of heavy drinking, usually left behind by gopniks)
+
 ---
 
 ### LeoJo
@@ -79,7 +81,6 @@ guilelines (untrustworthy guidelines)
 guessthetics (the art of guessing)
 
 sucksessfool (fool who stumbled its way to success)
-
 
 ---
 
