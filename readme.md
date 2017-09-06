@@ -422,6 +422,8 @@ orkout (grunt-inducing exercise)
 
 Chooseday (very american Tuesday)
 
+Jewsday (seriously, very american Tuesday)
+
 "sooner than later"
 
 romains (dead Romans)
@@ -466,13 +468,13 @@ tellyvision (tells you what to think)
 
 whorrior (hoe conqueror)
 
-ass-signment (has your ass marked | has your ass slaphanded to you)
+ass-signment (marks your ass for beating)
 
 pieceful (resting in pieces)
 
 worning (a tiresome, obsolete warning)
 
-memestress (a lady who spends too much time on the internet?)
+memestress (lady who spends too much time on the internet?)
 
 memester (semester of memorising)
 
@@ -514,7 +516,7 @@ eggsistence (existing in a vegetable state?)
 
 bedcause (because of something that happened in a bed?)
 
-crysader (grieving, sad crusader)
+crysader (grieving, sad person)
 
 "suicide squat"
 
