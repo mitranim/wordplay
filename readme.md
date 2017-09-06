@@ -1,6 +1,6 @@
 ### LandRaider
 
-relationshit
+relationshit (bad relationship)
 
 freedge (with free food)
 
@@ -81,6 +81,8 @@ guilelines (untrustworthy guidelines)
 guessthetics (the art of guessing)
 
 sucksessfool (fool who stumbled its way to success)
+
+"untelligence" (opposite of intelligence)
 
 ---
 
@@ -530,4 +532,10 @@ documention (briefly included into documentation)
 
 hassless
 
-transanction (balance deduction as punishment?)
+transanction (balance deduction as punishment)
+
+maintrix (mother network)
+
+architech (chief technologist?)
+
+"Honk Kong" (city of honking jams)
