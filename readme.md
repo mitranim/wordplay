@@ -68,6 +68,8 @@ terrorform (terraforming an inhabited planet? genocidal terraform?)
 
 bottlefield (a field of bottles formed as an aftermath of heavy drinking, usually left behind by gopniks)
 
+lameployer (lame employer)
+
 ---
 
 ### LeoJo
@@ -543,3 +545,21 @@ architech (chief technologist?)
 "Honk Kong" (city of honking jams)
 
 anonism (vain obsession with anonymity)
+
+aimateur (someone with poor aim)
+
+amature (surprisingly competent despite lack of experience?)
+
+geekstarter
+
+hypeloop
+
+hypethetical
+
+"boot force"
+
+samewhere
+
+"bubble gun"
+
+maidman
