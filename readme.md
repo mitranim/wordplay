@@ -70,6 +70,10 @@ bottlefield (a field of bottles formed as an aftermath of heavy drinking, usuall
 
 lameployer (lame employer)
 
+scaremish (scary skirmish)
+
+wreckoning (devastating reckoning)
+
 ---
 
 ### LeoJo
@@ -85,6 +89,12 @@ guessthetics (the art of guessing)
 sucksessfool (fool who stumbled its way to success)
 
 "untelligence" (opposite of intelligence)
+
+---
+
+### Yury
+
+unbelievabull (too incredulous to believe)
 
 ---
 
@@ -548,8 +558,6 @@ anonism (vain obsession with anonymity)
 
 aimateur (someone with poor aim)
 
-amature (surprisingly competent despite lack of experience?)
-
 geekstarter
 
 hypeloop
@@ -563,3 +571,15 @@ samewhere
 "bubble gun"
 
 maidman
+
+notwork (dysfunctional network)
+
+"neural notwork" (dysfunctional neural network, which is most of them)
+
+authomatic
+
+aloneside (imaginary companion?)
+
+accpunt (puny account)
+
+ampunt (puny amount)
