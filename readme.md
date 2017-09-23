@@ -583,3 +583,13 @@ aloneside (imaginary companion?)
 accpunt (puny account)
 
 ampunt (puny amount)
+
+betcoin (for gambling)
+
+"saldo mortale" (accounting: reconciling a big account)
+
+alboom
+
+attank (speedy war machine?)
+
+attactor (someone _attactive_?)
