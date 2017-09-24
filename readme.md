@@ -591,3 +591,5 @@ alboom
 attank (highly aggressive war machine?)
 
 attactor (someone _attactive_?)
+
+costmetic (very expensive makeup)
