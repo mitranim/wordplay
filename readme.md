@@ -570,8 +570,6 @@ samewhere
 
 "bubble gun"
 
-maidman
-
 notwork (dysfunctional network)
 
 "neural notwork" (dysfunctional neural network, which is most of them)
@@ -590,6 +588,6 @@ betcoin (for gambling)
 
 alboom
 
-attank (speedy war machine?)
+attank (highly aggressive war machine?)
 
 attactor (someone _attactive_?)
