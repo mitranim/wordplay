@@ -74,6 +74,8 @@ scaremish (scary skirmish)
 
 wreckoning (devastating reckoning)
 
+interpretentious (art critic)
+
 ---
 
 ### LeoJo
@@ -528,7 +530,7 @@ eggsistence (existing in a vegetable state?)
 
 bedcause (because of something that happened in a bed?)
 
-crysader (grieving, sad person)
+crysader (aggressively sad person)
 
 "suicide squat"
 
@@ -540,7 +542,7 @@ trycer (shooting blind with tracer rounds?)
 
 apparantus (automatic ranting machine)
 
-documention (briefly included into documentation)
+documention (very brief documentation)
 
 "deadly simple"
 
@@ -562,9 +564,9 @@ geekstarter
 
 hypeloop
 
-hypethetical
+hypethetical (exists in imagination of riled-up fans)
 
-"boot force"
+"boot force" (takes the form of a mighty kick)
 
 samewhere
 
@@ -593,3 +595,17 @@ attank (highly aggressive war machine?)
 attactor (someone _attactive_?)
 
 costmetic (very expensive makeup)
+
+bullshift
+
+sacriface
+
+entitty
+
+cryptone (cryptic intonation)
+
+ooperation (operation resulting in an oopsie)
+
+eyedentification (iris scanning)
+
+eyedentification (poking dents in eyes, probably with a laser scanner...)
