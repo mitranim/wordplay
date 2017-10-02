@@ -608,4 +608,6 @@ ooperation (operation resulting in an oopsie)
 
 eyedentification (iris scanning)
 
+eyedentification (eye-to-eye confirmation)
+
 eyedentification (poking dents in eyes, probably with a laser scanner...)
