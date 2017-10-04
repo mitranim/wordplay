@@ -611,3 +611,7 @@ eyedentification (iris scanning)
 eyedentification (eye-to-eye confirmation)
 
 eyedentification (poking dents in eyes, probably with a laser scanner...)
+
+"trash test" (crash test that trashes the product)
+
+wounderful (something great that also hurts you)
