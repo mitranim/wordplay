@@ -615,3 +615,25 @@ eyedentification (poking dents in eyes, probably with a laser scanner...)
 "trash test" (crash test that trashes the product)
 
 wounderful (something great that also hurts you)
+
+anxient
+
+octobeer (brewfest month)
+
+flakship (anti-air flagship)
+
+anonymouse (hidden, quiet)
+
+responce (pretentious reply?)
+
+Sibearia (land of bears)
+
+mementum (cultural inertia?)
+
+enterprice (corporate-grade price)
+
+motherhacker
+
+cointain
+
+cointainer
