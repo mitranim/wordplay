@@ -76,6 +76,8 @@ wreckoning (devastating reckoning)
 
 interpretentious (art critic)
 
+execuse (executive excuse?)
+
 ---
 
 ### LeoJo
@@ -637,3 +639,31 @@ motherhacker
 cointain
 
 cointainer
+
+blockchin
+
+interesetting (fascinating backdrop?)
+
+sellfish (name for a seafood restaurant? fishy sellout?)
+
+redputation (bloody trail?)
+
+manotechnology (manual work?)
+
+manomachine (cyborg?)
+
+pegasys (unicorn technology?)
+
+memotion
+  (preprogrammed emotion? preprogrammed movement?)
+  (an emotion people think they're feeling just because the media/internet/memes tell them they should)
+
+keeptocurrency (currency that is never spent)
+
+hambush (surprise boar)
+
+hackcellent (shortcut to success?)
+
+hangling (person being hanged)
+
+tenasty (persistently unwelcome)
