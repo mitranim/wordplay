@@ -104,15 +104,17 @@ unbelievabull (too incredulous to believe)
 
 ### Mitranim
 
-cogweb
+cogweb (mechanical tangle)
 
-bitchmark
+bitchmark (benchmark trashing something)
 
-octobus
+octobus (eight-wheeled bus?)
 
 ken-gúru
 
-"rule of dumb"
+  (see https://en.wiktionary.org/wiki/ken)
+
+"rule of dumb" (easy-to-follow thumb rule)
 
 roadcast
 
@@ -132,25 +134,25 @@ bonefire (necromancer's bonfire)
 
 "competely different" (competing alternatives)
 
-rectangel / rektangel
+rectangel (perfect rectangle? square with wings?)
+
+rektangel
 
 failgun (unimpressive railgun)
 
 "30-megahurt cannon"
 
-megahurtz
+megahurtz (pain per unit of time)
 
 explosure (too much attention)
 
 bitchcoin
 
-"deja view"
+"deja view" (flashback of the past)
 
 defit (extinction of the unfittest)
 
-neurosmith
-
-madvisor
+madvisor (terribly unwise aide) (visor that shows maddening things)
 
 mythitaur
 
@@ -158,7 +160,7 @@ scourage (unwelcome courage?)
 
 shootgun
 
-"argumented reality"
+"argumented reality" (when people can't decide on reality augmentation)
 
 "the shakening"
 
@@ -174,7 +176,7 @@ beehave
 
 robutt
 
-threequel
+threequel (part of trilogy)
 
 brobot
 
@@ -186,7 +188,7 @@ assplod
 
 fatom (fat atom)
 
-hentail
+hentail (lecherous appendage)
 
 manatic (maniacal fanatic?)
 
@@ -202,19 +204,23 @@ failacy
 
 bondit
 
-buzzworthy (© Borderlands TPS -> Hyperion)
+buzzworthy
 
-borderlads
+  (source: Borderlands TPS)
 
-orderlands
+borderlads (hard-living folks)
 
-scrapshooter
+orderlands (well-governed territory)
+
+scrapshooter (non-marksman)
 
 paintful
 
 hatful (handful / hateful)
 
-"mined games" (© Beaglerush)
+"mined games"
+
+  (source: Beaglerush)
 
 horrner (corner or horrors)
 
@@ -234,7 +240,9 @@ loonatic
 
 filewall
 
-payper (© Borderlands TPS -> Claptastic)
+payper
+
+  (source: Borderlands TPS)
 
 intergration
 
@@ -254,7 +262,7 @@ trapler (claptrap traveler)
 
 loonshot (moonshot that cannot possibly work)
 
-arbitrator (inconsistent arbiter)
+arbitrartor (inconsistent arbiter)
 
 alumnium (a substance made of... alumni?)
 
@@ -264,7 +272,7 @@ denemies / demonies (is what you fight in Doom)
 
 gloatee (goatee of gloating goat?)
 
-screwnshot
+screwnshot (screenshot of something unpalatable)
 
 plausiable (able to be plausible?)
 
@@ -272,13 +280,13 @@ scamvert (shifty advert)
 
 scambag (annoying con man)
 
-mecdonalds / mechdonalds
+mecdonalds / mechdonalds (charge station for mechs)
 
 mehdonalds
 
-"god-blessed american" (wordplay on "god bless america")
-
 mechkind
+
+"god-blessed american" (wordplay on "god bless america")
 
 skelethal
 
