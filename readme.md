@@ -78,6 +78,14 @@ interpretentious (art critic)
 
 execuse (executive excuse?)
 
+"loathing screen" (a long loading screen?)
+
+devilstation (devastating demonic infestation?)
+
+desease (sea sickness?)
+
+trailore (trailer giving away too much of the lore)
+
 ---
 
 ### LeoJo
@@ -674,4 +682,38 @@ hackcellent (shortcut to success?)
 
 hangling (person being hanged)
 
-tenasty (persistently unwelcome)
+tenasty (unwelcome persistence)
+
+"this font is worth its weight in bold"
+
+neckname
+
+pinful (causes piercing pain)
+
+pinptrick
+
+dolpin
+
+dolfin
+
+scannerd (someone who digitizes all their paperwork?)
+
+abount
+
+deducation
+
+atomsphere
+
+recomment (repeatedly leave a recommendation)
+
+grillfriend (GF that roasts you all the time)
+
+hewman
+
+assking
+
+"flesh memory"
+
+optimisaction (one optimisation pass)
+
+diss-cuss-ting
