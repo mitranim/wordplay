@@ -124,23 +124,19 @@ bitchmark (benchmark trashing something)
 
 octobus (eight-wheeled bus?)
 
-ken-gúru
-
-  (see https://en.wiktionary.org/wiki/ken)
+ken-gúru (see https://en.wiktionary.org/wiki/ken)
 
 "rule of dumb" (easy-to-follow thumb rule)
 
-roadcast
+roadcast (highway radio)
 
-dogspanion
+dogspanion (trusty companion animal)
 
-catspert
-
-dogspert
+catspert / dogspert
 
 thunderdog (underdog's loud comeback)
 
-beeware
+beeware (bee extra careful)
 
 bonefactor
 
@@ -160,7 +156,7 @@ megahurtz (pain per unit of time)
 
 explosure (too much attention)
 
-bitchcoin
+bitchcoin (fake currency)
 
 "deja view" (flashback of the past)
 
@@ -168,15 +164,9 @@ defit (extinction of the unfittest)
 
 madvisor (terribly unwise aide) (visor that shows maddening things)
 
-mythitaur
-
 scourage (unwelcome courage?)
 
-shootgun
-
 "argumented reality" (when people can't decide on reality augmentation)
-
-"the shakening"
 
 "son of a bee"
 
@@ -188,13 +178,13 @@ shootgun
 
 beehave
 
-robutt
+robutt (considerable metal behind)
 
 threequel (part of trilogy)
 
 brobot
 
-assploit
+assploit (exploiting a rear weakness)
 
 assplode
 
@@ -210,17 +200,15 @@ shitdown
 
 harget (hard target)
 
-gunnon
+gunnon (hand cannon?)
 
 oozurper (slimy dictator?)
 
 failacy
 
-bondit
+bondit (trusty bandit)
 
 buzzworthy
-
-  (source: Borderlands TPS)
 
 borderlads (hard-living folks)
 
@@ -232,9 +220,7 @@ paintful
 
 hatful (handful / hateful)
 
-"mined games"
-
-  (source: Beaglerush)
+"mined games" (minesweeping)
 
 horrner (corner or horrors)
 
@@ -256,23 +242,17 @@ filewall
 
 payper
 
-  (source: Borderlands TPS)
-
-intergration
-
-intergrator
+intergration (grating contact between components)
 
 interator (interactor? integrator? iterator?)
 
-intergated
+intergated (combination through access control)
 
 hollowgram
 
 "tank you"
 
 ascendiary (beefed-up incendiary?)
-
-trapler (claptrap traveler)
 
 loonshot (moonshot that cannot possibly work)
 
@@ -286,9 +266,7 @@ denemies / demonies (is what you fight in Doom)
 
 gloatee (goatee of gloating goat?)
 
-screwnshot (screenshot of something unpalatable)
-
-plausiable (able to be plausible?)
+screwnshot (screenshot of being screwed)
 
 scamvert (shifty advert)
 
@@ -300,21 +278,19 @@ mehdonalds
 
 mechkind
 
-"god-blessed american" (wordplay on "god bless america")
-
 skelethal
 
 funtastic
 
-naypalm
-
-dangear / daynger / dayngear
+naypalm (hand sign that says "no")
 
 baybee
 
-majestick / majesdick
+majestick (imposing staff)
 
-magestick (mage staff?)
+majesdick (stunning... rod)
+
+magestick (mage staff)
 
 majesdig (so majestic I dig it)
 
@@ -322,31 +298,21 @@ adolt (stupid adult)
 
 molden (all slimy with mold?)
 
-moldern (post-neo-modern art made of mold?)
-
-nelonazism (brand of neonazism) (© my friends)
-
-pedotor (pedo-rotor? tor-pedo the other way around? pedo-predator?)
-
-ballshit
+pedotor (pedo-predator?)
 
 blatent (obvious in latent hindsight?)
 
-someonce
+someonce (a stranger you met once)
 
 teleportal
-
-quariantine (quarian suit = mobile quarantine)
-
-tornborn (why Torbjörn is missing an arm)
 
 somethine (something yours?)
 
 mistaple (accidentally stapling something you didn't mean)
 
-commsole (communications console?)
+commsole (communications console)
 
-agreenment (very $$ profitable agreement?)
+agreenment (very $$ profitable agreement)
 
 fainth (faint faith?)
 
@@ -356,7 +322,7 @@ mourndern (mourn-worthy modern?)
 
 byield / byielding (?)
 
-sumbit
+sumbit (submit bits for processing)
 
 "protect yr ass... et"
 
@@ -372,7 +338,7 @@ seemultaneous (perceived at the same time)
 
 seemilar (seems similar at first)
 
-hungred
+hungred (hungry like a hundred)
 
 "spatial awakeness"
 
@@ -410,7 +376,7 @@ trainiac (training freak)
 
 hell-a-copter
 
-overdog
+overdog (opposite of underdog)
 
 gamoeba (typical WoW gamer)
 
@@ -420,7 +386,7 @@ passenegr (black passenger)
 
 dickflect
 
-Legionardo (when Leo plays ME3MP as geth infiltrator)
+Legionardo
 
 secrent (secret rent?)
 
@@ -428,7 +394,7 @@ seekret (a secret to find)
 
 secrekt (rekt without nobody else knowing)
 
-"hand sataniser"
+"hand satanizer" ("special" brand of sanitizer)
 
 empyre (empire being burned to the ground)
 
@@ -452,17 +418,13 @@ heeling (pretending to heal while actually legging it)
 
 greatful (greatly grateful?)
 
-severall
-
-serveral
+severall (all items on display)
 
 orkout (grunt-inducing exercise)
 
 Chooseday (very american Tuesday)
 
-Jewsday (seriously, very american Tuesday)
-
-"sooner than later"
+Jewsday (_very_ american Tuesday)
 
 romains (dead Romans)
 
@@ -522,7 +484,7 @@ guidelies (untrustworthy guidelines)
 
 exploid
 
-Bangcock (secret district of Bangkok)
+Bangcock (special district of Bangkok)
 
 paythrough (viewers paying streamer to play game)
 
@@ -548,7 +510,7 @@ fleshlight (bio-luminescence)
 
 attrack
 
-talonted
+talonted (dangerous talent)
 
 eggsistence (existing in a vegetable state?)
 
@@ -586,13 +548,13 @@ aimateur (someone with poor aim)
 
 geekstarter
 
-hypeloop
+hypeloop (feedback loop of hype)
 
 hypethetical (exists in imagination of riled-up fans)
 
 "boot force" (takes the form of a mighty kick)
 
-samewhere
+samewhere (different place, same thing)
 
 "bubble gun"
 
@@ -612,7 +574,7 @@ betcoin (for gambling)
 
 "saldo mortale" (accounting: reconciling a big account)
 
-alboom
+alboom (explosive hit)
 
 attank (highly aggressive war machine?)
 
@@ -620,7 +582,7 @@ attactor (someone _attactive_?)
 
 costmetic (very expensive makeup)
 
-bullshift
+bullshift (undesirable change of direction)
 
 sacriface
 
@@ -634,13 +596,9 @@ eyedentification (iris scanning)
 
 eyedentification (eye-to-eye confirmation)
 
-eyedentification (poking dents in eyes, probably with a laser scanner...)
-
 "trash test" (crash test that trashes the product)
 
 wounderful (something great that also hurts you)
-
-anxient
 
 octobeer (brewfest month)
 
@@ -658,9 +616,7 @@ enterprice (corporate-grade price)
 
 motherhacker
 
-cointain
-
-cointainer
+cointainer (money bag)
 
 blockchin
 
@@ -668,7 +624,7 @@ interesetting (fascinating backdrop?)
 
 sellfish (name for a seafood restaurant? fishy sellout?)
 
-redputation (bloody trail?)
+redputation (bloody trail)
 
 manotechnology (manual work?)
 
@@ -677,8 +633,8 @@ manomachine (cyborg?)
 pegasys (unicorn technology?)
 
 memotion
-  (preprogrammed emotion? preprogrammed movement?)
-  (an emotion people think they're feeling just because the media/internet/memes tell them they should)
+  * (preprogrammed emotion? preprogrammed movement?)
+  * (an emotion people think they're feeling just because the media/internet/memes tell them they should)
 
 keeptocurrency (currency that is never spent)
 
@@ -696,15 +652,13 @@ neckname
 
 pinful (causes piercing pain)
 
-pinptrick
-
 dolpin
 
-dolfin
+dolfin (dolphin fin)
 
 scannerd (someone who digitizes all their paperwork?)
 
-abount
+abount (too much about one subject)
 
 deducation
 
@@ -714,9 +668,7 @@ recomment (repeatedly leave a recommendation)
 
 grillfriend (GF that roasts you all the time)
 
-hewman
-
-assking
+hewman (tailor)
 
 "flesh memory"
 
