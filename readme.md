@@ -86,6 +86,12 @@ desease (sea sickness?)
 
 trailore (trailer giving away too much of the lore)
 
+tacticool
+
+Sinistar (a sinister star?)
+
+atmosfear (scary, unbreathable atmoshphere?)
+
 ---
 
 ### LeoJo
@@ -717,3 +723,31 @@ assking
 optimisaction (one optimisation pass)
 
 diss-cuss-ting
+
+trashold
+
+availuable (something that's available and valuable)
+
+perfromance
+
+froget (amphibian memory)
+
+soilder (gritty footman)
+
+deathsmiss (dismiss... permanently)
+
+bugdet (budget with holes)
+
+dumbination (control through propaganda)
+
+playload (a load of toys)
+
+fatmate (fat flatmate)
+
+fratmate (fraternity flatmate)
+
+expain (clarify in excruciating detail)
+
+mewment (pussyfooting)
+
+dienger (mortal danger)
