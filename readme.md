@@ -703,3 +703,13 @@ expain (clarify in excruciating detail)
 mewment (pussyfooting)
 
 dienger (mortal danger)
+
+cannonical
+
+guesshole (ruins the fun by revealing the mystery)
+
+astaroid (star fragment? brown dwarf?)
+
+adrainaline (overdrive that drains you)
+
+eldrich (rich, sinister elder)
