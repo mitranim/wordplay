@@ -713,3 +713,5 @@ astaroid (star fragment? brown dwarf?)
 adrainaline (overdrive that drains you)
 
 eldrich (rich, sinister elder)
+
+mailware (arrives by mail)
