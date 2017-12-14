@@ -92,6 +92,11 @@ Sinistar (a sinister star?)
 
 atmosfear (scary, unbreathable atmoshphere?)
 
+wormth (abundance of worms?)
+
+varlord (the lord of variables?)
+
+
 ---
 
 ### LeoJo
@@ -106,7 +111,10 @@ guessthetics (the art of guessing)
 
 sucksessfool (fool who stumbled its way to success)
 
-"untelligence" (opposite of intelligence)
+untelligence (opposite of intelligence)
+
+tearemony (tea ceremony? mourning ceremony?)
+
 
 ---
 
@@ -715,3 +723,13 @@ adrainaline (overdrive that drains you)
 eldrich (rich, sinister elder)
 
 mailware (arrives by mail)
+
+con-fu (art of deception) (fake martial mastery)
+
+bullproof (impervious to nonsense)
+
+murkup (dirty markup)
+
+starecase (insurmountable obstacle you can only stare at) (glass display case)
+
+suspact
