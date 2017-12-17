@@ -96,6 +96,8 @@ wormth (abundance of worms?)
 
 varlord (the lord of variables?)
 
+mugnate (a magnate who mugs people, or a very rich mugger)
+
 
 ---
 
@@ -728,8 +730,18 @@ con-fu (art of deception) (fake martial mastery)
 
 bullproof (impervious to nonsense)
 
-murkup (dirty markup)
+murkup (dirty markup) (dirty makeup) (warpaint)
 
 starecase (insurmountable obstacle you can only stare at) (glass display case)
 
 suspact
+
+cerebrus (brainy guard dog)
+
+windter (extreme winter)
+
+happyning (fortunate happenstance)
+
+cerebration (party for intellectual accomplishment)
+
+beautifoul (attractive and repulsive at once)
