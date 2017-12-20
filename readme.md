@@ -92,11 +92,15 @@ Sinistar (a sinister star?)
 
 atmosfear (scary, unbreathable atmoshphere?)
 
+cleptocurrency (currency that is always trying to rip you off)
+
 wormth (abundance of worms?)
 
 varlord (the lord of variables?)
 
 mugnate (a magnate who mugs people, or a very rich mugger)
+
+bewares (wares that you need to be beware of for whatever reason)
 
 
 ---
@@ -745,3 +749,5 @@ happyning (fortunate happenstance)
 cerebration (party for intellectual accomplishment)
 
 beautifoul (attractive and repulsive at once)
+
+ancestore (sells old trinkets)
