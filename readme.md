@@ -102,6 +102,11 @@ mugnate (a magnate who mugs people, or a very rich mugger)
 
 bewares (wares that you need to be beware of for whatever reason)
 
+competentors (competent competitors?)
+
+mediocore (mediocre core)
+
+phoneto (a photo made by a phone)
 
 ---
 
@@ -121,6 +126,7 @@ untelligence (opposite of intelligence)
 
 tearemony (tea ceremony? mourning ceremony?)
 
+remembeer (remembering small scraps after a hangover)
 
 ---
 
@@ -166,7 +172,7 @@ failgun (unimpressive railgun)
 
 "30-megahurt cannon"
 
-megahurtz (pain per unit of time)
+megahurtz (unit of pain)
 
 explosure (too much attention)
 
@@ -442,7 +448,7 @@ Jewsday (_very_ american Tuesday)
 
 romains (dead Romans)
 
-arrrchitecture (riggin' a ship like a proper pirate vessel)
+arrrchitecture (riggin' a proper pirate vessel)
 
 awwrchitecture (cute building or structure)
 
@@ -508,8 +514,6 @@ sicks (unlucky six)
 
 pinspiration (when you pin down something to be inspired by)
 
-spoopy (too spooky to hold your poop)
-
 assthetics (booty beauty)
 
 sucksessful (popular garbage)
@@ -566,7 +570,7 @@ hypeloop (feedback loop of hype)
 
 hypethetical (exists in imagination of riled-up fans)
 
-"boot force" (takes the form of a mighty kick)
+"boot force" (a mighty kick)
 
 samewhere (different place, same thing)
 
@@ -579,10 +583,6 @@ notwork (dysfunctional network)
 authomatic
 
 aloneside (imaginary companion?)
-
-accpunt (puny account)
-
-ampunt (puny amount)
 
 betcoin (for gambling)
 
@@ -606,9 +606,7 @@ cryptone (cryptic intonation)
 
 ooperation (operation resulting in an oopsie)
 
-eyedentification (iris scanning)
-
-eyedentification (eye-to-eye confirmation)
+eyedentification (iris scanning, or eye-to-eye confirmation)
 
 "trash test" (crash test that trashes the product)
 
@@ -624,7 +622,7 @@ responce (pretentious reply?)
 
 Sibearia (land of bears)
 
-mementum (cultural inertia?)
+mementum (cultural inertia)
 
 enterprice (corporate-grade price)
 
@@ -751,3 +749,95 @@ cerebration (party for intellectual accomplishment)
 beautifoul (attractive and repulsive at once)
 
 ancestore (sells old trinkets)
+
+shockolate (shockingly delicious)
+
+"pausitive thinking" (taking a pause to make good decisions)
+
+missteak (not having steak for a dinner)
+
+waisted (opposite of starved)
+
+plateform
+
+expertease (false confidence from brief experience) (paywalled professional advice)
+
+confidense (mistaken belief in own expertise)
+
+windsday (windy winter Wednesday)
+
+axxident
+
+pythong (an embrace too tight)
+
+outsquirts
+
+gamepay (pay to experience)
+
+payground (pay to play)
+
+noledge (higher education: you forget everything and don't get an edge in life)
+
+surpassion (the drive to prevail)
+
+fryday (grill party)
+
+stupig (snorting dumb)
+
+blest (blessed best)
+
+iconomy (worship economy? being economical with icons in GUI?)
+
+crowfunding (a murder of backers)
+
+impracticool
+
+bullieve (faith against all evidence)
+
+boyfiend (nasty fiance)
+
+apparrotly (according to rumor)
+
+amountain (huge amount)
+
+wrecktify (repair badly)
+
+filther (dirty filter that makes it worse)
+
+momental (a lapse of sentience)
+
+scammoner (has accomplices)
+
+maturial (robust, proven material)
+
+assassment (talk it down to get a better price)
+
+bagpack (recursive, infinite storage)
+
+forestress (forest forstress)
+
+worstress (fortress with bad memories)
+
+techtonic (causes seismic shift in technology)
+
+worrier (should pick a less stressful occupation)
+
+makerting (marketing though real action)
+
+godlines (irrefutable guidelines)
+
+worshop (ritual gathering)
+
+warshop (warmongering gathering)
+
+countract (has precise reckoning)
+
+indecaytion (eternal omen)
+
+endearsment (hearty endorsement)
+
+endorcement (cements someone's opinion)
+
+endoorsment (so good, you have to get out and get it)
+
+addickted
