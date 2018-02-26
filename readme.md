@@ -682,7 +682,7 @@ grillfriend (GF that roasts you all the time)
 
 hewman (tailor)
 
-"flesh memory"
+"flesh memory" (brain)
 
 optimisaction (one optimisation pass)
 
@@ -754,7 +754,7 @@ shockolate (shockingly delicious)
 
 "pausitive thinking" (taking a pause to make good decisions)
 
-missteak (not having steak for a dinner)
+missteak (not having steak for dinner)
 
 waisted (opposite of starved)
 
@@ -776,7 +776,7 @@ gamepay (pay to experience)
 
 payground (pay to play)
 
-noledge (higher education: you forget everything and don't get an edge in life)
+noledge (higher education: you forget everything and don't get a stepping stone in life)
 
 surpassion (the drive to prevail)
 
@@ -840,4 +840,8 @@ endorcement (cements someone's opinion)
 
 endoorsment (so good, you have to get out and get it)
 
-addickted
+addickted (nymphomaniac)
+
+contrapt
+
+Munday (mundane weekday)
