@@ -842,6 +842,8 @@ endoorsment (so good, you have to get out and get it)
 
 addickted (nymphomaniac)
 
-contrapt
+contrapt (has a catchy clause)
 
 Munday (mundane weekday)
+
+satyre
