@@ -108,6 +108,20 @@ mediocore (mediocre core)
 
 phoneto (a photo made by a phone)
 
+meating (meeting of friends where you eat a lot of meat) (BBQ with friends)
+
+derpartment (an extremely incompetent department)
+
+reapeat (reap someone again)
+
+statisfied (satisfied statistically or by statistics)
+
+enterpretation (submitting your own view)
+
+outroduce (tell your friends not to deal with the person anymore, 'cause they a bitch)
+
+stereotypographical (when you can always expect anything related to printing text to fuck up decent standards and data presentation)
+
 ---
 
 ### LeoJo
@@ -128,11 +142,19 @@ tearemony (tea ceremony? mourning ceremony?)
 
 remembeer (remembering small scraps after a hangover)
 
+shituation (self explanatory)
+
 ---
 
 ### Yury
 
 unbelievabull (too incredulous to believe)
+
+---
+
+### TrueNight
+
+boolshit (ugly and useless program or extension)
 
 ---
 
@@ -286,7 +308,7 @@ denemies / demonies (is what you fight in Doom)
 
 gloatee (goatee of gloating goat?)
 
-screwnshot (screenshot of being screwed)
+screwnshot (compromising screenshot)
 
 scamvert (shifty advert)
 
@@ -308,7 +330,7 @@ baybee
 
 majestick (imposing staff)
 
-majesdick (stunning... rod)
+majesdick (...stunning rod)
 
 magestick (mage staff)
 
@@ -336,11 +358,11 @@ agreenment (very $$ profitable agreement)
 
 fainth (faint faith?)
 
-drakon (transforming from drake to dragon?)
+drakon (midway between drake and dragon)
 
 mourndern (mourn-worthy modern?)
 
-byield / byielding (?)
+byield / byielding (building and giving away)
 
 sumbit (submit bits for processing)
 
@@ -378,7 +400,7 @@ fakening
 
 exquise (exquisite excuse)
 
-exqueeze (ex-gf?)
+exqueeze (ex-fiancee)
 
 greate (create something great)
 
@@ -842,8 +864,26 @@ endoorsment (so good, you have to get out and get it)
 
 addickted (nymphomaniac)
 
-contrapt (has a catchy clause)
+contrapt (has a _catchy_ clause)
 
 Munday (mundane weekday)
 
 satyre
+
+softmare (horrifying software)
+
+heretick
+
+remaindeer (partial deer carcass)
+
+assessination (deadly audit)
+
+robuttal
+
+destoryer (erases from history)
+
+singal (beckoning song of a lonely gal)
+
+asstearisk
+
+architexture
