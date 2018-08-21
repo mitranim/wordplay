@@ -122,6 +122,10 @@ outroduce (tell your friends not to deal with the person anymore, 'cause they a 
 
 stereotypographical (when you can always expect anything related to printing text to fuck up decent standards and data presentation)
 
+aimplitude (amplitude of aim? ample aim?)
+
+monsturizer (moisturizer for/by monsters)
+
 ---
 
 ### LeoJo
