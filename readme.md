@@ -40,7 +40,7 @@ envylope (when you are given a red envelope with a lot more money than your frie
 
 cantdy (candy you aren't allowed to eat)
 
-vengetable (vengeful vegetable) (a table of vegetables you have to eat for being a bad kid)
+vengetable (vengeful vegetable; a table of vegetables you have to eat for being a bad kid)
 
 teamfork (when you agree with your team to split up and flank the enemy)
 
@@ -108,7 +108,7 @@ mediocore (mediocre core)
 
 phoneto (a photo made by a phone)
 
-meating (meeting of friends where you eat a lot of meat) (BBQ with friends)
+meating (meeting of friends where you eat a lot of meat; BBQ with friends)
 
 derpartment (an extremely incompetent department)
 
@@ -162,7 +162,7 @@ truemor (rumor that's true)
 
 "attention spam"
 
-sunprise (surprising sunrise) (out in the heat without solar protection)
+sunprise (surprising sunrise; out in the heat without solar protection)
 
 guilelines (untrustworthy guidelines)
 
@@ -178,9 +178,9 @@ remembeer (remembering small scraps after a hangover)
 
 shituation (self explanatory)
 
-bumfire (that kind of trashcan bonfire that bums have) (spontaneous gas combustion?)
+bumfire (that kind of trashcan bonfire that bums have; spontaneous gas combustion?)
 
-idiotology (idiotic ideology) (study of idiots)
+idiotology (idiotic ideology; study of idiots)
 
 reapercushions
 
@@ -392,7 +392,7 @@ bitchcoin (fake currency)
 
 defit (extinction of the unfittest)
 
-madvisor (terribly unwise aide) (visor that shows maddening things)
+madvisor (terribly unwise aide; visor that shows maddening things)
 
 scourage (unwelcome courage?)
 
@@ -400,7 +400,7 @@ scourage (unwelcome courage?)
 
 "son of a bee"
 
-"mind mine / mine mind" ("mind mine" or "mine mind" -> my mind) ("mind mine" where mine = weapon -> mine for the mind, or of a mind) ("mind mine" where mine = lode -> abundance of minds) ("mine mind" where mine = dig, delve -> delve into mind)
+"mind mine / mine mind" ("mind mine" or "mine mind" -> my mind; "mind mine" where mine = weapon -> mine for the mind, or of a mind; "mind mine" where mine = lode -> abundance of minds; "mine mind" where mine = dig, delve -> delve into mind)
 
 beehave
 
@@ -718,7 +718,7 @@ paythrough (viewers paying streamer to play game)
 
 sicks (unlucky six)
 
-"nice to meat you" (after gibbing someone with a rocket)
+"nice to meat you" (carnivore to victim; alternatively, spoken after gibbing someone with a rocket)
 
 pinspiration (when you pin down something to be inspired by)
 
@@ -852,7 +852,7 @@ manomachine (cyborg?)
 
 pegasys (unicorn technology?)
 
-memotion (preprogrammed emotion? preprogrammed movement?) (an emotion people think they're feeling just because the media/internet/memes tell them they should)
+memotion (preprogrammed emotion? preprogrammed movement?; an emotion people think they're feeling just because the media/internet/memes tell them they should)
 
 keeptocurrency (currency that is never spent)
 
@@ -934,13 +934,13 @@ eldrich (rich, sinister elder)
 
 mailware (arrives by mail)
 
-con-fu (art of deception) (fake martial mastery)
+con-fu (art of deception; fake martial mastery)
 
 bullproof (impervious to nonsense)
 
-murkup (dirty markup) (dirty makeup) (warpaint)
+murkup (dirty markup; dirty makeup; warpaint)
 
-starecase (insurmountable obstacle you can only stare at) (glass display case)
+starecase (insurmountable obstacle you can only stare at; glass display case)
 
 suspact
 
@@ -966,7 +966,7 @@ waisted (opposite of starved)
 
 plateform
 
-expertease (false confidence from brief experience) (paywalled professional advice)
+expertease (false confidence from brief experience; paywalled professional advice)
 
 confidense (mistaken belief in own expertise)
 
@@ -1106,7 +1106,7 @@ prayparation
 
 newclear (wipes the landscape clean)
 
-exqueeze-it (exquisite)
+exqueeze-it ([exquisite])
 
 complan (decide to complain later)
 
@@ -1118,7 +1118,7 @@ Marsedes (Ares' war chariot)
 
 lowyer
 
-homesexual
+homesexual (likes comfort)
 
 overoll (all-round)
 
@@ -1160,7 +1160,7 @@ corract (actually correct)
 
 messive (big and unkempt)
 
-infamation (spreading infamy)
+infamation (defaming info)
 
 memengful (memorable)
 
@@ -1180,9 +1180,9 @@ lockchain (link chain made of carabiners? padlocks?)
 
 attension (tense focus)
 
-deeploy (covert drop behind enemy lines?)
+deeploy (covert drop behind enemy lines; layered deception)
 
-darkument (morbid argument?)
+darkument (morbid document)
 
 platforum
 
@@ -1204,7 +1204,7 @@ bitchumen
 
 whizzard
 
-breakpaint (painful breakpoint?)
+breakpaint (painted-on threshold; painful threshold)
 
 housand
 
@@ -1224,7 +1224,7 @@ overwheelm (rollstomp)
 
 reapair
 
-vampyre (burning vampires)
+vampyre (vampire killed with fire)
 
 cloose (loosely shut)
 
@@ -1256,7 +1256,7 @@ eyebrowse (directs your gaze)
 
 flushtuate
 
-realipstick (not overdoing it)
+realipstick (not overdoing the cosmetics)
 
 emergenation (creative fantasies)
 
@@ -1290,9 +1290,9 @@ wreckognize
 
 disguard ([discard])
 
-seize-on (season to act on the opportunity)
+seize-on (season to act on the opportunities)
 
-pessibility (expecting the worst)
+pessibility (worst expectation)
 
 perillel (an accompanying peril)
 
@@ -1310,7 +1310,7 @@ deathstroy (lethal overkill)
 
 keyboar
 
-daemonstration (insidious show)
+daemonstration (demonic show, turns viewers into monsters?)
 
 attaintion (grab attention and keep it)
 
@@ -1390,7 +1390,7 @@ enemation (hostile movement)
 
 porking (parking like a swine)
 
-prophessional (expert who's good at predictions)
+prophessional (expert good at predictions)
 
 valueball (expensive sphere)
 
@@ -1408,7 +1408,7 @@ sicksessful
 
 sucksexsful (lewd way to the top)
 
-illeggal (her legs are too good, should be outlawed)
+illeggal (gal's legs too good, should be outlawed)
 
 dencity (population clustering)
 
@@ -1434,7 +1434,7 @@ miningful (dig for deep meaning)
 
 broblem
 
-reeltime (too fast to be stable?)
+reeltime (too fast for stability)
 
 aimgle (good shooting angle)
 
@@ -1446,7 +1446,7 @@ commplex (convoluted communications)
 
 innclude
 
-costomer (customer that's too expensive to serve)
+costomer (customer too expensive to serve)
 
 transfur (pelt transportation)
 
@@ -1456,7 +1456,7 @@ improoment (making more space)
 
 cementics (semantics set in stone)
 
-stradegy (trade tactics)
+stradegy (trade tactics; tragic choice of tactics)
 
 settlite (colonial satellite)
 
@@ -1526,7 +1526,7 @@ eyecon (painting that stares right back at you)
 
 ducktape
 
-wreckommend (devastatingly good advice?)
+wreckommend (devastatingly bad advice)
 
 fucktion (dickish faction)
 
@@ -1534,7 +1534,7 @@ suckceptible (gullible)
 
 sassinate (take down by talking down)
 
-golleague (fellow gopher: Golang programmers)
+golleague (fellow gopher: Golang programmer)
 
 playcate (playfully appease)
 
@@ -1548,7 +1548,7 @@ screwtinize
 
 endependent (forever self-sufficient)
 
-whichcraft (unrecognizable sorcery?)
+whichcraft (unrecognizable sorcery)
 
 ooptimal
 
@@ -1570,7 +1570,7 @@ sharpnel
 
 paln (plan with pals)
 
-ceasonal (ceases from time to time?)
+ceasonal (ceases from time to time)
 
 predickt
 
@@ -1584,13 +1584,13 @@ worc (grunt work)
 
 suckspect (misplaced suspicion?)
 
-sasspect (openly deride due to suspicion?)
+sasspect (openly deride on suspicion)
 
 maintaint
 
 puriod (time of purification)
 
-assass (derisive evaluation?)
+assass (evaluate derisively)
 
 jawb (jaw-intensive job? involves a lot of talking?)
 
@@ -1614,9 +1614,9 @@ explan (figure out a plan while explaining it)
 
 q-rated ("q" for "quality")
 
-leprository (depository of rotten things)
+leprository (repository of rotten things)
 
-lepository (depository of pleasant things; only a Russian would understand)
+lepository (repository of pleasant things; only a Russian would understand)
 
 mediarite
 
@@ -1626,11 +1626,11 @@ pantspermia
 
 punspermia
 
-"nice to eat you" (cannibal to victim)
+"nice to eat you" (carnivore to victim; also see "nice to meat you")
 
 hybreed (cross-breed)
 
-pervmission (lewd consent?)
+pervmission (lewd consent)
 
 payge (pay-gated article)
 
@@ -1764,13 +1764,13 @@ poption (potion that pops)
 
 readuntant
 
-redonedont (shouldn't have repeated it)
+redonedont (shouldn't have been repeated)
 
-graydient
+graydient (between black and white)
 
 sistern
 
-eekcetera (the rest is icky)
+eekcetera (icky remainder)
 
 mainkind (dominant race)
 
@@ -1830,7 +1830,7 @@ ornametal (metal decorations? intricate engravings on metal?)
 
 bugteria
 
-skullpture (WH40k Imperial tradition)
+skullpture (WH40k Imperial art style)
 
 dienamic (suicidally quick?)
 
@@ -2090,7 +2090,7 @@ piratechnic
 
 medness (drug-induced insanity)
 
-beatiful (looks good after beating)
+beatiful (looks good after beating; mug is asking for a fist)
 
 anythink
 
