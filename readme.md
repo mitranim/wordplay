@@ -158,6 +158,8 @@ beartrayal (betrayal by a bear)
 
 truemor (rumor that's true)
 
+expirementation (experimenting with whether expired food will poison you or not; experiments that cause the subject to "expire")
+
 # LeoJo
 
 "attention spam"
@@ -201,6 +203,10 @@ frostilities (Cold war interaction)
 democrazy
 
 sardondick ([sardonic])
+
+highlarious
+
+censorshit
 
 # Yury
 
@@ -400,7 +406,7 @@ scourage (unwelcome courage?)
 
 "son of a bee"
 
-"mind mine / mine mind" ("mind mine" or "mine mind" -> my mind; "mind mine" where mine = weapon -> mine for the mind, or of a mind; "mind mine" where mine = lode -> abundance of minds; "mine mind" where mine = dig, delve -> delve into mind)
+"mind mine / mine mind" ("mind mine" or "mine mind" → my mind; "mind mine" where mine = weapon → mine for the mind, or of a mind; "mind mine" where mine = lode → abundance of minds; "mine mind" where mine = dig, delve → delve into mind)
 
 beehave
 
@@ -968,7 +974,7 @@ plateform
 
 expertease (false confidence from brief experience; paywalled professional advice)
 
-confidense (mistaken belief in own expertise)
+confidense (confidence born from ignorance)
 
 windsday (windy winter Wednesday)
 
@@ -2108,7 +2114,7 @@ deependency (ingrained dependence)
 
 hellevator
 
-asswards
+asswards (ass-backwards)
 
 bedass (impressive in bed)
 
@@ -2144,7 +2150,7 @@ assimulation
 
 reprojuice
 
-laydy
+laydy (easily laid)
 
 feeld
 
@@ -2153,3 +2159,55 @@ baground
 elemontary
 
 untensity (degree of relaxation)
+
+knowtice (spot something you already knew about)
+
+captin
+
+bearzerker
+
+wretchribution
+
+gangerous (dangerous in gangs, like small animals)
+
+condishion
+
+racearch (eugenics)
+
+crossmetic
+
+catalock
+
+iceburg (city built on/of ice)
+
+dogu (tooldog / 道具犬; see https://en.wikipedia.org/wiki/Dogu)
+
+maytenance
+
+claptomania
+
+jewplicate
+
+stronghole (underground fortress)
+
+angressive
+
+sentree
+
+walkaround (circumnavigate the problem)
+
+notefication
+
+purrformance
+
+enteresting
+
+nayway (regardless and irrespective)
+
+pickture
+
+feeture
+
+stupersonic
+
+duplicat (cat reproduction)
