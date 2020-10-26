@@ -1,0 +1,16 @@
+{{template "html_top.html"}}
+
+<title>wordplay</title>
+<body></body>
+
+{{$root := .}}
+
+{{if .Version}}<div>Version {{.Version}}</div>{{end}}
+
+{{range $author := .Grouped.Keys}}
+<h1>{{$author}}</h1>
+
+{{range $entry := (index $root.Grouped.Map $author)}}
+<div>{{formatEntryPhrase $entry}} {{formatEntryMeanings $entry}}</div>
+{{end}}
+{{end}}
