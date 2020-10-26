@@ -6,13 +6,13 @@ freedge (with free food)
 
 breaktrue (a breakthrough that, unlike all the battery ones, is true)
 
-enterfear ([interfere])
+enterfear (interfere)
 
-conquery ([conquest])
+conquery (conquest)
 
 apollogy (Apollo apologizing?)
 
-foresick ([forsake])
+foresick (forsake)
 
 knightmare
 
@@ -104,7 +104,7 @@ bewares (wares that you need to be beware of for whatever reason)
 
 competentors (competent competitors?)
 
-mediocore (mediocre core)
+mediocore (mediocre core?)
 
 phoneto (a photo made by a phone)
 
@@ -148,7 +148,7 @@ memewhile
 
 forklore (when someone forks the existing lore with an alternative timeline or smth?)
 
-bearocracy (bureacracy of bears? bureaucracy that has to be beared?)
+bearocracy (bureacracy of bears? bureaucracy that has to be beared? overbearing bureaucracy?)
 
 corpirate (corporate but pirate)
 
@@ -159,6 +159,8 @@ beartrayal (betrayal by a bear)
 truemor (rumor that's true)
 
 expirementation (experimenting with whether expired food will poison you or not; experiments that cause the subject to "expire")
+
+jobsworth (an official who upholds petty rules even at the expense of humanity or common sense)
 
 # LeoJo
 
@@ -214,7 +216,7 @@ unbelievabull (too incredulous to believe)
 
 fueld
 
-surwaves ([surveys])
+surwaves (surveys)
 
 properites
 
@@ -240,7 +242,7 @@ topick (choice topic)
 
 deposite
 
-redirector
+redirector (director that offloads all the work?)
 
 itermediate
 
@@ -374,7 +376,7 @@ thunderdog (underdog's loud comeback)
 
 beeware (bee extra careful)
 
-bonefactor
+bonefactor (seemingly beneficial but secretly bones you?)
 
 bonefire (necromancer's bonfire)
 
@@ -892,6 +894,10 @@ recomment (repeatedly leave a recommendation)
 
 grillfriend (GF that roasts you all the time)
 
+boyfiend (nasty fiance)
+
+girlfiend (nasty fiance)
+
 hewman (tailor)
 
 "flesh memory" (brain)
@@ -1006,8 +1012,6 @@ impracticool
 
 bullieve (faith against all evidence)
 
-boyfiend (nasty fiance)
-
 apparrotly (according to rumor)
 
 amountain (huge amount)
@@ -1050,7 +1054,7 @@ endearsment (hearty endorsement)
 
 endorcement (cements someone's opinion)
 
-endoorsment (so good, you have to get out and get it)
+endoorsment (so good, you have to go outdoors and get it)
 
 addickted (nymphomaniac)
 
@@ -1133,6 +1137,8 @@ robosst (tough as a boss)
 enteraction (first encounter)
 
 blightning (lightning that corrupts?)
+
+undefiend
 
 broadcats
 
@@ -1230,7 +1236,7 @@ overwheelm (rollstomp)
 
 reapair
 
-vampyre (vampire killed with fire)
+vampyre (vampire burned to death)
 
 cloose (loosely shut)
 
@@ -1294,7 +1300,7 @@ costumer (buys clothes)
 
 wreckognize
 
-disguard ([discard])
+disguard (discard)
 
 seize-on (season to act on the opportunities)
 
@@ -1342,7 +1348,7 @@ reaplay
 
 wherehouse (lost store)
 
-"deathination / deathtination" (final destination of all life)
+deathtination (final destination of all life)
 
 imposture (imposing stature? mimicking figure?)
 
@@ -1386,11 +1392,15 @@ physit (visit in person)
 
 murderator (ban-happy moderator)
 
+joyn
+
 engauge (get involved, with careful examination)
 
 mashrooms
 
 my'shrooms
+
+annonsense
 
 enemation (hostile movement)
 
@@ -1457,6 +1467,8 @@ costomer (customer too expensive to serve)
 transfur (pelt transportation)
 
 bookva
+
+langauge
 
 improoment (making more space)
 
@@ -1656,6 +1668,8 @@ cursemas
 
 fucktor (show-stopping factor)
 
+refucktoring
+
 inventgory (carrying body parts?)
 
 coverment (secretive government)
@@ -1760,7 +1774,7 @@ dieversity
 
 raydiation
 
-pissful ([peaceful])
+pissful (peaceful)
 
 monstrocity (monstrous settlement)
 
@@ -1803,6 +1817,8 @@ suspent
 substainable
 
 "marry cristmas"
+
+egosystem (revolves around one)
 
 shotcoming
 
@@ -1974,8 +1990,6 @@ richual (expensive custom)
 
 diegnostic (fatal verdict)
 
-egosystem (around one man)
-
 tealicious
 
 dealicious
@@ -1992,7 +2006,9 @@ infiltraitor
 
 windoors
 
-dipslay (murder for show)
+dipslay (murder for show;)
+
+deepslay
 
 stayble
 
@@ -2211,3 +2227,5 @@ feeture
 stupersonic
 
 duplicat (cat reproduction)
+
+onederful
