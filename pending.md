@@ -453,7 +453,7 @@ truejectory
 trigged
 sindicate
 wholographic
-hvostage (tails you on a rescue mission)
+hvostage (tails you on a rescue mission) [ru]
 correctify (rectify a (false) correction) © LJ
 septomber
 discour © Yury
@@ -683,3 +683,133 @@ condirtional
 behide (hiding behind)
 convenant (convening under a covenant)
 developears (developers who listen) © LR
+peeriod (peer approval interval)
+workflog
+unawear
+addictionary
+cointinue
+benefist
+snapshort
+ingreedients
+headear
+fullder (packed folder) © Yury
+unambuguous
+sickquence
+sicquence
+sayquence
+deplowment
+foodder
+adornsenal
+envoyce
+reazoneable
+themplate © Yury
+lookrative © LR
+anymy (any enemy; enemy of anyone?) © LR
+entertainman © LR
+entertaintment (fun that tarnishes)
+betroy
+conveynient
+conwaynient
+turnsaction © Yury
+disctinct
+addictional
+syncretin (from https://en.wikipedia.org/wiki/Syncretism and cretin) © LR
+sermony
+moneypulate
+maniapulate © LR
+manipullate © LR
+skovolodka © LR [ru]
+overlayping
+wayke
+innerface (inner side of interface)
+boostrapping
+soulitude
+incorrekt (being so wrong that one gets destroyed) © LJ
+enterpreter
+keybird © Yury
+incload
+inclewd
+comman
+koñman © Yury
+probeability
+whitespice © Yury
+lieteral © Yury
+mealk
+costomization © Yury
+twomorrow © Yury
+airror © Yury
+arrowr © Yury
+dicklaration (requires a cunter-argument) © Yury
+add-apt
+cullindar (schedule for slaughter)
+appinion
+purrsonal
+incompetitor (incompetent competitor) © LJ
+"mental oselum" (donkey) © LJ [ru]
+ego-chamber (derived from Echo Chamber, but instead of the group, it’s a single person) © LJ
+chortage (annoying shortage) © LR [ru]
+grabitate
+shyning (glowing blushing) © Yury
+deepbugging
+pussyfist
+tellink © Yury
+reallyable (really reliable able ally) © LR
+deathsappointing © LR
+compuller © Yury
+strasheklassnik © LR [ru]
+purrpose
+purrpaws © LR
+mulltiple
+headerr
+dickumentation
+blackup (shadow backup) © Yury
+scathold
+underrestimate
+readirect
+chesst
+mosstly
+varioty
+blurprint
+commponent
+concockt
+edditional © Yury
+shotsighted
+"sleepery slope"
+endicator
+wreckquiem
+wreck'we'ems
+calledge
+unmatchural
+storytolling
+suckrifice
+unrevel
+precedure
+spich
+persuasian (persuasive Asian; Asian persuasion techniques) © LR
+morbile
+roboost © Yury
+anywon © Yury
+fitture
+obstickle © Yury
+talken (communication token)
+sellebrate
+mellowdramatic
+e-legal (cybercrime) © LJ
+extream
+extrim
+sintax
+"dark mord" [ru]
+foolder
+suredcut (reliable shortcut)
+chortcut [ru] © LR
+cheear
+menually © Yury
+pistool
+compyre
+alphabeat
+paysically © LR
+coolumn
+zhulnalist © LJ [ru]
+zhirnalist [ru]
+turnament
+antidope
