@@ -358,7 +358,7 @@ legth (leg length)
 nowledge
 attech
 wallt
-glassified
+glassified © LR
 biship
 avialable
 availabel (shows that you can avail yourself of this)
@@ -730,7 +730,7 @@ keybird © Yury
 incload
 inclewd
 comman
-koñman © Yury
+koñman © Yury [🐴]
 probeability
 whitespice © Yury
 lieteral © Yury
@@ -813,3 +813,66 @@ zhulnalist © LJ [ru]
 zhirnalist [ru]
 turnament
 antidope
+horseshoo
+moistly
+beeriod © Yury
+orcitecture (bashed together by grunts)
+diggits © Yury
+digsappear
+staintment
+randering
+"missing around"
+abillity
+incraze © LR
+metallion
+estublish
+heavycopter
+pretension
+dentacles
+developists © LR
+developmen © LR
+developwoment
+gangsmen
+worsheep © LR
+warsheep © LR
+teethering
+artbitrary
+arbeatrary
+arbeertrary © Yury
+artbeertrary © Yury
+beetween
+shellter
+haltkey
+decumentation
+hellarious
+arghive
+whyper
+coresponds
+failevator
+partnershit (c) LR
+tonnel
+offten
+potatoe
+vendoor
+confersion © Yury
+messtake
+dogmestication © LJ
+corporat (someone who bootlicks or defends corporations/consumerism) © LJ
+koñtroll © Yury [🐴]
+purperty
+individial
+incurbator
+pendemic
+ingreedyents
+indoctorinated
+sentinet
+mathtery
+berrier
+cockrockch
+fulfilth
+flawrish
+debilopers
+debillitating
+derpty
+ambiguilty (when someone‘s guilt is in question) © LJ
+aboondance
