@@ -485,6 +485,7 @@ someboy © Yury
 opteamum
 pessemitstick
 sadisfying
+sadisfaction
 sadistick
 fartress
 upgreeding © Kaeyz
@@ -503,13 +504,12 @@ enducation
 edickation © LR
 loreplay
 culltivate © LR
-patrolls
+patroll
 medievil
 resque
 junktion © LR
 megazine
 elichiable
-patroll
 murmurder
 aveilable
 assiom (axiom related to ass — e.g. "ass always exists") © LR
@@ -872,7 +872,55 @@ cockrockch
 fulfilth
 flawrish
 debilopers
+debuilder
 debillitating
 derpty
 ambiguilty (when someone‘s guilt is in question) © LJ
 aboondance
+discribe (etch on a disc?)
+currection (up-to-date now)
+tentth (⛺️) © Daniyar
+artchitect (artistic architect) © LJ
+treeck
+infactious
+unfuckenate
+indentional
+intertainment (maybe entertainment on the internet? or between multiple people or across the world?) © LJ
+lancecape
+comfyrmation
+attenttion
+eyetem (👁)
+diffold
+fatch
+inwastement (wasted investment, courtesy of seeing new university buildings from my bus) © LR
+uninhabitant (theoretical, non-existent inhabitant, for prospective colonization or uninhabited regions) © LJ
+orcanization (👹)
+arcanization
+plastick
+superseed © deathaxe
+allegendary © LR
+popularea © LR
+capitoll
+"bull request"
+minisculature
+muskullature
+muskullar
+rogod (god out of machine) © LJ
+debrisfing (debriefing: filling heads with flotsam; convening to organise reconstruction efforts of some kind) © LJ
+kotscene (footage of 🐈) © LJ
+catscene (footage of 🐈) © LJ
+satisfucktion © LJ
+converstation
+trashbloid (essentially an example of Gutter Press) © LJ
+tarbloid (covers people in dirt, blackens their reputation)
+afraidn't © LJ
+digitall (only digits/digital; standing on all digits to be taller) © LR
+deeplomat © LR
+govnoverment [ru]
+koñscript (someone who got drafted into cavalry/with their horse) © LR
+koñvoy (horse caravan) © LR
+agreedy
+breadnought © LR
+brednought © LR
+deliverium
+delivrium
