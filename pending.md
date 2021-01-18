@@ -746,7 +746,7 @@ appinion
 purrsonal
 incompetitor (incompetent competitor) © LJ
 "mental oselum" (donkey) © LJ [ru]
-ego-chamber (derived from Echo Chamber, but instead of the group, it’s a single person) © LJ
+egochamber (echochamber for lonely people who keep only their own counsel) © LJ
 chortage (annoying shortage) © LR [ru]
 grabitate
 shyning (glowing blushing) © Yury
@@ -924,3 +924,28 @@ breadnought © LR
 brednought © LR
 deliverium
 delivrium
+newsful (new and useful) © LR
+montenance (performed by Pokemon Day Care)
+painding
+"waisting food" (eating so much your waist grows) © LR
+somethink © Yury
+slong [🐘]
+expectremaintation © LR
+excrementation
+callculate
+heretech
+lechture
+lechtor
+deathspatch
+hair-ethical
+breallyant
+boredroom © LR
+lancescape
+lenscape
+treachers
+irunically
+recrewt (recruit for crew) © LR
+gunfar (far gunfire) © LR
+diesease (lethal disease) © LJ
+dieceased (tautological death; lethal game of dice) © LJ
+squarical (like spherical but for... a square) © LJ
