@@ -917,8 +917,8 @@ afraidn't © LJ
 digitall (only digits/digital; standing on all digits to be taller) © LR
 deeplomat © LR
 govnoverment [ru]
-koñscript (someone who got drafted into cavalry/with their horse) © LR
-koñvoy (horse caravan) © LR
+koñscript (someone who got drafted into cavalry/with their horse) © LR [🐴]
+koñvoy (horse caravan) © LR [🐴]
 agreedy
 breadnought © LR
 brednought © LR
@@ -949,3 +949,13 @@ gunfar (far gunfire) © LR
 diesease (lethal disease) © LJ
 dieceased (tautological death; lethal game of dice) © LJ
 squarical (like spherical but for... a square) © LJ
+degrease
+seatizen
+explord © LR
+choret (a chort that's being a chore; a chore only worth being performed by a chort) © LJ
+koñstruct (Trojan horse) © LJ [🐴]
+pirage (being angry at being the victim of piracy; alternatively a contracted form of the historical "Age of Piracy") © LJ
+editional © Yury
+arghument © LR
+expectremaintation © LR
+entertaisting (entertaining and tasty) © LJ
