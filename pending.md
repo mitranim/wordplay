@@ -224,7 +224,7 @@ idiotlogy © LR
 dengeon
 dendelion
 curtesy
-langauge
+langauge (metric of intelligence?)
 skeletone
 starturday
 Sratuday (when your food on Fryday was really bad) © LR
@@ -849,7 +849,7 @@ arghive
 whyper
 coresponds
 failevator
-partnershit (c) LR
+partnershit © LR
 tonnel
 offten
 potatoe
@@ -959,3 +959,49 @@ editional © Yury
 arghument © LR
 expectremaintation © LR
 entertaisting (entertaining and tasty) © LJ
+tuplicate
+huntred
+discourge
+inbestigate
+smalltaneous
+runbler
+queencidence © LR
+imsportant
+impsportant
+hairesy
+laguage (slow, lagging language)
+gangoon © LJ
+infer-red (to make assumptions based on infrared scans) © LJ
+emissionary (emissary with a mission; emitting missionary) © LJ
+scannibal © LJ
+insultful © LJ
+aspyre (ambition that burns; ambition flying too close to the sun; to hope to find something while spying) © LJ
+rantional (rational rant) © LR
+sopliments (supplements against a cold) © LR [ru]
+softwear (smart clothing, those kinds of powered clothes with some fancy gadgets in them) © LJ
+sophtware (sophisticated or "wise" programs/virtual intelligences) © LJ
+connactor
+conactor (brings people together to swindle them)
+murderation © Yury
+muderation (public defamation) © Yury
+koñtainer (stable?) [🐴]
+smellting © LR
+penful
+stringth
+hight
+haulder (holding harness for hauling)
+koñsciousness (animal-level intelligence)
+plantform (vegetation support; growth that supports)
+baroqueue
+aboundance
+rigulate (jury-rigged rules)
+craphics
+reekognize (smell a mile away)
+fourthtune
+hadtch
+reaperposed
+risqueue
+bloodform
+dumbgrading
+languishge (stagnating language)
+"stream of unconsciousness" © LJ

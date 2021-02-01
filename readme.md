@@ -1626,6 +1626,8 @@ mygrate
 
 arghitecture (grumble-inducing structure)
 
+arghitechture
+
 expectacular (magnificent as expected)
 
 explan (figure out a plan while explaining it)
@@ -1908,7 +1910,7 @@ coversation (secretive talk)
 
 craptaclysm
 
-healium (restorative substance)
+healium (restorative substance; opposite of hurtium)
 
 saycret (has been outed away)
 
