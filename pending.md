@@ -1005,3 +1005,33 @@ bloodform
 dumbgrading
 languishge (stagnating language)
 "stream of unconsciousness" © LJ
+pornsexual
+pwnsexual
+"data sate" (large, satisfying data set)
+terminanal
+brakethrough
+"shif/tty" (non-US keyboard layout where keys are shifted around)
+devstruction (product-destroying development; messy development)
+disctinction
+distincture
+planerth © LJ
+"baited breath"
+"baited breadth" © LJ
+"dully noted" © LJ
+pullshit
+greyt (majestic but obscure)
+newron (newly formed brain cell) © LR
+acolight © LR
+acolite © LR
+ecolight © LR
+perpetrade
+"turbo boast" (~~turbo boost~~) © LR
+cold-bloodead
+sabotrage © LR
+sibiling © Yury
+religoon © LJ
+fieldtering
+"god point" (killer argument)
+maintame © LR
+concider
+coinside
