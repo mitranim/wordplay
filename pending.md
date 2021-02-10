@@ -1,1037 +1,2075 @@
-tailsman
-plausiable
-chargear
-eerror (eerie mistake)
-veersion
-placeholdeer
-placeholdear
-catmatic (free-thinking)
-printsess
-grandmiral
-grandom
-dickficult
-thingk
-peerform
-dealivery
-cantch-22 (you can't)
-Whenceday
-portalable
-rampants
-immeatiate
-embearassing
-emberassing
-improoment (making space)
-fruster
-mixol
-confission (confusing confession that splits the pair)
-infission (taking an internal sample)
-raindom
-buycicle
-plog (slogging plot)
-importent
-farmiliar
-pipsquick
-insinerate
-gasteroid
-twogather
-trendsaction
-taveurn
-crewcible
-arsonal (pyrotechnics)
-electrick
-sixstem
-combatibility
-mugnetic (attractive face)
-aimunition
-sensorship
-feelth
-materpiece
-cooltivate
-inderpolation
-ultraviolent
-violens
-buypass
-newthrall
-epilapsy
-okaysional
-freequency
-freequeency
-derp cheap
-feelter
-do-nation
-suretcut
-evengefully
-hopfully
-riplace
-castomize
-clusterophobic
-riputation
-boonty
-televator
-chilldish
-wretchiment
-succrifice
-djinnerator
-scamdinavian
-cystem
-lawker
-helld
-tentickle
-electrick
-encrouch
-lazyr
-afcave
-tortuary
-pawnd
-layter
-resinstance
-sindicate
-techture
-killonova
-knowhere
-mynority
-birden
-cementery
-fatshion
-grund
-hackcess
-robody
-floatilla
-ingrease
-foolscreen
-ubique
-kracken
-aviatar
-trainsport
-frogrance (using frog extract for perfume) © LJ
-derelicat
-okaysional
-roombamate (roommate who cleans up after everyone) © LJ
-cheapset © LR
-cheapost
-priviledge
-illuminazi © LJ
-djinnetic
-cloathing
-experimence (experience gained from experiments) © LR
-abusement (abuse for amusement) © LR
-backlong © LR
-iridecent  © LR
-postpawn
-sellect
-leecherally
-leecherous
-slaggish
-capabling
-thingfully
-prepair
-wee men
-shamean
-redible
-prioritits
-storange
-mugly
-erectric
-revaulting
-spawntaneous
-abduckt
-vitamineral
-limbido
-"scolding hot"
-flatmotes (dirty flatmates) © LJ
-filthmates (dirty flatmates) © LR
-boredome
-exorcyst
-frogment
-trashure (treasure that's trash, or vice versa) © LR
-skepticles (spectacles you wear when you're sceptical) © LR
-airrow
-wark
-mekastructure
-mug-a-structure © LR
-infestival
-wrequiem
-combot
-appstract
-"hoolidays" (holidays with increased presence of hooligans) © LR
-e-ducat-ion
-listenerd
-smartket
-troiler
-rainge
-larobotory
-arhive
-guarden
-queery
-mugkings (mug markings) © LJ
-cognisphere (Essentially a place, especially an intangible theoretical one where one acquired knowledge, likely in a plenum) © LJ
-ambitchous (bitchy-ambitious) © LR
-whoreganization © LR
-blastphemy
-controll
-agreedment
-truemendous
-lewdonarrative
-axellent
-punchure
-cheasy
-disgussed
-slowppy
-axcavation
-garbag © LJ
-dodgic (dodgy logic) © LR
-cumbersation
-ma'amtenance
-diffault
-strongth
-clottered
-sombering
-restponse
-storeage
-upserve (upsell a service)
-lewdicrous
-violance
-violince
-violens
-workoing
-jesture
-merchenary
-mercynary © LR
-mooment
-meanwhine
-omnisia (forget everything)
-guessterday
-guesterday
-sanitymental © LR
-cloisterophobic
-duoable © LR
-sleepstream © LR
-offul
-longcher
-anormaly
-conpetent
-appushiated
-amonkst
-orkaround
-mixstake
-doversify
-pigture
-insideful
-aztech
-bigture
-fashionst
-idiotlogy © LR
-dengeon
-dendelion
-curtesy
-langauge (metric of intelligence?)
-skeletone
-starturday
-Sratuday (when your food on Fryday was really bad) © LR
-mygration
-forkaround (forking software to fix a problem)
-reprodude
-discused
-correspondense
-bookking
-polyglut (eats everything)
-absolite
-scaremorguering
-incestines
-weakend
-fucktionality
-saleary
-rotment
-whitespread
-assense
-breathplate
-inevilable
-luckluster
-weedday
-weeday
-aeromatic
-eromatic
-quickstion
-sleaping
-seaty (sea city) © LJ
-treeming (tree trimming) © LJ
-pingment
-lickquid
-lickquit
-genereal
-infiltraitor
-infilthtrator
-infilthtraitor
-deathimated
-spyral
-spyreling
-spiralink © LR
-hotstile
-"zero-sum gain"
-fewtile
-digtator
-keepig
-keyping
-demonstrouble
-airrogant
-"right off the bed"
-brickthrough
-trainsistor
-transister
-trancistern
-multuple
-pairagraph
-weakday (weekend, lying on the bed powerless)
-annoytation © LR
-annoitment
-annoytment
-annoynted
-aweakening
-pickment
-warld ("warld of warcraft", missed opportunity?)
-gopinion (gopnik opinion) © LR
-bloodgeon
-infastation
-excessible
-cellfish
-sellfish
-blastphemy
-archane
-attemptation
-beerveerage
-b-verage (like average, but second-grade average, so it has a "b" instead of "a") © LR
-beeverage (beverage but with a 🐝) © LR
-painpal
-intrashional
-siphone
-heretage
-hacktivate
-dorkest
-murdeer
-riptile
-infurier
-tallerable
-canduit
-slowdout
-funally
-headead
-vulnearable
-wallnearable
-fullmination
-allternative
-abailable
-titbit
-sectober
-sectomber
-logdown
-exhalerating
-retconnect
-absense
-diffstribution
-formeat
-beerd
-carbage
-upsession
-playnty
-plainty
-autistick
-practicipant
-computition
-quaranteed
-recommand
-priviledge
-vainguard
-stereotrope © LJ
-outdayted
-suckulent
-tempture
-textpert (someone who knows a text inside out) © LJ
-sentent
-sentiant
-campitalize
-bearzerker
-cansellation
-abdomination
-adbomination
-annoyant © LJ
-legth (leg length)
-nowledge
-attech
-wallt
-glassified © LR
-biship
-avialable
-availabel (shows that you can avail yourself of this)
-evildence
-evildense
-evidense
-inscentive (scent incentive?) © LR
-inscentsitive (insensitive to scents) © LR
-commond
-appstract
-optimizaction
-valuedate
-discription
-freaktion
-costomize
-undroid
-gravemar (really, really shit grammar) © LR
-bind-aid
-co-orkers © LR
-mantion
-mension
-awener © LR
-moderightor
-textpert (someone who knows a text inside out) © LJ
-annoyant © LJ
-suckware (bad software) © LJ
-shaftware (bad software) © LJ
-mushrimp (dish made of Mushrooms and Shrimps) © LJ
-sinergy
-beeple
-anymation
-meanvile
-projet
-earror
-pawe (e.g. pave the way, stomp it out with paws)
-refridgearator
-quariantine (self-quarantine by wearing hermetic suits)
-insinerate
-borther (bothersome brother?) © LR
-resqueue
-questtion
-queuestion © LR
-appload
-youser
-repositroy
-ripository (repo that went RIP or got ripped off from another) © LR
-histroy
-endevour (to endeavour to devour) © LR
-bisquit
-brandwidth
-boundwidth
-laytency
-diesection
-ballt
-beefore
-boobking (like booking but...)
-aftwards
-whorrible
-liebour
-javascrap
-javascrapt
-lowtitude © LR
-lawtitude © LR
-fromt
-aimcounter
-recomdemnation (liked but didn't recommend due to many condemned negatives)
-wisper
-petch
-blunderbus
-violince
-dodjo © LR
-soulty
-hardvester
-mainwhile
-indoctorination
-struss (stress support?)
-oberator (operator that berates you on comms)
-con-sensual
-redamnation/recondemnation/recomdemnation (just came up because someone was asked if he liked something and the answer was rather inconclusive since he liked it, but didn't recommend it due to many (condemned) negatives) © LJ
-abstrain
-emojo (💪)
-inprovement
-exbansion
-queentillion
-haulted
-pauldrones (shoulder-mounted robots)
-poledrons (spiky, protruding shoulder guards)
-cosmotics (cosmos-themed decorations? decorating the cosmos?)
-lieght (lies brought to light) © LR
-truejectory
-"dork matter"
-trigged
-sindicate
-wholographic
-hvostage (tails you on a rescue mission) [ru]
-correctify (rectify a (false) correction) © LJ
-septomber
-discour © Yury
-ackwards © Yury
-manyually
-punyshment
-sucksassful © Yury
-cirquit
-attraptive (sort of like a honeypot; meaning a woman that seduces people for some nefarious purpose) © LJ
-negatiation (essentially a discussion that's so fruitless you're worse off after it) © LJ
-distrance
-polidicks (corrupt politics (like the Zhukrainian Rada)) © LJ
-burycade © LR
-tearetical
-hatphones
-adampter
-gopying (copy something and prevent them from using it; "lift" in a true sense)
-lol-tech (low-tech but even more laughable)
-dearelict
-purifire
-skipter (skip + scepter)
-kung-fu-sing (convoluted movement?)
-insurgeoncy © LR
-statistick
-clumpsiness
-taxin (taxes poisoning your system)
-deal-C (third-rate DLC)
-someboy © Yury
-opteamum
-pessemitstick
-sadisfying
-sadisfaction
-sadistick
-fartress
-upgreeding © Kaeyz
-dievirgins
-garbug © LJ
-arteffect (artful artefact)
-playtinum
-blahsphemy
-realevant © Yury
-companent © Yury
-veryable © Yury
-mailware © LR
-lagluster
-beerable
-enducation
-edickation © LR
-loreplay
-culltivate © LR
-patroll
-medievil
-resque
-junktion © LR
-megazine
-elichiable
-murmurder
-aveilable
-assiom (axiom related to ass — e.g. "ass always exists") © LR
-alloycate
-ass-sumption © Yury
-autestic © Yury
-manugement (manual micromanagement)
-infarmation
-suckrificial © LR
-dateabase © LR
-deafault
-containmination (contained contamination) © LR
-mattric (metric that matters) © LR
-anymal © LR
-delibearate(ly) © LR
-deliberat
-declaraction
-ducktape
-lagacy © LR
-legistics
-unconsistent
-perpetraitor
-meleetary © LR
-meleetiry © LR
-tryjectory
-smogscreen
-aqueryum © LR
-coñqueryror © LR
-awkful (trying to make awk syntax not conflict with how Groovy parses embedded bash) © LR
-classter
-impatent
-bamboob
-bamboobzled
-cantains © Yury
-consolidarity
-brainbow
-invastment
-polyglod (gnaws on everything)
-doemon (_does_ things in the background)
-consuckquence
-develoop © LR
-ad-venture
-apartmement © LR
-recommaind
-mycoorganism
-information
-subscraption
-transfermation
-hellth
-minifest
-flogking
-cheapset © LR
-litterally © LR
-promissing
-missage (the missive you missed)
-prepaired (partners well-adjusted to each other) © LR
-medification
-unsane (beyond sanity, but yet not insane) © LR
-famework
-cannect
-dicklare © LR
-ripair
-orkanized
-corridot
-sinthesis
-recoñ (mounted scout) © LR
-confeegurable
-notificat (gently wakes you up at morning)
-grimeace (muddy mug)
-grimeass © LR
-delayvery
-schedual © LR
-occurved
-segregious © LR
-pursuade
-pussyade
-respondsibility
-countribute
-cantfess
-roward
-thrivial
-insalting
-stom-ache (stomache ache) © LJ
-ingrateful (ungrateful for a stupid action) © LJ
-ulternative
-whitespread
-possibile
-directroy
-incompatibile
-juggernot
-juggernaught
-dreadnot
-muggot
-associarted
-haremonic
-hormonic
-inderpolate
-bullian
-sell-defense (protecting yr ass...et)
-stuffocating
-"dank you"
-vidiot
-assance © LR
-derpty © LR
-bugfox
-hardcorded © LR
-hardcordead
-ass-sis-tant (well-rounded secretary)
-whoreshipped (worshipped + whore; probably some sort of one-sided romantic arrangement) © LJ
-lawphole (loophole + law; some legal technicality that was overlooked) © LJ
-dickplomacy (Maybe synonymous with Gunboat Diplomacy; So just very brash and uncouth diplomatic swagger at the expense of the (zh)opponent) © LJ
-pactitioner
-supairvision (what air traffic controllers do, from "air") © LJ
-gooddess
-elemetal
-againg
-tbale
-realated (really realevant)
-universale
-brandom
-nanimal
-unnoying
-freshold
-coldron
-apartyment (party apartment) © LR
-apairtment (for two)
-crocobile
-crocodildo
-enternet
-expentations
-hellalujah
-treesearcher (tree researcher, botanist) © LJ
-splipt
-containt
-porcupain (the pain of getting stung by a porcupine) © LJ
-boorocracy (boorish bureaucracy aka me on MEA) © LR
-playment
-derpendencies
-innterval
-obay
-deedstroy
-reasonator
-cooltist
-culltist
-compligated (gated by complexity)
-atornment
-addvantage
-menuscript (hand-written selection)
-manyscript © LR
-compair
-faintastic (so good, it knocks you out)
-smock
-rob-bot
-bullwark
-bulwork
-bullwork
-sadbox (sandbox in sad state)
-hellthcare (mortally bad healthcare) © LJ
-dickline (decline dick? decling like a dick?) © LR
-cauldrone
-betterfly © LR
-apocalapse
-ogranization
-changelong © LR
-orkestra (ork orchestra) © LR
-orkestrate © LR
-coughtious
-preformance © Yury
-scaracter © LR
-condirtional
-behide (hiding behind)
-convenant (convening under a covenant)
-developears (developers who listen) © LR
-peeriod (peer approval interval)
-workflog
-unawear
-addictionary
-cointinue
-benefist
-snapshort
-ingreedients
-headear
-fullder (packed folder) © Yury
-unambuguous
-sickquence
-sicquence
-sayquence
-deplowment
-foodder
-adornsenal
-envoyce
-reazoneable
-themplate © Yury
-lookrative © LR
-anymy (any enemy; enemy of anyone?) © LR
-entertainman © LR
-entertaintment (fun that tarnishes)
-betroy
-conveynient
-conwaynient
-turnsaction © Yury
-disctinct
-addictional
-syncretin (from https://en.wikipedia.org/wiki/Syncretism and cretin) © LR
-sermony
-moneypulate
-maniapulate © LR
-manipullate © LR
-skovolodka © LR [ru]
-overlayping
-wayke
-innerface (inner side of interface)
-boostrapping
-soulitude
-incorrekt (being so wrong that one gets destroyed) © LJ
-enterpreter
-keybird © Yury
-incload
-inclewd
-comman
-koñman © Yury [🐴]
-probeability
-whitespice © Yury
-lieteral © Yury
-mealk
-costomization © Yury
-twomorrow © Yury
-airror © Yury
-arrowr © Yury
-dicklaration (requires a cunter-argument) © Yury
-add-apt
-cullindar (schedule for slaughter)
-appinion
-purrsonal
-incompetitor (incompetent competitor) © LJ
-"mental oselum" (donkey) © LJ [ru]
-egochamber (echochamber for lonely people who keep only their own counsel) © LJ
-chortage (annoying shortage) © LR [ru]
-grabitate
-shyning (glowing blushing) © Yury
-deepbugging
-pussyfist
-tellink © Yury
-reallyable (really reliable able ally) © LR
-deathsappointing © LR
-compuller © Yury
-strasheklassnik © LR [ru]
-purrpose
-purrpaws © LR
-mulltiple
-headerr
-dickumentation
-blackup (shadow backup) © Yury
-scathold
-underrestimate
-readirect
-chesst
-mosstly
-varioty
-blurprint
-commponent
-concockt
-edditional © Yury
-shotsighted
-"sleepery slope"
-endicator
-wreckquiem
-wreck'we'ems
-calledge
-unmatchural
-storytolling
-suckrifice
-unrevel
-precedure
-spich
-persuasian (persuasive Asian; Asian persuasion techniques) © LR
-morbile
-roboost © Yury
-anywon © Yury
-fitture
-obstickle © Yury
-talken (communication token)
-sellebrate
-mellowdramatic
-e-legal (cybercrime) © LJ
-extream
-extrim
-sintax
-"dark mord" [ru]
-foolder
-suredcut (reliable shortcut)
-chortcut [ru] © LR
-cheear
-menually © Yury
-pistool
-compyre
-alphabeat
-paysically © LR
-coolumn
-zhulnalist © LJ [ru]
-zhirnalist [ru]
-turnament
-antidope
-horseshoo
-moistly
-beeriod © Yury
-orcitecture (bashed together by grunts)
-diggits © Yury
-digsappear
-staintment
-randering
-"missing around"
-abillity
-incraze © LR
-metallion
-estublish
-heavycopter
-pretension
-dentacles
-developists © LR
-developmen © LR
-developwoment
-gangsmen
-worsheep © LR
-warsheep © LR
-teethering
-artbitrary
-arbeatrary
-arbeertrary © Yury
-artbeertrary © Yury
-beetween
-shellter
-haltkey
-decumentation
-hellarious
-arghive
-whyper
-coresponds
-failevator
-partnershit © LR
-tonnel
-offten
-potatoe
-vendoor
-confersion © Yury
-messtake
-dogmestication © LJ
-corporat (someone who bootlicks or defends corporations/consumerism) © LJ
-koñtroll © Yury [🐴]
-purperty
-individial
-incurbator
-pendemic
-ingreedyents
-indoctorinated
-sentinet
-mathtery
-berrier
-cockrockch
-fulfilth
-flawrish
-debilopers
-debuilder
-debillitating
-derpty
-ambiguilty (when someone‘s guilt is in question) © LJ
-aboondance
-discribe (etch on a disc?)
-currection (up-to-date now)
-tentth (⛺️) © Daniyar
-artchitect (artistic architect) © LJ
-treeck
-infactious
-unfuckenate
-indentional
-intertainment (maybe entertainment on the internet? or between multiple people or across the world?) © LJ
-lancecape
-comfyrmation
-attenttion
-eyetem (👁)
-diffold
-fatch
-inwastement (wasted investment, courtesy of seeing new university buildings from my bus) © LR
-uninhabitant (theoretical, non-existent inhabitant, for prospective colonization or uninhabited regions) © LJ
-orcanization (👹)
-arcanization
-plastick
-superseed © deathaxe
-allegendary © LR
-popularea © LR
-capitoll
-"bull request"
-minisculature
-muskullature
-muskullar
-rogod (god out of machine) © LJ
-debrisfing (debriefing: filling heads with flotsam; convening to organise reconstruction efforts of some kind) © LJ
-kotscene (footage of 🐈) © LJ
-catscene (footage of 🐈) © LJ
-satisfucktion © LJ
-converstation
-trashbloid (essentially an example of Gutter Press) © LJ
-tarbloid (covers people in dirt, blackens their reputation)
-afraidn't © LJ
-digitall (only digits/digital; standing on all digits to be taller) © LR
-deeplomat © LR
-govnoverment [ru]
-koñscript (someone who got drafted into cavalry/with their horse) © LR [🐴]
-koñvoy (horse caravan) © LR [🐴]
-agreedy
-breadnought © LR
-brednought © LR
-deliverium
-delivrium
-newsful (new and useful) © LR
-montenance (performed by Pokemon Day Care)
-painding
-"waisting food" (eating so much your waist grows) © LR
-somethink © Yury
-slong [🐘]
-expectremaintation © LR
-excrementation
-callculate
-heretech
-lechture
-lechtor
-deathspatch
-hair-ethical
-breallyant
-boredroom © LR
-lancescape
-lenscape
-treachers
-irunically
-recrewt (recruit for crew) © LR
-gunfar (far gunfire) © LR
-diesease (lethal disease) © LJ
-dieceased (tautological death; lethal game of dice) © LJ
-squarical (like spherical but for... a square) © LJ
-degrease
-seatizen
-explord © LR
-choret (a chort that's being a chore; a chore only worth being performed by a chort) © LJ
-koñstruct (Trojan horse) © LJ [🐴]
-pirage (being angry at being the victim of piracy; alternatively a contracted form of the historical "Age of Piracy") © LJ
-editional © Yury
-arghument © LR
-expectremaintation © LR
-entertaisting (entertaining and tasty) © LJ
-tuplicate
-huntred
-discourge
-inbestigate
-smalltaneous
-runbler
-queencidence © LR
-imsportant
-impsportant
-hairesy
-laguage (slow, lagging language)
-gangoon © LJ
-infer-red (to make assumptions based on infrared scans) © LJ
-emissionary (emissary with a mission; emitting missionary) © LJ
-scannibal © LJ
-insultful © LJ
-aspyre (ambition that burns; ambition flying too close to the sun; to hope to find something while spying) © LJ
-rantional (rational rant) © LR
-sopliments (supplements against a cold) © LR [ru]
-softwear (smart clothing, those kinds of powered clothes with some fancy gadgets in them) © LJ
-sophtware (sophisticated or "wise" programs/virtual intelligences) © LJ
-connactor
-conactor (brings people together to swindle them)
-murderation © Yury
-muderation (public defamation) © Yury
-koñtainer (stable?) [🐴]
-smellting © LR
-penful
-stringth
-hight
-haulder (holding harness for hauling)
-koñsciousness (animal-level intelligence)
-plantform (vegetation support; growth that supports)
-baroqueue
-aboundance
-rigulate (jury-rigged rules)
-craphics
-reekognize (smell a mile away)
-fourthtune
-hadtch
-reaperposed
-risqueue
-bloodform
-dumbgrading
-languishge (stagnating language)
-"stream of unconsciousness" © LJ
-pornsexual
-pwnsexual
-"data sate" (large, satisfying data set)
-terminanal
-brakethrough
-"shif/tty" (non-US keyboard layout where keys are shifted around)
-devstruction (product-destroying development; messy development)
-disctinction
-distincture
-planerth © LJ
-"baited breath"
-"baited breadth" © LJ
-"dully noted" © LJ
-pullshit
-greyt (majestic but obscure)
-newron (newly formed brain cell) © LR
-acolight © LR
-acolite © LR
-ecolight © LR
-perpetrade
-"turbo boast" (~~turbo boost~~) © LR
-cold-bloodead
-sabotrage © LR
-sibiling © Yury
-religoon © LJ
-fieldtering
-"god point" (killer argument)
-maintame © LR
-concider
 coinside
+
+concider
+
+maintame © LR
+
+"god point" (killer argument)
+
+fieldtering
+
+religoon © LJ
+
+sibiling © Yury
+
+sabotrage © LR
+
+cold-bloodead
+
+"turbo boast" (~~turbo boost~~) © LR
+
+perpetrade
+
+ecolight © LR
+
+acolite © LR
+
+acolight © LR
+
+newron (newly formed brain cell) © LR
+
+greyt (majestic but obscure)
+
+pullshit
+
+"dully noted" © LJ
+
+"baited breadth" © LJ
+
+"baited breath"
+
+planerth © LJ
+
+distincture
+
+disctinction
+
+devstruction (product-destroying development; messy development)
+
+"shif/tty" (non-US keyboard layout where keys are shifted around)
+
+brakethrough
+
+terminanal
+
+"data sate" (large, satisfying data set)
+
+pwnsexual
+
+pornsexual
+
+"stream of unconsciousness" © LJ
+
+languishge (stagnating language)
+
+dumbgrading
+
+bloodform
+
+risqueue
+
+reaperposed
+
+hadtch
+
+fourthtune
+
+reekognize (smell a mile away)
+
+craphics
+
+rigulate (jury-rigged rules)
+
+aboundance
+
+baroqueue
+
+plantform (vegetation support; growth that supports)
+
+koñsciousness (animal-level intelligence)
+
+haulder (holding harness for hauling)
+
+hight
+
+stringth
+
+penful
+
+smellting © LR
+
+koñtainer (stable?) [🐴]
+
+muderation (public defamation) © Yury
+
+murderation © Yury
+
+conactor (brings people together to swindle them)
+
+connactor
+
+sophtware (sophisticated or "wise" programs/virtual intelligences) © LJ
+
+softwear (smart clothing, those kinds of powered clothes with some fancy gadgets in them) © LJ
+
+sopliments (supplements against a cold) © LR [ru]
+
+rantional (rational rant) © LR
+
+aspyre (ambition that burns; ambition flying too close to the sun; to hope to find something while spying) © LJ
+
+insultful © LJ
+
+scannibal © LJ
+
+emissionary (emissary with a mission; emitting missionary) © LJ
+
+infer-red (to make assumptions based on infrared scans) © LJ
+
+gangoon © LJ
+
+laguage (slow, lagging language)
+
+hairesy
+
+impsportant
+
+imsportant
+
+queencidence © LR
+
+runbler
+
+smalltaneous
+
+inbestigate
+
+discourge
+
+huntred
+
+tuplicate
+
+entertaisting (entertaining and tasty) © LJ
+
+expectremaintation © LR
+
+arghument © LR
+
+editional © Yury
+
+pirage (being angry at being the victim of piracy; alternatively a contracted form of the historical "Age of Piracy") © LJ
+
+koñstruct (Trojan horse) © LJ [🐴]
+
+choret (a chort that's being a chore; a chore only worth being performed by a chort) © LJ
+
+explord © LR
+
+seatizen
+
+degrease
+
+squarical (like spherical but for... a square) © LJ
+
+dieceased (tautological death; lethal game of dice) © LJ
+
+diesease (lethal disease) © LJ
+
+gunfar (far gunfire) © LR
+
+recrewt (recruit for crew) © LR
+
+irunically
+
+treachers
+
+lenscape
+
+lancescape
+
+boredroom © LR
+
+breallyant
+
+hair-ethical
+
+deathspatch
+
+lechtor
+
+lechture
+
+heretech
+
+callculate
+
+excrementation
+
+expectremaintation © LR
+
+slong [🐘]
+
+somethink © Yury
+
+"waisting food" (eating so much your waist grows) © LR
+
+painding
+
+montenance (performed by Pokemon Day Care)
+
+newsful (new and useful) © LR
+
+delivrium
+
+deliverium
+
+brednought © LR
+
+breadnought © LR
+
+agreedy
+
+koñvoy (horse caravan) © LR [🐴]
+
+koñscript (someone who got drafted into cavalry/with their horse) © LR [🐴]
+
+govnorment (makes gov norms) [ru]
+
+govnoverment [ru]
+
+deeplomat © LR
+
+digitall (only digits/digital; standing on all digits to be taller) © LR
+
+afraidn't © LJ
+
+tarbloid (covers people in dirt, blackens their reputation)
+
+trashbloid (essentially an example of Gutter Press) © LJ
+
+converstation
+
+satisfucktion © LJ
+
+catscene (footage of 🐈) © LJ
+
+kotscene (footage of 🐈) © LJ
+
+debrisfing (debriefing: filling heads with flotsam; convening to organise reconstruction efforts of some kind) © LJ
+
+rogod (god out of machine) © LJ
+
+muskullar
+
+muskullature
+
+minisculature
+
+"bull request"
+
+capitoll
+
+popularea © LR
+
+allegendary © LR
+
+superseed © deathaxe
+
+plastick
+
+arcanization
+
+orcanization (👹)
+
+uninhabitant (theoretical, non-existent inhabitant, for prospective colonization or uninhabited regions) © LJ
+
+inwastement (wasted investment, courtesy of seeing new university buildings from my bus) © LR
+
+fatch
+
+diffold
+
+eyetem (👁)
+
+attenttion
+
+comfyrmation
+
+lancecape
+
+intertainment (maybe entertainment on the internet? or between multiple people or across the world?) © LJ
+
+indentional
+
+unfuckenate
+
+infactious
+
+treeck
+
+artchitect (artistic architect) © LJ
+
+tentth (⛺️) © Daniyar
+
+currection (up-to-date now)
+
+discribe (etch on a disc?)
+
+aboondance
+
+ambiguilty (when someone‘s guilt is in question) © LJ
+
+derpty
+
+debillitating
+
+debuilder
+
+debilopers
+
+flawrish
+
+fulfilth
+
+cockrockch
+
+berrier
+
+mathtery
+
+sentinet
+
+indoctorinated
+
+ingreedyents
+
+pendemic
+
+incurbator
+
+individial
+
+purperty
+
+koñtroll © Yury [🐴]
+
+corporat (someone who bootlicks or defends corporations/consumerism) © LJ
+
+dogmestication © LJ
+
+messtake
+
+confersion © Yury
+
+vendoor
+
+potatoe
+
+offten
+
+tonnel
+
+partnershit © LR
+
+failevator
+
+coresponds
+
+whyper
+
+arghive
+
+hellarious
+
+decumentation
+
+haltkey
+
+shellter
+
+beetween
+
+artbeertrary © Yury
+
+arbeertrary © Yury
+
+arbeatrary
+
+artbitrary
+
+teethering
+
+warsheep © LR
+
+worsheep © LR
+
+gangsmen
+
+developwoment
+
+developmen © LR
+
+developists © LR
+
+dentacles
+
+pretension
+
+heavycopter
+
+estublish
+
+metallion
+
+incraze © LR
+
+abillity
+
+"missing around"
+
+randering
+
+staintment
+
+digsappear
+
+diggits © Yury
+
+orcitecture (bashed together by grunts)
+
+beeriod © Yury
+
+moistly
+
+horseshoo
+
+antidope
+
+turnament
+
+zhirnalist [ru]
+
+zhulnalist © LJ [ru]
+
+coolumn
+
+paysically © LR
+
+alphabeat
+
+compyre
+
+pistool
+
+menually © Yury
+
+cheear
+
+chortcut [ru] © LR
+
+suredcut (reliable shortcut)
+
+foolder
+
+"dark mord" [ru]
+
+sintax
+
+extrim
+
+extream
+
+e-legal (cybercrime) © LJ
+
+mellowdramatic
+
+sellebrate
+
+talken (communication token)
+
+obstickle © Yury
+
+fitture
+
+anywon © Yury
+
+roboost © Yury
+
+morbile
+
+persuasian (persuasive Asian; Asian persuasion techniques) © LR
+
+spich
+
+precedure
+
+unrevel
+
+suckrifice
+
+storytolling
+
+unmatchural
+
+calledge
+
+wreck'we'ems
+
+wreckquiem
+
+endicator
+
+"sleepery slope"
+
+shotsighted
+
+edditional © Yury
+
+concockt
+
+commponent
+
+blurprint
+
+varioty
+
+mosstly
+
+chesst
+
+readirect
+
+underrestimate
+
+scathold
+
+blackup (shadow backup) © Yury
+
+dickumentation
+
+headerr
+
+mulltiple
+
+purrpaws © LR
+
+purrpose
+
+strasheklassnik © LR [ru]
+
+compuller © Yury
+
+deathsappointing © LR
+
+reallyable (really reliable able ally) © LR
+
+tellink © Yury
+
+pussyfist
+
+deepbugging
+
+shyning (glowing blushing) © Yury
+
+grabitate
+
+chortage (annoying shortage) © LR [ru]
+
+egochamber (echochamber for lonely people who keep only their own counsel) © LJ
+
+"mental oselum" (donkey) © LJ [ru]
+
+incompetitor (incompetent competitor) © LJ
+
+purrsonal
+
+appinion
+
+cullindar (schedule for slaughter)
+
+add-apt
+
+dicklaration (requires a cunter-argument) © Yury
+
+arrowr © Yury
+
+airror © Yury
+
+twomorrow © Yury
+
+costomization © Yury
+
+mealk
+
+lieteral © Yury
+
+whitespice © Yury
+
+probeability
+
+koñman © Yury [🐴]
+
+comman
+
+inclewd
+
+incload
+
+keybird © Yury
+
+enterpreter
+
+incorrekt (being so wrong that one gets destroyed) © LJ
+
+soulitude
+
+boostrapping
+
+innerface (inner side of interface)
+
+wayke
+
+overlayping
+
+skovolodka © LR [ru]
+
+manipullate © LR
+
+maniapulate © LR
+
+moneypulate
+
+sermony
+
+syncretin (from https://en.wikipedia.org/wiki/Syncretism and cretin) © LR
+
+addictional
+
+disctinct
+
+turnsaction © Yury
+
+conwaynient
+
+conveynient
+
+betroy
+
+entertaintment (fun that tarnishes)
+
+entertainman © LR
+
+anymy (any enemy; enemy of anyone?) © LR
+
+lookrative © LR
+
+themplate © Yury
+
+reazoneable
+
+envoyce
+
+adornsenal
+
+foodder
+
+deplowment
+
+sayquence
+
+sicquence
+
+sickquence
+
+unambuguous
+
+fullder (packed folder) © Yury
+
+headear
+
+ingreedients
+
+snapshort
+
+benefist
+
+cointinue
+
+addictionary
+
+unawear
+
+workflog
+
+peeriod (peer approval interval)
+
+developears (developers who listen) © LR
+
+convenant (convening under a covenant)
+
+behide (hiding behind)
+
+condirtional
+
+scaracter © LR
+
+preformance © Yury
+
+coughtious
+
+orkestrate © LR
+
+orkestra (ork orchestra) © LR
+
+changelong © LR
+
+ogranization
+
+apocalapse
+
+betterfly © LR
+
+cauldrone
+
+dickline (decline dick? decling like a dick?) © LR
+
+hellthcare (mortally bad healthcare) © LJ
+
+sadbox (sandbox in sad state)
+
+bullwork
+
+bulwork
+
+bullwark
+
+rob-bot
+
+smock
+
+faintastic (so good, it knocks you out)
+
+compair
+
+manyscript © LR
+
+menuscript (hand-written selection)
+
+addvantage
+
+atornment
+
+compligated (gated by complexity)
+
+culltist
+
+cooltist
+
+reasonator
+
+deedstroy
+
+obay
+
+innterval
+
+derpendencies
+
+playment
+
+boorocracy (boorish bureaucracy aka me on MEA) © LR
+
+porcupain (the pain of getting stung by a porcupine) © LJ
+
+containt
+
+splipt
+
+treesearcher (tree researcher, botanist) © LJ
+
+hellalujah
+
+expentations
+
+enternet
+
+crocodildo
+
+crocobile
+
+apairtment (for two)
+
+apartyment (party apartment) © LR
+
+coldron
+
+freshold
+
+unnoying
+
+nanimal
+
+brandom
+
+universale
+
+realated (really realevant)
+
+tbale
+
+againg
+
+elemetal
+
+gooddess
+
+supairvision (what air traffic controllers do, from "air") © LJ
+
+pactitioner
+
+dickplomacy (Maybe synonymous with Gunboat Diplomacy; So just very brash and uncouth diplomatic swagger at the expense of the (zh)opponent) © LJ
+
+lawphole (loophole + law; some legal technicality that was overlooked) © LJ
+
+whoreshipped (worshipped + whore; probably some sort of one-sided romantic arrangement) © LJ
+
+ass-sis-tant (well-rounded secretary)
+
+hardcordead
+
+hardcorded © LR
+
+bugfox
+
+derpty © LR
+
+assance © LR
+
+vidiot
+
+"dank you"
+
+stuffocating
+
+sell-defense (protecting yr ass...et)
+
+bullian
+
+inderpolate
+
+hormonic
+
+haremonic
+
+associarted
+
+muggot
+
+dreadnot
+
+juggernaught
+
+juggernot
+
+incompatibile
+
+directroy
+
+possibile
+
+whitespread
+
+ulternative
+
+ingrateful (ungrateful for a stupid action) © LJ
+
+stom-ache (stomache ache) © LJ
+
+insalting
+
+thrivial
+
+roward
+
+cantfess
+
+countribute
+
+respondsibility
+
+pussyade
+
+pursuade
+
+segregious © LR
+
+occurved
+
+schedual © LR
+
+delayvery
+
+grimeass © LR
+
+grimeace (muddy mug)
+
+notificat (gently wakes you up at morning)
+
+confeegurable
+
+recoñ (mounted scout) © LR
+
+sinthesis
+
+corridot
+
+orkanized
+
+ripair
+
+dicklare © LR
+
+cannect
+
+famework
+
+unsane (beyond sanity, but yet not insane) © LR
+
+medification
+
+prepaired (partners well-adjusted to each other) © LR
+
+missage (the missive you missed)
+
+promissing
+
+litterally © LR
+
+cheapset © LR
+
+flogking
+
+minifest
+
+hellth
+
+transfermation
+
+subscraption
+
+information
+
+mycoorganism
+
+recommaind
+
+apartmement © LR
+
+ad-venture
+
+develoop © LR
+
+consuckquence
+
+doemon (_does_ things in the background)
+
+polyglod (gnaws on everything)
+
+invastment
+
+brainbow
+
+consolidarity
+
+cantains © Yury
+
+bamboobzled
+
+bamboob
+
+impatent
+
+classter
+
+awkful (trying to make awk syntax not conflict with how Groovy parses embedded bash) © LR
+
+coñqueryror © LR
+
+aqueryum © LR
+
+smogscreen
+
+tryjectory
+
+meleetiry © LR
+
+meleetary © LR
+
+perpetraitor
+
+unconsistent
+
+legistics
+
+lagacy © LR
+
+ducktape
+
+declaraction
+
+deliberat
+
+delibearate(ly) © LR
+
+anymal © LR
+
+mattric (metric that matters) © LR
+
+containmination (contained contamination) © LR
+
+deafault
+
+dateabase © LR
+
+suckrificial © LR
+
+infarmation
+
+manugement (manual micromanagement)
+
+autestic © Yury
+
+ass-sumption © Yury
+
+alloycate
+
+assiom (axiom related to ass — e.g. "ass always exists") © LR
+
+aveilable
+
+murmurder
+
+elichiable
+
+megazine
+
+junktion © LR
+
+resque
+
+medievil
+
+patroll
+
+culltivate © LR
+
+loreplay
+
+edickation © LR
+
+enducation
+
+beerable
+
+lagluster
+
+mailware © LR
+
+veryable © Yury
+
+companent © Yury
+
+realevant © Yury
+
+blahsphemy
+
+playtinum
+
+arteffect (artful artefact)
+
+garbug © LJ
+
+dievirgins
+
+upgreeding © Kaeyz
+
+fartress
+
+sadistick
+
+sadisfaction
+
+sadisfying
+
+pessemitstick
+
+opteamum
+
+someboy © Yury
+
+deal-C (third-rate DLC)
+
+taxin (taxes poisoning your system)
+
+clumpsiness
+
+statistick
+
+insurgeoncy © LR
+
+kung-fu-sing (convoluted movement?)
+
+skipter (skip + scepter)
+
+purifire
+
+dearelict
+
+lol-tech (low-tech but even more laughable)
+
+gopying (copy something and prevent them from using it; "lift" in a true sense)
+
+adampter
+
+hatphones
+
+tearetical
+
+burycade © LR
+
+polidicks (corrupt politics (like the Zhukrainian Rada)) © LJ
+
+distrance
+
+negatiation (essentially a discussion that's so fruitless you're worse off after it) © LJ
+
+attraptive (sort of like a honeypot; meaning a woman that seduces people for some nefarious purpose) © LJ
+
+cirquit
+
+sucksassful © Yury
+
+punyshment
+
+manyually
+
+ackwards © Yury
+
+discour © Yury
+
+septomber
+
+correctify (rectify a (false) correction) © LJ
+
+hvostage (tails you on a rescue mission) [ru]
+
+wholographic
+
+sindicate
+
+trigged
+
+"dork matter"
+
+truejectory
+
+lieght (lies brought to light) © LR
+
+cosmotics (cosmos-themed decorations? decorating the cosmos?)
+
+poledrons (spiky, protruding shoulder guards)
+
+pauldrones (shoulder-mounted robots)
+
+haulted
+
+queentillion
+
+exbansion
+
+inprovement
+
+emojo (💪)
+
+abstrain
+
+redamnation/recondemnation/recomdemnation (just came up because someone was asked if he liked something and the answer was rather inconclusive since he liked it, but didn't recommend it due to many (condemned) negatives) © LJ
+
+con-sensual
+
+oberator (operator that berates you on comms)
+
+struss (stress support?)
+
+indoctorination
+
+mainwhile
+
+hardvester
+
+soulty
+
+dodjo © LR
+
+violince
+
+blunderbus
+
+petch
+
+wisper
+
+recomdemnation (liked but didn't recommend due to many condemned negatives)
+
+aimcounter
+
+fromt
+
+lawtitude © LR
+
+lowtitude © LR
+
+javascrapt
+
+javascrap
+
+liebour
+
+whorrible
+
+aftwards
+
+boobking (like booking but...)
+
+beefore
+
+ballt
+
+diesection
+
+laytency
+
+boundwidth
+
+brandwidth
+
+bisquit
+
+endevour (to endeavour to devour) © LR
+
+histroy
+
+ripository (repo that went RIP or got ripped off from another) © LR
+
+repositroy
+
+youser
+
+appload
+
+queuestion © LR
+
+questtion
+
+resqueue
+
+borther (bothersome brother?) © LR
+
+insinerate
+
+quariantine (self-quarantine by wearing hermetic suits)
+
+refridgearator
+
+pawe (e.g. pave the way, stomp it out with paws)
+
+earror
+
+projet
+
+meanvile
+
+anymation
+
+beeple
+
+sinergy
+
+mushrimp (dish made of Mushrooms and Shrimps) © LJ
+
+shaftware (bad software) © LJ
+
+suckware (bad software) © LJ
+
+annoyant © LJ
+
+textpert (someone who knows a text inside out) © LJ
+
+moderightor
+
+awener © LR
+
+mension
+
+mantion
+
+co-orkers © LR
+
+bind-aid
+
+gravemar (really, really shit grammar) © LR
+
+undroid
+
+costomize
+
+freaktion
+
+discription
+
+valuedate
+
+optimizaction
+
+appstract
+
+commond
+
+inscentsitive (insensitive to scents) © LR
+
+inscentive (scent incentive?) © LR
+
+evidense
+
+evildense
+
+evildence
+
+availabel (shows that you can avail yourself of this)
+
+avialable
+
+biship
+
+glassified © LR
+
+wallt
+
+attech
+
+nowledge
+
+legth (leg length)
+
+annoyant © LJ
+
+adbomination
+
+abdomination
+
+cansellation
+
+bearzerker
+
+campitalize
+
+sentiant
+
+sentent
+
+textpert (someone who knows a text inside out) © LJ
+
+tempture
+
+suckulent
+
+outdayted
+
+stereotrope © LJ
+
+vainguard
+
+priviledge
+
+recommand
+
+quaranteed
+
+computition
+
+practicipant
+
+autistick
+
+plainty
+
+playnty
+
+upsession
+
+carbage
+
+beerd
+
+formeat
+
+diffstribution
+
+absense
+
+retconnect
+
+exhalerating
+
+logdown
+
+sectomber
+
+sectober
+
+titbit
+
+abailable
+
+allternative
+
+fullmination
+
+wallnearable
+
+vulnearable
+
+headead
+
+funally
+
+slowdout
+
+canduit
+
+tallerable
+
+infurier
+
+riptile
+
+murdeer
+
+dorkest
+
+hacktivate
+
+heretage
+
+siphone
+
+intrashional
+
+painpal
+
+beeverage (beverage but with a 🐝) © LR
+
+b-verage (like average, but second-grade average, so it has a "b" instead of "a") © LR
+
+beerveerage
+
+attemptation
+
+archane
+
+blastphemy
+
+sellfish
+
+cellfish
+
+excessible
+
+infastation
+
+bloodgeon
+
+gopinion (gopnik opinion) © LR
+
+warld ("warld of warcraft", missed opportunity?)
+
+pickment
+
+aweakening
+
+annoynted
+
+annoytment
+
+annoitment
+
+annoytation © LR
+
+weakday (weekend, lying on the bed powerless)
+
+pairagraph
+
+multuple
+
+trancistern
+
+transister
+
+trainsistor
+
+brickthrough
+
+"right off the bed"
+
+airrogant
+
+demonstrouble
+
+keyping
+
+keepig
+
+digtator
+
+fewtile
+
+"zero-sum gain"
+
+hotstile
+
+spiralink © LR
+
+spyreling
+
+spyral
+
+deathimated
+
+infilthtraitor
+
+infilthtrator
+
+infiltraitor
+
+genereal
+
+lickquit
+
+lickquid
+
+pingment
+
+treeming (tree trimming) © LJ
+
+seaty (sea city) © LJ
+
+sleaping
+
+quickstion
+
+eromatic
+
+aeromatic
+
+weeday
+
+weedday
+
+luckluster
+
+inevilable
+
+breathplate
+
+assense
+
+whitespread
+
+rotment
+
+saleary
+
+fucktionality
+
+weakend
+
+incestines
+
+scaremorguering
+
+absolite
+
+polyglut (eats everything)
+
+bookking
+
+correspondense
+
+discused
+
+reprodude
+
+forkaround (forking software to fix a problem)
+
+mygration
+
+Sratuday (when your food on Fryday was really bad) © LR
+
+starturday
+
+skeletone
+
+langauge (metric of intelligence?)
+
+curtesy
+
+dendelion
+
+dengeon
+
+idiotlogy © LR
+
+fashionst
+
+bigture
+
+aztech
+
+insideful
+
+pigture
+
+doversify
+
+mixstake
+
+orkaround
+
+amonkst
+
+appushiated
+
+conpetent
+
+anormaly
+
+longcher
+
+offul
+
+sleepstream © LR
+
+duoable © LR
+
+cloisterophobic
+
+sanitymental © LR
+
+guesterday
+
+guessterday
+
+omnisia (forget everything)
+
+meanwhine
+
+mooment
+
+mercynary © LR
+
+merchenary
+
+jesture
+
+workoing
+
+violens
+
+violince
+
+violance
+
+lewdicrous
+
+upserve (upsell a service)
+
+storeage
+
+restponse
+
+sombering
+
+clottered
+
+strongth
+
+diffault
+
+ma'amtenance
+
+cumbersation
+
+dodgic (dodgy logic) © LR
+
+garbag © LJ
+
+axcavation
+
+slowppy
+
+disgussed
+
+cheasy
+
+punchure
+
+axellent
+
+lewdonarrative
+
+truemendous
+
+agreedment
+
+controll
+
+blastphemy
+
+whoreganization © LR
+
+ambitchous (bitchy-ambitious) © LR
+
+cognisphere (Essentially a place, especially an intangible theoretical one where one acquired knowledge, likely in a plenum) © LJ
+
+mugkings (mug markings) © LJ
+
+queery
+
+guarden
+
+arhive
+
+larobotory
+
+rainge
+
+troiler
+
+smartket
+
+listenerd
+
+e-ducat-ion
+
+"hoolidays" (holidays with increased presence of hooligans) © LR
+
+appstract
+
+combot
+
+wrequiem
+
+infestival
+
+mug-a-structure © LR
+
+mekastructure
+
+wark
+
+airrow
+
+skepticles (spectacles you wear when you're sceptical) © LR
+
+trashure (treasure that's trash, or vice versa) © LR
+
+frogment
+
+exorcyst
+
+boredome
+
+filthmates (dirty flatmates) © LR
+
+flatmotes (dirty flatmates) © LJ
+
+"scolding hot"
+
+limbido
+
+vitamineral
+
+abduckt
+
+spawntaneous
+
+revaulting
+
+erectric
+
+mugly
+
+storange
+
+prioritits
+
+redible
+
+shamean
+
+wee men
+
+prepair
+
+thingfully
+
+capabling
+
+slaggish
+
+leecherous
+
+leecherally
+
+sellect
+
+postpawn
+
+iridecent  © LR
+
+backlong © LR
+
+abusement (abuse for amusement) © LR
+
+experimence (experience gained from experiments) © LR
+
+cloathing
+
+djinnetic
+
+illuminazi © LJ
+
+priviledge
+
+cheapost
+
+cheapset © LR
+
+roombamate (roommate who cleans up after everyone) © LJ
+
+okaysional
+
+derelicat
+
+frogrance (using frog extract for perfume) © LJ
+
+trainsport
+
+aviatar
+
+kracken
+
+ubique
+
+foolscreen
+
+ingrease
+
+floatilla
+
+robody
+
+hackcess
+
+grund
+
+fatshion
+
+cementery
+
+birden
+
+mynority
+
+knowhere
+
+killonova
+
+techture
+
+sindicate
+
+resinstance
+
+layter
+
+pawnd
+
+tortuary
+
+afcave
+
+lazyr
+
+encrouch
+
+electrick
+
+tentickle
+
+helld
+
+lawker
+
+cystem
+
+scamdinavian
+
+djinnerator
+
+succrifice
+
+wretchiment
+
+chilldish
+
+televator
+
+boonty
+
+riputation
+
+clusterophobic
+
+castomize
+
+riplace
+
+hopfully
+
+evengefully
+
+suretcut
+
+do-nation
+
+feelter
+
+derp cheap
+
+freequeency
+
+freequency
+
+okaysional
+
+epilapsy
+
+newthrall
+
+buypass
+
+violens
+
+ultraviolent
+
+inderpolation
+
+cooltivate
+
+materpiece
+
+feelth
+
+sensorship
+
+aimunition
+
+mugnetic (attractive face)
+
+combatibility
+
+sixstem
+
+electrick
+
+arsonal (pyrotechnics)
+
+crewcible
+
+taveurn
+
+trendsaction
+
+twogather
+
+gasteroid
+
+insinerate
+
+pipsquick
+
+farmiliar
+
+importent
+
+plog (slogging plot)
+
+buycicle
+
+raindom
+
+infission (taking an internal sample)
+
+confission (confusing confession that splits the pair)
+
+mixol
+
+fruster
+
+improoment (making space)
+
+emberassing
+
+embearassing
+
+immeatiate
+
+rampants
+
+portalable
+
+Whenceday
+
+cantch-22 (you can't)
+
+dealivery
+
+peerform
+
+thingk
+
+dickficult
+
+grandom
+
+grandmiral
+
+printsess
+
+catmatic (free-thinking)
+
+placeholdear
+
+placeholdeer
+
+veersion
+
+eerror (eerie mistake)
+
+chargear
+
+plausiable
+
+tailsman
