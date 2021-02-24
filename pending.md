@@ -1,3 +1,83 @@
+gophernment (state run by uplifted, sentient gophers?; state run by Go developers?) © LJ
+
+deckstop © Madiat
+
+koñdom (home for 🐴; plastic dome that keeps 🐴 inside) © Yury [🐴]
+
+koñtingency (when 🐴 are out of koñtrol) © LR [🐴]
+
+koñcurrent (🐴 racing each other) © Yury [🐴]
+
+koñtinent (where wild 🐴 are abundant) © Yury [🐴]
+
+koñtinuum (endless stream of 🐴 puns) © Yury [🐴]
+
+liesense (being able to tell when one is lying, i.e. not accepting someone's _liecense_) © LR
+
+liecense (permission to lie) © LR
+
+fartist (produces modern art) © LJ
+
+delaytency (also known as lagtency) © LJ
+
+immigrunt © LJ
+
+districkt (has a difficult-to-navigate layout)
+
+dishtrict (full of kitchenware shops)
+
+phonectionality
+
+sentense (gets everyone nervous)
+
+lucksury (exquisite and hard to find; brings sure luck)
+
+workship
+
+disgussion
+
+fallder © Yury
+
+manyfold
+
+pisstol
+
+moneypulation
+
+fixion
+
+arrestocrat (arrested in development)
+
+eitherwise
+
+hacksess (access granted) © LJ
+
+intelligentle
+
+intelligenter (more intelligent) © LJ
+
+weekness
+
+reguestration
+
+entyre
+
+provocat
+
+behavor
+
+supperstition © LR
+
+stuperstition
+
+mugshroom © LJ
+
+Confusianism © LJ
+
+apparation
+
+dreadmill
+
 coinside
 
 concider
@@ -71,6 +151,8 @@ risqueue
 reaperposed
 
 hadtch
+
+forthtune
 
 fourthtune
 
@@ -357,6 +439,8 @@ koñtroll © Yury [🐴]
 corporat (someone who bootlicks or defends corporations/consumerism) © LJ
 
 dogmestication © LJ
+
+domesticat © LJ
 
 messtake
 
@@ -1922,7 +2006,7 @@ helld
 
 lawker
 
-cystem
+cystem (has malign growths)
 
 scamdinavian
 
