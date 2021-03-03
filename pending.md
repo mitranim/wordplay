@@ -1,3 +1,47 @@
+jollyfish
+
+terriball
+
+eclectric
+
+simplement
+
+goplin [ru]
+
+centense
+
+blyame © Yury [ru]
+
+gorodock (small port town) [ru]
+
+gorodog (dog town) © LJ [ru]
+
+"Horsus Heresy" (one giant koñ) © LR [🐴]
+
+"needles to say"
+
+colonice (colonize something but be nice to natives) © LR
+
+dierection
+
+airticle (a bunch of hot air)
+
+modifee (payment for an upgrade) © Igor
+
+ambullance (ambulance that bullies you?) © LR
+
+paynding (not paid yet)
+
+frostrating (❄️)
+
+mulltiplayer
+
+plotform
+
+tearminate (😭) © Yury
+
+tornminate (tear the agreement)
+
 gophernment (state run by uplifted, sentient gophers?; state run by Go developers?) © LJ
 
 deckstop © Madiat
@@ -386,7 +430,7 @@ indentional
 
 unfuckenate
 
-infactious
+infaction (undeniable, unforgettable facts)
 
 treeck
 
