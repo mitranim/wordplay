@@ -1,3 +1,49 @@
+suckspicious (when your behaviour is so obvious and you're that bad at covering up your guilt that everyone knows it's you) © LJ
+
+genierosity (when a 🧞‍♂️ is generous) © LR
+
+aluminimum © LJ
+
+conspirituality (spiritual conspiracy?) © LR
+
+villionaire (rich villain) © LR
+
+koñsequence (horse procession) © LR
+
+bonebardment
+
+motification © LR
+
+prodocol
+
+chokeolate
+
+correactly
+
+deveiloper
+
+adwise
+
+addwise © LR
+
+cancell
+
+raindom
+
+aveilable
+
+dieversion
+
+abducktion (when you steal a 🦆 ... or a 🦆 steals you) © LR
+
+kozino © LR
+
+biginning
+
+asscourt (to flirt someone based on the very basal appreciation of their behind) © LJ
+
+sortcut (being a bit more lazy when it comes to sorting things properly) © LR
+
 jollyfish
 
 terriball
