@@ -1,3 +1,73 @@
+finction (financial feature or action)
+
+shirtcut
+
+patriodick © LJ
+
+litteral (absolute garbage; garbage in the sea (littoral) © LJ) © LR
+
+Novgurod (ugly new city) © LJ
+
+eliteronics (elite electronics) © LR
+
+pryvacy (when you pry personal information out of someone) © LR
+
+snottytude © LJ
+
+ismackulate (a cleanly-executed smack) © LJ
+
+soplitude (when you have a cold alone or something) © LR
+
+lien (line that's lying) © LR
+
+koñspire (🐴🗼) © LJ [🐴]
+
+koñcurrency (🐴💵) © LR [🐴]
+
+"kavat emptor" (getting ripped off, via cat in bag) © LR [warframe]
+
+queuecumbersome (something like an annoying queue you're stuck in) © LJ
+
+immediadatedly (something urgent that was not fulfilled on time) © LJ
+
+painfool (someone who keeps hurting himself out of their own incompetence) © LJ
+
+innterest
+
+hopefill
+
+griefcase (emotional baggage)
+
+arrgument
+
+numbear
+
+plati-num (a number that you pay) [ru]
+
+appbroach
+
+armoar (never thicc enough)
+
+cateogries
+
+methadata © Igor
+
+lieting (color-corrupting lighting)
+
+angrygation (precursor to a riot) © LR
+
+commplete
+
+dumbdgeon
+
+degenerat (genetically degraded rodent)
+
+intreensic
+
+wreckless
+
+dogpilled © LJ
+
 suckspicious (when your behaviour is so obvious and you're that bad at covering up your guilt that everyone knows it's you) © LJ
 
 genierosity (when a 🧞‍♂️ is generous) © LR
