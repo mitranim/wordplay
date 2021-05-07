@@ -1,3 +1,99 @@
+introfucktion © Yury
+
+introducktion © Yury
+
+peekture (only caught a glimpse)
+
+librarey (library of rares) © LR
+
+contex
+
+incubator (cube makes cubs)
+
+corporeality (material universe)
+
+frequest (frequent request) © LR
+
+hypocracy (a govnovernment form based on lies and deception, run by Kremlinals no doubt) © LJ
+
+kremlinal (blatantly corrupt Russian politician working out of Moscow specifically) © LJ
+
+seekurity (when you're looking to hire some; or maybe when the guards are alerted and looking for you) © LR
+
+sickurity © LR
+
+edirtor
+
+astunishing
+
+relick
+
+koñfactionary © LR [🐴]
+
+candydate
+
+mailwhere (hijacks email?) © Yury
+
+"deal with the debil" (😈) © Yury
+
+logeek © LR
+
+litteracy (when you've read a lot but it's all garbage) © LR
+
+kotegory (in a cat-a-log) [🐈]
+
+afterwords (after a talk) © Yury
+
+publick
+
+cattacked © LJ
+
+cosmedic (not a real medic, cosplaying one)
+
+longin (authentication that takes forever)
+
+feliny (feline felony) © LR
+
+mythodology (only rumored to work)
+
+horrorscope (horoscope full of horrifying predictions) © LR
+
+politheist (religious ideologue in politics) © LJ
+
+popsuckle
+
+popsickle
+
+playting (noisy toy?)
+
+inapt
+
+memesis (nemesis that generates plenty of memes (like Marauder Shields) or someone who makes such awful puns/memes that you're reconsidering your friendship status because you want to MURDER them) © LR
+
+clinet (network of clients)
+
+whyolence (fighting for an unclear reason) © LR
+
+defailt
+
+annoygance (annoying arrogance) © LJ
+
+inhairitence (when you get a wig made out of real hair) © LJ
+
+lockate (get a lock on target)
+
+torchure
+
+artifucked
+
+commduit (transmission relay)
+
+enjoin (join in enjoyment, like an MP game) © LR
+
+sinthesis (sinful thesis? synthesis through sin?; impregnation; apocrypha: thesis that gets you excommunicated, therefore a sinner) © LR
+
+separat (loner away from pack)
+
 finction (financial feature or action)
 
 shirtcut
@@ -1318,8 +1414,6 @@ beerable
 
 lagluster
 
-mailware © LR
-
 veryable © Yury
 
 companent © Yury
@@ -1790,6 +1884,8 @@ spyral
 
 deathimated
 
+infilthtrait (infiltrate and imbue with filthy traits) © LR
+
 infilthtraitor
 
 infilthtrator
@@ -2202,9 +2298,9 @@ feelter
 
 derp cheap
 
-freequeency
+freequeency (vacant queen position?)
 
-freequency
+freequency (unoccupied frequency) © LR
 
 okaysional
 
