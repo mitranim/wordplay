@@ -1,3 +1,157 @@
+paintenance (prophylaxis against injury at a doctor or so) © LJ
+
+supricing (surprisingly expensive/cheap) © LJ
+
+meatadata (very juicy 🍖)
+
+hurtbeat (💔🔨; arrhythmia) © Yury
+
+visionair (some hallucinogenic gas) © LJ
+
+worsion (worse version) © LR
+
+ickspectation (preparing for something unpleasant)
+
+sortier (for sorting out the crap 🚽) [ru]
+
+cloock (can't stop checking ⌚)
+
+killometer (kill statistic) © LJ
+
+app-roach
+
+pigeonback (the way mail is delivered by carrier pigeons 🐦📜) © LJ
+
+procesters (people against the machine) © LJ
+
+spindustry (company producing fans, propellers etc; those who _twist_ information; gossiping hens) © LJ
+
+primitech
+
+artistick (paintbrush/easel?) © LJ
+
+indeathted (indebted in death, like with the mafia) © LJ
+
+troublem (try hearing this in your head)
+
+physicopath (mental health doctor; mad scientists) © LJ
+
+policement [ru]
+
+inventation ("feel free to vent") © LR
+
+purposal
+
+finealized
+
+forbirden (for 🦜en) © Yury
+
+paradies (what muslims believe in: paradise after death; alternatively, paradise lost) © LR
+
+fanction (fan fiction? fan action? fan function? fun faction?)
+
+daemoon (🌚😈)
+
+deeposit (located deep underground) © LR
+
+naughtylus © LR
+
+sequelies (one lie after another) © LR
+
+warfair (chivalry) © LR
+
+bredbox (aka TV) © LR [ru]
+
+enlieten © LR
+
+cowalry (riding cows 🐄) © LR
+
+boorbarian (really dim barbarians, if that's possible) © LJ
+
+"amnity/emity" (some sort of love-hate-relationship perhaps? ❤💔) © LJ
+
+archtefact (made by architects)
+
+koñscience (animal empathy; horse studies 🐴🔬) [🐴]
+
+"feetal position" (when one is standing on one's own feet 🦶) © LJ
+
+foetish (trying not to imagine)
+
+feetish (foot fetish 🦶) © LJ
+
+highbrid (high breed hybrid) © LR
+
+dragone (a dragon that's gone or defeated) © LR
+
+sinosaur (chinese dragon) © LJ
+
+dungen (dungeon generator) © LR
+
+sircle (a society of gentlemen) © LR
+
+foroom (congregation in a closed space) © LR
+
+ledeer (alpha deer 🦌) © LR
+
+democratorship (a dictatorship that at least pretends to be democratic) © LJ
+
+chessplate (♟)
+
+sicknificant (lethal illness?) © LJ
+
+equiviolent (equivalently aggressive) © LR
+
+whyriety (questionable variety, like someone's wardrobe) © LR
+
+dielogue (dialogue that ends in one party dying) © LR
+
+wrecklamation (can't tell if repairing it, or wrecking harder) © LR
+
+erudeite (an insufferable know-it-all) © LJ
+
+kotegory (in a cat-a-log 🐈)
+
+litteracy (when you've read a lot but it's all garbage) © LR
+
+pur-chase (something you keep looking for, but can't buy?) © Igor
+
+suspic
+
+preent (pretty-print, preen before printing)
+
+shoretcut
+
+eeksplosion (of ick)
+
+daemoon (🌚😈)
+
+deeposit (located deep underground) © LR
+
+talong
+
+sirtificate
+
+lendscape (land that you rent, or rent out to someone; not borrowscape)
+
+cyclick © Yury
+
+empression
+
+commend
+
+addigtive
+
+dung-geon
+
+combi-nation
+
+calibear (Californian bear?) © LR
+
+aimbush
+
+govknowerment (surveillance state)
+
 introfucktion © Yury
 
 introducktion © Yury
@@ -44,9 +198,9 @@ kotegory (in a cat-a-log) [🐈]
 
 afterwords (after a talk) © Yury
 
-publick
+publick (attacked by dog attention in public?)
 
-cattacked © LJ
+cattacked (🐈) © LJ
 
 cosmedic (not a real medic, cosplaying one)
 

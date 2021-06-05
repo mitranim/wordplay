@@ -2008,7 +2008,7 @@ infiltraitor
 
 windoors
 
-dipslay (murder for show;)
+dipslay (murder for show)
 
 deepslay
 
