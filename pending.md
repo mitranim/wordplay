@@ -1,3 +1,93 @@
+blyasphemous © LR [ru]
+
+mordarus (dangerous gopnik?) © LJ [ru]
+
+lawsued (instigated by gov prosecutor)
+
+lowsued
+
+lowsuit © LR
+
+suecide (frame someone for your death?)
+
+soupstrate
+
+techtile (touch technology)
+
+allyen (👽)
+
+Dooma (parliament up to no good) © LR [ru]
+
+Dumass (Russian parliamentary official) © LJ
+
+digdefied (defy/prevent something with dignity and class) © LJ
+
+proofile (identity document?)
+
+reliarble © LR
+
+translater (a lazy one) © LR
+
+boorocrazy © LR
+
+boorocrat © LR
+
+hornmone (either makes you horny, or makes you want to play 📯)
+
+whoremons (📯) © LR
+
+overhole (overhaul that doesn't end up well) © LR
+
+augMENT (🤖👮; cop that oppresses crippled individuals with cyber-prosthetics; cop with cyber-prosthetics; cerebral enhancement, such as extra cogitators) © LR
+
+axterminate (💀🪓)
+
+ballance
+
+carrent
+
+threategy
+
+goption
+
+coronatin
+
+"caught by a kot" (🐈) © LR
+
+ghoulem (animated dead flesh?)
+
+appearatus (teleportation engine; holographic projector) © LJ
+
+educat (кот учёный 😼) © LR [ru]
+
+narkotik (addictive 🐈) [ru]
+
+asscertain
+
+cointent (👛🐴; using a safe for storing money? 👎; storing your money in the bank? 🙅‍; putting your money in a tent? 🤑)
+
+monotics (implied by existence of politices; maybe autocracies/dictatorships?) © LJ
+
+inport (arrives by ship 🚢) © Yury
+
+emergentsy © LR
+
+rundevu (rushing to meet)
+
+Bullgaria (land of 🐂) © Yury
+
+bullshield (immunity to nonsense 🛡🐂) © Yury
+
+mooderation (mood correction) © Yury
+
+incorrection (when you correct someone but it's actually wrong) © LJ
+
+bullshed (where bull belongs)
+
+errorgant © LR
+
+herpoon (hooks you up)
+
 paintenance (prophylaxis against injury at a doctor or so) © LJ
 
 supricing (surprisingly expensive/cheap) © LJ
