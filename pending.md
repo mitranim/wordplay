@@ -1,3 +1,69 @@
+forkast (a prophecy with many outcomes)
+
+randoom (sudden death) © LJ
+
+suckseed
+
+superbole (if there's "hyperbole", why not this?)
+
+esteamed
+
+elicktricity
+
+triumphirate
+
+lawndering (lawful way to launder money; lawn irrigation) © LR
+
+invextigate © LJ
+
+topig
+
+agentda (🕵) © LJ
+
+agross
+
+iconsistent
+
+mugmory (memory for faces) © LJ
+
+trailblyazer © LR
+
+transmite (parasite contagion)
+
+peckage (bunch of bird feed?)
+
+enterface (newcomer?) © Yury
+
+painguin (lived too long for its species)
+
+"pain customers" (💸😭)
+
+"gopy paste" (plagiarize; "lift" supposedly secret information that you found)
+
+"hit wave" (🔥🔨)
+
+stategy (for min-maxers who win by jerking off to stat bonuses) © LJ
+
+moneyfestation © LR
+
+pithon (when you write pithy comments using/about python) © LJ
+
+manafestation (manifestation of magic) © LJ
+
+tutrial © kostanye
+
+witchet (enchanted widget) © LJ
+
+respwning (when you get a second wind after getting pwned) © LJ
+
+lattency (latte served late) © LR
+
+retreeve (from high branches)
+
+bustard (bloody bus that's tardy again) © LR
+
+worklaud (when you keep boasting how busy you are) © LR
+
 blyasphemous © LR [ru]
 
 mordarus (dangerous gopnik?) © LJ [ru]
@@ -907,6 +973,8 @@ derpty
 debillitating
 
 debuilder
+
+debilops
 
 debilopers
 
@@ -2497,8 +2565,6 @@ afcave
 lazyr
 
 encrouch
-
-electrick
 
 tentickle
 
