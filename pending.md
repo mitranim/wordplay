@@ -1,3 +1,169 @@
+domesticage © LR
+
+clame (BS assertion) © LR
+
+abnility (something you _can't_ do)
+
+badtch
+
+sicknonym (for a misdiagnosed illness) © LJ
+
+dyenamic (changes colors constantly) © LR
+
+outrangeous (such a stretch that it infuriates) © LJ
+
+bugfox (hunting down to squash it 🦊🐞)
+
+epithany (when you come up with a smart comeback quickly on the spot) © LJ
+
+pitfail
+
+aportunity (free partking slot in a port?)
+
+armputation © LJ
+
+aswinine
+
+assinine
+
+subscraption © Yury
+
+modoll
+
+rudent (🐁🤬) © LJ
+
+autonomouse (loner 🐁)
+
+interfaeces (typical OOP)
+
+electrickcity (unreliable) © LR
+
+trainwerk
+
+actopus (🐙) © Yury
+
+Actober (when things happen)
+
+refucktoring
+
+icknore
+
+reeliable (always makes you shake)
+
+"the existence of 'heresy' implies the existence of 'theresy'" © LR
+
+reprehandsible (mittens going where they don't belong)
+
+busybility (pretending to work) © LR
+
+neighboor © LJ
+
+whoresman © LJ
+
+uroad (typical russian road) © LR
+
+safekeyping (securely under lock and key)
+
+categlory © Yury
+
+anywear (clothes for every occasion) © LR
+
+sembalance (approximation of fairness)
+
+immigrunt (unqualified immigrant) © LR
+
+lawndry (doing or rather hanging your laundry up in the garden; irrigating / cleaning your lawn) © LJ
+
+koñnection (🐴 socializing / 🐴 attachment)
+
+koñstitution (🐴 power?) © Yury [🐴]
+
+ourganization (as opposed to theirganization) © LR
+
+cellery (well-packed assortment of greens) © LJ
+
+"the existence of 'admin' implies the existence of 'admax'" (the former is when you have adblocker installed, the latter is if you do not) © LR
+
+oddmin
+
+koñnibalism [🐴]
+
+"the existence of 'lesson' implies the existence of 'moreon'"
+
+laterr (when your tardiness causes a big issue down the line) © LJ
+
+stalcur (canine stealth tracking)
+
+passified
+
+whatch
+
+seet (before 📺)
+
+dieversion (fatal) © LR
+
+augwomentation
+
+boobster (breast augmentation) © LR
+
+understandebil © LJ
+
+koñdidate (🐴 that could potentially win a race) © LR
+
+slaggish
+
+negatiation (failed negotiations) © LJ
+
+negoatiation (when your diplomacy runs on 🐐) © LR
+
+techtics © LR
+
+demoncracy (😈) © LJ
+
+"matrial law" (matriarchal hegemony) © LJ
+
+koñvict (horse thief) © LJ [🐴]
+
+trusters (pray for them to get you there) © LR
+
+higherarchy
+
+heirarchy (order of inheritance) © LR
+
+hairarchy (mandated haircuts like in North Korea) © LR
+
+herarchy (matriarchy [en]; based on dong size [ru]) © LR
+
+hirearchy (pay to have a whole clan on your side) © LR
+
+heararchy (familiar to you) © LR
+
+herearchy (local only) © LR
+
+koñterfeit (Trojan horse; a pony peddled as a young horse; a lowborn horse peddled as a high breed; probably more) [🐴]
+
+cointerfitter (someone peddling counterfeit coins) © LJ
+
+cuntstomer (one that can just straight up fuck off) © LR
+
+custormer (really impatient ones that try to get into the store early/late) © LR
+
+cusstomer (rude customer) © LJ
+
+meadicine (Skyrim-level healthcare 🍯🍺💊)
+
+sisyphon © LJ
+
+abugdance (plenty of bugs like this upgrade) © LR
+
+safare (a fee you have to pay for a safari) © Yury
+
+inhiretance © Yury
+
+inheretense © Yury
+
+embadded (not inserted properly) © Yury
+
 forkast (a prophecy with many outcomes)
 
 randoom (sudden death) © LJ
@@ -110,7 +276,7 @@ axterminate (💀🪓)
 
 ballance
 
-carrent
+carrent (busy roadway)
 
 threategy
 
@@ -2617,8 +2783,6 @@ okaysional
 epilapsy
 
 newthrall
-
-buypass
 
 violens
 

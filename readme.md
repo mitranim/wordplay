@@ -1728,7 +1728,7 @@ meleedrama (ends in violence, like Shakespeare works)
 
 injuraction (harmful interaction)
 
-chilldren
+chilldren (for laissez-faire parents)
 
 chilldrone
 
