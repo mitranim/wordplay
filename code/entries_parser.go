@@ -12,7 +12,7 @@ const (
 	LONG_SNIPPET_LEN  = 1024
 )
 
-func ParseEntries(src string) []Entry {
+func ParseEntries(src string) Entries {
 	defer try.Detail(`failed to parse string into entries`)
 
 	parser := MakeParser(src)
@@ -22,7 +22,7 @@ func ParseEntries(src string) []Entry {
 
 type Parser struct {
 	Source  string
-	Entries []Entry
+	Entries Entries
 
 	cursor int // must be == (row + 1) * (col + 1)
 	row    int
@@ -31,7 +31,8 @@ type Parser struct {
 }
 
 func MakeParser(content string) Parser {
-	return Parser{Source: content, Entries: make([]Entry, 0, 2048)}
+	// return Parser{Source: content, Entries: make(Entries, 0, 2048)}
+	return Parser{Source: content}
 }
 
 func (self *Parser) Parse() {
@@ -228,7 +229,7 @@ func (self *Parser) appendTag(val string) {
 }
 
 func (self *Parser) entryFlush() {
-	self.Entries = append(self.Entries, self.entry)
+	self.Entries = self.Entries.Append(self.entry)
 	self.entry = Entry{Author: self.entry.Author}
 }
 

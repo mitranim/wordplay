@@ -27,7 +27,7 @@ var tokenSource = oauth2.StaticTokenSource(&oauth2.Token{AccessToken: ACCESS_TOK
 type IndexDat struct {
 	Version CommitHash
 	Grouped EntryMap
-	Entries []Entry
+	Entries Entries
 }
 
 func main() {
@@ -113,7 +113,7 @@ func ReadBackingFile(ctx Ctx) (string, CommitHash) {
 	return content, CommitHash(repoContent.GetSHA())
 }
 
-func ReadAndParseBackingFile(ctx Ctx) ([]Entry, CommitHash) {
+func ReadAndParseBackingFile(ctx Ctx) (Entries, CommitHash) {
 	defer try.Detail(`failed to read and parse backing file`)
 	content, version := ReadBackingFile(ctx)
 	entries := ParseEntries(content)

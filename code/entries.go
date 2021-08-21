@@ -1,5 +1,15 @@
 package main
 
+type Entries []Entry
+
+func (self Entries) Append(val Entry) Entries {
+	return append(self, val)
+}
+
+func (self Entries) AppendMany(vals ...Entry) Entries {
+	return append(self, vals...)
+}
+
 type Entry struct {
 	Author   string
 	Phrase   string
@@ -103,24 +113,24 @@ func (self *Entry) appendTag(val string) {
 // A simplistic "ordered map" for lists of entries.
 type EntryMap struct {
 	Keys []string
-	Map  map[string][]Entry
+	Map  map[string]Entries
 }
 
-func (self EntryMap) Ungroup() []Entry {
+func (self EntryMap) Ungroup() Entries {
 	total := 0
 	for _, list := range self.Map {
 		total += len(list)
 	}
 
-	out := make([]Entry, 0, total)
+	out := make(Entries, 0, total)
 	for _, key := range self.Keys {
-		out = append(out, self.Map[key]...)
+		out = out.AppendMany(self.Map[key]...)
 	}
 	return out
 }
 
-func GroupEntries(entries []Entry, fun func(Entry) string) EntryMap {
-	grouped := EntryMap{Map: map[string][]Entry{}}
+func GroupEntries(entries Entries, fun func(Entry) string) EntryMap {
+	grouped := EntryMap{Map: map[string]Entries{}}
 	for _, entry := range entries {
 		key := fun(entry)
 
@@ -135,19 +145,19 @@ func GroupEntries(entries []Entry, fun func(Entry) string) EntryMap {
 			grouped.Keys = append(grouped.Keys, key)
 		}
 
-		grouped.Map[key] = append(grouped.Map[key], entry)
+		grouped.Map[key] = grouped.Map[key].Append(entry)
 	}
 	return grouped
 }
 
-func GroupEntriesByAuthor(entries []Entry) EntryMap {
+func GroupEntriesByAuthor(entries Entries) EntryMap {
 	return GroupEntries(entries, Entry.GetAuthor)
 }
 
 // Unused.
-func IntersperseEntriesByAuthor(entries []Entry) []Entry {
+func IntersperseEntriesByAuthor(entries Entries) Entries {
 	grouped := GroupEntriesByAuthor(entries)
-	ungrouped := make([]Entry, 0, len(entries))
+	ungrouped := make(Entries, 0, len(entries))
 	_ = grouped
 
 	// for len(ungrouped) < len(entries) {

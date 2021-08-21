@@ -2,7 +2,7 @@ package main
 
 // Assumes entries have been normalized. TODO enforce normalization: sort by
 // author first.
-func FormatEntries(entries []Entry) (buf []byte) {
+func FormatEntries(entries Entries) (buf []byte) {
 	var author string
 
 	for _, entry := range entries {
@@ -17,7 +17,7 @@ func FormatEntries(entries []Entry) (buf []byte) {
 	return buf
 }
 
-func FormatEntriesNew(entries []Entry) (buf []byte) {
+func FormatEntriesNew(entries Entries) (buf []byte) {
 	for _, entry := range entries {
 		buf = entry.Append(buf)
 	}
