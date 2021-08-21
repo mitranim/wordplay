@@ -227,7 +227,7 @@ func (self *Parser) appendTag(val string) {
 }
 
 func (self *Parser) entryFlush() {
-	self.Entries = self.Entries.Append(self.entry)
+	self.Entries = append(self.Entries, self.entry)
 	self.entry = Entry{Author: self.entry.Author}
 }
 

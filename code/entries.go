@@ -2,14 +2,6 @@ package main
 
 type Entries []Entry
 
-func (self Entries) Append(val Entry) Entries {
-	return append(self, val)
-}
-
-func (self Entries) AppendMany(vals ...Entry) Entries {
-	return append(self, vals...)
-}
-
 type Entry struct {
 	Author   string
 	Phrase   string
@@ -124,7 +116,7 @@ func (self EntryMap) Ungroup() Entries {
 
 	out := make(Entries, 0, total)
 	for _, key := range self.Keys {
-		out = out.AppendMany(self.Map[key]...)
+		out = append(out, self.Map[key]...)
 	}
 	return out
 }
@@ -146,7 +138,7 @@ func GroupEntries(entries Entries, fun func(*Entry) string) EntryMap {
 			grouped.Keys = append(grouped.Keys, key)
 		}
 
-		grouped.Map[key] = grouped.Map[key].Append(*entry)
+		grouped.Map[key] = append(grouped.Map[key], *entry)
 	}
 	return grouped
 }

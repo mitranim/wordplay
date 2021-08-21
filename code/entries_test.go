@@ -68,24 +68,25 @@ func TestAppendEntry(t *testing.T) {
 	const secondAuthor = "2 9ceea2c8039da1aa931395534064059a2e77"
 	const lastAuthor = "1 b76ef9342a9431f3cbd85a775e8b630bdb6d"
 
-	unsorted := Entries{
-		Entry{
-			Author:   firstAuthor,
-			Phrase:   "5ba2388d355805ac6cc2c37edb90aef56da0",
-			Meanings: []string{"8ca04ae07a87fb5206a6c774cb1a857df307"},
+	unsorted := append(
+		Entries{
+			Entry{
+				Author:   firstAuthor,
+				Phrase:   "5ba2388d355805ac6cc2c37edb90aef56da0",
+				Meanings: []string{"8ca04ae07a87fb5206a6c774cb1a857df307"},
+			},
+			Entry{
+				Author:   secondAuthor,
+				Phrase:   "bf6d6e13ffe18617e904bac818b598a91bd6",
+				Meanings: []string{"f7b2897b7b101f9edb094828ed588da36fe6"},
+			},
 		},
-		Entry{
-			Author:   secondAuthor,
-			Phrase:   "bf6d6e13ffe18617e904bac818b598a91bd6",
-			Meanings: []string{"f7b2897b7b101f9edb094828ed588da36fe6"},
-		},
-	}.
-		AppendMany(ParseEntries(tSrc)...).
-		Append(Entry{
+		append(ParseEntries(tSrc), Entry{
 			Author:   lastAuthor,
 			Phrase:   "5f478fa6662b8a7d4be27f10bc5c4e2ea92a",
 			Meanings: []string{"979b8a0b47fc310e8d1c62895d9600dffe91"},
-		})
+		})...,
+	)
 
 	sorted := GroupEntriesByAuthor(unsorted).Ungroup()
 
@@ -98,7 +99,7 @@ func TestAppendEntry(t *testing.T) {
 		Phrase:   "d1389aa76cbdbc33dee9235a8abdd9ae8d5a",
 		Meanings: []string{"4640b6b52a6da70f70085366f727b20610b4"},
 	}
-	unsorted = unsorted.Append(inserted)
+	unsorted = append(unsorted, inserted)
 
 	sorted = GroupEntriesByAuthor(unsorted).Ungroup()
 
