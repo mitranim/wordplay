@@ -31,7 +31,6 @@ type Parser struct {
 }
 
 func MakeParser(content string) Parser {
-	// return Parser{Source: content, Entries: make(Entries, 0, 2048)}
 	return Parser{Source: content}
 }
 
@@ -186,7 +185,6 @@ func (self *Parser) appendMeaning(val string) {
 	self.entry.appendMeaning(val)
 }
 
-// Untested!
 func (self *Parser) entryTags() {
 	self.space()
 	if !self.scannedChar('[') {
@@ -369,7 +367,7 @@ func (self *Parser) reqMore(char rune, size int, delim rune) {
 	}
 }
 
-func (self Parser) err(err error) ParseErr {
+func (self *Parser) err(err error) ParseErr {
 	return ParseErr{
 		Row:     self.row,
 		Col:     self.col,

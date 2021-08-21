@@ -21,20 +21,20 @@ type Entry struct {
 	Col int
 }
 
-func (self Entry) Append(buf []byte) []byte {
+func (self *Entry) Append(buf []byte) []byte {
 	buf = self.AppendContent(buf)
 	buf = self.AppendAuthor(buf)
 	buf = appendNewlines(buf)
 	return buf
 }
 
-func (self Entry) AppendOld(buf []byte) []byte {
+func (self *Entry) AppendOld(buf []byte) []byte {
 	buf = self.AppendContent(buf)
 	buf = appendNewlines(buf)
 	return buf
 }
 
-func (self Entry) AppendContent(buf []byte) []byte {
+func (self *Entry) AppendContent(buf []byte) []byte {
 	if len(self.Phrase) > 0 {
 		buf = self.AppendPhrase(buf)
 	}
@@ -52,7 +52,7 @@ func (self Entry) AppendContent(buf []byte) []byte {
 	return buf
 }
 
-func (self Entry) AppendPhrase(buf []byte) []byte {
+func (self *Entry) AppendPhrase(buf []byte) []byte {
 	if strHas(self.Phrase, isWhitespace) {
 		buf = append(buf, `"`...)
 		buf = append(buf, self.Phrase...)
@@ -63,7 +63,7 @@ func (self Entry) AppendPhrase(buf []byte) []byte {
 	return buf
 }
 
-func (self Entry) AppendMeanings(buf []byte) []byte {
+func (self *Entry) AppendMeanings(buf []byte) []byte {
 	if self.HasMeanings() {
 		buf = append(buf, "("...)
 		buf = appendJoined(buf, "; ", self.Meanings)
@@ -72,7 +72,7 @@ func (self Entry) AppendMeanings(buf []byte) []byte {
 	return buf
 }
 
-func (self Entry) AppendTags(buf []byte) []byte {
+func (self *Entry) AppendTags(buf []byte) []byte {
 	if self.HasTags() {
 		buf = append(buf, "["...)
 		buf = appendJoined(buf, "; ", self.Tags)
@@ -81,7 +81,7 @@ func (self Entry) AppendTags(buf []byte) []byte {
 	return buf
 }
 
-func (self Entry) AppendAuthor(buf []byte) []byte {
+func (self *Entry) AppendAuthor(buf []byte) []byte {
 	if len(self.Author) > 0 {
 		buf = append(buf, " © "...)
 		buf = append(buf, self.Author...)
@@ -89,7 +89,7 @@ func (self Entry) AppendAuthor(buf []byte) []byte {
 	return buf
 }
 
-func (self Entry) AppendAuthorOld(buf []byte) []byte {
+func (self *Entry) AppendAuthorOld(buf []byte) []byte {
 	if len(self.Author) > 0 {
 		buf = append(buf, "# "...)
 		buf = append(buf, self.Author...)
@@ -98,9 +98,9 @@ func (self Entry) AppendAuthorOld(buf []byte) []byte {
 	return buf
 }
 
-func (self Entry) GetAuthor() string { return self.Author }
-func (self Entry) HasMeanings() bool { return len(self.Meanings) > 0 }
-func (self Entry) HasTags() bool     { return len(self.Tags) > 0 }
+func (self *Entry) GetAuthor() string { return self.Author }
+func (self *Entry) HasMeanings() bool { return len(self.Meanings) > 0 }
+func (self *Entry) HasTags() bool     { return len(self.Tags) > 0 }
 
 func (self *Entry) appendMeaning(val string) {
 	self.Meanings = append(self.Meanings, val)
@@ -129,9 +129,10 @@ func (self EntryMap) Ungroup() Entries {
 	return out
 }
 
-func GroupEntries(entries Entries, fun func(Entry) string) EntryMap {
+func GroupEntries(entries Entries, fun func(*Entry) string) EntryMap {
 	grouped := EntryMap{Map: map[string]Entries{}}
-	for _, entry := range entries {
+	for i := range entries {
+		entry := &entries[i]
 		key := fun(entry)
 
 		keyKnown := false
@@ -145,13 +146,13 @@ func GroupEntries(entries Entries, fun func(Entry) string) EntryMap {
 			grouped.Keys = append(grouped.Keys, key)
 		}
 
-		grouped.Map[key] = grouped.Map[key].Append(entry)
+		grouped.Map[key] = grouped.Map[key].Append(*entry)
 	}
 	return grouped
 }
 
 func GroupEntriesByAuthor(entries Entries) EntryMap {
-	return GroupEntries(entries, Entry.GetAuthor)
+	return GroupEntries(entries, (*Entry).GetAuthor)
 }
 
 // Unused.
