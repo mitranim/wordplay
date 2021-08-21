@@ -23,14 +23,3 @@ func FormatEntriesNew(entries []Entry) (buf []byte) {
 	}
 	return buf
 }
-
-func isBlank(str string) bool {
-	for _, char := range str {
-		switch char {
-		case ' ', '\t', '\v', '\r', '\n':
-		default:
-			return false
-		}
-	}
-	return true
-}

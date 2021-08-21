@@ -31,7 +31,7 @@ type Parser struct {
 }
 
 func MakeParser(content string) Parser {
-	return Parser{Source: content}
+	return Parser{Source: content, Entries: make([]Entry, 0, 2048)}
 }
 
 func (self *Parser) Parse() {
@@ -182,7 +182,7 @@ func (self *Parser) appendMeaning(val string) {
 	if len(val) == 0 {
 		panic(self.err(e.New(`unexpected empty meaning`)))
 	}
-	self.entry.Meanings = append(self.entry.Meanings, val)
+	self.entry.appendMeaning(val)
 }
 
 // Untested!
@@ -224,11 +224,16 @@ func (self *Parser) appendTag(val string) {
 	if len(val) == 0 {
 		panic(self.err(e.New(`unexpected empty tag`)))
 	}
-	self.entry.Tags = append(self.entry.Tags, val)
+	self.entry.appendTag(val)
 }
 
 func (self *Parser) entryFlush() {
+	// self.Entries = append(self.Entries, self.entry)
+	// self.Entries = append(self.Entries, self.entry.Clone())
+
 	self.Entries = append(self.Entries, self.entry)
+	self.Entries[len(self.Entries)-1].Norm()
+
 	self.entry = Entry{Author: self.entry.Author}
 }
 
