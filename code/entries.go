@@ -1,18 +1,10 @@
 package main
 
-import "unsafe"
-
 type Entry struct {
-	Author string
-	Phrase string
-
-	Meaning     string
-	Meanings    []string
-	MeaningsArr [2]string
-
-	Tag     string
-	Tags    []string
-	TagsArr [2]string
+	Author   string
+	Phrase   string
+	Meanings []string
+	Tags     []string
 
 	// Unused.
 	Row int
@@ -64,7 +56,7 @@ func (self Entry) AppendPhrase(buf []byte) []byte {
 func (self Entry) AppendMeanings(buf []byte) []byte {
 	if self.HasMeanings() {
 		buf = append(buf, "("...)
-		buf = appendJoinedWith(buf, "; ", self.Meaning, self.Meanings)
+		buf = appendJoined(buf, "; ", self.Meanings)
 		buf = append(buf, ")"...)
 	}
 	return buf
@@ -73,72 +65,39 @@ func (self Entry) AppendMeanings(buf []byte) []byte {
 func (self Entry) AppendTags(buf []byte) []byte {
 	if self.HasTags() {
 		buf = append(buf, "["...)
-		buf = appendJoinedWith(buf, "; ", self.Tag, self.Tags)
+		buf = appendJoined(buf, "; ", self.Tags)
 		buf = append(buf, "]"...)
 	}
 	return buf
 }
 
 func (self Entry) AppendAuthor(buf []byte) []byte {
-	if len(self.Author) == 0 {
-		return buf
+	if len(self.Author) > 0 {
+		buf = append(buf, " © "...)
+		buf = append(buf, self.Author...)
 	}
-
-	buf = append(buf, " © "...)
-	buf = append(buf, self.Author...)
 	return buf
 }
 
 func (self Entry) AppendAuthorOld(buf []byte) []byte {
-	if len(self.Author) == 0 {
-		return buf
+	if len(self.Author) > 0 {
+		buf = append(buf, "# "...)
+		buf = append(buf, self.Author...)
+		buf = appendNewlines(buf)
 	}
-
-	buf = append(buf, "# "...)
-	buf = append(buf, self.Author...)
-	buf = appendNewlines(buf)
 	return buf
 }
 
 func (self Entry) GetAuthor() string { return self.Author }
-
-func (self Entry) HasMeanings() bool {
-	return len(self.Meaning) > 0 || len(self.Meanings) > 0
-}
-
-func (self Entry) HasTags() bool {
-	return len(self.Tag) > 0 || len(self.Tags) > 0
-}
-
-func (self *Entry) Clone() Entry {
-	out := *self
-
-	if unsafe.Pointer(&self.MeaningsArr) == *(*unsafe.Pointer)(unsafe.Pointer(&self.Meanings)) {
-		out.Meanings = out.MeaningsArr[:]
-	}
-
-	if unsafe.Pointer(&self.TagsArr) == *(*unsafe.Pointer)(unsafe.Pointer(&self.Tags)) {
-		out.Tags = out.TagsArr[:]
-	}
-
-	return out
-}
-
-func (self *Entry) Norm() {
-	if self.MeaningsArr != [2]string{} {
-		self.Meanings = self.MeaningsArr[:]
-	}
-	if self.TagsArr != [2]string{} {
-		self.Tags = self.TagsArr[:]
-	}
-}
+func (self Entry) HasMeanings() bool { return len(self.Meanings) > 0 }
+func (self Entry) HasTags() bool     { return len(self.Tags) > 0 }
 
 func (self *Entry) appendMeaning(val string) {
-	strAppendSwap(&self.Meaning, &self.Meanings, &self.MeaningsArr, val)
+	self.Meanings = append(self.Meanings, val)
 }
 
 func (self *Entry) appendTag(val string) {
-	strAppendSwap(&self.Tag, &self.Tags, &self.TagsArr, val)
+	self.Tags = append(self.Tags, val)
 }
 
 // A simplistic "ordered map" for lists of entries.

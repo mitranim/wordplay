@@ -138,39 +138,6 @@ func assert(ok bool) {
 	}
 }
 
-func strAppendSwap(one *string, many *[]string, arr *[2]string, val string) {
-	if len(*one) == 0 {
-		if len(*many) == 0 {
-			*one = val
-		} else {
-			*many = append(*many, val)
-			*arr = [2]string{}
-		}
-	} else {
-		if cap(*many) == 0 {
-			*many = arr[:]
-			(*many)[0] = *one
-			(*many)[1] = val
-		} else {
-			*many = append(*many, *one, val)
-			*arr = [2]string{}
-		}
-		*one = ""
-	}
-}
-
-func appendJoinedWith(buf []byte, sep string, val string, vals []string) []byte {
-	if len(val) > 0 {
-		buf = append(buf, val...)
-		if len(vals) > 0 {
-			buf = append(buf, sep...)
-		}
-	}
-
-	buf = appendJoined(buf, sep, vals)
-	return buf
-}
-
 func appendJoined(buf []byte, sep string, vals []string) []byte {
 	for i, val := range vals {
 		if i > 0 {
