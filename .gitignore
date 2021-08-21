@@ -1,0 +1,11 @@
+/*
+!/.*ignore
+!/*.md
+
+!/code
+/code/*
+!/code/*.go
+!/code/go.mod
+!/code/go.sum
+!/code/*.default
+!/code/makefile

@@ -78,7 +78,7 @@ lawndry (doing or rather hanging your laundry up in the garden; irrigating / cle
 
 koñnection (🐴 socializing / 🐴 attachment)
 
-koñstitution (🐴 power?) © Yury [🐴]
+koñstitution (🐴 power?) [🐴] © Yury
 
 ourganization (as opposed to theirganization) © LR
 
@@ -124,7 +124,7 @@ demoncracy (😈) © LJ
 
 "matrial law" (matriarchal hegemony) © LJ
 
-koñvict (horse thief) © LJ [🐴]
+koñvict (horse thief) [🐴] © LJ
 
 trusters (pray for them to get you there) © LR
 
@@ -232,9 +232,9 @@ bustard (bloody bus that's tardy again) © LR
 
 worklaud (when you keep boasting how busy you are) © LR
 
-blyasphemous © LR [ru]
+blyasphemous [ru] © LR
 
-mordarus (dangerous gopnik?) © LJ [ru]
+mordarus (dangerous gopnik?) [ru] © LJ
 
 lawsued (instigated by gov prosecutor)
 
@@ -250,7 +250,7 @@ techtile (touch technology)
 
 allyen (👽)
 
-Dooma (parliament up to no good) © LR [ru]
+Dooma (parliament up to no good) [ru] © LR
 
 Dumass (Russian parliamentary official) © LJ
 
@@ -292,7 +292,7 @@ ghoulem (animated dead flesh?)
 
 appearatus (teleportation engine; holographic projector) © LJ
 
-educat (кот учёный 😼) © LR [ru]
+educat (кот учёный 😼) [ru] © LR
 
 narkotik (addictive 🐈) [ru]
 
@@ -384,7 +384,7 @@ sequelies (one lie after another) © LR
 
 warfair (chivalry) © LR
 
-bredbox (aka TV) © LR [ru]
+bredbox (aka TV) [ru] © LR
 
 enlieten © LR
 
@@ -506,7 +506,7 @@ astunishing
 
 relick
 
-koñfactionary © LR [🐴]
+koñfactionary [🐴] © LR
 
 candydate
 
@@ -594,11 +594,11 @@ soplitude (when you have a cold alone or something) © LR
 
 lien (line that's lying) © LR
 
-koñspire (🐴🗼) © LJ [🐴]
+koñspire (🐴🗼) [🐴] © LJ
 
-koñcurrency (🐴💵) © LR [🐴]
+koñcurrency (🐴💵) [🐴] © LR
 
-"kavat emptor" (getting ripped off, via cat in bag) © LR [warframe]
+"kavat emptor" (getting ripped off, via cat in bag) [warframe] © LR
 
 queuecumbersome (something like an annoying queue you're stuck in) © LJ
 
@@ -704,9 +704,9 @@ blyame © Yury [ru]
 
 gorodock (small port town) [ru]
 
-gorodog (dog town) © LJ [ru]
+gorodog (dog town) [ru] © LJ
 
-"Horsus Heresy" (one giant koñ) © LR [🐴]
+"Horsus Heresy" (one giant koñ) [🐴] © LR
 
 "needles to say"
 
@@ -736,15 +736,15 @@ gophernment (state run by uplifted, sentient gophers?; state run by Go developer
 
 deckstop © Madiat
 
-koñdom (home for 🐴; plastic dome that keeps 🐴 inside) © Yury [🐴]
+koñdom (home for 🐴; plastic dome that keeps 🐴 inside) [🐴] © Yury
 
-koñtingency (when 🐴 are out of koñtrol) © LR [🐴]
+koñtingency (when 🐴 are out of koñtrol) [🐴] © LR
 
-koñcurrent (🐴 racing each other) © Yury [🐴]
+koñcurrent (🐴 racing each other) [🐴] © Yury
 
-koñtinent (where wild 🐴 are abundant) © Yury [🐴]
+koñtinent (where wild 🐴 are abundant) [🐴] © Yury
 
-koñtinuum (endless stream of 🐴 puns) © Yury [🐴]
+koñtinuum (endless stream of 🐴 puns) [🐴] © Yury
 
 liesense (being able to tell when one is lying, i.e. not accepting someone's _liecense_) © LR
 
@@ -928,7 +928,7 @@ sophtware (sophisticated or "wise" programs/virtual intelligences) © LJ
 
 softwear (smart clothing, those kinds of powered clothes with some fancy gadgets in them) © LJ
 
-sopliments (supplements against a cold) © LR [ru]
+sopliments (supplements against a cold) [ru] © LR
 
 rantional (rational rant) © LR
 
@@ -976,7 +976,7 @@ editional © Yury
 
 pirage (being angry at being the victim of piracy; alternatively a contracted form of the historical "Age of Piracy") © LJ
 
-koñstruct (Trojan horse) © LJ [🐴]
+koñstruct (Trojan horse) [🐴] © LJ
 
 choret (a chort that's being a chore; a chore only worth being performed by a chort) © LJ
 
@@ -1046,9 +1046,9 @@ breadnought © LR
 
 agreedy
 
-koñvoy (horse caravan) © LR [🐴]
+koñvoy (horse caravan) [🐴] © LR
 
-koñscript (someone who got drafted into cavalry/with their horse) © LR [🐴]
+koñscript (someone who got drafted into cavalry/with their horse) [🐴] © LR
 
 govnorment (makes gov norms) [ru]
 
@@ -1170,7 +1170,7 @@ individial
 
 purperty
 
-koñtroll © Yury [🐴]
+koñtroll [🐴] © Yury
 
 corporat (someone who bootlicks or defends corporations/consumerism) © LJ
 
@@ -1270,7 +1270,7 @@ turnament
 
 zhirnalist [ru]
 
-zhulnalist © LJ [ru]
+zhulnalist [ru] © LJ
 
 coolumn
 
@@ -1376,7 +1376,7 @@ purrpaws © LR
 
 purrpose
 
-strasheklassnik © LR [ru]
+strasheklassnik [ru] © LR
 
 compuller © Yury
 
@@ -1394,11 +1394,11 @@ shyning (glowing blushing) © Yury
 
 grabitate
 
-chortage (annoying shortage) © LR [ru]
+chortage (annoying shortage) [ru] © LR
 
 egochamber (echochamber for lonely people who keep only their own counsel) © LJ
 
-"mental oselum" (donkey) © LJ [ru]
+"mental oselum" (donkey) [ru] © LJ
 
 incompetitor (incompetent competitor) © LJ
 
@@ -1428,7 +1428,7 @@ whitespice © Yury
 
 probeability
 
-koñman © Yury [🐴]
+koñman [🐴] © Yury
 
 comman
 
@@ -1452,7 +1452,7 @@ wayke
 
 overlayping
 
-skovolodka © LR [ru]
+skovolodka [ru] © LR
 
 manipullate © LR
 
