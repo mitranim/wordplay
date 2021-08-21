@@ -7,9 +7,8 @@ import (
 )
 
 type ParseErr struct {
-	Row     int
-	Col     int
 	Source  string
+	Cursor  int
 	Snippet string
 	Cause   error
 }
@@ -38,7 +37,8 @@ func (self ParseErr) Format(fms fmt.State, verb rune) {
 }
 
 func (self ParseErr) fmt(expand bool) (out string) {
-	spf(&out, `%v:%v`, self.Row+1, self.Col+1)
+	row, col := rowCol(self.Source, self.Cursor)
+	spf(&out, `%v:%v`, row, col)
 
 	if self.Cause != nil {
 		sep(&out, `: `)
@@ -53,5 +53,25 @@ func (self ParseErr) fmt(expand bool) (out string) {
 		sep(&out, `; found: `)
 		spf(&out, `%q`, self.Snippet)
 	}
+	return
+}
+
+func rowCol(str string, cursor int) (row int, col int) {
+	for i, char := range str {
+		if char == '\r' && i < len(str)-2 && str[i+1] == '\n' {
+			continue
+		}
+
+		if char == '\r' || char == '\n' {
+			row++
+			col = 0
+			continue
+		}
+
+		col++
+	}
+
+	row++
+	col++
 	return
 }

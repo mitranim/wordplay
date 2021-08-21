@@ -9,7 +9,6 @@ import (
 
 const (
 	SHORT_SNIPPET_LEN = 64
-	LONG_SNIPPET_LEN  = 1024
 )
 
 func ParseEntries(src string) Entries {
@@ -23,11 +22,8 @@ func ParseEntries(src string) Entries {
 type Parser struct {
 	Source  string
 	Entries Entries
-
-	cursor int // must be == (row + 1) * (col + 1)
-	row    int
-	col    int
-	entry  Entry
+	cursor  int
+	entry   Entry
 }
 
 func MakeParser(content string) Parser {
@@ -59,7 +55,7 @@ func (self *Parser) heading() {
 		return
 	}
 
-	if !self.scannedBy(isSpace) {
+	if !self.scanned((*Parser).space) {
 		panic(self.err(e.New(`malformed header: expected '#' followed by space and author name`)))
 	}
 
@@ -76,7 +72,6 @@ func (self *Parser) heading() {
 }
 
 func (self *Parser) entryQuoted() {
-	row, col := self.row, self.col
 	if !self.scannedChar('"') {
 		return
 	}
@@ -96,13 +91,11 @@ loop:
 			}
 
 			self.entry.Phrase = phrase
-			self.entry.Row = row
-			self.entry.Col = col
-			self.scan(char, size)
+			self.mov(size)
 			break loop
 
 		default:
-			self.scan(char, size)
+			self.mov(size)
 		}
 	}
 
@@ -112,16 +105,13 @@ loop:
 func (self *Parser) nonDelim() { self.chars(isNonDelim) }
 
 func (self *Parser) entryUnquoted() {
-	start, row, col := self.cursor, self.row, self.col
+	start := self.cursor
 
 	if !self.scanned((*Parser).nonDelim) {
 		return
 	}
 
 	self.entry.Phrase = self.from(start)
-	self.entry.Row = row
-	self.entry.Col = col
-
 	self.entryRest()
 }
 
@@ -149,30 +139,31 @@ loop:
 		switch char {
 		case '(':
 			depth++
-			self.scan(char, size)
+			self.mov(size)
 
 		case ')':
 			depth--
 
 			if depth == 0 {
 				self.appendMeaning(self.from(start))
-				self.scan(char, size)
+				self.mov(size)
 				break loop
 			}
 
+			// Should be impossible.
 			if depth < 0 {
 				panic(self.err(e.New(`mismatched closing ")"`)))
 			}
 
-			self.scan(char, size)
+			self.mov(size)
 
 		case ';':
 			self.appendMeaning(self.from(start))
-			self.scan(char, size)
+			self.mov(size)
 			start = self.cursor
 
 		default:
-			self.scan(char, size)
+			self.mov(size)
 		}
 	}
 }
@@ -204,16 +195,16 @@ loop:
 
 		case ';':
 			self.appendTag(self.from(start))
-			self.scan(char, size)
+			self.mov(size)
 			start = self.cursor
 
 		case ']':
 			self.appendTag(self.from(start))
-			self.scan(char, size)
+			self.mov(size)
 			break loop
 
 		default:
-			self.scan(char, size)
+			self.mov(size)
 		}
 	}
 }
@@ -251,17 +242,13 @@ func (self *Parser) delimWhitespace() {
 	self.whitespace()
 }
 
-func (self *Parser) more() bool { return self.left() > 0 }
+func (self *Parser) more() bool { return self.cursor < len(self.Source) }
 
 func (self *Parser) rest() string {
 	if self.more() {
 		return self.Source[self.cursor:]
 	}
 	return ""
-}
-
-func (self *Parser) left() int {
-	return len(self.Source) - self.cursor
 }
 
 func (self *Parser) from(start int) string {
@@ -291,70 +278,32 @@ func (self *Parser) scannedNewline() bool {
 func (self *Parser) scannedChar(char rune) bool {
 	head, size := self.headChar()
 	if size > 0 && head == char {
-		self.scan(head, size)
+		self.mov(size)
 		return true
 	}
 	return false
 }
 
-func (self *Parser) scannedBy(fun func(rune) bool) bool {
-	start := self.cursor
-	self.chars(fun)
-	return self.cursor > start
-}
-
 func (self *Parser) newline() {
 	char, size := self.headChar()
 	if char == '\n' {
-		self.scan(char, size)
+		self.mov(size)
 	}
 }
 
 func (self *Parser) nonNewline() { self.chars(isNonNewline) }
 
-func (self *Parser) scan(char rune, size int) {
-	if size > 0 {
-		self.cursor += size
-
-		// Newlines must be normalized via `headChar`.
-		if char == '\n' {
-			self.row++
-			self.col = 0
-		} else {
-			self.row = 0
-			self.col++
-		}
-	}
-}
-
-func (self *Parser) scanChar() {
-	self.scan(self.headChar())
-}
-
-func (self *Parser) scanChars(count int) {
-	for range counter(count) {
-		self.scanChar()
-	}
-}
+func (self *Parser) mov(size int) { self.cursor += size }
 
 func (self *Parser) chars(fun func(rune) bool) {
 	for {
 		char, size := self.headChar()
 		if size > 0 && fun(char) {
-			self.scan(char, size)
+			self.mov(size)
 		} else {
 			return
 		}
 	}
-}
-
-func (self *Parser) isNextChar(char rune) bool {
-	head, size := self.headChar()
-	return size > 0 && head == char
-}
-
-func (self *Parser) isNextPrefix(prefix string) bool {
-	return strings.HasPrefix(self.rest(), prefix)
 }
 
 func (self *Parser) reqMore(char rune, size int, delim rune) {
@@ -369,9 +318,8 @@ func (self *Parser) reqMore(char rune, size int, delim rune) {
 
 func (self *Parser) err(err error) ParseErr {
 	return ParseErr{
-		Row:     self.row,
-		Col:     self.col,
 		Source:  self.Source,
+		Cursor:  self.cursor,
 		Snippet: snippet(self.rest(), SHORT_SNIPPET_LEN),
 		Cause:   err,
 	}

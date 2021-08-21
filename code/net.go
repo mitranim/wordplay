@@ -35,8 +35,11 @@ func main() {
 	try.To(h.ListenAndServe(":"+SERVER_PORT, h.HandlerFunc(respond)))
 }
 
-func respond(rew Rew, req *Req) { rout.Route(rew, req, routes) }
-func routes(r rout.R)           { r.Get(`^/$`, routeIndex) }
+func respond(rew Rew, req *Req) {
+	goh.ErrHandler(rew, req, false, rout.Route(rew, req, routes))
+}
+
+func routes(r rout.R) { r.Get(`^/$`, routeIndex) }
 
 func routeIndex(rew Rew, req *Req) {
 	goh.Respond(rew, req, func() h.Handler {
@@ -120,6 +123,7 @@ func ReadAndParseBackingFile(ctx Ctx) (Entries, CommitHash) {
 	return entries, version
 }
 
+// nolint
 func WriteBackingFile(ctx Ctx, content []byte, version CommitHash) {
 	client := github.NewClient(oauth2.NewClient(ctx, tokenSource))
 	msg := "(automatic)"

@@ -4,8 +4,6 @@ import (
 	"context"
 	"fmt"
 	h "net/http"
-	"strings"
-	"unicode/utf8"
 	"unsafe"
 
 	"github.com/davecgh/go-spew/spew"
@@ -32,12 +30,6 @@ func bytesToStringAlloc(bytes []byte) string   { return string(bytes) }
 func stringToBytesAlloc(input string) []byte   { return []byte(input) }
 func bytesToMutableString(input []byte) string { return *(*string)(unsafe.Pointer(&input)) }
 
-func stringSliceMut(vals []string, fun func(string) string) {
-	for i := range vals {
-		vals[i] = fun(vals[i])
-	}
-}
-
 func isSpace(char rune) bool {
 	switch char {
 	case ' ', '\t', '\v':
@@ -61,12 +53,6 @@ func isWhitespace(char rune) bool {
 }
 
 func isNonNewline(char rune) bool { return !isNewline(char) }
-
-func isNonWhitespace(char rune) bool { return !isWhitespace(char) }
-
-func isMeaningsDelim(char rune) bool {
-	return isNewline(char) || char == ')'
-}
 
 func isDelimPunct(char rune) bool {
 	switch char {
@@ -109,14 +95,27 @@ func snippet(input string, limit int) string {
 	return input
 }
 
-func headChar(str string) (rune, int) {
-	if strings.HasPrefix(str, "\r\n") {
-		return '\n', len("\r\n")
+// Significantly faster than using `strings.HasPrefix` and/or
+// `utf8.DecodeRuneInString`.
+func headChar(str string) (char rune, size int) {
+	if len(str) >= 2 && str[0] == '\r' && str[1] == '\n' {
+		return '\n', 2
 	}
-	if len(str) > 0 && (str[0] == '\r' || str[0] == '\n') {
+	if len(str) >= 1 && (str[0] == '\r' || str[0] == '\n') {
 		return '\n', 1
 	}
-	return utf8.DecodeRuneInString(str)
+
+	for i, val := range str {
+		if i == 0 {
+			char = val
+			size = len(str)
+		} else {
+			size = i
+			break
+		}
+	}
+
+	return
 }
 
 func strHas(str string, fun func(rune) bool) bool {
@@ -130,12 +129,6 @@ func strHas(str string, fun func(rune) bool) bool {
 
 func appendNewlines(buf []byte) []byte {
 	return append(buf, "\n\n"...)
-}
-
-func assert(ok bool) {
-	if !ok {
-		panic("internal error: failed a condition that should never be failed, see the stacktrace")
-	}
 }
 
 func appendJoined(buf []byte, sep string, vals []string) []byte {

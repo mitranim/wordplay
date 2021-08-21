@@ -7,10 +7,6 @@ type Entry struct {
 	Phrase   string
 	Meanings []string
 	Tags     []string
-
-	// Unused.
-	Row int
-	Col int
 }
 
 func (self *Entry) Append(buf []byte) []byte {
@@ -147,17 +143,17 @@ func GroupEntriesByAuthor(entries Entries) EntryMap {
 	return GroupEntries(entries, (*Entry).GetAuthor)
 }
 
-// Unused.
-func IntersperseEntriesByAuthor(entries Entries) Entries {
-	grouped := GroupEntriesByAuthor(entries)
-	ungrouped := make(Entries, 0, len(entries))
-	_ = grouped
+// // Unused.
+// func IntersperseEntriesByAuthor(entries Entries) Entries {
+// 	grouped := GroupEntriesByAuthor(entries)
+// 	ungrouped := make(Entries, 0, len(entries))
+// 	_ = grouped
 
-	// for len(ungrouped) < len(entries) {
-	// 	for _, key := range grouped.Keys {
+// 	// for len(ungrouped) < len(entries) {
+// 	// 	for _, key := range grouped.Keys {
 
-	// 	}
-	// }
+// 	// 	}
+// 	// }
 
-	return ungrouped
-}
+// 	return ungrouped
+// }
