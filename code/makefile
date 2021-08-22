@@ -14,5 +14,8 @@ bench-w:
 bench:
 	go $(BENCH)
 
+lint:
+	golangci-lint run
+
 log:
 	git log --format=reference --date=iso-strict -S "$(search)"

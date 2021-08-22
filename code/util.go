@@ -3,11 +3,13 @@ package main
 import (
 	"context"
 	"fmt"
+	"io"
 	h "net/http"
 	"unsafe"
 
 	"github.com/davecgh/go-spew/spew"
 	x "github.com/mitranim/gax"
+	"github.com/mitranim/try"
 )
 
 type (
@@ -19,6 +21,10 @@ type (
 var (
 	E  = x.E
 	AP = x.AP
+)
+
+const (
+	SHORT_SNIPPET_LEN = 64
 )
 
 func init() {
@@ -89,27 +95,14 @@ func snippet(input string, limit int) string {
 	return input
 }
 
-// Significantly faster than using `strings.HasPrefix` and/or
-// `utf8.DecodeRuneInString`.
-func headChar(str string) (char rune, size int) {
+func leadingNewlineSize(str string) int {
 	if len(str) >= 2 && str[0] == '\r' && str[1] == '\n' {
-		return '\n', 2
+		return 2
 	}
 	if len(str) >= 1 && (str[0] == '\r' || str[0] == '\n') {
-		return '\n', 1
+		return 1
 	}
-
-	for i, val := range str {
-		if i == 0 {
-			char = val
-			size = len(str)
-		} else {
-			size = i
-			break
-		}
-	}
-
-	return
+	return 0
 }
 
 func strHas(str string, set *charset) bool {
@@ -133,4 +126,8 @@ func appendJoined(buf []byte, sep string, vals []string) []byte {
 		buf = append(buf, val...)
 	}
 	return buf
+}
+
+func writeString(out io.Writer, val string) {
+	try.Int(io.WriteString(out, val))
 }

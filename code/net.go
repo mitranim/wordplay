@@ -123,7 +123,7 @@ func ReadAndParseBackingFile(ctx Ctx) (Entries, CommitHash) {
 	return entries, version
 }
 
-// nolint
+// nolint:deadcode
 func WriteBackingFile(ctx Ctx, content []byte, version CommitHash) {
 	client := github.NewClient(oauth2.NewClient(ctx, tokenSource))
 	msg := "(automatic)"

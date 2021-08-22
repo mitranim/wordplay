@@ -9,13 +9,8 @@ import (
 	e "github.com/pkg/errors"
 )
 
-const (
-	SHORT_SNIPPET_LEN = 64
-)
-
 func ParseEntries(src string) Entries {
-	defer try.Detail(`failed to parse string into entries`)
-
+	defer try.Detail(`failed to parse entries`)
 	parser := MakeParser(src)
 	parser.Parse()
 	return parser.Entries
@@ -215,29 +210,15 @@ func (self *Parser) entryFlush() {
 func (self *Parser) delimWhitespace() {
 	self.space()
 
-	if !self.more() {
-		return
-	}
-	if !self.scannedNewline() {
-		self.fail(e.New(`expected at least two newlines or EOF`))
-	}
-
-	if !self.more() {
-		return
-	}
-	if !self.scannedNewline() {
+	// nolint:staticcheck
+	if self.more() && !self.scannedNewline() || self.more() && !self.scannedNewline() {
 		self.fail(e.New(`expected at least two newlines or EOF`))
 	}
 
 	self.whitespace()
 }
 
-func (self *Parser) newline() {
-	char, size := self.headChar()
-	if char == '\n' {
-		self.mov(size)
-	}
-}
+func (self *Parser) newline() { self.cursor += leadingNewlineSize(self.rest()) }
 
 func (self *Parser) nonNewline() { self.charsWithout(charsetNewline) }
 
@@ -259,12 +240,6 @@ func (self *Parser) from(start int) string {
 	}
 	return ""
 }
-
-func (self *Parser) headChar() (rune, int) {
-	return headChar(self.rest())
-}
-
-func (self *Parser) mov(size int) { self.cursor += size }
 
 func (self *Parser) end() { self.cursor = len(self.Source) }
 
@@ -292,16 +267,6 @@ func (self *Parser) bytesWith(set *charset) {
 	}
 }
 
-func (self *Parser) charsWith(set *charset) {
-	for i, char := range self.rest() {
-		if !set.hasRune(char) {
-			self.cursor += i
-			return
-		}
-	}
-	self.end()
-}
-
 func (self *Parser) charsWithout(set *charset) {
 	for i, char := range self.rest() {
 		if set.hasRune(char) {
@@ -314,7 +279,10 @@ func (self *Parser) charsWithout(set *charset) {
 
 func (self *Parser) singleLineUntil(delim rune) {
 	for i, char := range self.rest() {
-		self.maybeFailNewline(char, '"')
+		if charsetNewline.hasRune(char) {
+			self.cursor += i
+			self.failNewline(delim)
+		}
 
 		if char == delim {
 			self.cursor += i
@@ -323,13 +291,7 @@ func (self *Parser) singleLineUntil(delim rune) {
 	}
 
 	self.end()
-	self.failEof('"')
-}
-
-func (self *Parser) maybeFailNewline(char rune, delim rune) {
-	if charsetNewline.hasRune(char) {
-		self.failNewline(delim)
-	}
+	self.failEof(delim)
 }
 
 func (self *Parser) failNewline(delim rune) {
