@@ -10,6 +10,16 @@ func BenchmarkParse(b *testing.B) {
 	}
 }
 
+func BenchmarkFormatOld(b *testing.B) {
+	entries := ParseEntries(tSrc)
+
+	b.ResetTimer()
+
+	for range counter(b.N) {
+		_ = FormatEntriesOld(entries)
+	}
+}
+
 func BenchmarkFormat(b *testing.B) {
 	entries := ParseEntries(tSrc)
 

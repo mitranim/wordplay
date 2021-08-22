@@ -17,5 +17,13 @@ bench:
 lint:
 	golangci-lint run
 
+run-w:
+	gow -c -v run . $(run)
+
+run:
+	go run . $(run)
+
+# Usage:
+#   make log search="<word>"
 log:
 	git log --format=reference --date=iso-strict -S "$(search)"

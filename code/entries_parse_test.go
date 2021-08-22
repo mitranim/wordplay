@@ -9,23 +9,21 @@ import (
 
 	"github.com/mitranim/repr"
 	"github.com/mitranim/try"
-	e "github.com/pkg/errors"
 )
 
-const SRC = "../readme.md"
 const TEMPDIR_NAME = "wordplay_testing"
 
-var tSrc = bytesToMutableString(bytes.TrimSpace(try.ByteSlice(os.ReadFile(SRC))))
+var tSrc = bytesToMutableString(bytes.TrimSpace(try.ByteSlice(os.ReadFile(SRC_FILE))))
 
 func TestParseAndFormat(t *testing.T) {
 	source := tSrc
 	entries := ParseEntries(source)
-	output := bytesToMutableString(bytes.TrimSpace(FormatEntries(entries)))
+	output := bytesToMutableString(bytes.TrimSpace(FormatEntriesOld(entries)))
 
 	if testing.Verbose() {
 		fmt.Printf("source: %v\n", writeTempFile(t, "source", stringToBytesAlloc(source)))
 		fmt.Printf("output: %v\n", writeTempFile(t, "output", stringToBytesAlloc(output)))
-		fmt.Printf("output new: %v\n", writeTempFile(t, "output_new", FormatEntriesNew(entries)))
+		fmt.Printf("output new: %v\n", writeTempFile(t, "output_new", FormatEntries(entries)))
 		fmt.Printf("entries: %v\n", writeTempFile(t, "entries", repr.Bytes(entries)))
 	}
 
@@ -41,16 +39,10 @@ func TestParseAndFormat(t *testing.T) {
 func writeTempFile(t *testing.T, subpath string, content []byte) string {
 	tempDir := os.TempDir()
 	if tempDir == "" {
-		t.Fatal("failed to create temporary directory: OS API returned empty path")
+		t.Fatal("failed to create temporary directory: got empty path")
 	}
 
-	dir := filepath.Join(tempDir, TEMPDIR_NAME)
-	err := os.MkdirAll(dir, os.ModePerm)
-	try.To(e.Wrap(err, `failed to create temporary directory`))
-
-	filePath := filepath.Join(dir, subpath)
-	err = os.WriteFile(filePath, content, os.ModePerm)
-	try.To(e.Wrap(err, `failed to write temporary file`))
-
-	return filePath
+	path := filepath.Join(tempDir, TEMPDIR_NAME, subpath)
+	writeFile(path, content)
+	return path
 }

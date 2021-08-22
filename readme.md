@@ -1,6 +1,6 @@
 # LandRaider
 
-relationshit (bad relationship) [one; two]
+relationshit (bad relationship)
 
 freedge (with free food)
 
