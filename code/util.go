@@ -1,16 +1,12 @@
 package main
 
 import (
-	"bytes"
 	"context"
 	"fmt"
 	"io"
 	h "net/http"
 	"os"
-	"os/exec"
 	"path/filepath"
-	"regexp"
-	"time"
 	"unsafe"
 
 	x "github.com/mitranim/gax"
@@ -133,66 +129,6 @@ func writeString(out io.Writer, val string) {
 	try.Int(io.WriteString(out, val))
 }
 
-func makeCmd(command string, args ...string) *exec.Cmd {
-	cmd := exec.Command(command, args...)
-	cmd.Stdout = os.Stdout
-	cmd.Stderr = os.Stderr
-	return cmd
-}
-
-/*
-Runs a command for side effects, connecting its stdout and stderr to the parent
-process.
-*/
-func runCmd(command string, args ...string) {
-	try.To(makeCmd(command, args...).Run())
-}
-
-/*
-Runs a command and returns its stdout. Stderr is connected to the parent
-process.
-*/
-func runCmdOut(command string, args ...string) string {
-	cmd := exec.Command(command, args...)
-	cmd.Stderr = os.Stderr
-	return bytesToMutableString(bytes.TrimSpace(try.ByteSlice(cmd.Output())))
-}
-
-var reNewline = regexp.MustCompile(`(?:\r\n|\r|\n)`)
-
-// Seems missing from the standard library.
-func splitLines(str string) []string {
-	return reNewline.Split(str, -1)
-}
-
-// WTF I shouldn't have to write this.
-func timeMin(a, b time.Time) time.Time {
-	if a.Before(b) {
-		return a
-	}
-	if b.Before(a) {
-		return b
-	}
-	return a
-}
-
-func tryTimeLoc(val *time.Location, err error) *time.Location {
-	try.To(err)
-	return val
-}
-
-func tryTime(val time.Time, err error) time.Time {
-	try.To(err)
-	return val
-}
-
-var reIsoTime = regexp.MustCompile(`\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|\+\d+:\d+|\+\d+|\+\w+)`)
-
-func findIsoTime(str string) time.Time {
-	defer try.Detailf(`failed to parse time from %q`, str)
-	return tryTime(time.Parse(time.RFC3339, reIsoTime.FindString(str)))
-}
-
 // Why do I have to write this?
 func writeFile(path string, val []byte) {
 	try.To(os.MkdirAll(filepath.Dir(path), os.ModePerm))
@@ -202,4 +138,18 @@ func writeFile(path string, val []byte) {
 // Why do I have to write this?
 func writeFileStr(path string, val string) {
 	writeFile(path, stringToBytesAlloc(val))
+}
+
+// Significantly faster than `utf8.DecodeRuneInString`.
+func headChar(str string) (char rune, size int) {
+	for i, val := range str {
+		if i == 0 {
+			char = val
+			size = len(str)
+		} else {
+			size = i
+			break
+		}
+	}
+	return
 }

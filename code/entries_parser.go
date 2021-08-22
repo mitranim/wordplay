@@ -38,7 +38,6 @@ func (self *Parser) Parse() {
 func (self *Parser) any() {
 	switch {
 	case self.scanned((*Parser).whitespace):
-	case self.scanned((*Parser).heading):
 	case self.scanned((*Parser).entryQuoted):
 	case self.scanned((*Parser).entryUnquoted):
 	}
@@ -46,27 +45,6 @@ func (self *Parser) any() {
 
 func (self *Parser) whitespace() { self.bytesWith(charsetWhitespace) }
 func (self *Parser) space()      { self.bytesWith(charsetSpace) }
-
-func (self *Parser) heading() {
-	if !self.scannedByte('#') {
-		return
-	}
-
-	if !self.scanned((*Parser).space) {
-		self.fail(e.New(`malformed header: expected '#' followed by space and author name`))
-	}
-
-	start := self.cursor
-	self.nonNewline()
-
-	author := strings.TrimSpace(self.from(start))
-	if len(author) == 0 {
-		self.fail(e.New(`malformed header: expected '#' followed by space and author name`))
-	}
-
-	self.entry.Author = author
-	self.delimWhitespace()
-}
 
 func (self *Parser) entryQuoted() {
 	if !self.scannedByte('"') {
@@ -102,6 +80,7 @@ func (self *Parser) entryUnquoted() {
 func (self *Parser) entryRest() {
 	self.entryMeanings()
 	self.entryTags()
+	self.entryAuthor()
 	self.entryFlush()
 	self.delimWhitespace()
 }
@@ -202,9 +181,26 @@ func (self *Parser) appendTag(val string) {
 	self.entry.appendTag(val)
 }
 
+func (self *Parser) entryAuthor() {
+	self.space()
+	if !self.scannedChar('©') {
+		return
+	}
+
+	start := self.cursor
+	self.nonNewline()
+
+	author := strings.TrimSpace(self.from(start))
+	if len(author) == 0 {
+		self.fail(e.New(`expected "©" to be followed by author name`))
+	}
+
+	self.entry.Author = author
+}
+
 func (self *Parser) entryFlush() {
 	self.Entries = append(self.Entries, self.entry)
-	self.entry = Entry{Author: self.entry.Author}
+	self.entry = Entry{}
 }
 
 func (self *Parser) delimWhitespace() {
@@ -256,6 +252,15 @@ func (self *Parser) scannedNewline() bool {
 func (self *Parser) scannedByte(char byte) bool {
 	if self.more() && self.Source[self.cursor] == char {
 		self.cursor++
+		return true
+	}
+	return false
+}
+
+func (self *Parser) scannedChar(val rune) bool {
+	char, size := headChar(self.rest())
+	if size > 0 && val == char {
+		self.cursor += size
 		return true
 	}
 	return false

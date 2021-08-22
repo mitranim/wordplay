@@ -5,25 +5,23 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 	"testing"
 
 	"github.com/mitranim/repr"
 	"github.com/mitranim/try"
 )
 
-const TEMPDIR_NAME = "wordplay_testing"
-
 var tSrc = bytesToMutableString(bytes.TrimSpace(try.ByteSlice(os.ReadFile(SRC_FILE))))
 
 func TestParseAndFormat(t *testing.T) {
 	source := tSrc
 	entries := ParseEntries(source)
-	output := bytesToMutableString(bytes.TrimSpace(FormatEntriesOld(entries)))
+	output := strings.TrimSpace(entries.String())
 
 	if testing.Verbose() {
-		fmt.Printf("source: %v\n", writeTempFile(t, "source", stringToBytesAlloc(source)))
-		fmt.Printf("output: %v\n", writeTempFile(t, "output", stringToBytesAlloc(output)))
-		fmt.Printf("output new: %v\n", writeTempFile(t, "output_new", FormatEntries(entries)))
+		fmt.Printf("source:  %v\n", writeTempFile(t, "source", stringToBytesAlloc(source)))
+		fmt.Printf("output:  %v\n", writeTempFile(t, "output", stringToBytesAlloc(output)))
 		fmt.Printf("entries: %v\n", writeTempFile(t, "entries", repr.Bytes(entries)))
 	}
 
@@ -42,7 +40,7 @@ func writeTempFile(t *testing.T, subpath string, content []byte) string {
 		t.Fatal("failed to create temporary directory: got empty path")
 	}
 
-	path := filepath.Join(tempDir, TEMPDIR_NAME, subpath)
+	path := filepath.Join(tempDir, `wordplay_testing`, subpath)
 	writeFile(path, content)
 	return path
 }

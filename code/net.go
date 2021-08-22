@@ -25,7 +25,6 @@ var tokenSource = oauth2.StaticTokenSource(&oauth2.Token{AccessToken: ACCESS_TOK
 
 type IndexDat struct {
 	Version CommitHash
-	Grouped EntryMap
 	Entries Entries
 }
 
@@ -41,7 +40,6 @@ func routeIndex(rew Rew, req *Req) {
 
 		return goh.BytesOk(RenderIndex(IndexDat{
 			Version: version,
-			Grouped: GroupEntriesByAuthor(entries),
 			Entries: entries,
 		}))
 	})
@@ -52,11 +50,8 @@ func RenderIndex(dat IndexDat) x.Bui {
 		if dat.Version != "" {
 			b.E(`div`, nil, `Version `+dat.Version)
 		}
-		for _, author := range dat.Grouped.Keys {
-			b.E(`h1`, nil, author)
-			for _, entry := range dat.Grouped.Map[author] {
-				b.E(`div`, nil, formatEntryPhrase(entry), ` `, formatEntryMeanings(entry))
-			}
+		for _, entry := range dat.Entries {
+			b.E(`pre`, nil, entry)
 		}
 	})
 }

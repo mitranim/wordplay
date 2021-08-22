@@ -3,7 +3,6 @@ package main
 import (
 	"strings"
 	"testing"
-	"time"
 )
 
 func Test_charset(t *testing.T) {
@@ -29,16 +28,5 @@ func testCharset(t *testing.T, set *charset, chars string) {
 		if !set.hasRune(char) {
 			t.Fatalf("charset should contain %#0.2x", char)
 		}
-	}
-}
-
-func Test_findIsoTime(t *testing.T) {
-	const src = `a206523 (back up code (work in progress), 2020-10-26T11:51:32+03:00)`
-
-	exp := time.Date(2020, 10, 26, 11, 51, 32, 0, tryTimeLoc(time.LoadLocation(`Europe/Moscow`)))
-	res := findIsoTime(src)
-
-	if !exp.Equal(res) {
-		t.Fatalf("expected to parse %q into %q, got %q", src, exp, res)
 	}
 }

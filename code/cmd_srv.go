@@ -7,7 +7,7 @@ import (
 	"github.com/mitranim/try"
 )
 
-func init() { commands[`srv`] = cmdSrv }
+func init() { commands.Add(`srv`, cmdSrv) }
 
 func cmdSrv() {
 	log.Printf("Starting server on http://localhost:%v", SERVER_PORT)

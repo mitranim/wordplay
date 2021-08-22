@@ -392,7 +392,7 @@ cowalry (riding cows 🐄) © LR
 
 boorbarian (really dim barbarians, if that's possible) © LJ
 
-"amnity/emity" (some sort of love-hate-relationship perhaps? ❤💔) © LJ
+amnity/emity (some sort of love-hate-relationship perhaps? ❤💔) © LJ
 
 archtefact (made by architects)
 
@@ -546,7 +546,7 @@ playting (noisy toy?)
 
 inapt
 
-memesis (nemesis that generates plenty of memes (like Marauder Shields) or someone who makes such awful puns/memes that you're reconsidering your friendship status because you want to MURDER them) © LR
+memesis (nemesis that generates plenty of memes, like Marauder Shields, or someone who makes such awful puns/memes that you're reconsidering your friendship status because you want to MURDER them) © LR
 
 clinet (network of clients)
 
@@ -578,7 +578,7 @@ shirtcut
 
 patriodick © LJ
 
-litteral (absolute garbage; garbage in the sea (littoral) © LJ) © LR
+litteral (absolute garbage; garbage in the sea = littoral © LJ) © LR
 
 Novgurod (ugly new city) © LJ
 
@@ -860,7 +860,7 @@ disctinction
 
 devstruction (product-destroying development; messy development)
 
-"shif/tty" (non-US keyboard layout where keys are shifted around)
+shif/tty (non-US keyboard layout where keys are shifted around)
 
 brakethrough
 
@@ -1648,7 +1648,7 @@ supairvision (what air traffic controllers do, from "air") © LJ
 
 pactitioner
 
-dickplomacy (Maybe synonymous with Gunboat Diplomacy; So just very brash and uncouth diplomatic swagger at the expense of the (zh)opponent) © LJ
+dickplomacy (maybe synonymous with Gunboat Diplomacy; so just very brash and uncouth diplomatic swagger at the expense of the zh/opponent) © LJ
 
 lawphole (loophole + law; some legal technicality that was overlooked) © LJ
 
@@ -1840,7 +1840,7 @@ declaraction
 
 deliberat
 
-delibearate(ly) © LR
+delibearate © LR
 
 anymal © LR
 
@@ -1956,7 +1956,7 @@ tearetical
 
 burycade © LR
 
-polidicks (corrupt politics (like the Zhukrainian Rada)) © LJ
+polidicks (corrupt politics, like the Zhukrainian Rada) © LJ
 
 distrance
 
@@ -1978,7 +1978,7 @@ discour © Yury
 
 septomber
 
-correctify (rectify a (false) correction) © LJ
+correctify (rectify a false correction) © LJ
 
 hvostage (tails you on a rescue mission) [ru]
 
@@ -2012,7 +2012,7 @@ emojo (💪)
 
 abstrain
 
-redamnation/recondemnation/recomdemnation (just came up because someone was asked if he liked something and the answer was rather inconclusive since he liked it, but didn't recommend it due to many (condemned) negatives) © LJ
+redamnation/recondemnation/recomdemnation (just came up because someone was asked if he liked something and the answer was rather inconclusive since he liked it, but didn't recommend it due to many condemned negatives) © LJ
 
 con-sensual
 
@@ -2582,7 +2582,7 @@ listenerd
 
 e-ducat-ion
 
-"hoolidays" (holidays with increased presence of hooligans) © LR
+hoolidays (holidays with increased presence of hooligans) © LR
 
 appstract
 
@@ -2638,8 +2638,6 @@ redible
 
 shamean
 
-wee men
-
 prepair
 
 thingfully
@@ -2656,7 +2654,7 @@ sellect
 
 postpawn
 
-iridecent  © LR
+iridecent © LR
 
 backlong © LR
 
@@ -2774,7 +2772,7 @@ do-nation
 
 feelter
 
-derp cheap
+"derp cheap"
 
 freequeency (vacant queen position?)
 
