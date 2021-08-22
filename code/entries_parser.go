@@ -3,6 +3,7 @@ package main
 import (
 	"io"
 	"strings"
+	"unicode/utf8"
 
 	"github.com/mitranim/try"
 	e "github.com/pkg/errors"
@@ -86,7 +87,7 @@ func (self *Parser) entryQuoted() {
 	}
 
 	self.entry.Phrase = phrase
-	self.cursor++
+	self.cursor += len(`"`)
 
 	self.entryRest()
 }
@@ -95,7 +96,6 @@ func (self *Parser) nonDelim() { self.charsWithout(charsetDelim) }
 
 func (self *Parser) entryUnquoted() {
 	start := self.cursor
-
 	if !self.scanned((*Parser).nonDelim) {
 		return
 	}
@@ -117,44 +117,38 @@ func (self *Parser) entryMeanings() {
 		return
 	}
 
-	depth := 1
 	start := self.cursor
+	cursor := self.cursor
 
-loop:
-	for {
-		char, size := self.headChar()
-		self.reqMore(char, size, ')')
+	for i, char := range self.rest() {
+		if charsetNewline.hasRune(char) {
+			self.cursor = start + i + utf8.RuneLen(char)
+			self.failNewline(')')
+		}
 
-		switch char {
-		case '(':
-			depth++
-			self.mov(size)
+		if char == ';' {
+			self.cursor = start + i
+			self.appendMeaning(self.from(cursor))
+			self.cursor += len(`;`)
+			cursor = self.cursor
+			continue
+		}
 
-		case ')':
-			depth--
+		if char == ')' {
+			self.cursor = start + i
+			self.appendMeaning(self.from(cursor))
+			self.cursor += len(`)`)
+			return
+		}
 
-			if depth == 0 {
-				self.appendMeaning(self.from(start))
-				self.mov(size)
-				break loop
-			}
-
-			// Should be impossible.
-			if depth < 0 {
-				self.fail(e.New(`mismatched closing ")"`))
-			}
-
-			self.mov(size)
-
-		case ';':
-			self.appendMeaning(self.from(start))
-			self.mov(size)
-			start = self.cursor
-
-		default:
-			self.mov(size)
+		if char == '(' {
+			self.cursor = start + i + len(`(`)
+			self.fail(e.New(`unexpected nested "("`))
 		}
 	}
+
+	self.end()
+	self.failEof(')')
 }
 
 func (self *Parser) appendMeaning(val string) {
@@ -172,30 +166,37 @@ func (self *Parser) entryTags() {
 	}
 
 	start := self.cursor
+	cursor := self.cursor
 
-loop:
-	for {
-		char, size := self.headChar()
-		self.reqMore(char, size, ']')
+	for i, char := range self.rest() {
+		if charsetNewline.hasRune(char) {
+			self.cursor = start + i + utf8.RuneLen(char)
+			self.failNewline(']')
+		}
 
-		switch char {
-		case '[':
+		if char == ';' {
+			self.cursor = start + i
+			self.appendTag(self.from(cursor))
+			self.cursor += len(`;`)
+			cursor = self.cursor
+			continue
+		}
+
+		if char == ']' {
+			self.cursor = start + i
+			self.appendTag(self.from(cursor))
+			self.cursor += len(`]`)
+			return
+		}
+
+		if char == '[' {
+			self.cursor = start + i + len(`[`)
 			self.fail(e.New(`unexpected nested "["`))
-
-		case ';':
-			self.appendTag(self.from(start))
-			self.mov(size)
-			start = self.cursor
-
-		case ']':
-			self.appendTag(self.from(start))
-			self.mov(size)
-			break loop
-
-		default:
-			self.mov(size)
 		}
 	}
+
+	self.end()
+	self.failEof(']')
 }
 
 func (self *Parser) appendTag(val string) {
@@ -313,7 +314,7 @@ func (self *Parser) charsWithout(set *charset) {
 
 func (self *Parser) singleLineUntil(delim rune) {
 	for i, char := range self.rest() {
-		self.failNewline(char, '"')
+		self.maybeFailNewline(char, '"')
 
 		if char == delim {
 			self.cursor += i
@@ -325,21 +326,14 @@ func (self *Parser) singleLineUntil(delim rune) {
 	self.failEof('"')
 }
 
-func (self *Parser) reqMore(char rune, size int, delim rune) {
-	if size == 0 {
-		self.failEof(delim)
-	}
-
-	// Manually inline `self.failNewline` to avoid weird perf regression (WTF).
+func (self *Parser) maybeFailNewline(char rune, delim rune) {
 	if charsetNewline.hasRune(char) {
-		self.fail(e.Errorf(`expected closing %q, found newline`, delim))
+		self.failNewline(delim)
 	}
 }
 
-func (self *Parser) failNewline(char rune, delim rune) {
-	if charsetNewline.hasRune(char) {
-		self.fail(e.Errorf(`expected closing %q, found newline`, delim))
-	}
+func (self *Parser) failNewline(delim rune) {
+	self.fail(e.Errorf(`expected closing %q, found newline`, delim))
 }
 
 func (self *Parser) failEof(delim rune) {

@@ -31,6 +31,8 @@ func stringToBytesAlloc(input string) []byte   { return []byte(input) }
 func bytesToMutableString(input []byte) string { return *(*string)(unsafe.Pointer(&input)) }
 
 // Fixed size because it's simpler and we only need ASCII support.
+// Used by pointer because large size = slow copying.
+// Simpler and faster than bitset.
 type charset [128]bool
 
 func (self *charset) has(val int) bool      { return val < len(self) && self[val] }
