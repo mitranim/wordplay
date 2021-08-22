@@ -1,6 +1,7 @@
 package main
 
 import (
+	"io"
 	"strings"
 
 	"github.com/mitranim/try"
@@ -33,7 +34,7 @@ func MakeParser(content string) Parser {
 func (self *Parser) Parse() {
 	for self.more() {
 		if !self.scanned((*Parser).any) {
-			panic(self.err(e.New(`unrecognized content`)))
+			self.fail(e.New(`unrecognized content`))
 		}
 	}
 }
@@ -47,8 +48,8 @@ func (self *Parser) any() {
 	}
 }
 
-func (self *Parser) whitespace() { self.scanBytesWith(charsetWhitespace) }
-func (self *Parser) space()      { self.scanBytesWith(charsetSpace) }
+func (self *Parser) whitespace() { self.bytesWith(charsetWhitespace) }
+func (self *Parser) space()      { self.bytesWith(charsetSpace) }
 
 func (self *Parser) heading() {
 	if !self.scannedChar('#') {
@@ -56,7 +57,7 @@ func (self *Parser) heading() {
 	}
 
 	if !self.scanned((*Parser).space) {
-		panic(self.err(e.New(`malformed header: expected '#' followed by space and author name`)))
+		self.fail(e.New(`malformed header: expected '#' followed by space and author name`))
 	}
 
 	start := self.cursor
@@ -64,7 +65,7 @@ func (self *Parser) heading() {
 
 	author := strings.TrimSpace(self.from(start))
 	if len(author) == 0 {
-		panic(self.err(e.New(`malformed header: expected '#' followed by space and author name`)))
+		self.fail(e.New(`malformed header: expected '#' followed by space and author name`))
 	}
 
 	self.entry.Author = author
@@ -87,7 +88,7 @@ loop:
 		case '"':
 			phrase := strings.TrimSpace(self.from(start))
 			if len(phrase) == 0 {
-				panic(self.err(e.New(`quoted phrase is empty`)))
+				self.fail(e.New(`quoted phrase is empty`))
 			}
 
 			self.entry.Phrase = phrase
@@ -102,7 +103,7 @@ loop:
 	self.entryRest()
 }
 
-func (self *Parser) nonDelim() { self.scanCharsWithout(charsetDelim) }
+func (self *Parser) nonDelim() { self.charsWithout(charsetDelim) }
 
 func (self *Parser) entryUnquoted() {
 	start := self.cursor
@@ -152,7 +153,7 @@ loop:
 
 			// Should be impossible.
 			if depth < 0 {
-				panic(self.err(e.New(`mismatched closing ")"`)))
+				self.fail(e.New(`mismatched closing ")"`))
 			}
 
 			self.mov(size)
@@ -171,7 +172,7 @@ loop:
 func (self *Parser) appendMeaning(val string) {
 	val = strings.TrimSpace(val)
 	if len(val) == 0 {
-		panic(self.err(e.New(`unexpected empty meaning`)))
+		self.fail(e.New(`unexpected empty meaning`))
 	}
 	self.entry.appendMeaning(val)
 }
@@ -191,7 +192,7 @@ loop:
 
 		switch char {
 		case '[':
-			panic(self.err(e.New(`unexpected nested "["`)))
+			self.fail(e.New(`unexpected nested "["`))
 
 		case ';':
 			self.appendTag(self.from(start))
@@ -212,7 +213,7 @@ loop:
 func (self *Parser) appendTag(val string) {
 	val = strings.TrimSpace(val)
 	if len(val) == 0 {
-		panic(self.err(e.New(`unexpected empty tag`)))
+		self.fail(e.New(`unexpected empty tag`))
 	}
 	self.entry.appendTag(val)
 }
@@ -229,14 +230,14 @@ func (self *Parser) delimWhitespace() {
 		return
 	}
 	if !self.scannedNewline() {
-		panic(self.err(e.New(`expected at least two newlines or EOF`)))
+		self.fail(e.New(`expected at least two newlines or EOF`))
 	}
 
 	if !self.more() {
 		return
 	}
 	if !self.scannedNewline() {
-		panic(self.err(e.New(`expected at least two newlines or EOF`)))
+		self.fail(e.New(`expected at least two newlines or EOF`))
 	}
 
 	self.whitespace()
@@ -291,17 +292,17 @@ func (self *Parser) newline() {
 	}
 }
 
-func (self *Parser) nonNewline() { self.scanCharsWithout(charsetNewline) }
+func (self *Parser) nonNewline() { self.charsWithout(charsetNewline) }
 
 func (self *Parser) mov(size int) { self.cursor += size }
 
-func (self *Parser) scanBytesWith(set charset) {
+func (self *Parser) bytesWith(set charset) {
 	for self.more() && set.hasByte(self.Source[self.cursor]) {
 		self.cursor++
 	}
 }
 
-func (self *Parser) scanCharsWith(set charset) {
+func (self *Parser) charsWith(set charset) {
 	for i, char := range self.rest() {
 		if !set.hasRune(char) {
 			self.cursor += i
@@ -311,7 +312,7 @@ func (self *Parser) scanCharsWith(set charset) {
 	self.cursor = len(self.Source)
 }
 
-func (self *Parser) scanCharsWithout(set charset) {
+func (self *Parser) charsWithout(set charset) {
 	for i, char := range self.rest() {
 		if set.hasRune(char) {
 			self.cursor += i
@@ -323,12 +324,19 @@ func (self *Parser) scanCharsWithout(set charset) {
 
 func (self *Parser) reqMore(char rune, size int, delim rune) {
 	if size == 0 {
-		panic(self.err(e.Errorf(`expected closing %q, found EOF`, delim)))
+		self.fail(self.errEof(delim))
 	}
-
 	if charsetNewline.hasRune(char) {
-		panic(self.err(e.Errorf(`expected closing %q, found newline`, delim)))
+		self.fail(e.Errorf(`expected closing %q, found newline`, delim))
 	}
+}
+
+func (self *Parser) errEof(delim rune) error {
+	return self.err(e.Wrapf(io.EOF, `expected closing %q, found EOF`, delim))
+}
+
+func (self *Parser) fail(err error) {
+	panic(self.err(err))
 }
 
 func (self *Parser) err(err error) ParseErr {
