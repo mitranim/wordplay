@@ -1,2233 +1,2213 @@
-# LandRaider
+arghitechture © Mitranim
 
-relationshit (bad relationship)
+girlfiend (nasty fiance) © Mitranim
 
-freedge (with free food)
+joyn © Mitranim
 
-breaktrue (a breakthrough that, unlike all the battery ones, is true)
+annonsense © Mitranim
 
-enterfear (interfere)
+langauge © Mitranim
 
-conquery (conquest)
+refucktoring © Mitranim
 
-apollogy (Apollo apologizing?)
+deepslay © Mitranim
 
-foresick (forsake)
+onederful © Mitranim
 
-knightmare
+jobsworth (an official who upholds petty rules even at the expense of humanity or common sense) © LandRaider
 
-maybee (danger of bees)
+knowtice (spot something you already knew about) © Mitranim
 
-adoorable (something that can be equipped with a door)
+captin © Mitranim
 
-"parking slut" (my friend today while looking for a free parking slot at a crowded mall)
+bearzerker © Mitranim
 
-werehouse (warehouse full of werewolves or something? warehouse that turns into somethine else?)
+wretchribution © Mitranim
 
-mistape (when you accidentally stick a piece of duct tape somewhere you didn't mean to)
+gangerous (dangerous in gangs, like small animals) © Mitranim
 
-squatmate (someone you squat with — either as gopniks or when you occupy something unlawfully)
+condishion © Mitranim
 
-grosseries (groceries you don't really want to eat)
+racearch (eugenics) © Mitranim
 
-"I'll splay your spleen and splatter your brains all over the splashboard, then splice the remains together with a splint, it will be splendid!"
+crossmetic © Mitranim
 
-goregone (something that's luckily in the past but not without blood spilled)
+catalock © Mitranim
 
-terrivision (terrible television)
+iceburg (city built on/of ice) © Mitranim
 
-envylope (when you are given a red envelope with a lot more money than your friends and siblings)
+maytenance © Mitranim
 
-cantdy (candy you aren't allowed to eat)
+claptomania © Mitranim
 
-vengetable (vengeful vegetable; a table of vegetables you have to eat for being a bad kid)
+jewplicate © Mitranim
 
-teamfork (when you agree with your team to split up and flank the enemy)
+stronghole (underground fortress) © Mitranim
 
-retrotarded (made retarded by using retro-aesthetics, like Nintendo games)
+angressive © Mitranim
 
-keybored (when you start making typos because you're tired of the conversation)
+sentree © Mitranim
 
-apocalips (when something really fucks up your lips like a third degree burn)
+walkaround (circumnavigate the problem) © Mitranim
 
-worrning (a worrying warning)
+notefication © Mitranim
 
-wrotten (something that's written but also rotten because it sucks)
+purrformance © Mitranim
 
-fatmate (a fat flatmate?)
+enteresting © Mitranim
 
-shittyzen (a bad citizen)
+nayway (regardless and irrespective) © Mitranim
 
-bitcon (bitcoin con)
+pickture © Mitranim
 
-weakend (not-too-well spent weekend)
+feeture (paywalled) © Mitranim
 
-condolescendence (a condescending condolence)
+stupersonic © Mitranim
 
-terrorform (terraforming an inhabited planet? genocidal terraform?)
+duplicat (cat reproduction) © Mitranim
 
-bottlefield (a field of bottles formed as an aftermath of heavy drinking, usually left behind by gopniks)
+highlarious © LeoJo
 
-lameployer (lame employer)
+censorshit © LeoJo
 
-scaremish (scary skirmish)
+expirementation (experimenting with whether expired food will poison you or not; experiments that cause the subject to "expire") © LandRaider
 
-wreckoning (devastating reckoning)
+fueld © Yury
 
-interpretentious (art critic)
+surwaves (surveys) © Yury
 
-execuse (executive excuse?)
+properites © Yury
 
-"loathing screen" (a long loading screen?)
+brainch © Yury
 
-devilstation (devastating demonic infestation?)
+siparate © Yury
 
-desease (sea sickness?)
+eekxactly © Yury
 
-trailore (trailer giving away too much of the lore)
+bottery © Yury
 
-tacticool
+meaningfool © Yury
 
-Sinistar (a sinister star?)
+memeingfool © Yury
 
-atmosfear (scary, unbreathable atmoshphere?)
+docktor © Yury
 
-cleptocurrency (currency that is always trying to rip you off)
+whitch © Yury
 
-wormth (abundance of worms?)
+tocken © Yury
 
-varlord (the lord of variables?)
+topick (choice topic) © Yury
 
-mugnate (a magnate who mugs people, or a very rich mugger)
+deposite © Yury
 
-bewares (wares that you need to be beware of for whatever reason)
+redirector (director that offloads all the work?) © Yury
 
-competentors (competent competitors?)
+itermediate © Yury
 
-mediocore (mediocre core?)
+atreboot © Yury
 
-phoneto (a photo made by a phone)
+addreboot © Yury
 
-meating (meeting of friends where you eat a lot of meat; BBQ with friends)
+oopen © Yury
 
-derpartment (an extremely incompetent department)
+duckument © Yury
 
-reapeat (reap someone again)
+bullistic © Yury
 
-statisfied (satisfied statistically or by statistics)
+foundraising © Yury
 
-enterpretation (submitting your own view)
+usefull © Yury
 
-outroduce (tell your friends not to deal with the person anymore, 'cause they a bitch)
+userfull © Yury
 
-stereotypographical (when you can always expect anything related to printing text to fuck up decent standards and data presentation)
+unrealated © Yury
 
-aimplitude (amplitude of aim? ample aim?)
+admint © Yury
 
-monsturizer (moisturizer for/by monsters)
+invider © Yury
 
-annoynymous (anonymous and annoying)
+tryverse © Yury
 
-coversion (covert conversion)
+legocy © Yury
 
-survillaince (surveillance by a villain)
+anuswer © Yury
 
-phenomeal (a phenomenal meal)
+hoverment © Yury
 
-screept
+souper (souper dish) © TrueNight
 
-scatterpillar
+newtral © TrueNight
 
-warewolf (a wolf for sale?)
+slowercase (caps?) © TrueNight
 
-defailopers (OW developers, anyone who uses Java)
+recryer (require) © Tat (SZC)
 
-ambitchious
+powerty © Nicos (SZC)
 
-memewhile
+asstimate © Nicos (SZC)
 
-forklore (when someone forks the existing lore with an alternative timeline or smth?)
+courious © Nicos (SZC)
 
-bearocracy (bureacracy of bears? bureaucracy that has to be beared? overbearing bureaucracy?)
+humangos © Nicos (SZC)
 
-corpirate (corporate but pirate)
+expreset (expressed) © Nicos (SZC)
 
-chronoorgy (fucking up time travel in a really bad way)
+presense © Nicos (SZC)
 
-beartrayal (betrayal by a bear)
+"mind mine / mine mind" ("mind mine" or "mine mind" → my mind; "mind mine" where mine = weapon → mine for the mind, or of a mind; "mind mine" where mine = lode → abundance of minds; "mine mind" where mine = dig, delve → delve into mind) © Mitranim
 
-truemor (rumor that's true)
+pedator (pedo-predator) © Mitranim
 
-expirementation (experimenting with whether expired food will poison you or not; experiments that cause the subject to "expire")
+robusted (busted for good) © Mitranim
 
-jobsworth (an official who upholds petty rules even at the expense of humanity or common sense)
+algorhythm (well-choreographed algorithm) © Mitranim
 
-# LeoJo
+feedbark (angry response) © Mitranim
 
-"attention spam"
+combox (combo-box, UI control) © Mitranim
 
-sunprise (surprising sunrise; out in the heat without solar protection)
+diss-miss (discharge with disdain) © Mitranim
 
-guilelines (untrustworthy guidelines)
+divorcity © Mitranim
 
-guessthetics (the art of guessing)
+diver-city © Mitranim
 
-sucksessfool (fool who stumbled its way to success)
+divorcify (split up for variety) © Mitranim
 
-untelligence (opposite of intelligence)
+undefiend (sinister "undefined"; JS programmers will understand) © Mitranim
 
-tearemony (tea ceremony? mourning ceremony?)
+thirstday (prior to drunkday) © Mitranim
 
-remembeer (remembering small scraps after a hangover)
+transfirm (solid change) © Mitranim
 
-shituation (self explanatory)
+preylude (stalking victim) © Mitranim
 
-bumfire (that kind of trashcan bonfire that bums have; spontaneous gas combustion?)
+praylude (preparatory prayer) © Mitranim
 
-idiotology (idiotic ideology; study of idiots)
+preyparation © Mitranim
 
-reapercushions
+prayparation © Mitranim
 
-coloony (lune colony of looneys)
+newclear (wipes the landscape clean) © Mitranim
 
-ashually
+exqueeze-it ([exquisite]) © Mitranim
 
-stalldier
+complan (decide to complain later) © Mitranim
 
-helichopter
+blogchain (reposted = true forever) © Mitranim
 
-Administratrivialties (random, small things that need to be micromanaged/delegated)
+parallyze (paralyze in parallel) © Mitranim
 
-Winterference/Winderference (for when winter/snow or alternatively wind causes problems)
+Marsedes (Ares' war chariot) © Mitranim
 
-frostilities (Cold war interaction)
+lowyer © Mitranim
 
-democrazy
+homesexual (likes comfort) © Mitranim
 
-sardondick ([sardonic])
+overoll (all-round) © Mitranim
 
-highlarious
+robosst (tough as a boss) © Mitranim
 
-censorshit
+enteraction (first encounter) © Mitranim
 
-# Yury
+blightning (lightning that corrupts?) © Mitranim
 
-unbelievabull (too incredulous to believe)
+undefiend © Mitranim
 
-fueld
+broadcats © Mitranim
 
-surwaves (surveys)
+deathsperation (last throes) © Mitranim
 
-properites
+hullk (massive frame) © Mitranim
 
-brainch
+madmade © Mitranim
 
-siparate
+sickumstance (undesirable circumstance) © Mitranim
 
-eekxactly
+femail (chainmail for female figure?) © Mitranim
 
-bottery
+innside (in a tavern) © Mitranim
 
-meaningfool
+mantain (manual maintenance) © Mitranim
 
-memeingfool
+underneat (well-kept underside) © Mitranim
 
-docktor
+pingwin (pushy bird) © Mitranim
 
-whitch
+inventual (occasionally insightful) © Mitranim
 
-tocken
+emberrassing (scorching embarrassment) © Mitranim
 
-topick (choice topic)
+upgreat (grand improvement) © Mitranim
 
-deposite
+upgrand (great improvement) © Mitranim
 
-redirector (director that offloads all the work?)
+corract (actually correct) © Mitranim
 
-itermediate
+messive (big and unkempt) © Mitranim
 
-atreboot
+infamation (defaming info) © Mitranim
 
-addreboot
+memengful (memorable) © Mitranim
 
-oopen
+memengless (unmemorable) © Mitranim
 
-duckument
+moanent (painful moment) © Mitranim
 
-bullistic
+confix (problem-solving configuration) © Mitranim
 
-foundraising
+univerasity (mastery of everything) © Mitranim
 
-usefull
+univercity (very large university) © Mitranim
 
-userfull
+furyfier (raging purifier) © Mitranim
 
-unrealated
+lockchain (link chain made of carabiners? padlocks?) © Mitranim
 
-admint
+attension (tense focus) © Mitranim
 
-invider
+deeploy (covert drop behind enemy lines; layered deception) © Mitranim
 
-tryverse
+darkument (morbid document) © Mitranim
 
-legocy
+platforum © Mitranim
 
-anuswer
+crawlback (slow callback) © Mitranim
 
-hoverment
+flockchain © Mitranim
 
-# TrueNight
+syncure © Mitranim
 
-boolshit (ugly and useless program or extension)
+freakuent (bizarrely frequent) © Mitranim
 
-souper (souper dish)
+freakuency (bizarre frequency) © Mitranim
 
-newtral
+asfailt (badly-made asphalt) © Mitranim
 
-slowercase (caps?)
+sickmas (holiday you're sick of? sick during holiday?) © Mitranim
 
-# Jessica (SZC)
+bitchumen © Mitranim
 
-ingradient
+whizzard © Mitranim
 
-brickdown (breakdown)
+breakpaint (painted-on threshold; painful threshold) © Mitranim
 
-applight (applied)
+housand © Mitranim
 
-lockin (login)
+demonsterate (unveil something monstrous) © Mitranim
 
-specifight (specified)
+stimular (excitingly reminiscent) © Mitranim
 
-on-sights (on-site)
+hollowday (meaningless holiday) © Mitranim
 
-overseize (oversees)
+relephant © Mitranim
 
-"at the ant" (end)
+unbullievable (clearly a load of bull) © Mitranim
 
-"create or addit" (edit)
+hype-mind © Mitranim
 
-stickholder (stakeholder)
+overwheelm (rollstomp) © Mitranim
 
-whyframe (wireframe)
+reapair © Mitranim
 
-truedrones (children)
+vampyre (vampire burned to death) © Mitranim
 
-russionale (rationale)
+cloose (loosely shut) © Mitranim
 
-defriendtiate (differentiate)
+wisper © Mitranim
 
-fitback (feedback)
+wispring © Mitranim
 
-"user exbearance"
+ripplicate (multiply by repetition) © Mitranim
 
-"needle end" (middle end?)
+feedbag (holds your messages) © Mitranim
 
-infitation
+malebox © Mitranim
 
-# Nicos (SZC)
+asswer (snarky response) © Mitranim
 
-powerty
+ultimatic © Mitranim
 
-asstimate
+exsample (example that no longer fits?) © Mitranim
 
-courious
+eggsample © Mitranim
 
-humangos
+contestrophe (catastrophic competition) © Mitranim
 
-expreset (expressed)
+vainguard (useless frontliners) © Mitranim
 
-presense
+anthemma (flagpole antenna?) © Mitranim
 
-# Brian (SZC)
+eyebrowse (directs your gaze) © Mitranim
 
-infestment
+flushtuate © Mitranim
 
-beaware (beware)
+realipstick (not overdoing the cosmetics) © Mitranim
 
-# Tat (SZC)
+emergenation (creative fantasies) © Mitranim
 
-recryer (require)
+dieve (suicidal jump) © Mitranim
 
-# Jacky (Kyokan)
+wreckord (ruined record) © Mitranim
 
-"development psychol" (cycle)
+cooporation (organization built on cooperation) © Mitranim
 
-# Mitranim
+castrophic © Mitranim
 
-cogweb (mechanical tangle)
+placeholer © Mitranim
 
-bitchmark (benchmark trashing something)
+eyeland (Ireland?) © Mitranim
 
-octobus (eight-wheeled bus?)
+guesstomer (vaguely recognizable customer) © Mitranim
 
-ken-gúru (see https://en.wiktionary.org/wiki/ken)
+moovment (herd stampede) © Mitranim
 
-"rule of dumb" (easy-to-follow thumb rule)
+afrobatics © Mitranim
 
-roadcast (highway radio)
+acrobotics (agile cybernetics) © Mitranim
 
-dogspanion (trusty companion animal)
+pengun © Mitranim
 
-catspert
+costumer (buys clothes) © Mitranim
 
-dogspert
+wreckognize © Mitranim
 
-thunderdog (underdog's loud comeback)
+disguard (discard) © Mitranim
 
-beeware (bee extra careful)
+seize-on (season to act on the opportunities) © Mitranim
 
-bonefactor (seemingly beneficial but secretly bones you?)
+pessibility (worst expectation) © Mitranim
 
-bonefire (necromancer's bonfire)
+perillel (an accompanying peril) © Mitranim
 
-"competely different" (competing alternatives)
+wonderer (excited by going places) © Mitranim
 
-rectangel (perfect rectangle? square with wings?)
+magnitube (telescope?) © Mitranim
 
-rektangel
+lagin (slow login) © Mitranim
 
-failgun (unimpressive railgun)
+bitterfly (beautiful but not tasty) © Mitranim
 
-"30-megahurt cannon"
+broadcost (expensive broadcast) © Mitranim
 
-megahurtz (unit of pain)
+deathstroy (lethal overkill) © Mitranim
 
-explosure (too much attention)
+keyboar © Mitranim
 
-bitchcoin (fake currency)
+daemonstration (demonic show, turns viewers into monsters?) © Mitranim
 
-"deja view" (flashback of the past)
+attaintion (grab attention and keep it) © Mitranim
 
-defit (extinction of the unfittest)
+braind (smart brand) © Mitranim
 
-madvisor (terribly unwise aide; visor that shows maddening things)
+pressentation (forceful show) © Mitranim
 
-scourage (unwelcome courage?)
+poopup (crappy popup) © Mitranim
 
-"argumented reality" (when people can't decide on reality augmentation)
+wokearound (suddenly realized solution) © Mitranim
 
-"son of a bee"
+mentallic © Mitranim
 
-"mind mine / mine mind" ("mind mine" or "mine mind" → my mind; "mind mine" where mine = weapon → mine for the mind, or of a mind; "mind mine" where mine = lode → abundance of minds; "mine mind" where mine = dig, delve → delve into mind)
+dataction (noticed in the data) © Mitranim
 
-beehave
+beem (spraying bees?) © Mitranim
 
-robutt (considerable metal behind)
+reaplace (harvest and replace) © Mitranim
 
-threequel (part of trilogy)
+replayce © Mitranim
 
-brobot
+reaplay © Mitranim
 
-assploit (exploiting a rear weakness)
+wherehouse (lost store) © Mitranim
 
-assplode
+deathtination (final destination of all life) © Mitranim
 
-assplod
+imposture (imposing stature? mimicking figure?) © Mitranim
 
-fatom (fat atom)
+ad-apt (tailored advertising) © Mitranim
 
-hentail (lecherous appendage)
+represend (diplomatic envoy) © Mitranim
 
-manatic (maniacal fanatic?)
+guyde © Mitranim
 
-shitdown
+inspyre (burning passion) © Mitranim
 
-harget (hard target)
+offishial (sleazy representative) © Mitranim
 
-gunnon (hand cannon?)
+carrycter (star of the show) © Mitranim
 
-oozurper (slimy dictator?)
+guessture (ambiguous motion) © Mitranim
 
-failacy
+expact (silent agreement?) © Mitranim
 
-bondit (trusty bandit)
+demend © Mitranim
 
-buzzworthy
+reacharge (reach out to refuel?) © Mitranim
 
-borderlads (hard-living folks)
+infestigate © Mitranim
 
-orderlands (well-governed territory)
+struckle (fistful struggle) © Mitranim
 
-scrapshooter (non-marksman)
+ageancy (mature freedom) © Mitranim
 
-paintful
+xenonym (alien verbal counterpart) © Mitranim
 
-hatful (handful / hateful)
+intersting (jolting wonder) © Mitranim
 
-"mined games" (minesweeping)
+deafinite © Mitranim
 
-horrner (corner or horrors)
+deafenite © Mitranim
 
-fanbuy (buying fanboy)
+excelerate (progress through excellence) © Mitranim
 
-freload (free reload)
+physit (visit in person) © Mitranim
 
-"weary well" (like "I know these things weary well")
+murderator (ban-happy moderator) © Mitranim
 
-pumpking
+engauge (get involved, with careful examination) © Mitranim
 
-loonshine
+mashrooms © Mitranim
 
-lensor (ocular sensor)
+my'shrooms © Mitranim
 
-loonatic
+enemation (hostile movement) © Mitranim
 
-filewall
+porking (parking like a swine) © Mitranim
 
-payper
+prophessional (expert good at predictions) © Mitranim
 
-intergration (grating contact between components)
+valueball (expensive sphere) © Mitranim
 
-interator (interactor? integrator? iterator?)
+thundermental (stormy temperament) © Mitranim
 
-intergated (combination through access control)
+lifesafer (moderate safeguard) © Mitranim
 
-hollowgram
+"nail in the coughing" (killer disease) © Mitranim
 
-"tank you"
+kingratulations (royal gratitude) © Mitranim
 
-ascendiary (beefed-up incendiary?)
+orcestrate (horde manipulation) © Mitranim
 
-loonshot (moonshot that cannot possibly work)
+sicksessful © Mitranim
 
-arbitrartor (inconsistent arbiter)
+sucksexsful (lewd way to the top) © Mitranim
 
-alumnium (a substance made of... alumni?)
+illeggal (gal's legs too good, should be outlawed) © Mitranim
 
-"gritting party" (tough greeting party?)
+dencity (population clustering) © Mitranim
 
-"denemies / demonies" (is what you fight in Doom)
+evilution (malicious development) © Mitranim
 
-gloatee (goatee of gloating goat?)
+expyre (burn out) © Mitranim
 
-screwnshot (compromising screenshot)
+exscreamely © Mitranim
 
-scamvert (shifty advert)
+airid (dry and windy) © Mitranim
 
-scambag (annoying con man)
+conetract (narrow down to a cone?) © Mitranim
 
-"mecdonalds / mechdonalds" (charge station for mechs)
+busket © Mitranim
 
-mehdonalds
+decimail © Mitranim
 
-mechkind
+guarden (den of guards? tight group of guards?) © Mitranim
 
-skelethal
+fearomone (dread-inducing secretion) © Mitranim
 
-funtastic
+miningful (dig for deep meaning) © Mitranim
 
-naypalm (hand sign that says "no")
+broblem © Mitranim
 
-baybee
+reeltime (too fast for stability) © Mitranim
 
-majestick (imposing staff)
+aimgle (good shooting angle) © Mitranim
 
-majesdick (...stunning rod)
+transection © Mitranim
 
-magestick (mage staff)
+destonation © Mitranim
 
-majesdig (so majestic I dig it)
+commplex (convoluted communications) © Mitranim
 
-adolt (stupid adult)
+innclude © Mitranim
 
-molden (all slimy with mold?)
+costomer (customer too expensive to serve) © Mitranim
 
-pedator (pedo-predator)
+transfur (pelt transportation) © Mitranim
 
-blatent (obvious in latent hindsight?)
+bookva © Mitranim
 
-someonce (a stranger you met once)
+improoment (making more space) © Mitranim
 
-teleportal
+cementics (semantics set in stone) © Mitranim
 
-somethine (something yours?)
+stradegy (trade tactics; tragic choice of tactics) © Mitranim
 
-mistaple (accidentally stapling something you didn't mean)
+settlite (colonial satellite) © Mitranim
 
-commsole (communications console)
+sightelite (observational satellite) © Mitranim
 
-agreenment (very $$ profitable agreement)
+saptimber (lumbering month) © Mitranim
 
-fainth (faint faith?)
+preydator © Mitranim
 
-drakon (midway between drake and dragon)
+seequential © Mitranim
 
-mourndern (mourn-worthy modern?)
+diebolic (lethally malicious) © Mitranim
 
-"byield / byielding" (building and giving away)
+uppertunity (chance to gain an upper hand) © Mitranim
 
-sumbit (submit bits for processing)
+typigal (normal gal) © Mitranim
 
-"protect yr ass... et"
+lightlyhood © Mitranim
 
-simultitude (many things simultaneously? many simulations?)
+superising (astonishingly superior) © Mitranim
 
-stimultitude (many stimulations?)
+tagst (extreme shorthand writing?) © Mitranim
 
-stimiltitude (many similar stimulations?)
+axtract (cut out the essence) © Mitranim
 
-similtitude (being similar to many things?)
+axcellent (highly skilled with an axe) © Mitranim
 
-similidude (a guy that looks like another?)
+axstatic (murderous trance) © Mitranim
 
-seemultaneous (perceived at the same time)
+summersault © Mitranim
 
-seemilar (seems similar at first)
+embad (bad inclusion) © Mitranim
 
-hungred (hungry like a hundred)
+exspearment © Mitranim
 
-"spatial awakeness"
+bettery (superior energy storage) © Mitranim
 
-superise (great surprise)
+arcrobotics (uses open-air electric conduction?) © Mitranim
 
-argurument (irrefutable argument from a guru)
+multiplie (dishonest arithmetic) © Mitranim
 
-skiller (skillful killer)
+matearial (accompanying material) © Mitranim
 
-membear
+digtate © Mitranim
 
-bloodlie (bloodline that turned out fake)
+condirtions (grimy conditions) © Mitranim
 
-beleave
+soular © Mitranim
 
-fakening
+criticall (critical of everything) © Mitranim
 
-exquise (exquisite excuse)
+usedful (formerly useful) © Mitranim
 
-exqueeze (ex-fiancee)
+mooney (made-up currency?) © Mitranim
 
-greate (create something great)
+udderstand © Mitranim
 
-teamate (someone you have a tea with)
+undermediary © Mitranim
 
-sleap (leaping into bed?)
+bottlenet © Mitranim
 
-remined (reminded of a bad memory?)
+acheesement (achieved through unsavory means) © Mitranim
 
-veryfy (verify thoroughly)
+diemond © Mitranim
 
-trainiac (training freak)
+eyecon (painting that stares right back at you) © Mitranim
 
-"sun of a beach"
+ducktape © Mitranim
 
-hell-a-copter
+wreckommend (devastatingly bad advice) © Mitranim
 
-overdog (opposite of underdog)
+fucktion (dickish faction) © Mitranim
 
-gamoeba (typical WoW gamer)
+suckceptible (gullible) © Mitranim
 
-hardbeat (heartbeat with a bang)
+sassinate (take down by talking down) © Mitranim
 
-passenegr (black passenger)
+golleague (fellow gopher: Golang programmer) © Mitranim
 
-dickflect
+playcate (playfully appease) © Mitranim
 
-Legionardo
+maintenant (high-maintenance tenant) © Mitranim
 
-secrent (secret rent?)
+filmiliar (known from movies) © Mitranim
 
-seekret (a secret to find)
+buyproduct (sellable byproduct) © Mitranim
 
-secrekt (rekt without nobody else knowing)
+screwtinize © Mitranim
 
-"hand satanizer" ("special" brand of sanitizer)
+endependent (forever self-sufficient) © Mitranim
 
-empyre (empire being burned to the ground)
+whichcraft (unrecognizable sorcery) © Mitranim
 
-cheftain (chief of chefs)
+ooptimal © Mitranim
 
-warchef
+memestream (mainstream thinking) © Mitranim
 
-countact (act of counting your contacts)
+redunrant (superfluous speech) © Mitranim
 
-hobot (stray robot)
+remembed (recalled while resting) © Mitranim
 
-"this is a bed idea" (something that should be done in bed)
+Moscowl (Russian frown?) © Mitranim
 
-hellmet (acquaintance from hell? infernal headgear?)
+absrobe (absorb into garments? absorptive garments?) © Mitranim
 
-"hell met" (opposite of "well met")
+draumatic (emotionally damaging) © Mitranim
 
-combonent (part of a combo?)
+userful (used by many) © Mitranim
 
-heeling (pretending to heal while actually legging it)
+sharpnel © Mitranim
 
-greatful (greatly grateful?)
+paln (plan with pals) © Mitranim
 
-severall (all items on display)
+ceasonal (ceases from time to time) © Mitranim
 
-orkout (grunt-inducing exercise)
+predickt © Mitranim
 
-Chooseday (very american Tuesday)
+messconception © Mitranim
 
-Jewsday (_very_ american Tuesday)
+diegram © Mitranim
 
-romains (dead Romans)
+worc (grunt work) © Mitranim
 
-arrrchitecture (riggin' a proper pirate vessel)
+suckspect (misplaced suspicion?) © Mitranim
 
-awwrchitecture (cute building or structure)
+sasspect (openly deride on suspicion) © Mitranim
 
-singnal (one signal, or a broadcast of someone singing)
+maintaint © Mitranim
 
-"built to blast"
+puriod (time of purification) © Mitranim
 
-teamplate (exemplary team, a template for others?)
+jawb (jaw-intensive job? involves a lot of talking?) © Mitranim
 
-raidear (dear raidmate)
+deadonation (lethal explosion) © Mitranim
 
-powerhorse (powerhouse of horsepower)
+sicknature (perverse signature) © Mitranim
 
-mess-sage
+baita (enticing but flawed beta version?) © Mitranim
 
-bullprint (flawed blueprint?)
+queentessential (royally perfect?) © Mitranim
 
-injurance
+quitessential © Mitranim
 
-cocporn (porn with popcorn?)
+mygrate © Mitranim
 
-bondfire (cozy fireplace for friends)
+arghitecture (grumble-inducing structure) © Mitranim
 
-assoul (deeply rotten individual)
+expectacular (magnificent as expected) © Mitranim
 
-memtor (memory trainer?)
+q-rated ("q" for "quality") © Mitranim
 
-reasonance (resounding consensus)
+leprository (repository of rotten things) © Mitranim
 
-surveylance (penetrate first, ask questions later)
+lepository (repository of pleasant things; only a Russian would understand) © Mitranim
 
-feory (scaremongering speculation)
+mediarite © Mitranim
 
-disscuss
+fature (future of lazy gluttons) © Mitranim
 
-tellyvision (tells you what to think)
+pantspermia © Mitranim
 
-whorrior (hoe conqueror)
+punspermia © Mitranim
 
-ass-signment (marks your ass for beating)
+"nice to eat you" (carnivore to victim; also see "nice to meat you") © Mitranim
 
-pieceful (resting in pieces)
+hybreed (cross-breed) © Mitranim
 
-worning (a tiresome, obsolete warning)
+pervmission (lewd consent) © Mitranim
 
-memestress (lady who spends too much time on the internet?)
+payge (pay-gated article) © Mitranim
 
-memester (semester of memorising)
+gaym (rapturous play) © Mitranim
 
-gleethal
+attactic (offensive strategy) © Mitranim
 
-guidelies (untrustworthy guidelines)
+deafault (tone-deaf built-in) © Mitranim
 
-exploid
+enterrupt © Mitranim
 
-Bangcock (special district of Bangkok)
+purseon (walking, talking wallet) © Mitranim
 
-paythrough (viewers paying streamer to play game)
+cursemas © Mitranim
 
-sicks (unlucky six)
+fucktor (show-stopping factor) © Mitranim
 
-"nice to meat you" (carnivore to victim; alternatively, spoken after gibbing someone with a rocket)
+inventgory (carrying body parts?) © Mitranim
 
-pinspiration (when you pin down something to be inspired by)
+coverment (secretive government) © Mitranim
 
-assthetics (booty beauty)
+bestard (superior half-breed) © Mitranim
 
-sucksessful (popular garbage)
+buypass (bribe for unauthorized entry) © Mitranim
 
-vommit (programming: commit consisting of mental vomit)
+battleneck (decisive part of the fight) © Mitranim
 
-"let me ax you a question" (killer, while approaching victim)
+foodball (playing with food) © Mitranim
 
-satellight (light following someone around)
+taintalize (corrupting lure?) © Mitranim
 
-fleshlight (bio-luminescence)
+coffeeinn (caffeinating tavern) © Mitranim
 
-attrack
+exhotic (exhilaratingly hot) © Mitranim
 
-talonted (dangerous talent)
+jerktator © Mitranim
 
-eggsistence (existing in a vegetable state?)
+birdsday © Mitranim
 
-bedcause (because of something that happened in a bed?)
+crytearia (tragically impassable criteria?) © Mitranim
 
-crysader (aggressively sad person)
+insite (insider information) © Mitranim
 
-"suicide squat"
+revelationize © Mitranim
 
-mythinformation
+adeptation © Mitranim
 
-mythconception
+iceolated (stranded in a cold place) © Mitranim
 
-trycer (shooting blind with tracer rounds?)
+ridickule © Mitranim
 
-apparantus (automatic ranting machine)
+reducktion © Mitranim
 
-documention (very brief documentation)
+bladent (blatantly sharp) © Mitranim
 
-"deadly simple"
+donestairs © Mitranim
 
-hassless
+barricare © Mitranim
 
-transanction (balance deduction as punishment)
+dicknity (uppity demeanor) © Mitranim
 
-maintrix (mother network)
+encampsulate © Mitranim
 
-architech (chief technologist?)
+sexcuse © Mitranim
 
-"Honk Kong" (city of honking jams)
+pantemonium © Mitranim
 
-anonism (vain obsession with anonymity)
+meleedrama (ends in violence, like Shakespeare works) © Mitranim
 
-aimateur (someone with poor aim)
+injuraction (harmful interaction) © Mitranim
 
-geekstarter
+chilldren (for laissez-faire parents) © Mitranim
 
-hypeloop (feedback loop of hype)
+chilldrone © Mitranim
 
-hypethetical (exists in imagination of riled-up fans)
+cuntry (place full of dicks) © Mitranim
 
-"boot force" (a mighty kick)
+asscalate © Mitranim
 
-samewhere (different place, same thing)
+amoneyt © Mitranim
 
-"bubble gun"
+feelter © Mitranim
 
-notwork (dysfunctional network)
+statemement (memorable sentence) © Mitranim
 
-"neural notwork" (dysfunctional neural network, which is most of them)
+cityzen © Mitranim
 
-authomatic
+electoynics © Mitranim
 
-aloneside (imaginary companion?)
+cointer © Mitranim
 
-betcoin (for gambling)
+defoolt © Mitranim
 
-"saldo mortale" (accounting: reconciling a big account)
+membershop © Mitranim
 
-alboom (explosive hit)
+essense (essential sense) © Mitranim
 
-attank (highly aggressive war machine?)
+assence © Mitranim
 
-attactor (someone _attactive_?)
+cantdidate © Mitranim
 
-costmetic (very expensive makeup)
+offertunity © Mitranim
 
-bullshift (misguided change of direction)
+surprice (costlier than expected) © Mitranim
 
-sacriface
+uniworse © Mitranim
 
-entitty
+foodhold (grasping the food market) © Mitranim
 
-cryptone (cryptic intonation)
+junktion © Mitranim
 
-ooperation (operation resulting in an oopsie)
+"dragon drop" (drag'n'drop) © Mitranim
 
-eyedentification (iris scanning, or eye-to-eye confirmation)
+marshroom © Mitranim
 
-"trash test" (crash test that trashes the product)
+dieversity © Mitranim
 
-wounderful (something great that also hurts you)
+raydiation © Mitranim
 
-octobeer (brewfest month)
+pissful (peaceful) © Mitranim
 
-flakship (anti-air flagship)
+monstrocity (monstrous settlement) © Mitranim
 
-anonymouse (hidden, quiet)
+flagshit © Mitranim
 
-responce (pretentious reply?)
+poption (potion that pops) © Mitranim
 
-Sibearia (land of bears)
+readuntant © Mitranim
 
-mementum (cultural inertia)
+redonedont (shouldn't have been repeated) © Mitranim
 
-enterprice (corporate-grade price)
+graydient (between black and white) © Mitranim
 
-motherhacker
+sistern © Mitranim
 
-cointainer (money bag)
+eekcetera (icky remainder) © Mitranim
 
-blockchin
+mainkind (dominant race) © Mitranim
 
-interesetting (fascinating backdrop?)
+lepublic (République française) © Mitranim
 
-sellfish (name for a seafood restaurant? fishy sellout?)
+staysis © Mitranim
 
-redputation (bloody trail)
+assteroid © Mitranim
 
-manotechnology (manual work?)
+fuckt (inconvenient fact) © Mitranim
 
-manomachine (cyborg?)
+stundard © Mitranim
 
-pegasys (unicorn technology?)
+rundom © Mitranim
 
-memotion (preprogrammed emotion? preprogrammed movement?; an emotion people think they're feeling just because the media/internet/memes tell them they should)
+notural (shouldn't occur naturally, but does) © Mitranim
 
-keeptocurrency (currency that is never spent)
+intrinsick (naturally malfunctioning) © Mitranim
 
-hambush (surprise boar)
+intrinstick © Mitranim
 
-hackcellent (shortcut to success?)
+suspent © Mitranim
 
-hangling (person being hanged)
+substainable © Mitranim
 
-tenasty (unwelcome persistence)
+"marry cristmas" © Mitranim
 
-"this font is worth its weight in bold"
+egosystem (revolves around one) © Mitranim
 
-neckname
+shotcoming © Mitranim
 
-pinful (causes piercing pain)
+misstake © Mitranim
 
-dolpin
+naybor (disagreeable neighbor) © Mitranim
 
-dolfin (dolphin fin)
+malproblem © Mitranim
 
-scannerd (someone who digitizes all their paperwork?)
+careacter © Mitranim
 
-abount (too much about one subject)
+nicemare © Mitranim
 
-deducation
+maindatory (required above all else) © Mitranim
 
-atomsphere
+mindatory © Mitranim
 
-recomment (repeatedly leave a recommendation)
+eeliens (slimy, squeazy, snake-like, foreign things) © Mitranim
 
-grillfriend (GF that roasts you all the time)
+famouse © Mitranim
 
-boyfiend (nasty fiance)
+pairpendicular (pairallel intersection) © Mitranim
 
-girlfiend (nasty fiance)
+pairallel © Mitranim
 
-hewman (tailor)
+maidness (state of crazy beautiful?) © Mitranim
 
-"flesh memory" (brain)
+newtralize © Mitranim
 
-optimisaction (one optimisation pass)
+ornametal (metal decorations? intricate engravings on metal?) © Mitranim
 
-diss-cuss-ting
+bugteria © Mitranim
 
-trashold
+skullpture (WH40k Imperial art style) © Mitranim
 
-availuable (something that's available and valuable)
+dienamic (suicidally quick?) © Mitranim
 
-perfromance
+dienamite © Mitranim
 
-froget (amphibian memory)
+equickment © Mitranim
 
-soilder (gritty footman)
+dielemma (to die or not to die) © Mitranim
 
-deathsmiss (dismiss... permanently)
+flatform © Mitranim
 
-bugdet (budget with holes)
+trucktor © Mitranim
 
-dumbination (control through propaganda)
+dragtor (machine for tugging heavy stuff) © Mitranim
 
-playload (a load of toys)
+traptor (dangerously malfunctioning vehicle) © Mitranim
 
-fatmate (fat flatmate)
+costumize (dress it up to your liking) © Mitranim
 
-fratmate (fraternity flatmate)
+manyfacture (mass-produce) © Mitranim
 
-expain (clarify in excruciating detail)
+litreally (writing come true) © Mitranim
 
-mewment (pussyfooting)
+robolution © Mitranim
 
-dienger (mortal danger)
+realaxation © Mitranim
 
-cannonical
+freshold © Mitranim
 
-guesshole (ruins the fun by revealing the mystery)
+interfeelence (feelings getting in the way) © Mitranim
 
-astaroid (star fragment? brown dwarf?)
+sicklical (unhealthy cycle) © Mitranim
 
-adrainaline (overdrive that drains you)
+diegest (lethal when ingested) © Mitranim
 
-eldrich (rich, sinister elder)
+starelize © Mitranim
 
-mailware (arrives by mail)
+trickonometry © Mitranim
 
-con-fu (art of deception; fake martial mastery)
+vermion (nuisance particle) © Mitranim
 
-bullproof (impervious to nonsense)
+missilaneous © Mitranim
 
-murkup (dirty markup; dirty makeup; warpaint)
+tamperature © Mitranim
 
-starecase (insurmountable obstacle you can only stare at; glass display case)
+craptrap (cheap rubbish) © Mitranim
 
-suspact
+sillynder © Mitranim
 
-cerebrus (brainy guard dog)
+gearanteed (ensured by equipment) © Mitranim
 
-windter (extreme winter)
+coversation (secretive talk) © Mitranim
 
-happyning (fortunate happenstance)
+craptaclysm © Mitranim
 
-cerebration (party for intellectual accomplishment)
+healium (restorative substance; opposite of hurtium) © Mitranim
 
-beautifoul (attractive and repulsive at once)
+saycret (has been outed away) © Mitranim
 
-ancestore (sells old trinkets)
+saycred © Mitranim
 
-shockolate (shockingly delicious)
+saygment © Mitranim
 
-"pausitive thinking" (taking a pause to make good decisions)
+inchroduce (establish very slowly) © Mitranim
 
-missteak (not having steak for dinner)
+launchitude © Mitranim
 
-waisted (opposite of starved)
+heartship (relationship-building hardship) © Mitranim
 
-plateform
+ripeat © Mitranim
 
-expertease (false confidence from brief experience; paywalled professional advice)
+indicat © Mitranim
 
-confidense (confidence born from ignorance)
+pairents © Mitranim
 
-windsday (windy winter Wednesday)
+funite (fun while it lasts?) © Mitranim
 
-axxident
+figureprint (whole-body biometric) © Mitranim
 
-pythong (an embrace too tight)
+keypability (key skill) © Mitranim
 
-outsquirts
+yellevator © Mitranim
 
-gamepay (pay to experience)
+restrant © Mitranim
 
-payground (pay to play)
+membrain © Mitranim
 
-noledge (higher education: you forget everything and don't get a stepping stone in life)
+trickstar © Mitranim
 
-surpassion (the drive to prevail)
+gateaway (faraway portal; portal that leads far away) © Mitranim
 
-fryday (grill party)
+murkury (tainted quicksilver) © Mitranim
 
-stupig (snorting dumb)
+paytent © Mitranim
 
-blest (blessed best)
+payple (consumers) © Mitranim
 
-iconomy (worship economy? being economical with icons in GUI?)
+unstompable (indomitable) © Mitranim
 
-crowfunding (a murder of backers)
+sicknificant (unwanted but important) © Mitranim
 
-impracticool
+notkey (missing hotkey) © Mitranim
 
-bullieve (faith against all evidence)
+aftermoon (from moonset to moonrise?) © Mitranim
 
-apparrotly (according to rumor)
+excludead © Mitranim
 
-amountain (huge amount)
+bossible (ordered = can be done) © Mitranim
 
-wrecktify (repair badly)
+necromanagement (managing obsolete things) © Mitranim
 
-filther (dirty filter that makes it worse)
+feetback (feeling it with your feet) © Mitranim
 
-momental (a lapse of sentience)
+dickoration © Mitranim
 
-scammoner (has accomplices)
+assid © Mitranim
 
-maturial (robust, proven material)
+lockal (exclusive to area) © Mitranim
 
-assassment (talk it down to get a better price)
+doneload (downloaded before you noticed) © Mitranim
 
-bagpack (recursive, infinite storage)
+"fragtion of a second" (makes a difference for a kill) © Mitranim
 
-forestress (forest forstress)
+dicktionary © Mitranim
 
-worstress (fortress with bad memories)
+igeological (dug-up, outdated ideology) © Mitranim
 
-techtonic (causes seismic shift in technology)
+lagtency © Mitranim
 
-worrier (should pick a less stressful occupation)
+boopster (pulse booster) © Mitranim
 
-makerting (marketing though real action)
+addishion © Mitranim
 
-godlines (irrefutable guidelines)
+richual (expensive custom) © Mitranim
 
-worshop (ritual gathering)
+diegnostic (fatal verdict) © Mitranim
 
-warshop (warmongering gathering)
+tealicious © Mitranim
 
-countract (has precise reckoning)
+dealicious © Mitranim
 
-indecaytion (eternal omen)
+flayvor (of freshly skinned victim) © Mitranim
 
-endearsment (hearty endorsement)
+mugsimum © Mitranim
 
-endorcement (cements someone's opinion)
+infiltrolltor © Mitranim
 
-endoorsment (so good, you have to go outdoors and get it)
+infilthrator © Mitranim
 
-addickted (nymphomaniac)
+infiltraitor © Mitranim
 
-contrapt (has a _catchy_ clause)
+windoors © Mitranim
 
-Munday (mundane weekday)
+dipslay (murder for show) © Mitranim
 
-satyre
+stayble © Mitranim
 
-softmare (horrifying software)
+staybilize © Mitranim
 
-heretick
+appainrent © Mitranim
 
-remaindeer (partial deer carcass)
+dealivery (pay on arrival?) © Mitranim
 
-assessination (deadly audit)
+peerform (keep up with peers) © Mitranim
 
-robuttal
+averange (normal bounds) © Mitranim
 
-robusted (busted for good)
+labtop (lab computer) © Mitranim
 
-destoryer (erases from history)
+killahurtz (dangerously loud?) © Mitranim
 
-singal (beckoning song of a lonely gal)
+decksterity (skill with cards) © Mitranim
 
-asstearisk
+rapeat © Mitranim
 
-architexture (magnificent surface)
+estamplish (stamp your mark) © Mitranim
 
-algorhythm (well-choreographed algorithm)
+bulloon © Mitranim
 
-feedbark (angry response)
+lowcation © Mitranim
 
-combox (combo-box, UI control)
+conveersation (veers off topic) © Mitranim
 
-diss-miss (discharge with disdain)
+dogument (proof of pedigree) © Mitranim
 
-divorcity
+feelament (feeler whiskers) © Mitranim
 
-diver-city
+cubinet © Mitranim
 
-divorcify (split up for variety)
+dialock (inescapable conversation) © Mitranim
 
-undefiend (sinister "undefined"; JS programmers will understand)
+chambeer (beer cellar? supersized keg?) © Mitranim
 
-thirstday (prior to drunkday)
+mugnum (oversized mug) © Mitranim
 
-assk
+deepeer © Mitranim
 
-transfirm (solid change)
+fullback (retreat at full throttle) © Mitranim
 
-preylude (stalking victim)
+dicktate © Mitranim
 
-praylude (preparatory prayer)
+dierect (last dying order? suicide mission order?) © Mitranim
 
-preyparation
+messacre © Mitranim
 
-prayparation
+sloughter (flaying victims? slogging through victims?) © Mitranim
 
-newclear (wipes the landscape clean)
+punktuate (rebellious punctuation) © Mitranim
 
-exqueeze-it ([exquisite])
+diegonal (lethal cut across) © Mitranim
 
-complan (decide to complain later)
+eyefirmative (confirm with eye contact) © Mitranim
 
-blogchain (reposted = true forever)
+aimprovise (snapshot) © Mitranim
 
-parallyze (paralyze in parallel)
+sickure © Mitranim
 
-Marsedes (Ares' war chariot)
+sickcure © Mitranim
 
-lowyer
+deplayment © Mitranim
 
-homesexual (likes comfort)
+howlmark © Mitranim
 
-overoll (all-round)
+terrortory (dreadful place) © Mitranim
 
-robosst (tough as a boss)
+assalt © Mitranim
 
-enteraction (first encounter)
+dengeon © Mitranim
 
-blightning (lightning that corrupts?)
+libroratory © Mitranim
 
-undefiend
+neckst (neck-in-neck follower) © Mitranim
 
-broadcats
+scarecely © Mitranim
 
-deathsperation (last throes)
+freaksample (here's our unusual exhibit...) © Mitranim
 
-hullk (massive frame)
+offerize ([authorize]) © Mitranim
 
-madmade
+steamulate © Mitranim
 
-sickumstance (undesirable circumstance)
+airmatic ([aromatic]) © Mitranim
 
-femail (chainmail for female figure?)
+egol (conceited eagle) © Mitranim
 
-innside (in a tavern)
+"fuckus fire" (devastating focus fire) © Mitranim
 
-mantain (manual maintenance)
+shitment (crappy delivery) © Mitranim
 
-underneat (well-kept underside)
+greenade © Mitranim
 
-pingwin (pushy bird)
+psience (study of psionics) © Mitranim
 
-inventual (occasionally insightful)
+piratechnic © Mitranim
 
-emberrassing (scorching embarrassment)
+medness (drug-induced insanity) © Mitranim
 
-upgreat (grand improvement)
+beatiful (looks good after beating; mug is asking for a fist) © Mitranim
 
-upgrand (great improvement)
+anythink © Mitranim
 
-corract (actually correct)
+doormant (in stasis until open) © Mitranim
 
-messive (big and unkempt)
+humiliar © Mitranim
 
-infamation (defaming info)
+mathod (mathematical approach) © Mitranim
 
-memengful (memorable)
+conseal (hide under a seal) © Mitranim
 
-memengless (unmemorable)
+wingdove ([window]) © Mitranim
 
-moanent (painful moment)
+deependency (ingrained dependence) © Mitranim
 
-confix (problem-solving configuration)
+hellevator © Mitranim
 
-univerasity (mastery of everything)
+asswards (ass-backwards) © Mitranim
 
-univercity (very large university)
+bedass (impressive in bed) © Mitranim
 
-furyfier (raging purifier)
+gloathing (gloat-worthy possession or accomplishment) © Mitranim
 
-lockchain (link chain made of carabiners? padlocks?)
+reapertoire (variety of harvesting tools?) © Mitranim
 
-attension (tense focus)
+reeload (reload with shaky hands) © Mitranim
 
-deeploy (covert drop behind enemy lines; layered deception)
+eggsellent (wondrous food sale) © Mitranim
 
-darkument (morbid document)
+idiosyncrazy © Mitranim
 
-platforum
+soulution (liquidated soul) © Mitranim
 
-crawlback (slow callback)
+tailent © Mitranim
 
-flockchain
+inkreadible (unbelievable manuscript) © Mitranim
 
-syncure
+sadback © Mitranim
 
-freakuent (bizarrely frequent)
+playted © Mitranim
 
-freakuency (bizarre frequency)
+sunclasses (classy shades) © Mitranim
 
-asfailt (badly-made asphalt)
+pervmanent © Mitranim
 
-sickmas (holiday you're sick of? sick during holiday?)
+driveer (swerving driving style) © Mitranim
 
-bitchumen
+moneyplated (paid for expensive equipment) © Mitranim
 
-whizzard
+assimulation © Mitranim
 
-breakpaint (painted-on threshold; painful threshold)
+reprojuice © Mitranim
 
-housand
+laydy (easily laid) © Mitranim
 
-demonsterate (unveil something monstrous)
+feeld © Mitranim
 
-stimular (excitingly reminiscent)
+baground © Mitranim
 
-hollowday (meaningless holiday)
+elemontary © Mitranim
 
-relephant
+untensity (degree of relaxation) © Mitranim
 
-unbullievable (clearly a load of bull)
+dogu (tooldog / 道具犬; see https://en.wikipedia.org/wiki/Dogu) © Mitranim
 
-hype-mind
+bumfire (that kind of trashcan bonfire that bums have; spontaneous gas combustion?) © LeoJo
 
-overwheelm (rollstomp)
+idiotology (idiotic ideology; study of idiots) © LeoJo
 
-reapair
+reapercushions © LeoJo
 
-vampyre (vampire burned to death)
+coloony (lune colony of looneys) © LeoJo
 
-cloose (loosely shut)
+ashually © LeoJo
 
-wisper
+stalldier © LeoJo
 
-wispring
+helichopter © LeoJo
 
-ripplicate (multiply by repetition)
+Administratrivialties (random, small things that need to be micromanaged/delegated) © LeoJo
 
-feedbag (holds your messages)
+Winterference/Winderference (for when winter/snow or alternatively wind causes problems) © LeoJo
 
-malebox
+frostilities (Cold war interaction) © LeoJo
 
-asswer (snarky response)
+democrazy © LeoJo
 
-ultimatic
+sardondick ([sardonic]) © LeoJo
 
-exsample (example that no longer fits?)
+annoynymous (anonymous and annoying) © LandRaider
 
-eggsample
+coversion (covert conversion) © LandRaider
 
-contestrophe (catastrophic competition)
+survillaince (surveillance by a villain) © LandRaider
 
-vainguard (useless frontliners)
+phenomeal (a phenomenal meal) © LandRaider
 
-anthemma (flagpole antenna?)
+screept © LandRaider
 
-eyebrowse (directs your gaze)
+scatterpillar © LandRaider
 
-flushtuate
+warewolf (a wolf for sale?) © LandRaider
 
-realipstick (not overdoing the cosmetics)
+defailopers (OW developers, anyone who uses Java) © LandRaider
 
-emergenation (creative fantasies)
+ambitchious © LandRaider
 
-dieve (suicidal jump)
+memewhile © LandRaider
 
-wreckord (ruined record)
+forklore (when someone forks the existing lore with an alternative timeline or smth?) © LandRaider
 
-cooporation (organization built on cooperation)
+bearocracy (bureacracy of bears? bureaucracy that has to be beared? overbearing bureaucracy?) © LandRaider
 
-castrophic
+corpirate (corporate but pirate) © LandRaider
 
-placeholer
+chronoorgy (fucking up time travel in a really bad way) © LandRaider
 
-eyeland (Ireland?)
+beartrayal (betrayal by a bear) © LandRaider
 
-guesst (vaguely recognizable visitor)
+truemor (rumor that's true) © LandRaider
 
-guesstomer (vaguely recognizable customer)
+ingradient © Jessica (SZC)
 
-moovment (herd stampede)
+brickdown (breakdown) © Jessica (SZC)
 
-afrobatics
+applight (applied) © Jessica (SZC)
 
-acrobotics (agile cybernetics)
+lockin (login) © Jessica (SZC)
 
-pengun
+specifight (specified) © Jessica (SZC)
 
-costumer (buys clothes)
+on-sights (on-site) © Jessica (SZC)
 
-wreckognize
+overseize (oversees) © Jessica (SZC)
 
-disguard (discard)
+"at the ant" (end) © Jessica (SZC)
 
-seize-on (season to act on the opportunities)
+"create or addit" (edit) © Jessica (SZC)
 
-pessibility (worst expectation)
+stickholder (stakeholder) © Jessica (SZC)
 
-perillel (an accompanying peril)
+whyframe (wireframe) © Jessica (SZC)
 
-wonderer (excited by going places)
+truedrones (children) © Jessica (SZC)
 
-magnitube (telescope?)
+russionale (rationale) © Jessica (SZC)
 
-lagin (slow login)
+defriendtiate (differentiate) © Jessica (SZC)
 
-bitterfly (beautiful but not tasty)
+fitback (feedback) © Jessica (SZC)
 
-broadcost (expensive broadcast)
+"user exbearance" © Jessica (SZC)
 
-deathstroy (lethal overkill)
+"needle end" (middle end?) © Jessica (SZC)
 
-keyboar
+infitation © Jessica (SZC)
 
-daemonstration (demonic show, turns viewers into monsters?)
+"development psychol" (cycle) © Jacky (Kyokan)
 
-attaintion (grab attention and keep it)
+infestment © Brian (SZC)
 
-braind (smart brand)
+beaware (beware) © Brian (SZC)
 
-pressentation (forceful show)
+aimplitude (amplitude of aim? ample aim?) © LandRaider
 
-poopup (crappy popup)
+monsturizer (moisturizer for/by monsters) © LandRaider
 
-wokearound (suddenly realized solution)
+boolshit (ugly and useless program or extension) © TrueNight
 
-mentallic
+softmare (horrifying software) © Mitranim
 
-dataction (noticed in the data)
+heretick © Mitranim
 
-beem (spraying bees?)
+remaindeer (partial deer carcass) © Mitranim
 
-reaplace (harvest and replace)
+assessination (deadly audit) © Mitranim
 
-replayce
+robuttal © Mitranim
 
-reaplay
+destoryer (erases from history) © Mitranim
 
-wherehouse (lost store)
+singal (beckoning song of a lonely gal) © Mitranim
 
-deathtination (final destination of all life)
+asstearisk © Mitranim
 
-imposture (imposing stature? mimicking figure?)
+architexture (magnificent surface) © Mitranim
 
-ad-apt (tailored advertising)
+explan (figure out a plan while explaining it) © Mitranim
 
-represend (diplomatic envoy)
+shituation (self explanatory) © LeoJo
 
-guyde
+meating (meeting of friends where you eat a lot of meat; BBQ with friends) © LandRaider
 
-inspyre (burning passion)
+derpartment (an extremely incompetent department) © LandRaider
 
-offishial (sleazy representative)
+reapeat (reap someone again) © LandRaider
 
-carrycter (star of the show)
+statisfied (satisfied statistically or by statistics) © LandRaider
 
-guessture (ambiguous motion)
+enterpretation (submitting your own view) © LandRaider
 
-expact (silent agreement?)
+outroduce (tell your friends not to deal with the person anymore, 'cause they a bitch) © LandRaider
 
-demend
+stereotypographical (when you can always expect anything related to printing text to fuck up decent standards and data presentation) © LandRaider
 
-reacharge (reach out to refuel?)
+satyre © Mitranim
 
-infestigate
+contrapt (has a _catchy_ clause) © Mitranim
 
-struckle (fistful struggle)
+Munday (mundane weekday) © Mitranim
 
-ageancy (mature freedom)
+boyfiend (nasty fiance) © Mitranim
 
-xenonym (alien verbal counterpart)
+shockolate (shockingly delicious) © Mitranim
 
-intersting (jolting wonder)
+"pausitive thinking" (taking a pause to make good decisions) © Mitranim
 
-deafinite
+missteak (not having steak for dinner) © Mitranim
 
-deafenite
+waisted (opposite of starved) © Mitranim
 
-excelerate (progress through excellence)
+plateform © Mitranim
 
-physit (visit in person)
+expertease (false confidence from brief experience; paywalled professional advice) © Mitranim
 
-murderator (ban-happy moderator)
+confidense (confidence born from ignorance) © Mitranim
 
-joyn
+windsday (windy winter Wednesday) © Mitranim
 
-engauge (get involved, with careful examination)
+axxident © Mitranim
 
-mashrooms
+pythong (an embrace too tight) © Mitranim
 
-my'shrooms
+outsquirts © Mitranim
 
-annonsense
+gamepay (pay to experience) © Mitranim
 
-enemation (hostile movement)
+payground (pay to play) © Mitranim
 
-porking (parking like a swine)
+noledge (higher education: you forget everything and don't get a stepping stone in life) © Mitranim
 
-prophessional (expert good at predictions)
+surpassion (the drive to prevail) © Mitranim
 
-valueball (expensive sphere)
+fryday (grill party) © Mitranim
 
-thundermental (stormy temperament)
+stupig (snorting dumb) © Mitranim
 
-lifesafer (moderate safeguard)
+blest (blessed best) © Mitranim
 
-"nail in the coughing" (killer disease)
+iconomy (worship economy? being economical with icons in GUI?) © Mitranim
 
-kingratulations (royal gratitude)
+crowfunding (a murder of backers) © Mitranim
 
-orcestrate (horde manipulation)
+impracticool © Mitranim
 
-sicksessful
+bullieve (faith against all evidence) © Mitranim
 
-sucksexsful (lewd way to the top)
+apparrotly (according to rumor) © Mitranim
 
-illeggal (gal's legs too good, should be outlawed)
+amountain (huge amount) © Mitranim
 
-dencity (population clustering)
+wrecktify (repair badly) © Mitranim
 
-evilution (malicious development)
+filther (dirty filter that makes it worse) © Mitranim
 
-expyre (burn out)
+momental (a lapse of sentience) © Mitranim
 
-exscreamely
+scammoner (has accomplices) © Mitranim
 
-airid (dry and windy)
+maturial (robust, proven material) © Mitranim
 
-conetract (narrow down to a cone?)
+assassment (talk it down to get a better price) © Mitranim
 
-busket
+bagpack (recursive, infinite storage) © Mitranim
 
-decimail
+forestress (forest forstress) © Mitranim
 
-guarden (den of guards? tight group of guards?)
+worstress (fortress with bad memories) © Mitranim
 
-fearomone (dread-inducing secretion)
+techtonic (causes seismic shift in technology) © Mitranim
 
-miningful (dig for deep meaning)
+worrier (should pick a less stressful occupation) © Mitranim
 
-broblem
+makerting (marketing though real action) © Mitranim
 
-reeltime (too fast for stability)
+godlines (irrefutable guidelines) © Mitranim
 
-aimgle (good shooting angle)
+worshop (ritual gathering) © Mitranim
 
-transection
+warshop (warmongering gathering) © Mitranim
 
-destonation
+countract (has precise reckoning) © Mitranim
 
-commplex (convoluted communications)
+indecaytion (eternal omen) © Mitranim
 
-innclude
+endearsment (hearty endorsement) © Mitranim
 
-costomer (customer too expensive to serve)
+endorcement (cements someone's opinion) © Mitranim
 
-transfur (pelt transportation)
+endoorsment (so good, you have to go outdoors and get it) © Mitranim
 
-bookva
+addickted (nymphomaniac) © Mitranim
 
-langauge
+assass (evaluate derisively) © Mitranim
 
-improoment (making more space)
+remembeer (remembering small scraps after a hangover) © LeoJo
 
-cementics (semantics set in stone)
+competentors (competent competitors?) © LandRaider
 
-stradegy (trade tactics; tragic choice of tactics)
+mediocore (mediocre core?) © LandRaider
 
-settlite (colonial satellite)
+phoneto (a photo made by a phone) © LandRaider
 
-sightelite (observational satellite)
+ancestore (sells old trinkets) © Mitranim
 
-saptimber (lumbering month)
+cleptocurrency (currency that is always trying to rip you off) © LandRaider
 
-preydator
+bewares (wares that you need to be beware of for whatever reason) © LandRaider
 
-seequential
+cerebrus (brainy guard dog) © Mitranim
 
-diebolic (lethally malicious)
+windter (extreme winter) © Mitranim
 
-uppertunity (chance to gain an upper hand)
+happyning (fortunate happenstance) © Mitranim
 
-typigal (normal gal)
+cerebration (party for intellectual accomplishment) © Mitranim
 
-lightlyhood
+beautifoul (attractive and repulsive at once) © Mitranim
 
-superising (astonishingly superior)
+mugnate (a magnate who mugs people, or a very rich mugger) © LandRaider
 
-tagst (extreme shorthand writing?)
+con-fu (art of deception; fake martial mastery) © Mitranim
 
-axtract (cut out the essence)
+bullproof (impervious to nonsense) © Mitranim
 
-axcellent (highly skilled with an axe)
+murkup (dirty markup; dirty makeup; warpaint) © Mitranim
 
-axstatic (murderous trance)
+starecase (insurmountable obstacle you can only stare at; glass display case) © Mitranim
 
-summersault
+suspact © Mitranim
 
-embad (bad inclusion)
+pervious (not im-pervious, vulnerable to lewd things) © Mitranim
 
-exspearment
+tearemony (tea ceremony? mourning ceremony?) © LeoJo
 
-bettery (superior energy storage)
+wormth (abundance of worms?) © LandRaider
 
-arcrobotics (uses open-air electric conduction?)
+varlord (the lord of variables?) © LandRaider
 
-multiplie (dishonest arithmetic)
+mailware (arrives by mail) © Mitranim
 
-matearial (accompanying material)
+cannonical © Mitranim
 
-digtate
+guesshole (ruins the fun by revealing the mystery) © Mitranim
 
-condirtions (grimy conditions)
+astaroid (star fragment? brown dwarf?) © Mitranim
 
-soular
+adrainaline (overdrive that drains you) © Mitranim
 
-criticall (critical of everything)
+eldrich (rich, sinister elder) © Mitranim
 
-usedful (formerly useful)
+"hand satanizer" ("special" brand of sanitizer) © Mitranim
 
-mooney (made-up currency?)
+trashold © Mitranim
 
-udderstand
+availuable (something that's available and valuable) © Mitranim
 
-undermediary
+perfromance © Mitranim
 
-bottlenet
+froget (amphibian memory) © Mitranim
 
-acheesement (achieved through unsavory means)
+soilder (gritty footman) © Mitranim
 
-diemond
+deathsmiss (dismiss... permanently) © Mitranim
 
-eyecon (painting that stares right back at you)
+bugdet (budget with holes) © Mitranim
 
-ducktape
+dumbination (control through propaganda) © Mitranim
 
-wreckommend (devastatingly bad advice)
+playload (a load of toys) © Mitranim
 
-fucktion (dickish faction)
+fratmate (fraternity flatmate) © Mitranim
 
-suckceptible (gullible)
+expain (clarify in excruciating detail) © Mitranim
 
-sassinate (take down by talking down)
+mewment (pussyfooting) © Mitranim
 
-golleague (fellow gopher: Golang programmer)
+dienger (mortal danger) © Mitranim
 
-playcate (playfully appease)
+tacticool © LandRaider
 
-maintenant (high-maintenance tenant)
+Sinistar (a sinister star?) © LandRaider
 
-filmiliar (known from movies)
+atmosfear (scary, unbreathable atmoshphere?) © LandRaider
 
-buyproduct (sellable byproduct)
+"this font is worth its weight in bold" © Mitranim
 
-screwtinize
+neckname © Mitranim
 
-endependent (forever self-sufficient)
+pinful (causes piercing pain) © Mitranim
 
-whichcraft (unrecognizable sorcery)
+dolpin © Mitranim
 
-ooptimal
+dolfin (dolphin fin) © Mitranim
 
-memestream (mainstream thinking)
+scannerd (someone who digitizes all their paperwork?) © Mitranim
 
-redunrant (superfluous speech)
+abount (too much about one subject) © Mitranim
 
-remembed (recalled while resting)
+deducation © Mitranim
 
-Moscowl (Russian frown?)
+atomsphere © Mitranim
 
-absrobe (absorb into garments? absorptive garments?)
+recomment (repeatedly leave a recommendation) © Mitranim
 
-draumatic (emotionally damaging)
+grillfriend (GF that roasts you all the time) © Mitranim
 
-userful (used by many)
+hewman (tailor) © Mitranim
 
-sharpnel
+"flesh memory" (brain) © Mitranim
 
-paln (plan with pals)
+optimisaction (one optimisation pass) © Mitranim
 
-ceasonal (ceases from time to time)
+diss-cuss-ting © Mitranim
 
-predickt
+assk © Mitranim
 
-messconception
+assking © Mitranim
 
-diegram
+"loathing screen" (a long loading screen?) © LandRaider
 
-daynger (danger in broad daylight)
+devilstation (devastating demonic infestation?) © LandRaider
 
-worc (grunt work)
+desease (sea sickness?) © LandRaider
 
-suckspect (misplaced suspicion?)
+trailore (trailer giving away too much of the lore) © LandRaider
 
-sasspect (openly deride on suspicion)
+arbitrartor (inconsistent arbiter) © Mitranim
 
-maintaint
+blockchin © Mitranim
 
-puriod (time of purification)
+interesetting (fascinating backdrop?) © Mitranim
 
-assass (evaluate derisively)
+sellfish (name for a seafood restaurant? fishy sellout?) © Mitranim
 
-jawb (jaw-intensive job? involves a lot of talking?)
+redputation (bloody trail) © Mitranim
 
-deadonation (lethal explosion)
+manotechnology (manual work?) © Mitranim
 
-sicknature (perverse signature)
+manomachine (cyborg?) © Mitranim
 
-baita (enticing but flawed beta version?)
+pegasys (unicorn technology?) © Mitranim
 
-queentessential (royally perfect?)
+memotion (preprogrammed emotion? preprogrammed movement?; an emotion people think they're feeling just because the media/internet/memes tell them they should) © Mitranim
 
-quitessential
+keeptocurrency (currency that is never spent) © Mitranim
 
-mygrate
+hambush (surprise boar) © Mitranim
 
-arghitecture (grumble-inducing structure)
+hackcellent (shortcut to success?) © Mitranim
 
-arghitechture
+hangling (person being hanged) © Mitranim
 
-expectacular (magnificent as expected)
+tenasty (unwelcome persistence) © Mitranim
 
-explan (figure out a plan while explaining it)
+execuse (executive excuse?) © LandRaider
 
-q-rated ("q" for "quality")
+octobeer (brewfest month) © Mitranim
 
-leprository (repository of rotten things)
+flakship (anti-air flagship) © Mitranim
 
-lepository (repository of pleasant things; only a Russian would understand)
+anonymouse (hidden, quiet) © Mitranim
 
-mediarite
+responce (pretentious reply?) © Mitranim
 
-fature (future of lazy gluttons)
+Sibearia (land of bears) © Mitranim
 
-pantspermia
+mementum (cultural inertia) © Mitranim
 
-punspermia
+enterprice (corporate-grade price) © Mitranim
 
-"nice to eat you" (carnivore to victim; also see "nice to meat you")
+motherhacker © Mitranim
 
-hybreed (cross-breed)
+cointainer (money bag) © Mitranim
 
-pervmission (lewd consent)
+"trash test" (crash test that trashes the product) © Mitranim
 
-payge (pay-gated article)
+wounderful (something great that also hurts you) © Mitranim
 
-gaym (rapturous play)
+bullshift (misguided change of direction) © Mitranim
 
-attactic (offensive strategy)
+sacriface © Mitranim
 
-deafault (tone-deaf built-in)
+entitty © Mitranim
 
-enterrupt
+cryptone (cryptic intonation) © Mitranim
 
-purseon (walking, talking wallet)
+ooperation (operation resulting in an oopsie) © Mitranim
 
-assking
+eyedentification (iris scanning, or eye-to-eye confirmation) © Mitranim
 
-cursemas
+interpretentious (art critic) © LandRaider
 
-fucktor (show-stopping factor)
+costmetic (very expensive makeup) © Mitranim
 
-refucktoring
+betcoin (for gambling) © Mitranim
 
-inventgory (carrying body parts?)
+"saldo mortale" (accounting: reconciling a big account) © Mitranim
 
-coverment (secretive government)
+alboom (explosive hit) © Mitranim
 
-bestard (superior half-breed)
+attank (highly aggressive war machine?) © Mitranim
 
-buypass (bribe for unauthorized entry)
+attactor (someone _attactive_?) © Mitranim
 
-battleneck (decisive part of the fight)
+unbelievabull (too incredulous to believe) © Yury
 
-foodball (playing with food)
+notwork (dysfunctional network) © Mitranim
 
-taintalize (corrupting lure?)
+"neural notwork" (dysfunctional neural network, which is most of them) © Mitranim
 
-coffeeinn (caffeinating tavern)
+authomatic © Mitranim
 
-exhotic (exhilaratingly hot)
+aloneside (imaginary companion?) © Mitranim
 
-jerktator
+scaremish (scary skirmish) © LandRaider
 
-pervious (not im-pervious, vulnerable to lewd things)
+wreckoning (devastating reckoning) © LandRaider
 
-birdsday
+aimateur (someone with poor aim) © Mitranim
 
-crytearia (tragically impassable criteria?)
+geekstarter © Mitranim
 
-insite (insider information)
+hypeloop (feedback loop of hype) © Mitranim
 
-revelationize
+hypethetical (exists in imagination of riled-up fans) © Mitranim
 
-adeptation
+"boot force" (a mighty kick) © Mitranim
 
-iceolated (stranded in a cold place)
+samewhere (different place, same thing) © Mitranim
 
-ridickule
+"bubble gun" © Mitranim
 
-reducktion
+lameployer (lame employer) © LandRaider
 
-bladent (blatantly sharp)
+anonism (vain obsession with anonymity) © Mitranim
 
-donestairs
+Jewsday (_very_ american Tuesday) © Mitranim
 
-barricare
+maintrix (mother network) © Mitranim
 
-dicknity (uppity demeanor)
+architech (chief technologist?) © Mitranim
 
-encampsulate
+"Honk Kong" (city of honking jams) © Mitranim
 
-sexcuse
+untelligence (opposite of intelligence) © LeoJo
 
-pantemonium
+bottlefield (a field of bottles formed as an aftermath of heavy drinking, usually left behind by gopniks) © LandRaider
 
-meleedrama (ends in violence, like Shakespeare works)
+"deadly simple" © Mitranim
 
-injuraction (harmful interaction)
+hassless © Mitranim
 
-chilldren (for laissez-faire parents)
+transanction (balance deduction as punishment) © Mitranim
 
-chilldrone
+condolescendence (a condescending condolence) © LandRaider
 
-cuntry (place full of dicks)
+terrorform (terraforming an inhabited planet? genocidal terraform?) © LandRaider
 
-asscalate
+documention (very brief documentation) © Mitranim
 
-amoneyt
+apparantus (automatic ranting machine) © Mitranim
 
-feelter
+weakend (not-too-well spent weekend) © LandRaider
 
-statemement (memorable sentence)
+trycer (shooting blind with tracer rounds?) © Mitranim
 
-cityzen
+mythconception © Mitranim
 
-electoynics
+mythinformation © Mitranim
 
-cointer
+"suicide squat" © Mitranim
 
-defoolt
+bitcon (bitcoin con) © LandRaider
 
-membershop
+crysader (aggressively sad person) © Mitranim
 
-essense (essential sense)
+shittyzen (a bad citizen) © LandRaider
 
-assence
+cogweb (mechanical tangle) © Mitranim
 
-cantdidate
+bitchmark (benchmark trashing something) © Mitranim
 
-offertunity
+octobus (eight-wheeled bus?) © Mitranim
 
-surprice (costlier than expected)
+ken-gúru (see https://en.wiktionary.org/wiki/ken) © Mitranim
 
-uniworse
+"rule of dumb" (easy-to-follow thumb rule) © Mitranim
 
-foodhold (grasping the food market)
+roadcast (highway radio) © Mitranim
 
-junktion
+dogspanion (trusty companion animal) © Mitranim
 
-"dragon drop" (drag'n'drop)
+catspert © Mitranim
 
-marshroom
+dogspert © Mitranim
 
-dieversity
+thunderdog (underdog's loud comeback) © Mitranim
 
-raydiation
+beeware (bee extra careful) © Mitranim
 
-pissful (peaceful)
+bonefactor (seemingly beneficial but secretly bones you?) © Mitranim
 
-monstrocity (monstrous settlement)
+bonefire (necromancer's bonfire) © Mitranim
 
-flagshit
+"competely different" (competing alternatives) © Mitranim
 
-poption (potion that pops)
+rectangel (perfect rectangle? square with wings?) © Mitranim
 
-readuntant
+rektangel © Mitranim
 
-redonedont (shouldn't have been repeated)
+failgun (unimpressive railgun) © Mitranim
 
-graydient (between black and white)
+"30-megahurt cannon" © Mitranim
 
-sistern
+megahurtz (unit of pain) © Mitranim
 
-eekcetera (icky remainder)
+explosure (too much attention) © Mitranim
 
-mainkind (dominant race)
+bitchcoin (fake currency) © Mitranim
 
-lepublic (République française)
+"deja view" (flashback of the past) © Mitranim
 
-staysis
+defit (extinction of the unfittest) © Mitranim
 
-assteroid
+madvisor (terribly unwise aide; visor that shows maddening things) © Mitranim
 
-fuckt (inconvenient fact)
+scourage (unwelcome courage?) © Mitranim
 
-stundard
+"argumented reality" (when people can't decide on reality augmentation) © Mitranim
 
-rundom
+"son of a bee" © Mitranim
 
-notural (shouldn't occur naturally, but does)
+beehave © Mitranim
 
-intrinsick (naturally malfunctioning)
+robutt (considerable metal behind) © Mitranim
 
-intrinstick
+threequel (part of trilogy) © Mitranim
 
-suspent
+brobot © Mitranim
 
-substainable
+assploit (exploiting a rear weakness) © Mitranim
 
-"marry cristmas"
+assplode © Mitranim
 
-egosystem (revolves around one)
+assplod © Mitranim
 
-shotcoming
+fatom (fat atom) © Mitranim
 
-misstake
+hentail (lecherous appendage) © Mitranim
 
-naybor (disagreeable neighbor)
+manatic (maniacal fanatic?) © Mitranim
 
-malproblem
+shitdown © Mitranim
 
-careacter
+harget (hard target) © Mitranim
 
-nicemare
+gunnon (hand cannon?) © Mitranim
 
-maindatory (required above all else)
+oozurper (slimy dictator?) © Mitranim
 
-mindatory
+failacy © Mitranim
 
-eeliens (slimy, squeazy, snake-like, foreign things)
+bondit (trusty bandit) © Mitranim
 
-famouse
+buzzworthy © Mitranim
 
-pairpendicular (pairallel intersection)
+borderlads (hard-living folks) © Mitranim
 
-pairallel
+orderlands (well-governed territory) © Mitranim
 
-maidness (state of crazy beautiful?)
+scrapshooter (non-marksman) © Mitranim
 
-newtralize
+paintful © Mitranim
 
-ornametal (metal decorations? intricate engravings on metal?)
+hatful (handful / hateful) © Mitranim
 
-bugteria
+"mined games" (minesweeping) © Mitranim
 
-skullpture (WH40k Imperial art style)
+horrner (corner or horrors) © Mitranim
 
-dienamic (suicidally quick?)
+fanbuy (buying fanboy) © Mitranim
 
-dienamite
+freload (free reload) © Mitranim
 
-equickment
+"weary well" (like "I know these things weary well") © Mitranim
 
-dielemma (to die or not to die)
+pumpking © Mitranim
 
-flatform
+loonshine © Mitranim
 
-trucktor
+lensor (ocular sensor) © Mitranim
 
-dragtor (machine for tugging heavy stuff)
+loonatic © Mitranim
 
-traptor (dangerously malfunctioning vehicle)
+filewall © Mitranim
 
-costumize (dress it up to your liking)
+payper © Mitranim
 
-manyfacture (mass-produce)
+intergration (grating contact between components) © Mitranim
 
-litreally (writing come true)
+interator (interactor? integrator? iterator?) © Mitranim
 
-robolution
+intergated (combination through access control) © Mitranim
 
-realaxation
+hollowgram © Mitranim
 
-freshold
+"tank you" © Mitranim
 
-interfeelence (feelings getting in the way)
+ascendiary (beefed-up incendiary?) © Mitranim
 
-sicklical (unhealthy cycle)
+loonshot (moonshot that cannot possibly work) © Mitranim
 
-diegest (lethal when ingested)
+alumnium (a substance made of... alumni?) © Mitranim
 
-starelize
+"gritting party" (tough greeting party?) © Mitranim
 
-trickonometry
+"denemies / demonies" (is what you fight in Doom) © Mitranim
 
-vermion (nuisance particle)
+gloatee (goatee of gloating goat?) © Mitranim
 
-missilaneous
+screwnshot (compromising screenshot) © Mitranim
 
-tamperature
+scamvert (shifty advert) © Mitranim
 
-craptrap (cheap rubbish)
+scambag (annoying con man) © Mitranim
 
-sillynder
+"mecdonalds / mechdonalds" (charge station for mechs) © Mitranim
 
-gearanteed (ensured by equipment)
+mehdonalds © Mitranim
 
-coversation (secretive talk)
+mechkind © Mitranim
 
-craptaclysm
+skelethal © Mitranim
 
-healium (restorative substance; opposite of hurtium)
+funtastic © Mitranim
 
-saycret (has been outed away)
+naypalm (hand sign that says "no") © Mitranim
 
-saycred
+baybee © Mitranim
 
-saygment
+majestick (imposing staff) © Mitranim
 
-inchroduce (establish very slowly)
+majesdick (...stunning rod) © Mitranim
 
-launchitude
+magestick (mage staff) © Mitranim
 
-heartship (relationship-building hardship)
+majesdig (so majestic I dig it) © Mitranim
 
-ripeat
+adolt (stupid adult) © Mitranim
 
-indicat
+molden (all slimy with mold?) © Mitranim
 
-pairents
+blatent (obvious in latent hindsight?) © Mitranim
 
-funite (fun while it lasts?)
+someonce (a stranger you met once) © Mitranim
 
-figureprint (whole-body biometric)
+teleportal © Mitranim
 
-keypability (key skill)
+somethine (something yours?) © Mitranim
 
-yellevator
+mistaple (accidentally stapling something you didn't mean) © Mitranim
 
-restrant
+commsole (communications console) © Mitranim
 
-membrain
+agreenment (very $$ profitable agreement) © Mitranim
 
-trickstar
+fainth (faint faith?) © Mitranim
 
-gateaway (faraway portal; portal that leads far away)
+drakon (midway between drake and dragon) © Mitranim
 
-murkury (tainted quicksilver)
+mourndern (mourn-worthy modern?) © Mitranim
 
-paytent
+"byield / byielding" (building and giving away) © Mitranim
 
-payple (consumers)
+sumbit (submit bits for processing) © Mitranim
 
-unstompable (indomitable)
+"protect yr ass... et" © Mitranim
 
-sicknificant (unwanted but important)
+simultitude (many things simultaneously? many simulations?) © Mitranim
 
-notkey (missing hotkey)
+stimultitude (many stimulations?) © Mitranim
 
-aftermoon (from moonset to moonrise?)
+stimiltitude (many similar stimulations?) © Mitranim
 
-excludead
+similtitude (being similar to many things?) © Mitranim
 
-bossible (ordered = can be done)
+similidude (a guy that looks like another?) © Mitranim
 
-necromanagement (managing obsolete things)
+seemultaneous (perceived at the same time) © Mitranim
 
-feetback (feeling it with your feet)
+seemilar (seems similar at first) © Mitranim
 
-dickoration
+hungred (hungry like a hundred) © Mitranim
 
-assid
+"spatial awakeness" © Mitranim
 
-lockal (exclusive to area)
+superise (great surprise) © Mitranim
 
-doneload (downloaded before you noticed)
+argurument (irrefutable argument from a guru) © Mitranim
 
-"fragtion of a second" (makes a difference for a kill)
+skiller (skillful killer) © Mitranim
 
-dicktionary
+membear © Mitranim
 
-igeological (dug-up, outdated ideology)
+bloodlie (bloodline that turned out fake) © Mitranim
 
-lagtency
+beleave © Mitranim
 
-boopster (pulse booster)
+fakening © Mitranim
 
-addishion
+exquise (exquisite excuse) © Mitranim
 
-richual (expensive custom)
+exqueeze (ex-fiancee) © Mitranim
 
-diegnostic (fatal verdict)
+greate (create something great) © Mitranim
 
-tealicious
+teamate (someone you have a tea with) © Mitranim
 
-dealicious
+sleap (leaping into bed?) © Mitranim
 
-flayvor (of freshly skinned victim)
+remined (reminded of a bad memory?) © Mitranim
 
-mugsimum
+veryfy (verify thoroughly) © Mitranim
 
-infiltrolltor
+trainiac (training freak) © Mitranim
 
-infilthrator
+"sun of a beach" © Mitranim
 
-infiltraitor
+hell-a-copter © Mitranim
 
-windoors
+overdog (opposite of underdog) © Mitranim
 
-dipslay (murder for show)
+gamoeba (typical WoW gamer) © Mitranim
 
-deepslay
+hardbeat (heartbeat with a bang) © Mitranim
 
-stayble
+passenegr (black passenger) © Mitranim
 
-staybilize
+dickflect © Mitranim
 
-appainrent
+Legionardo © Mitranim
 
-dealivery (pay on arrival?)
+secrent (secret rent?) © Mitranim
 
-peerform (keep up with peers)
+seekret (a secret to find) © Mitranim
 
-averange (normal bounds)
+secrekt (rekt without nobody else knowing) © Mitranim
 
-labtop (lab computer)
+empyre (empire being burned to the ground) © Mitranim
 
-killahurtz (dangerously loud?)
+cheftain (chief of chefs) © Mitranim
 
-decksterity (skill with cards)
+warchef © Mitranim
 
-rapeat
+countact (act of counting your contacts) © Mitranim
 
-estamplish (stamp your mark)
+hobot (stray robot) © Mitranim
 
-bulloon
+"this is a bed idea" (something that should be done in bed) © Mitranim
 
-lowcation
+hellmet (acquaintance from hell? infernal headgear?) © Mitranim
 
-conveersation (veers off topic)
+"hell met" (opposite of "well met") © Mitranim
 
-dogument (proof of pedigree)
+combonent (part of a combo?) © Mitranim
 
-feelament (feeler whiskers)
+heeling (pretending to heal while actually legging it) © Mitranim
 
-cubinet
+greatful (greatly grateful?) © Mitranim
 
-dialock (inescapable conversation)
+severall (all items on display) © Mitranim
 
-chambeer (beer cellar? supersized keg?)
+orkout (grunt-inducing exercise) © Mitranim
 
-mugnum (oversized mug)
+Chooseday (very american Tuesday) © Mitranim
 
-deepeer
+romains (dead Romans) © Mitranim
 
-fullback (retreat at full throttle)
+arrrchitecture (riggin' a proper pirate vessel) © Mitranim
 
-dicktate
+awwrchitecture (cute building or structure) © Mitranim
 
-dierect (last dying order? suicide mission order?)
+singnal (one signal, or a broadcast of someone singing) © Mitranim
 
-messacre
+"built to blast" © Mitranim
 
-sloughter (flaying victims? slogging through victims?)
+teamplate (exemplary team, a template for others?) © Mitranim
 
-punktuate (rebellious punctuation)
+raidear (dear raidmate) © Mitranim
 
-diegonal (lethal cut across)
+powerhorse (powerhouse of horsepower) © Mitranim
 
-eyefirmative (confirm with eye contact)
+mess-sage © Mitranim
 
-aimprovise (snapshot)
+bullprint (flawed blueprint?) © Mitranim
 
-sickure
+injurance © Mitranim
 
-sickcure
+cocporn (porn with popcorn?) © Mitranim
 
-deplayment
+bondfire (cozy fireplace for friends) © Mitranim
 
-howlmark
+assoul (deeply rotten individual) © Mitranim
 
-terrortory (dreadful place)
+memtor (memory trainer?) © Mitranim
 
-assalt
+reasonance (resounding consensus) © Mitranim
 
-dengeon
+surveylance (penetrate first, ask questions later) © Mitranim
 
-libroratory
+feory (scaremongering speculation) © Mitranim
 
-neckst (neck-in-neck follower)
+disscuss © Mitranim
 
-scarecely
+tellyvision (tells you what to think) © Mitranim
 
-freaksample (here's our unusual exhibit...)
+whorrior (hoe conqueror) © Mitranim
 
-offerize ([authorize])
+ass-signment (marks your ass for beating) © Mitranim
 
-steamulate
+pieceful (resting in pieces) © Mitranim
 
-airmatic ([aromatic])
+worning (a tiresome, obsolete warning) © Mitranim
 
-egol (conceited eagle)
+memestress (lady who spends too much time on the internet?) © Mitranim
 
-"fuckus fire" (devastating focus fire)
+memester (semester of memorising) © Mitranim
 
-shitment (crappy delivery)
+gleethal © Mitranim
 
-greenade
+guidelies (untrustworthy guidelines) © Mitranim
 
-psience (study of psionics)
+exploid © Mitranim
 
-piratechnic
+Bangcock (special district of Bangkok) © Mitranim
 
-medness (drug-induced insanity)
+paythrough (viewers paying streamer to play game) © Mitranim
 
-beatiful (looks good after beating; mug is asking for a fist)
+sicks (unlucky six) © Mitranim
 
-anythink
+"nice to meat you" (carnivore to victim; alternatively, spoken after gibbing someone with a rocket) © Mitranim
 
-doormant (in stasis until open)
+pinspiration (when you pin down something to be inspired by) © Mitranim
 
-humiliar
+assthetics (booty beauty) © Mitranim
 
-mathod (mathematical approach)
+sucksessful (popular garbage) © Mitranim
 
-conseal (hide under a seal)
+vommit (programming: commit consisting of mental vomit) © Mitranim
 
-wingdove ([window])
+"let me ax you a question" (killer, while approaching victim) © Mitranim
 
-deependency (ingrained dependence)
+satellight (light following someone around) © Mitranim
 
-hellevator
+fleshlight (bio-luminescence) © Mitranim
 
-asswards (ass-backwards)
+attrack © Mitranim
 
-bedass (impressive in bed)
+talonted (dangerous talent) © Mitranim
 
-gloathing (gloat-worthy possession or accomplishment)
+eggsistence (existing in a vegetable state?) © Mitranim
 
-reapertoire (variety of harvesting tools?)
+bedcause (because of something that happened in a bed?) © Mitranim
 
-reeload (reload with shaky hands)
+fatmate (fat flatmate) © Mitranim
 
-eggsellent (wondrous food sale)
+guesst (vaguely recognizable visitor) © Mitranim
 
-idiosyncrazy
+daynger (danger in broad daylight) © Mitranim
 
-soulution (liquidated soul)
+"attention spam" © LeoJo
 
-tailent
+sunprise (surprising sunrise; out in the heat without solar protection) © LeoJo
 
-inkreadible (unbelievable manuscript)
+guilelines (untrustworthy guidelines) © LeoJo
 
-sadback
+guessthetics (the art of guessing) © LeoJo
 
-playted
+sucksessfool (fool who stumbled its way to success) © LeoJo
 
-sunclasses (classy shades)
+relationshit (bad relationship) © LandRaider
 
-pervmanent
+freedge (with free food) © LandRaider
 
-driveer (swerving driving style)
+breaktrue (a breakthrough that, unlike all the battery ones, is true) © LandRaider
 
-moneyplated (paid for expensive equipment)
+enterfear (interfere) © LandRaider
 
-assimulation
+conquery (conquest) © LandRaider
 
-reprojuice
+apollogy (Apollo apologizing?) © LandRaider
 
-laydy (easily laid)
+foresick (forsake) © LandRaider
 
-feeld
+knightmare © LandRaider
 
-baground
+maybee (danger of bees) © LandRaider
 
-elemontary
+adoorable (something that can be equipped with a door) © LandRaider
 
-untensity (degree of relaxation)
+"parking slut" (my friend today while looking for a free parking slot at a crowded mall) © LandRaider
 
-knowtice (spot something you already knew about)
+werehouse (warehouse full of werewolves or something? warehouse that turns into somethine else?) © LandRaider
 
-captin
+mistape (when you accidentally stick a piece of duct tape somewhere you didn't mean to) © LandRaider
 
-bearzerker
+squatmate (someone you squat with — either as gopniks or when you occupy something unlawfully) © LandRaider
 
-wretchribution
+grosseries (groceries you don't really want to eat) © LandRaider
 
-gangerous (dangerous in gangs, like small animals)
+"I'll splay your spleen and splatter your brains all over the splashboard, then splice the remains together with a splint, it will be splendid!" © LandRaider
 
-condishion
+goregone (something that's luckily in the past but not without blood spilled) © LandRaider
 
-racearch (eugenics)
+terrivision (terrible television) © LandRaider
 
-crossmetic
+envylope (when you are given a red envelope with a lot more money than your friends and siblings) © LandRaider
 
-catalock
+cantdy (candy you aren't allowed to eat) © LandRaider
 
-iceburg (city built on/of ice)
+vengetable (vengeful vegetable; a table of vegetables you have to eat for being a bad kid) © LandRaider
 
-dogu (tooldog / 道具犬; see https://en.wikipedia.org/wiki/Dogu)
+teamfork (when you agree with your team to split up and flank the enemy) © LandRaider
 
-maytenance
+retrotarded (made retarded by using retro-aesthetics, like Nintendo games) © LandRaider
 
-claptomania
+keybored (when you start making typos because you're tired of the conversation) © LandRaider
 
-jewplicate
+apocalips (when something really fucks up your lips like a third degree burn) © LandRaider
 
-stronghole (underground fortress)
+worrning (a worrying warning) © LandRaider
 
-angressive
+wrotten (something that's written but also rotten because it sucks) © LandRaider
 
-sentree
-
-walkaround (circumnavigate the problem)
-
-notefication
-
-purrformance
-
-enteresting
-
-nayway (regardless and irrespective)
-
-pickture
-
-feeture (paywalled)
-
-stupersonic
-
-duplicat (cat reproduction)
-
-onederful
+fatmate (a fat flatmate?) © LandRaider
