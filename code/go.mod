@@ -1,4 +1,4 @@
-module _
+module main
 
 go 1.16
 
@@ -6,6 +6,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.1.0 // indirect
+	github.com/mitranim/cmd v0.1.0
 	github.com/mitranim/gax v0.2.0
 	github.com/mitranim/goh v0.1.2
 	github.com/mitranim/repr v0.1.0

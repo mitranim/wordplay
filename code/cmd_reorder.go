@@ -11,6 +11,8 @@ import (
 	"github.com/mitranim/try"
 )
 
+func init() { commands[`reorder`] = cmdReorder }
+
 func cmdReorder() {
 	var times TimeMap
 	json.Unmarshal(try.ByteSlice(os.ReadFile(TIMES_FILE)), &times)
@@ -55,8 +57,8 @@ type TimedEntry struct {
 	Time time.Time
 }
 
-func untimedEntries(vals TimedEntries) []Entry {
-	out := make([]Entry, 0, len(vals))
+func untimedEntries(vals TimedEntries) Entries {
+	out := make(Entries, 0, len(vals))
 	for _, val := range vals {
 		out = append(out, val.Entry)
 	}

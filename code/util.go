@@ -13,7 +13,6 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/davecgh/go-spew/spew"
 	x "github.com/mitranim/gax"
 	"github.com/mitranim/try"
 )
@@ -33,11 +32,6 @@ const (
 	SRC_FILE          = `../readme.md`
 	SHORT_SNIPPET_LEN = 64
 )
-
-func init() {
-	spew.Config.Indent = "  "
-	// spew.Config.ContinueOnMethod = true
-}
 
 func bytesToStringAlloc(bytes []byte) string   { return string(bytes) }
 func stringToBytesAlloc(input string) []byte   { return []byte(input) }

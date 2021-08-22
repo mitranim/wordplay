@@ -1,35 +1,20 @@
 package main
 
 import (
-	"fmt"
-	"os"
 	"time"
 
-	"github.com/mitranim/try"
-	"github.com/pkg/errors"
+	"github.com/davecgh/go-spew/spew"
+	"github.com/mitranim/cmd"
 )
 
-func main() {
-	time.Local = nil
+var commands = cmd.Map{}
 
-	err := try.Catch(runMain)
-	if err != nil {
-		fmt.Printf("%T: %+v\n", err, err)
-		os.Exit(1)
-	}
+func init() {
+	time.Local = nil
+	spew.Config.Indent = "  "
 }
 
-func runMain() {
-	cmd := os.Args[1]
-
-	switch cmd {
-	case "srv":
-		cmdSrv()
-	case "times":
-		cmdTimes()
-	case "reorder":
-		cmdReorder()
-	default:
-		panic(errors.Errorf(`unknown cmd %q`, cmd))
-	}
+func main() {
+	defer cmd.Report()
+	commands.Get()()
 }

@@ -11,6 +11,8 @@ import (
 
 const TIMES_FILE = `../fixtures/entry_times.json`
 
+func init() { commands[`times`] = cmdTimes }
+
 func cmdTimes() {
 	times := TimeMap{}
 
@@ -33,7 +35,7 @@ func (self TimeMap) AddMin(key string, inst time.Time) {
 	}
 }
 
-func readEntries(path string) []Entry {
+func readEntries(path string) Entries {
 	return ParseEntries(bytesToMutableString(try.ByteSlice(os.ReadFile(path))))
 }
 
