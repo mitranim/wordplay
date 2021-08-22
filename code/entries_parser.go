@@ -78,27 +78,15 @@ func (self *Parser) entryQuoted() {
 	}
 
 	start := self.cursor
+	self.singleLineUntil('"')
 
-loop:
-	for {
-		char, size := self.headChar()
-		self.reqMore(char, size, '"')
-
-		switch char {
-		case '"':
-			phrase := strings.TrimSpace(self.from(start))
-			if len(phrase) == 0 {
-				self.fail(e.New(`quoted phrase is empty`))
-			}
-
-			self.entry.Phrase = phrase
-			self.mov(size)
-			break loop
-
-		default:
-			self.mov(size)
-		}
+	phrase := strings.TrimSpace(self.from(start))
+	if len(phrase) == 0 {
+		self.fail(e.New(`quoted phrase is empty`))
 	}
+
+	self.entry.Phrase = phrase
+	self.cursor++
 
 	self.entryRest()
 }
@@ -321,6 +309,20 @@ func (self *Parser) charsWithout(set charset) {
 		}
 	}
 	self.end()
+}
+
+func (self *Parser) singleLineUntil(delim rune) {
+	for i, char := range self.rest() {
+		self.failNewline(char, '"')
+
+		if char == delim {
+			self.cursor += i
+			return
+		}
+	}
+
+	self.end()
+	self.failEof('"')
 }
 
 func (self *Parser) reqMore(char rune, size int, delim rune) {
