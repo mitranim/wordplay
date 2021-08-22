@@ -52,7 +52,7 @@ func (self *Parser) whitespace() { self.bytesWith(charsetWhitespace) }
 func (self *Parser) space()      { self.bytesWith(charsetSpace) }
 
 func (self *Parser) heading() {
-	if !self.scannedChar('#') {
+	if !self.scannedByte('#') {
 		return
 	}
 
@@ -73,7 +73,7 @@ func (self *Parser) heading() {
 }
 
 func (self *Parser) entryQuoted() {
-	if !self.scannedChar('"') {
+	if !self.scannedByte('"') {
 		return
 	}
 
@@ -125,7 +125,7 @@ func (self *Parser) entryRest() {
 
 func (self *Parser) entryMeanings() {
 	self.space()
-	if !self.scannedChar('(') {
+	if !self.scannedByte('(') {
 		return
 	}
 
@@ -179,7 +179,7 @@ func (self *Parser) appendMeaning(val string) {
 
 func (self *Parser) entryTags() {
 	self.space()
-	if !self.scannedChar('[') {
+	if !self.scannedByte('[') {
 		return
 	}
 
@@ -243,6 +243,15 @@ func (self *Parser) delimWhitespace() {
 	self.whitespace()
 }
 
+func (self *Parser) newline() {
+	char, size := self.headChar()
+	if char == '\n' {
+		self.mov(size)
+	}
+}
+
+func (self *Parser) nonNewline() { self.charsWithout(charsetNewline) }
+
 func (self *Parser) more() bool { return self.cursor < len(self.Source) }
 
 func (self *Parser) rest() string {
@@ -266,6 +275,10 @@ func (self *Parser) headChar() (rune, int) {
 	return headChar(self.rest())
 }
 
+func (self *Parser) mov(size int) { self.cursor += size }
+
+func (self *Parser) end() { self.cursor = len(self.Source) }
+
 func (self *Parser) scanned(fun func(*Parser)) bool {
 	start := self.cursor
 	fun(self)
@@ -276,25 +289,13 @@ func (self *Parser) scannedNewline() bool {
 	return self.scanned((*Parser).newline)
 }
 
-func (self *Parser) scannedChar(char rune) bool {
-	head, size := self.headChar()
-	if size > 0 && head == char {
-		self.mov(size)
+func (self *Parser) scannedByte(char byte) bool {
+	if self.more() && self.Source[self.cursor] == char {
+		self.cursor++
 		return true
 	}
 	return false
 }
-
-func (self *Parser) newline() {
-	char, size := self.headChar()
-	if char == '\n' {
-		self.mov(size)
-	}
-}
-
-func (self *Parser) nonNewline() { self.charsWithout(charsetNewline) }
-
-func (self *Parser) mov(size int) { self.cursor += size }
 
 func (self *Parser) bytesWith(set charset) {
 	for self.more() && set.hasByte(self.Source[self.cursor]) {
@@ -309,7 +310,7 @@ func (self *Parser) charsWith(set charset) {
 			return
 		}
 	}
-	self.cursor = len(self.Source)
+	self.end()
 }
 
 func (self *Parser) charsWithout(set charset) {
@@ -319,31 +320,35 @@ func (self *Parser) charsWithout(set charset) {
 			return
 		}
 	}
-	self.cursor = len(self.Source)
+	self.end()
 }
 
 func (self *Parser) reqMore(char rune, size int, delim rune) {
 	if size == 0 {
-		self.fail(self.errEof(delim))
+		self.failEof(delim)
 	}
+
+	// Manually inline `self.failNewline` to avoid weird perf regression (WTF).
 	if charsetNewline.hasRune(char) {
 		self.fail(e.Errorf(`expected closing %q, found newline`, delim))
 	}
 }
 
-func (self *Parser) errEof(delim rune) error {
-	return self.err(e.Wrapf(io.EOF, `expected closing %q, found EOF`, delim))
+func (self *Parser) failNewline(char rune, delim rune) {
+	if charsetNewline.hasRune(char) {
+		self.fail(e.Errorf(`expected closing %q, found newline`, delim))
+	}
+}
+
+func (self *Parser) failEof(delim rune) {
+	self.fail(e.Wrapf(io.EOF, `expected closing %q, found EOF`, delim))
 }
 
 func (self *Parser) fail(err error) {
-	panic(self.err(err))
-}
-
-func (self *Parser) err(err error) ParseErr {
-	return ParseErr{
+	panic(ParseErr{
 		Source:  self.Source,
 		Cursor:  self.cursor,
 		Snippet: snippet(self.rest(), SHORT_SNIPPET_LEN),
 		Cause:   err,
-	}
+	})
 }
