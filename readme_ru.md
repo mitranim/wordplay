@@ -1,4 +1,4 @@
-костылезация (customization) © Yury [ru]
+костылезация (customization) [ru] © Yury
 
 заговнодательство [ru]
 

@@ -1,12 +1,12 @@
-adverteasement
+adverteasement © M
 
 domesticage © LR
 
 clame (BS assertion) © LR
 
-abnility (something you _can't_ do)
+abnility (something you _can't_ do) © M
 
-badtch
+badtch © M
 
 sicknonym (for a misdiagnosed illness) © LJ
 
@@ -14,47 +14,47 @@ dyenamic (changes colors constantly) © LR
 
 outrangeous (such a stretch that it infuriates) © LJ
 
-bugfox (hunting down to squash it 🦊🐞)
+bugfox (hunting down to squash it 🦊🐞) © M
 
 epithany (when you come up with a smart comeback quickly on the spot) © LJ
 
-pitfail
+pitfail © M
 
-aportunity (free partking slot in a port?)
+aportunity (free partking slot in a port?) © M
 
 armputation © LJ
 
-aswinine
+aswinine © M
 
-assinine
+assinine © M
 
 subscraption © Yury
 
-modoll
+modoll © M
 
 rudent (🐁🤬) © LJ
 
-autonomouse (loner 🐁)
+autonomouse (loner 🐁) © M
 
-interfaeces (typical OOP)
+interfaeces (typical OOP) © M
 
 electrickcity (unreliable) © LR
 
-trainwerk
+trainwerk © M
 
 actopus (🐙) © Yury
 
-Actober (when things happen)
+Actober (when things happen) © M
 
-refucktoring
+refucktoring © M
 
-icknore
+icknore © M
 
-reeliable (always makes you shake)
+reeliable (always makes you shake) © M
 
 "the existence of 'heresy' implies the existence of 'theresy'" © LR
 
-reprehandsible (mittens going where they don't belong)
+reprehandsible (mittens going where they don't belong) © M
 
 busybility (pretending to work) © LR
 
@@ -64,19 +64,19 @@ whoresman © LJ
 
 uroad (typical russian road) © LR
 
-safekeyping (securely under lock and key)
+safekeyping (securely under lock and key) © M
 
 categlory © Yury
 
 anywear (clothes for every occasion) © LR
 
-sembalance (approximation of fairness)
+sembalance (approximation of fairness) © M
 
 immigrunt (unqualified immigrant) © LR
 
 lawndry (doing or rather hanging your laundry up in the garden; irrigating / cleaning your lawn) © LJ
 
-koñnection (🐴 socializing / 🐴 attachment)
+koñnection (🐴 socializing / 🐴 attachment) © M
 
 koñstitution (🐴 power?) [🐴] © Yury
 
@@ -86,25 +86,25 @@ cellery (well-packed assortment of greens) © LJ
 
 "the existence of 'admin' implies the existence of 'admax'" (the former is when you have adblocker installed, the latter is if you do not) © LR
 
-oddmin
+oddmin © M
 
-koñnibalism [🐴]
+koñnibalism [🐴] © M
 
-"the existence of 'lesson' implies the existence of 'moreon'"
+"the existence of 'lesson' implies the existence of 'moreon'" © M
 
 laterr (when your tardiness causes a big issue down the line) © LJ
 
-stalcur (canine stealth tracking)
+stalcur (canine stealth tracking) © M
 
-passified
+passified © M
 
-whatch
+whatch © M
 
-seet (before 📺)
+seet (before 📺) © M
 
 dieversion (fatal) © LR
 
-augwomentation
+augwomentation © M
 
 boobster (breast augmentation) © LR
 
@@ -112,7 +112,7 @@ understandebil © LJ
 
 koñdidate (🐴 that could potentially win a race) © LR
 
-slaggish
+slaggish © M
 
 negatiation (failed negotiations) © LJ
 
@@ -128,7 +128,7 @@ koñvict (horse thief) [🐴] © LJ
 
 trusters (pray for them to get you there) © LR
 
-higherarchy
+higherarchy © M
 
 heirarchy (order of inheritance) © LR
 
@@ -142,7 +142,7 @@ heararchy (familiar to you) © LR
 
 herearchy (local only) © LR
 
-koñterfeit (Trojan horse; a pony peddled as a young horse; a lowborn horse peddled as a high breed; probably more) [🐴]
+koñterfeit (Trojan horse; a pony peddled as a young horse; a lowborn horse peddled as a high breed; probably more) [🐴] © M
 
 cointerfitter (someone peddling counterfeit coins) © LJ
 
@@ -152,7 +152,7 @@ custormer (really impatient ones that try to get into the store early/late) © L
 
 cusstomer (rude customer) © LJ
 
-meadicine (Skyrim-level healthcare 🍯🍺💊)
+meadicine (Skyrim-level healthcare 🍯🍺💊) © M
 
 sisyphon © LJ
 
@@ -166,49 +166,49 @@ inheretense © Yury
 
 embadded (not inserted properly) © Yury
 
-forkast (a prophecy with many outcomes)
+forkast (a prophecy with many outcomes) © M
 
 randoom (sudden death) © LJ
 
-suckseed
+suckseed © M
 
-superbole (if there's "hyperbole", why not this?)
+superbole (if there's "hyperbole", why not this?) © M
 
-esteamed
+esteamed © M
 
-elicktricity
+elicktricity © M
 
-triumphirate
+triumphirate © M
 
 lawndering (lawful way to launder money; lawn irrigation) © LR
 
 invextigate © LJ
 
-topig
+topig © M
 
 agentda (🕵) © LJ
 
-agross
+agross © M
 
-iconsistent
+iconsistent © M
 
 mugmory (memory for faces) © LJ
 
 trailblyazer © LR
 
-transmite (parasite contagion)
+transmite (parasite contagion) © M
 
-peckage (bunch of bird feed?)
+peckage (bunch of bird feed?) © M
 
 enterface (newcomer?) © Yury
 
-painguin (lived too long for its species)
+painguin (lived too long for its species) © M
 
-"pain customers" (💸😭)
+"pain customers" (💸😭) © M
 
-"gopy paste" (plagiarize; "lift" supposedly secret information that you found)
+"gopy paste" (plagiarize; "lift" supposedly secret information that you found) © M
 
-"hit wave" (🔥🔨)
+"hit wave" (🔥🔨) © M
 
 stategy (for min-maxers who win by jerking off to stat bonuses) © LJ
 
@@ -226,7 +226,7 @@ respwning (when you get a second wind after getting pwned) © LJ
 
 lattency (latte served late) © LR
 
-retreeve (from high branches)
+retreeve (from high branches) © M
 
 bustard (bloody bus that's tardy again) © LR
 
@@ -236,19 +236,19 @@ blyasphemous [ru] © LR
 
 mordarus (dangerous gopnik?) [ru] © LJ
 
-lawsued (instigated by gov prosecutor)
+lawsued (instigated by gov prosecutor) © M
 
-lowsued
+lowsued © M
 
 lowsuit © LR
 
-suecide (frame someone for your death?)
+suecide (frame someone for your death?) © M
 
-soupstrate
+soupstrate © M
 
-techtile (touch technology)
+techtile (touch technology) © M
 
-allyen (👽)
+allyen (👽) © M
 
 Dooma (parliament up to no good) [ru] © LR
 
@@ -256,7 +256,7 @@ Dumass (Russian parliamentary official) © LJ
 
 digdefied (defy/prevent something with dignity and class) © LJ
 
-proofile (identity document?)
+proofile (identity document?) © M
 
 reliarble © LR
 
@@ -266,7 +266,7 @@ boorocrazy © LR
 
 boorocrat © LR
 
-hornmone (either makes you horny, or makes you want to play 📯)
+hornmone (either makes you horny, or makes you want to play 📯) © M
 
 whoremons (📯) © LR
 
@@ -274,31 +274,31 @@ overhole (overhaul that doesn't end up well) © LR
 
 augMENT (🤖👮; cop that oppresses crippled individuals with cyber-prosthetics; cop with cyber-prosthetics; cerebral enhancement, such as extra cogitators) © LR
 
-axterminate (💀🪓)
+axterminate (💀🪓) © M
 
-ballance
+ballance © M
 
-carrent (busy roadway)
+carrent (busy roadway) © M
 
-threategy
+threategy © M
 
-goption
+goption © M
 
-coronatin
+coronatin © M
 
 "caught by a kot" (🐈) © LR
 
-ghoulem (animated dead flesh?)
+ghoulem (animated dead flesh?) © M
 
 appearatus (teleportation engine; holographic projector) © LJ
 
 educat (кот учёный 😼) [ru] © LR
 
-narkotik (addictive 🐈) [ru]
+narkotik (addictive 🐈) [ru] © M
 
-asscertain
+asscertain © M
 
-cointent (👛🐴; using a safe for storing money? 👎; storing your money in the bank? 🙅‍; putting your money in a tent? 🤑)
+cointent (👛🐴; using a safe for storing money? 👎; storing your money in the bank? 🙅‍; putting your money in a tent? 🤑) © M
 
 monotics (implied by existence of politices; maybe autocracies/dictatorships?) © LJ
 
@@ -306,7 +306,7 @@ inport (arrives by ship 🚢) © Yury
 
 emergentsy © LR
 
-rundevu (rushing to meet)
+rundevu (rushing to meet) © M
 
 Bullgaria (land of 🐂) © Yury
 
@@ -316,17 +316,17 @@ mooderation (mood correction) © Yury
 
 incorrection (when you correct someone but it's actually wrong) © LJ
 
-bullshed (where bull belongs)
+bullshed (where bull belongs) © M
 
 errorgant © LR
 
-herpoon (hooks you up)
+herpoon (hooks you up) © M
 
 paintenance (prophylaxis against injury at a doctor or so) © LJ
 
 supricing (surprisingly expensive/cheap) © LJ
 
-meatadata (very juicy 🍖)
+meatadata (very juicy 🍖) © M
 
 hurtbeat (💔🔨; arrhythmia) © Yury
 
@@ -334,15 +334,15 @@ visionair (some hallucinogenic gas) © LJ
 
 worsion (worse version) © LR
 
-ickspectation (preparing for something unpleasant)
+ickspectation (preparing for something unpleasant) © M
 
-sortier (for sorting out the crap 🚽) [ru]
+sortier (for sorting out the crap 🚽) [ru] © M
 
-cloock (can't stop checking ⌚)
+cloock (can't stop checking ⌚) © M
 
 killometer (kill statistic) © LJ
 
-app-roach
+app-roach © M
 
 pigeonback (the way mail is delivered by carrier pigeons 🐦📜) © LJ
 
@@ -350,31 +350,31 @@ procesters (people against the machine) © LJ
 
 spindustry (company producing fans, propellers etc; those who _twist_ information; gossiping hens) © LJ
 
-primitech
+primitech © M
 
 artistick (paintbrush/easel?) © LJ
 
 indeathted (indebted in death, like with the mafia) © LJ
 
-troublem (try hearing this in your head)
+troublem (try hearing this in your head) © M
 
 physicopath (mental health doctor; mad scientists) © LJ
 
-policement [ru]
+policement [ru] © M
 
 inventation ("feel free to vent") © LR
 
-purposal
+purposal © M
 
-finealized
+finealized © M
 
 forbirden (for 🦜en) © Yury
 
 paradies (what muslims believe in: paradise after death; alternatively, paradise lost) © LR
 
-fanction (fan fiction? fan action? fan function? fun faction?)
+fanction (fan fiction? fan action? fan function? fun faction?) © M
 
-daemoon (🌚😈)
+daemoon (🌚😈) © M
 
 deeposit (located deep underground) © LR
 
@@ -394,13 +394,13 @@ boorbarian (really dim barbarians, if that's possible) © LJ
 
 amnity/emity (some sort of love-hate-relationship perhaps? ❤💔) © LJ
 
-archtefact (made by architects)
+archtefact (made by architects) © M
 
-koñscience (animal empathy; horse studies 🐴🔬) [🐴]
+koñscience (animal empathy; horse studies 🐴🔬) [🐴] © M
 
 "feetal position" (when one is standing on one's own feet 🦶) © LJ
 
-foetish (trying not to imagine)
+foetish (trying not to imagine) © M
 
 feetish (foot fetish 🦶) © LJ
 
@@ -420,7 +420,7 @@ ledeer (alpha deer 🦌) © LR
 
 democratorship (a dictatorship that at least pretends to be democratic) © LJ
 
-chessplate (♟)
+chessplate (♟) © M
 
 sicknificant (lethal illness?) © LJ
 
@@ -434,61 +434,61 @@ wrecklamation (can't tell if repairing it, or wrecking harder) © LR
 
 erudeite (an insufferable know-it-all) © LJ
 
-kotegory (in a cat-a-log 🐈)
+kotegory (in a cat-a-log 🐈) © M
 
 litteracy (when you've read a lot but it's all garbage) © LR
 
 pur-chase (something you keep looking for, but can't buy?) © Igor
 
-suspic
+suspic © M
 
-preent (pretty-print, preen before printing)
+preent (pretty-print, preen before printing) © M
 
-shoretcut
+shoretcut © M
 
-eeksplosion (of ick)
+eeksplosion (of ick) © M
 
-daemoon (🌚😈)
+daemoon (🌚😈) © M
 
 deeposit (located deep underground) © LR
 
-talong
+talong © M
 
-sirtificate
+sirtificate © M
 
-lendscape (land that you rent, or rent out to someone; not borrowscape)
+lendscape (land that you rent, or rent out to someone; not borrowscape) © M
 
 cyclick © Yury
 
-empression
+empression © M
 
-commend
+commend © M
 
-addigtive
+addigtive © M
 
-dung-geon
+dung-geon © M
 
-combi-nation
+combi-nation © M
 
 calibear (Californian bear?) © LR
 
-aimbush
+aimbush © M
 
-govknowerment (surveillance state)
+govknowerment (surveillance state) © M
 
 introfucktion © Yury
 
 introducktion © Yury
 
-peekture (only caught a glimpse)
+peekture (only caught a glimpse) © M
 
 librarey (library of rares) © LR
 
-contex
+contex © M
 
-incubator (cube makes cubs)
+incubator (cube makes cubs) © M
 
-corporeality (material universe)
+corporeality (material universe) © M
 
 frequest (frequent request) © LR
 
@@ -500,15 +500,15 @@ seekurity (when you're looking to hire some; or maybe when the guards are alerte
 
 sickurity © LR
 
-edirtor
+edirtor © M
 
-astunishing
+astunishing © M
 
-relick
+relick © M
 
 koñfactionary [🐴] © LR
 
-candydate
+candydate © M
 
 mailwhere (hijacks email?) © Yury
 
@@ -518,63 +518,63 @@ logeek © LR
 
 litteracy (when you've read a lot but it's all garbage) © LR
 
-kotegory (in a cat-a-log) [🐈]
+kotegory (in a cat-a-log) [🐈] © M
 
 afterwords (after a talk) © Yury
 
-publick (attacked by dog attention in public?)
+publick (attacked by dog attention in public?) © M
 
 cattacked (🐈) © LJ
 
-cosmedic (not a real medic, cosplaying one)
+cosmedic (not a real medic, cosplaying one) © M
 
-longin (authentication that takes forever)
+longin (authentication that takes forever) © M
 
 feliny (feline felony) © LR
 
-mythodology (only rumored to work)
+mythodology (only rumored to work) © M
 
 horrorscope (horoscope full of horrifying predictions) © LR
 
 politheist (religious ideologue in politics) © LJ
 
-popsuckle
+popsuckle © M
 
-popsickle
+popsickle © M
 
-playting (noisy toy?)
+playting (noisy toy?) © M
 
-inapt
+inapt © M
 
 memesis (nemesis that generates plenty of memes, like Marauder Shields, or someone who makes such awful puns/memes that you're reconsidering your friendship status because you want to MURDER them) © LR
 
-clinet (network of clients)
+clinet (network of clients) © M
 
 whyolence (fighting for an unclear reason) © LR
 
-defailt
+defailt © M
 
 annoygance (annoying arrogance) © LJ
 
 inhairitence (when you get a wig made out of real hair) © LJ
 
-lockate (get a lock on target)
+lockate (get a lock on target) © M
 
-torchure
+torchure © M
 
-artifucked
+artifucked © M
 
-commduit (transmission relay)
+commduit (transmission relay) © M
 
 enjoin (join in enjoyment, like an MP game) © LR
 
 sinthesis (sinful thesis? synthesis through sin?; impregnation; apocrypha: thesis that gets you excommunicated, therefore a sinner) © LR
 
-separat (loner away from pack)
+separat (loner away from pack) © M
 
-finction (financial feature or action)
+finction (financial feature or action) © M
 
-shirtcut
+shirtcut © M
 
 patriodick © LJ
 
@@ -606,39 +606,39 @@ immediadatedly (something urgent that was not fulfilled on time) © LJ
 
 painfool (someone who keeps hurting himself out of their own incompetence) © LJ
 
-innterest
+innterest © M
 
-hopefill
+hopefill © M
 
-griefcase (emotional baggage)
+griefcase (emotional baggage) © M
 
-arrgument
+arrgument © M
 
-numbear
+numbear © M
 
-plati-num (a number that you pay) [ru]
+plati-num (a number that you pay) [ru] © M
 
-appbroach
+appbroach © M
 
-armoar (never thicc enough)
+armoar (never thicc enough) © M
 
-cateogries
+cateogries © M
 
 methadata © Igor
 
-lieting (color-corrupting lighting)
+lieting (color-corrupting lighting) © M
 
 angrygation (precursor to a riot) © LR
 
-commplete
+commplete © M
 
-dumbdgeon
+dumbdgeon © M
 
-degenerat (genetically degraded rodent)
+degenerat (genetically degraded rodent) © M
 
-intreensic
+intreensic © M
 
-wreckless
+wreckless © M
 
 dogpilled © LJ
 
@@ -654,83 +654,83 @@ villionaire (rich villain) © LR
 
 koñsequence (horse procession) © LR
 
-bonebardment
+bonebardment © M
 
 motification © LR
 
-prodocol
+prodocol © M
 
-chokeolate
+chokeolate © M
 
-correactly
+correactly © M
 
-deveiloper
+deveiloper © M
 
-adwise
+adwise © M
 
 addwise © LR
 
-cancell
+cancell © M
 
-raindom
+raindom © M
 
-aveilable
+aveilable © M
 
-dieversion
+dieversion © M
 
 abducktion (when you steal a 🦆 ... or a 🦆 steals you) © LR
 
 kozino © LR
 
-biginning
+biginning © M
 
 asscourt (to flirt someone based on the very basal appreciation of their behind) © LJ
 
 sortcut (being a bit more lazy when it comes to sorting things properly) © LR
 
-jollyfish
+jollyfish © M
 
-terriball
+terriball © M
 
-eclectric
+eclectric © M
 
-simplement
+simplement © M
 
-goplin [ru]
+goplin [ru] © M
 
-centense
+centense © M
 
 blyame © Yury [ru]
 
-gorodock (small port town) [ru]
+gorodock (small port town) [ru] © M
 
 gorodog (dog town) [ru] © LJ
 
 "Horsus Heresy" (one giant koñ) [🐴] © LR
 
-"needles to say"
+"needles to say" © M
 
 colonice (colonize something but be nice to natives) © LR
 
-dierection
+dierection © M
 
-airticle (a bunch of hot air)
+airticle (a bunch of hot air) © M
 
 modifee (payment for an upgrade) © Igor
 
 ambullance (ambulance that bullies you?) © LR
 
-paynding (not paid yet)
+paynding (not paid yet) © M
 
-frostrating (❄️)
+frostrating (❄️) © M
 
-mulltiplayer
+mulltiplayer © M
 
-plotform
+plotform © M
 
 tearminate (😭) © Yury
 
-tornminate (tear the agreement)
+tornminate (tear the agreement) © M
 
 gophernment (state run by uplifted, sentient gophers?; state run by Go developers?) © LJ
 
@@ -756,71 +756,71 @@ delaytency (also known as lagtency) © LJ
 
 immigrunt © LJ
 
-districkt (has a difficult-to-navigate layout)
+districkt (has a difficult-to-navigate layout) © M
 
-dishtrict (full of kitchenware shops)
+dishtrict (full of kitchenware shops) © M
 
-phonectionality
+phonectionality © M
 
-sentense (gets everyone nervous)
+sentense (gets everyone nervous) © M
 
-lucksury (exquisite and hard to find; brings sure luck)
+lucksury (exquisite and hard to find; brings sure luck) © M
 
-workship
+workship © M
 
-disgussion
+disgussion © M
 
 fallder © Yury
 
-manyfold
+manyfold © M
 
-pisstol
+pisstol © M
 
-moneypulation
+moneypulation © M
 
-fixion
+fixion © M
 
-arrestocrat (arrested in development)
+arrestocrat (arrested in development) © M
 
-eitherwise
+eitherwise © M
 
 hacksess (access granted) © LJ
 
-intelligentle
+intelligentle © M
 
 intelligenter (more intelligent) © LJ
 
-weekness
+weekness © M
 
-reguestration
+reguestration © M
 
-entyre
+entyre © M
 
-provocat
+provocat © M
 
-behavor
+behavor © M
 
 supperstition © LR
 
-stuperstition
+stuperstition © M
 
 mugshroom © LJ
 
 Confusianism © LJ
 
-apparation
+apparation © M
 
-dreadmill
+dreadmill © M
 
-coinside
+coinside © M
 
-concider
+concider © M
 
 maintame © LR
 
-"god point" (killer argument)
+"god point" (killer argument) © M
 
-fieldtering
+fieldtering © M
 
 religoon © LJ
 
@@ -828,11 +828,11 @@ sibiling © Yury
 
 sabotrage © LR
 
-cold-bloodead
+cold-bloodead © M
 
 "turbo boast" (~~turbo boost~~) © LR
 
-perpetrade
+perpetrade © M
 
 ecolight © LR
 
@@ -842,87 +842,87 @@ acolight © LR
 
 newron (newly formed brain cell) © LR
 
-greyt (majestic but obscure)
+greyt (majestic but obscure) © M
 
-pullshit
+pullshit © M
 
 "dully noted" © LJ
 
 "baited breadth" © LJ
 
-"baited breath"
+"baited breath" © M
 
 planerth © LJ
 
-distincture
+distincture © M
 
-disctinction
+disctinction © M
 
-devstruction (product-destroying development; messy development)
+devstruction (product-destroying development; messy development) © M
 
-shif/tty (non-US keyboard layout where keys are shifted around)
+shif/tty (non-US keyboard layout where keys are shifted around) © M
 
-brakethrough
+brakethrough © M
 
-terminanal
+terminanal © M
 
-"data sate" (large, satisfying data set)
+"data sate" (large, satisfying data set) © M
 
-pwnsexual
+pwnsexual © M
 
-pornsexual
+pornsexual © M
 
 "stream of unconsciousness" © LJ
 
-languishge (stagnating language)
+languishge (stagnating language) © M
 
-dumbgrading
+dumbgrading © M
 
-bloodform
+bloodform © M
 
-risqueue
+risqueue © M
 
-reaperposed
+reaperposed © M
 
-hadtch
+hadtch © M
 
-forthtune
+forthtune © M
 
-fourthtune
+fourthtune © M
 
-reekognize (smell a mile away)
+reekognize (smell a mile away) © M
 
-craphics
+craphics © M
 
-rigulate (jury-rigged rules)
+rigulate (jury-rigged rules) © M
 
-aboundance
+aboundance © M
 
-baroqueue
+baroqueue © M
 
-plantform (vegetation support; growth that supports)
+plantform (vegetation support; growth that supports) © M
 
-koñsciousness (animal-level intelligence)
+koñsciousness (animal-level intelligence) © M
 
-haulder (holding harness for hauling)
+haulder (holding harness for hauling) © M
 
-hight
+hight © M
 
-stringth
+stringth © M
 
-penful
+penful © M
 
 smellting © LR
 
-koñtainer (stable?) [🐴]
+koñtainer (stable?) [🐴] © M
 
 muderation (public defamation) © Yury
 
 murderation © Yury
 
-conactor (brings people together to swindle them)
+conactor (brings people together to swindle them) © M
 
-connactor
+connactor © M
 
 sophtware (sophisticated or "wise" programs/virtual intelligences) © LJ
 
@@ -944,27 +944,27 @@ infer-red (to make assumptions based on infrared scans) © LJ
 
 gangoon © LJ
 
-laguage (slow, lagging language)
+laguage (slow, lagging language) © M
 
-hairesy
+hairesy © M
 
-impsportant
+impsportant © M
 
-imsportant
+imsportant © M
 
 queencidence © LR
 
-runbler
+runbler © M
 
-smalltaneous
+smalltaneous © M
 
-inbestigate
+inbestigate © M
 
-discourge
+discourge © M
 
-huntred
+huntred © M
 
-tuplicate
+tuplicate © M
 
 entertaisting (entertaining and tasty) © LJ
 
@@ -982,9 +982,9 @@ choret (a chort that's being a chore; a chore only worth being performed by a ch
 
 explord © LR
 
-seatizen
+seatizen © M
 
-degrease
+degrease © M
 
 squarical (like spherical but for... a square) © LJ
 
@@ -996,63 +996,63 @@ gunfar (far gunfire) © LR
 
 recrewt (recruit for crew) © LR
 
-irunically
+irunically © M
 
-treachers
+treachers © M
 
-lenscape
+lenscape © M
 
-lancescape
+lancescape © M
 
 boredroom © LR
 
-breallyant
+breallyant © M
 
-hair-ethical
+hair-ethical © M
 
-deathspatch
+deathspatch © M
 
-lechtor
+lechtor © M
 
-lechture
+lechture © M
 
-heretech
+heretech © M
 
-callculate
+callculate © M
 
-excrementation
+excrementation © M
 
 expectremaintation © LR
 
-slong [🐘]
+slong [🐘] © M
 
 somethink © Yury
 
 "waisting food" (eating so much your waist grows) © LR
 
-painding
+painding © M
 
-montenance (performed by Pokemon Day Care)
+montenance (performed by Pokemon Day Care) © M
 
 newsful (new and useful) © LR
 
-delivrium
+delivrium © M
 
-deliverium
+deliverium © M
 
 brednought © LR
 
 breadnought © LR
 
-agreedy
+agreedy © M
 
 koñvoy (horse caravan) [🐴] © LR
 
 koñscript (someone who got drafted into cavalry/with their horse) [🐴] © LR
 
-govnorment (makes gov norms) [ru]
+govnorment (makes gov norms) [ru] © M
 
-govnoverment [ru]
+govnoverment [ru] © M
 
 deeplomat © LR
 
@@ -1060,11 +1060,11 @@ digitall (only digits/digital; standing on all digits to be taller) © LR
 
 afraidn't © LJ
 
-tarbloid (covers people in dirt, blackens their reputation)
+tarbloid (covers people in dirt, blackens their reputation) © M
 
 trashbloid (essentially an example of Gutter Press) © LJ
 
-converstation
+converstation © M
 
 satisfucktion © LJ
 
@@ -1076,15 +1076,15 @@ debrisfing (debriefing: filling heads with flotsam; convening to organise recons
 
 rogod (god out of machine) © LJ
 
-muskullar
+muskullar © M
 
-muskullature
+muskullature © M
 
-minisculature
+minisculature © M
 
-"bull request"
+"bull request" © M
 
-capitoll
+capitoll © M
 
 popularea © LR
 
@@ -1092,83 +1092,83 @@ allegendary © LR
 
 superseed © deathaxe
 
-plastick
+plastick © M
 
-arcanization
+arcanization © M
 
-orcanization (👹)
+orcanization (👹) © M
 
 uninhabitant (theoretical, non-existent inhabitant, for prospective colonization or uninhabited regions) © LJ
 
 inwastement (wasted investment, courtesy of seeing new university buildings from my bus) © LR
 
-fatch
+fatch © M
 
-diffold
+diffold © M
 
-eyetem (👁)
+eyetem (👁) © M
 
-attenttion
+attenttion © M
 
-comfyrmation
+comfyrmation © M
 
-lancecape
+lancecape © M
 
 intertainment (maybe entertainment on the internet? or between multiple people or across the world?) © LJ
 
-indentional
+indentional © M
 
-unfuckenate
+unfuckenate © M
 
-infaction (undeniable, unforgettable facts)
+infaction (undeniable, unforgettable facts) © M
 
-treeck
+treeck © M
 
 artchitect (artistic architect) © LJ
 
 tentth (⛺️) © Daniyar
 
-currection (up-to-date now)
+currection (up-to-date now) © M
 
-discribe (etch on a disc?)
+discribe (etch on a disc?) © M
 
-aboondance
+aboondance © M
 
 ambiguilty (when someone‘s guilt is in question) © LJ
 
-derpty
+derpty © M
 
-debillitating
+debillitating © M
 
-debuilder
+debuilder © M
 
-debilops
+debilops © M
 
-debilopers
+debilopers © M
 
-flawrish
+flawrish © M
 
-fulfilth
+fulfilth © M
 
-cockrockch
+cockrockch © M
 
-berrier
+berrier © M
 
-mathtery
+mathtery © M
 
-sentinet
+sentinet © M
 
-indoctorinated
+indoctorinated © M
 
-ingreedyents
+ingreedyents © M
 
-pendemic
+pendemic © M
 
-incurbator
+incurbator © M
 
-individial
+individial © M
 
-purperty
+purperty © M
 
 koñtroll [🐴] © Yury
 
@@ -1178,203 +1178,203 @@ dogmestication © LJ
 
 domesticat © LJ
 
-messtake
+messtake © M
 
 confersion © Yury
 
-vendoor
+vendoor © M
 
-potatoe
+potatoe © M
 
-offten
+offten © M
 
-tonnel
+tonnel © M
 
 partnershit © LR
 
-failevator
+failevator © M
 
-coresponds
+coresponds © M
 
-whyper
+whyper © M
 
-arghive
+arghive © M
 
-hellarious
+hellarious © M
 
-decumentation
+decumentation © M
 
-haltkey
+haltkey © M
 
-shellter
+shellter © M
 
-beetween
+beetween © M
 
 artbeertrary © Yury
 
 arbeertrary © Yury
 
-arbeatrary
+arbeatrary © M
 
-artbitrary
+artbitrary © M
 
-teethering
+teethering © M
 
 warsheep © LR
 
 worsheep © LR
 
-gangsmen
+gangsmen © M
 
-developwoment
+developwoment © M
 
 developmen © LR
 
 developists © LR
 
-dentacles
+dentacles © M
 
-pretension
+pretension © M
 
-heavycopter
+heavycopter © M
 
-estublish
+estublish © M
 
-metallion
+metallion © M
 
 incraze © LR
 
-abillity
+abillity © M
 
-"missing around"
+"missing around" © M
 
-randering
+randering © M
 
-staintment
+staintment © M
 
-digsappear
+digsappear © M
 
 diggits © Yury
 
-orcitecture (bashed together by grunts)
+orcitecture (bashed together by grunts) © M
 
 beeriod © Yury
 
-moistly
+moistly © M
 
-horseshoo
+horseshoo © M
 
-antidope
+antidope © M
 
-turnament
+turnament © M
 
-zhirnalist [ru]
+zhirnalist [ru] © M
 
 zhulnalist [ru] © LJ
 
-coolumn
+coolumn © M
 
 paysically © LR
 
-alphabeat
+alphabeat © M
 
-compyre
+compyre © M
 
-pistool
+pistool © M
 
 menually © Yury
 
-cheear
+cheear © M
 
 chortcut [ru] © LR
 
-suredcut (reliable shortcut)
+suredcut (reliable shortcut) © M
 
-foolder
+foolder © M
 
-"dark mord" [ru]
+"dark mord" [ru] © M
 
-sintax
+sintax © M
 
-extrim
+extrim © M
 
-extream
+extream © M
 
 e-legal (cybercrime) © LJ
 
-mellowdramatic
+mellowdramatic © M
 
-sellebrate
+sellebrate © M
 
-talken (communication token)
+talken (communication token) © M
 
 obstickle © Yury
 
-fitture
+fitture © M
 
 anywon © Yury
 
 roboost © Yury
 
-morbile
+morbile © M
 
 persuasian (persuasive Asian; Asian persuasion techniques) © LR
 
-spich
+spich © M
 
-precedure
+precedure © M
 
-unrevel
+unrevel © M
 
-suckrifice
+suckrifice © M
 
-storytolling
+storytolling © M
 
-unmatchural
+unmatchural © M
 
-calledge
+calledge © M
 
-wreck'we'ems
+wreck'we'ems © M
 
-wreckquiem
+wreckquiem © M
 
-endicator
+endicator © M
 
-"sleepery slope"
+"sleepery slope" © M
 
-shotsighted
+shotsighted © M
 
 edditional © Yury
 
-concockt
+concockt © M
 
-commponent
+commponent © M
 
-blurprint
+blurprint © M
 
-varioty
+varioty © M
 
-mosstly
+mosstly © M
 
-chesst
+chesst © M
 
-readirect
+readirect © M
 
-underrestimate
+underrestimate © M
 
-scathold
+scathold © M
 
 blackup (shadow backup) © Yury
 
-dickumentation
+dickumentation © M
 
-headerr
+headerr © M
 
-mulltiple
+mulltiple © M
 
 purrpaws © LR
 
-purrpose
+purrpose © M
 
 strasheklassnik [ru] © LR
 
@@ -1386,13 +1386,13 @@ reallyable (really reliable able ally) © LR
 
 tellink © Yury
 
-pussyfist
+pussyfist © M
 
-deepbugging
+deepbugging © M
 
 shyning (glowing blushing) © Yury
 
-grabitate
+grabitate © M
 
 chortage (annoying shortage) [ru] © LR
 
@@ -1402,13 +1402,13 @@ egochamber (echochamber for lonely people who keep only their own counsel) © LJ
 
 incompetitor (incompetent competitor) © LJ
 
-purrsonal
+purrsonal © M
 
-appinion
+appinion © M
 
-cullindar (schedule for slaughter)
+cullindar (schedule for slaughter) © M
 
-add-apt
+add-apt © M
 
 dicklaration (requires a cunter-argument) © Yury
 
@@ -1420,37 +1420,37 @@ twomorrow © Yury
 
 costomization © Yury
 
-mealk
+mealk © M
 
 lieteral © Yury
 
 whitespice © Yury
 
-probeability
+probeability © M
 
 koñman [🐴] © Yury
 
-comman
+comman © M
 
-inclewd
+inclewd © M
 
-incload
+incload © M
 
 keybird © Yury
 
-enterpreter
+enterpreter © M
 
 incorrekt (being so wrong that one gets destroyed) © LJ
 
-soulitude
+soulitude © M
 
-boostrapping
+boostrapping © M
 
-innerface (inner side of interface)
+innerface (inner side of interface) © M
 
-wayke
+wayke © M
 
-overlayping
+overlayping © M
 
 skovolodka [ru] © LR
 
@@ -1458,25 +1458,25 @@ manipullate © LR
 
 maniapulate © LR
 
-moneypulate
+moneypulate © M
 
-sermony
+sermony © M
 
 syncretin (from https://en.wikipedia.org/wiki/Syncretism and cretin) © LR
 
-addictional
+addictional © M
 
-disctinct
+disctinct © M
 
 turnsaction © Yury
 
-conwaynient
+conwaynient © M
 
-conveynient
+conveynient © M
 
-betroy
+betroy © M
 
-entertaintment (fun that tarnishes)
+entertaintment (fun that tarnishes) © M
 
 entertainman © LR
 
@@ -1486,57 +1486,57 @@ lookrative © LR
 
 themplate © Yury
 
-reazoneable
+reazoneable © M
 
-envoyce
+envoyce © M
 
-adornsenal
+adornsenal © M
 
-foodder
+foodder © M
 
-deplowment
+deplowment © M
 
-sayquence
+sayquence © M
 
-sicquence
+sicquence © M
 
-sickquence
+sickquence © M
 
-unambuguous
+unambuguous © M
 
 fullder (packed folder) © Yury
 
-headear
+headear © M
 
-ingreedients
+ingreedients © M
 
-snapshort
+snapshort © M
 
-benefist
+benefist © M
 
-cointinue
+cointinue © M
 
-addictionary
+addictionary © M
 
-unawear
+unawear © M
 
-workflog
+workflog © M
 
-peeriod (peer approval interval)
+peeriod (peer approval interval) © M
 
 developears (developers who listen) © LR
 
-convenant (convening under a covenant)
+convenant (convening under a covenant) © M
 
-behide (hiding behind)
+behide (hiding behind) © M
 
-condirtional
+condirtional © M
 
 scaracter © LR
 
 preformance © Yury
 
-coughtious
+coughtious © M
 
 orkestrate © LR
 
@@ -1544,109 +1544,109 @@ orkestra (ork orchestra) © LR
 
 changelong © LR
 
-ogranization
+ogranization © M
 
-apocalapse
+apocalapse © M
 
 betterfly © LR
 
-cauldrone
+cauldrone © M
 
 dickline (decline dick? decling like a dick?) © LR
 
 hellthcare (mortally bad healthcare) © LJ
 
-sadbox (sandbox in sad state)
+sadbox (sandbox in sad state) © M
 
-bullwork
+bullwork © M
 
-bulwork
+bulwork © M
 
-bullwark
+bullwark © M
 
-rob-bot
+rob-bot © M
 
-smock
+smock © M
 
-faintastic (so good, it knocks you out)
+faintastic (so good, it knocks you out) © M
 
-compair
+compair © M
 
 manyscript © LR
 
-menuscript (hand-written selection)
+menuscript (hand-written selection) © M
 
-addvantage
+addvantage © M
 
-atornment
+atornment © M
 
-compligated (gated by complexity)
+compligated (gated by complexity) © M
 
-culltist
+culltist © M
 
-cooltist
+cooltist © M
 
-reasonator
+reasonator © M
 
-deedstroy
+deedstroy © M
 
-obay
+obay © M
 
-innterval
+innterval © M
 
-derpendencies
+derpendencies © M
 
-playment
+playment © M
 
 boorocracy (boorish bureaucracy aka me on MEA) © LR
 
 porcupain (the pain of getting stung by a porcupine) © LJ
 
-containt
+containt © M
 
-splipt
+splipt © M
 
 treesearcher (tree researcher, botanist) © LJ
 
-hellalujah
+hellalujah © M
 
-expentations
+expentations © M
 
-enternet
+enternet © M
 
-crocodildo
+crocodildo © M
 
-crocobile
+crocobile © M
 
-apairtment (for two)
+apairtment (for two) © M
 
 apartyment (party apartment) © LR
 
-coldron
+coldron © M
 
-freshold
+freshold © M
 
-unnoying
+unnoying © M
 
-nanimal
+nanimal © M
 
-brandom
+brandom © M
 
-universale
+universale © M
 
-realated (really realevant)
+realated (really realevant) © M
 
-tbale
+tbale © M
 
-againg
+againg © M
 
-elemetal
+elemetal © M
 
-gooddess
+gooddess © M
 
 supairvision (what air traffic controllers do, from "air") © LJ
 
-pactitioner
+pactitioner © M
 
 dickplomacy (maybe synonymous with Gunboat Diplomacy; so just very brash and uncouth diplomatic swagger at the expense of the zh/opponent) © LJ
 
@@ -1654,163 +1654,163 @@ lawphole (loophole + law; some legal technicality that was overlooked) © LJ
 
 whoreshipped (worshipped + whore; probably some sort of one-sided romantic arrangement) © LJ
 
-ass-sis-tant (well-rounded secretary)
+ass-sis-tant (well-rounded secretary) © M
 
-hardcordead
+hardcordead © M
 
 hardcorded © LR
 
-bugfox
+bugfox © M
 
 derpty © LR
 
 assance © LR
 
-vidiot
+vidiot © M
 
-"dank you"
+"dank you" © M
 
-stuffocating
+stuffocating © M
 
-sell-defense (protecting yr ass...et)
+sell-defense (protecting yr ass...et) © M
 
-bullian
+bullian © M
 
-inderpolate
+inderpolate © M
 
-hormonic
+hormonic © M
 
-haremonic
+haremonic © M
 
-associarted
+associarted © M
 
-muggot
+muggot © M
 
-dreadnot
+dreadnot © M
 
-juggernaught
+juggernaught © M
 
-juggernot
+juggernot © M
 
-incompatibile
+incompatibile © M
 
-directroy
+directroy © M
 
-possibile
+possibile © M
 
-whitespread
+whitespread © M
 
-ulternative
+ulternative © M
 
 ingrateful (ungrateful for a stupid action) © LJ
 
 stom-ache (stomache ache) © LJ
 
-insalting
+insalting © M
 
-thrivial
+thrivial © M
 
-roward
+roward © M
 
-cantfess
+cantfess © M
 
-countribute
+countribute © M
 
-respondsibility
+respondsibility © M
 
-pussyade
+pussyade © M
 
-pursuade
+pursuade © M
 
 segregious © LR
 
-occurved
+occurved © M
 
 schedual © LR
 
-delayvery
+delayvery © M
 
 grimeass © LR
 
-grimeace (muddy mug)
+grimeace (muddy mug) © M
 
-notificat (gently wakes you up at morning)
+notificat (gently wakes you up at morning) © M
 
-confeegurable
+confeegurable © M
 
 recoñ (mounted scout) © LR
 
-sinthesis
+sinthesis © M
 
-corridot
+corridot © M
 
-orkanized
+orkanized © M
 
-ripair
+ripair © M
 
 dicklare © LR
 
-cannect
+cannect © M
 
-famework
+famework © M
 
 unsane (beyond sanity, but yet not insane) © LR
 
-medification
+medification © M
 
 prepaired (partners well-adjusted to each other) © LR
 
-missage (the missive you missed)
+missage (the missive you missed) © M
 
-promissing
+promissing © M
 
 litterally © LR
 
 cheapset © LR
 
-flogking
+flogking © M
 
-minifest
+minifest © M
 
-hellth
+hellth © M
 
-transfermation
+transfermation © M
 
-subscraption
+subscraption © M
 
-information
+information © M
 
-mycoorganism
+mycoorganism © M
 
-recommaind
+recommaind © M
 
 apartmement © LR
 
-ad-venture
+ad-venture © M
 
 develoop © LR
 
-consuckquence
+consuckquence © M
 
-doemon (_does_ things in the background)
+doemon (_does_ things in the background) © M
 
-polyglod (gnaws on everything)
+polyglod (gnaws on everything) © M
 
-invastment
+invastment © M
 
-brainbow
+brainbow © M
 
-consolidarity
+consolidarity © M
 
 cantains © Yury
 
-bamboobzled
+bamboobzled © M
 
-bamboob
+bamboob © M
 
-impatent
+impatent © M
 
-classter
+classter © M
 
 awkful (trying to make awk syntax not conflict with how Groovy parses embedded bash) © LR
 
@@ -1818,27 +1818,27 @@ coñqueryror © LR
 
 aqueryum © LR
 
-smogscreen
+smogscreen © M
 
-tryjectory
+tryjectory © M
 
 meleetiry © LR
 
 meleetary © LR
 
-perpetraitor
+perpetraitor © M
 
-unconsistent
+unconsistent © M
 
-legistics
+legistics © M
 
 lagacy © LR
 
-ducktape
+ducktape © M
 
-declaraction
+declaraction © M
 
-deliberat
+deliberat © M
 
 delibearate © LR
 
@@ -1848,51 +1848,51 @@ mattric (metric that matters) © LR
 
 containmination (contained contamination) © LR
 
-deafault
+deafault © M
 
 dateabase © LR
 
 suckrificial © LR
 
-infarmation
+infarmation © M
 
-manugement (manual micromanagement)
+manugement (manual micromanagement) © M
 
 autestic © Yury
 
 ass-sumption © Yury
 
-alloycate
+alloycate © M
 
 assiom (axiom related to ass — e.g. "ass always exists") © LR
 
-aveilable
+aveilable © M
 
-murmurder
+murmurder © M
 
-elichiable
+elichiable © M
 
-megazine
+megazine © M
 
 junktion © LR
 
-resque
+resque © M
 
-medievil
+medievil © M
 
-patroll
+patroll © M
 
 culltivate © LR
 
-loreplay
+loreplay © M
 
 edickation © LR
 
-enducation
+enducation © M
 
-beerable
+beerable © M
 
-lagluster
+lagluster © M
 
 veryable © Yury
 
@@ -1900,219 +1900,219 @@ companent © Yury
 
 realevant © Yury
 
-blahsphemy
+blahsphemy © M
 
-playtinum
+playtinum © M
 
-arteffect (artful artefact)
+arteffect (artful artefact) © M
 
 garbug © LJ
 
-dievirgins
+dievirgins © M
 
 upgreeding © Kaeyz
 
-fartress
+fartress © M
 
-sadistick
+sadistick © M
 
-sadisfaction
+sadisfaction © M
 
-sadisfying
+sadisfying © M
 
-pessemitstick
+pessemitstick © M
 
-opteamum
+opteamum © M
 
 someboy © Yury
 
-deal-C (third-rate DLC)
+deal-C (third-rate DLC) © M
 
-taxin (taxes poisoning your system)
+taxin (taxes poisoning your system) © M
 
-clumpsiness
+clumpsiness © M
 
-statistick
+statistick © M
 
 insurgeoncy © LR
 
-kung-fu-sing (convoluted movement?)
+kung-fu-sing (convoluted movement?) © M
 
-skipter (skip + scepter)
+skipter (skip + scepter) © M
 
-purifire
+purifire © M
 
-dearelict
+dearelict © M
 
-lol-tech (low-tech but even more laughable)
+lol-tech (low-tech but even more laughable) © M
 
-gopying (copy something and prevent them from using it; "lift" in a true sense)
+gopying (copy something and prevent them from using it; "lift" in a true sense) © M
 
-adampter
+adampter © M
 
-hatphones
+hatphones © M
 
-tearetical
+tearetical © M
 
 burycade © LR
 
 polidicks (corrupt politics, like the Zhukrainian Rada) © LJ
 
-distrance
+distrance © M
 
 negatiation (essentially a discussion that's so fruitless you're worse off after it) © LJ
 
 attraptive (sort of like a honeypot; meaning a woman that seduces people for some nefarious purpose) © LJ
 
-cirquit
+cirquit © M
 
 sucksassful © Yury
 
-punyshment
+punyshment © M
 
-manyually
+manyually © M
 
 ackwards © Yury
 
 discour © Yury
 
-septomber
+septomber © M
 
 correctify (rectify a false correction) © LJ
 
-hvostage (tails you on a rescue mission) [ru]
+hvostage (tails you on a rescue mission) [ru] © M
 
-wholographic
+wholographic © M
 
-sindicate
+sindicate © M
 
-trigged
+trigged © M
 
-"dork matter"
+"dork matter" © M
 
-truejectory
+truejectory © M
 
 lieght (lies brought to light) © LR
 
-cosmotics (cosmos-themed decorations? decorating the cosmos?)
+cosmotics (cosmos-themed decorations? decorating the cosmos?) © M
 
-poledrons (spiky, protruding shoulder guards)
+poledrons (spiky, protruding shoulder guards) © M
 
-pauldrones (shoulder-mounted robots)
+pauldrones (shoulder-mounted robots) © M
 
-haulted
+haulted © M
 
-queentillion
+queentillion © M
 
-exbansion
+exbansion © M
 
-inprovement
+inprovement © M
 
-emojo (💪)
+emojo (💪) © M
 
-abstrain
+abstrain © M
 
 redamnation/recondemnation/recomdemnation (just came up because someone was asked if he liked something and the answer was rather inconclusive since he liked it, but didn't recommend it due to many condemned negatives) © LJ
 
-con-sensual
+con-sensual © M
 
-oberator (operator that berates you on comms)
+oberator (operator that berates you on comms) © M
 
-struss (stress support?)
+struss (stress support?) © M
 
-indoctorination
+indoctorination © M
 
-mainwhile
+mainwhile © M
 
-hardvester
+hardvester © M
 
-soulty
+soulty © M
 
 dodjo © LR
 
-violince
+violince © M
 
-blunderbus
+blunderbus © M
 
-petch
+petch © M
 
-wisper
+wisper © M
 
-recomdemnation (liked but didn't recommend due to many condemned negatives)
+recomdemnation (liked but didn't recommend due to many condemned negatives) © M
 
-aimcounter
+aimcounter © M
 
-fromt
+fromt © M
 
 lawtitude © LR
 
 lowtitude © LR
 
-javascrapt
+javascrapt © M
 
-javascrap
+javascrap © M
 
-liebour
+liebour © M
 
-whorrible
+whorrible © M
 
-aftwards
+aftwards © M
 
-boobking (like booking but...)
+boobking (like booking but...) © M
 
-beefore
+beefore © M
 
-ballt
+ballt © M
 
-diesection
+diesection © M
 
-laytency
+laytency © M
 
-boundwidth
+boundwidth © M
 
-brandwidth
+brandwidth © M
 
-bisquit
+bisquit © M
 
 endevour (to endeavour to devour) © LR
 
-histroy
+histroy © M
 
 ripository (repo that went RIP or got ripped off from another) © LR
 
-repositroy
+repositroy © M
 
-youser
+youser © M
 
-appload
+appload © M
 
 queuestion © LR
 
-questtion
+questtion © M
 
-resqueue
+resqueue © M
 
 borther (bothersome brother?) © LR
 
-insinerate
+insinerate © M
 
-quariantine (self-quarantine by wearing hermetic suits)
+quariantine (self-quarantine by wearing hermetic suits) © M
 
-refridgearator
+refridgearator © M
 
-pawe (e.g. pave the way, stomp it out with paws)
+pawe (e.g. pave the way, stomp it out with paws) © M
 
-earror
+earror © M
 
-projet
+projet © M
 
-meanvile
+meanvile © M
 
-anymation
+anymation © M
 
-beeple
+beeple © M
 
-sinergy
+sinergy © M
 
 mushrimp (dish made of Mushrooms and Shrimps) © LJ
 
@@ -2124,437 +2124,437 @@ annoyant © LJ
 
 textpert (someone who knows a text inside out) © LJ
 
-moderightor
+moderightor © M
 
 awener © LR
 
-mension
+mension © M
 
-mantion
+mantion © M
 
 co-orkers © LR
 
-bind-aid
+bind-aid © M
 
 gravemar (really, really shit grammar) © LR
 
-undroid
+undroid © M
 
-costomize
+costomize © M
 
-freaktion
+freaktion © M
 
-discription
+discription © M
 
-valuedate
+valuedate © M
 
-optimizaction
+optimizaction © M
 
-appstract
+appstract © M
 
-commond
+commond © M
 
 inscentsitive (insensitive to scents) © LR
 
 inscentive (scent incentive?) © LR
 
-evidense
+evidense © M
 
-evildense
+evildense © M
 
-evildence
+evildence © M
 
-availabel (shows that you can avail yourself of this)
+availabel (shows that you can avail yourself of this) © M
 
-avialable
+avialable © M
 
-biship
+biship © M
 
 glassified © LR
 
-wallt
+wallt © M
 
-attech
+attech © M
 
-nowledge
+nowledge © M
 
-legth (leg length)
+legth (leg length) © M
 
 annoyant © LJ
 
-adbomination
+adbomination © M
 
-abdomination
+abdomination © M
 
-cansellation
+cansellation © M
 
-bearzerker
+bearzerker © M
 
-campitalize
+campitalize © M
 
-sentiant
+sentiant © M
 
-sentent
+sentent © M
 
 textpert (someone who knows a text inside out) © LJ
 
-tempture
+tempture © M
 
-suckulent
+suckulent © M
 
-outdayted
+outdayted © M
 
 stereotrope © LJ
 
-vainguard
+vainguard © M
 
-priviledge
+priviledge © M
 
-recommand
+recommand © M
 
-quaranteed
+quaranteed © M
 
-computition
+computition © M
 
-practicipant
+practicipant © M
 
-autistick
+autistick © M
 
-plainty
+plainty © M
 
-playnty
+playnty © M
 
-upsession
+upsession © M
 
-carbage
+carbage © M
 
-beerd
+beerd © M
 
-formeat
+formeat © M
 
-diffstribution
+diffstribution © M
 
-absense
+absense © M
 
-retconnect
+retconnect © M
 
-exhalerating
+exhalerating © M
 
-logdown
+logdown © M
 
-sectomber
+sectomber © M
 
-sectober
+sectober © M
 
-titbit
+titbit © M
 
-abailable
+abailable © M
 
-allternative
+allternative © M
 
-fullmination
+fullmination © M
 
-wallnearable
+wallnearable © M
 
-vulnearable
+vulnearable © M
 
-headead
+headead © M
 
-funally
+funally © M
 
-slowdout
+slowdout © M
 
-canduit
+canduit © M
 
-tallerable
+tallerable © M
 
-infurier
+infurier © M
 
-riptile
+riptile © M
 
-murdeer
+murdeer © M
 
-dorkest
+dorkest © M
 
-hacktivate
+hacktivate © M
 
-heretage
+heretage © M
 
-siphone
+siphone © M
 
-intrashional
+intrashional © M
 
-painpal
+painpal © M
 
 beeverage (beverage but with a 🐝) © LR
 
 b-verage (like average, but second-grade average, so it has a "b" instead of "a") © LR
 
-beerveerage
+beerveerage © M
 
-attemptation
+attemptation © M
 
-archane
+archane © M
 
-blastphemy
+blastphemy © M
 
-sellfish
+sellfish © M
 
-cellfish
+cellfish © M
 
-excessible
+excessible © M
 
-infastation
+infastation © M
 
-bloodgeon
+bloodgeon © M
 
 gopinion (gopnik opinion) © LR
 
-warld ("warld of warcraft", missed opportunity?)
+warld ("warld of warcraft", missed opportunity?) © M
 
-pickment
+pickment © M
 
-aweakening
+aweakening © M
 
-annoynted
+annoynted © M
 
-annoytment
+annoytment © M
 
-annoitment
+annoitment © M
 
 annoytation © LR
 
-weakday (weekend, lying on the bed powerless)
+weakday (weekend, lying on the bed powerless) © M
 
-pairagraph
+pairagraph © M
 
-multuple
+multuple © M
 
-trancistern
+trancistern © M
 
-transister
+transister © M
 
-trainsistor
+trainsistor © M
 
-brickthrough
+brickthrough © M
 
-"right off the bed"
+"right off the bed" © M
 
-airrogant
+airrogant © M
 
-demonstrouble
+demonstrouble © M
 
-keyping
+keyping © M
 
-keepig
+keepig © M
 
-digtator
+digtator © M
 
-fewtile
+fewtile © M
 
-"zero-sum gain"
+"zero-sum gain" © M
 
-hotstile
+hotstile © M
 
 spiralink © LR
 
-spyreling
+spyreling © M
 
-spyral
+spyral © M
 
-deathimated
+deathimated © M
 
 infilthtrait (infiltrate and imbue with filthy traits) © LR
 
-infilthtraitor
+infilthtraitor © M
 
-infilthtrator
+infilthtrator © M
 
-infiltraitor
+infiltraitor © M
 
-genereal
+genereal © M
 
-lickquit
+lickquit © M
 
-lickquid
+lickquid © M
 
-pingment
+pingment © M
 
 treeming (tree trimming) © LJ
 
 seaty (sea city) © LJ
 
-sleaping
+sleaping © M
 
-quickstion
+quickstion © M
 
-eromatic
+eromatic © M
 
-aeromatic
+aeromatic © M
 
-weeday
+weeday © M
 
-weedday
+weedday © M
 
-luckluster
+luckluster © M
 
-inevilable
+inevilable © M
 
-breathplate
+breathplate © M
 
-assense
+assense © M
 
-whitespread
+whitespread © M
 
-rotment
+rotment © M
 
-saleary
+saleary © M
 
-fucktionality
+fucktionality © M
 
-weakend
+weakend © M
 
-incestines
+incestines © M
 
-scaremorguering
+scaremorguering © M
 
-absolite
+absolite © M
 
-polyglut (eats everything)
+polyglut (eats everything) © M
 
-bookking
+bookking © M
 
-correspondense
+correspondense © M
 
-discused
+discused © M
 
-reprodude
+reprodude © M
 
-forkaround (forking software to fix a problem)
+forkaround (forking software to fix a problem) © M
 
-mygration
+mygration © M
 
 Sratuday (when your food on Fryday was really bad) © LR
 
-starturday
+starturday © M
 
-skeletone
+skeletone © M
 
-langauge (metric of intelligence?)
+langauge (metric of intelligence?) © M
 
-curtesy
+curtesy © M
 
-dendelion
+dendelion © M
 
-dengeon
+dengeon © M
 
 idiotlogy © LR
 
-fashionst
+fashionst © M
 
-bigture
+bigture © M
 
-aztech
+aztech © M
 
-insideful
+insideful © M
 
-pigture
+pigture © M
 
-doversify
+doversify © M
 
-mixstake
+mixstake © M
 
-orkaround
+orkaround © M
 
-amonkst
+amonkst © M
 
-appushiated
+appushiated © M
 
-conpetent
+conpetent © M
 
-anormaly
+anormaly © M
 
-longcher
+longcher © M
 
-offul
+offul © M
 
 sleepstream © LR
 
 duoable © LR
 
-cloisterophobic
+cloisterophobic © M
 
 sanitymental © LR
 
-guesterday
+guesterday © M
 
-guessterday
+guessterday © M
 
-omnisia (forget everything)
+omnisia (forget everything) © M
 
-meanwhine
+meanwhine © M
 
-mooment
+mooment © M
 
 mercynary © LR
 
-merchenary
+merchenary © M
 
-jesture
+jesture © M
 
-workoing
+workoing © M
 
-violens
+violens © M
 
-violince
+violince © M
 
-violance
+violance © M
 
-lewdicrous
+lewdicrous © M
 
-upserve (upsell a service)
+upserve (upsell a service) © M
 
-storeage
+storeage © M
 
-restponse
+restponse © M
 
-sombering
+sombering © M
 
-clottered
+clottered © M
 
-strongth
+strongth © M
 
-diffault
+diffault © M
 
-ma'amtenance
+ma'amtenance © M
 
-cumbersation
+cumbersation © M
 
 dodgic (dodgy logic) © LR
 
 garbag © LJ
 
-axcavation
+axcavation © M
 
-slowppy
+slowppy © M
 
-disgussed
+disgussed © M
 
-cheasy
+cheasy © M
 
-punchure
+punchure © M
 
-axellent
+axellent © M
 
-lewdonarrative
+lewdonarrative © M
 
-truemendous
+truemendous © M
 
-agreedment
+agreedment © M
 
-controll
+controll © M
 
-blastphemy
+blastphemy © M
 
 whoreganization © LR
 
@@ -2564,95 +2564,95 @@ cognisphere (Essentially a place, especially an intangible theoretical one where
 
 mugkings (mug markings) © LJ
 
-queery
+queery © M
 
-guarden
+guarden © M
 
-arhive
+arhive © M
 
-larobotory
+larobotory © M
 
-rainge
+rainge © M
 
-troiler
+troiler © M
 
-smartket
+smartket © M
 
-listenerd
+listenerd © M
 
-e-ducat-ion
+e-ducat-ion © M
 
 hoolidays (holidays with increased presence of hooligans) © LR
 
-appstract
+appstract © M
 
-combot
+combot © M
 
-wrequiem
+wrequiem © M
 
-infestival
+infestival © M
 
 mug-a-structure © LR
 
-mekastructure
+mekastructure © M
 
-wark
+wark © M
 
-airrow
+airrow © M
 
 skepticles (spectacles you wear when you're sceptical) © LR
 
 trashure (treasure that's trash, or vice versa) © LR
 
-frogment
+frogment © M
 
-exorcyst
+exorcyst © M
 
-boredome
+boredome © M
 
 filthmates (dirty flatmates) © LR
 
 flatmotes (dirty flatmates) © LJ
 
-"scolding hot"
+"scolding hot" © M
 
-limbido
+limbido © M
 
-vitamineral
+vitamineral © M
 
-abduckt
+abduckt © M
 
-spawntaneous
+spawntaneous © M
 
-revaulting
+revaulting © M
 
-erectric
+erectric © M
 
-mugly
+mugly © M
 
-storange
+storange © M
 
-prioritits
+prioritits © M
 
-redible
+redible © M
 
-shamean
+shamean © M
 
-prepair
+prepair © M
 
-thingfully
+thingfully © M
 
-capabling
+capabling © M
 
-slaggish
+slaggish © M
 
-leecherous
+leecherous © M
 
-leecherally
+leecherally © M
 
-sellect
+sellect © M
 
-postpawn
+postpawn © M
 
 iridecent © LR
 
@@ -2662,305 +2662,305 @@ abusement (abuse for amusement) © LR
 
 experimence (experience gained from experiments) © LR
 
-cloathing
+cloathing © M
 
-djinnetic
+djinnetic © M
 
 illuminazi © LJ
 
-priviledge
+priviledge © M
 
-cheapost
+cheapost © M
 
 cheapset © LR
 
 roombamate (roommate who cleans up after everyone) © LJ
 
-okaysional
+okaysional © M
 
-derelicat
+derelicat © M
 
 frogrance (using frog extract for perfume) © LJ
 
-trainsport
+trainsport © M
 
-aviatar
+aviatar © M
 
-kracken
+kracken © M
 
-ubique
+ubique © M
 
-foolscreen
+foolscreen © M
 
-ingrease
+ingrease © M
 
-floatilla
+floatilla © M
 
-robody
+robody © M
 
-hackcess
+hackcess © M
 
-grund
+grund © M
 
-fatshion
+fatshion © M
 
-cementery
+cementery © M
 
-birden
+birden © M
 
-mynority
+mynority © M
 
-knowhere
+knowhere © M
 
-killonova
+killonova © M
 
-techture
+techture © M
 
-sindicate
+sindicate © M
 
-resinstance
+resinstance © M
 
-layter
+layter © M
 
-pawnd
+pawnd © M
 
-tortuary
+tortuary © M
 
-afcave
+afcave © M
 
-lazyr
+lazyr © M
 
-encrouch
+encrouch © M
 
-tentickle
+tentickle © M
 
-helld
+helld © M
 
-lawker
+lawker © M
 
-cystem (has malign growths)
+cystem (has malign growths) © M
 
-scamdinavian
+scamdinavian © M
 
-djinnerator
+djinnerator © M
 
-succrifice
+succrifice © M
 
-wretchiment
+wretchiment © M
 
-chilldish
+chilldish © M
 
-televator
+televator © M
 
-boonty
+boonty © M
 
-riputation
+riputation © M
 
-clusterophobic
+clusterophobic © M
 
-castomize
+castomize © M
 
-riplace
+riplace © M
 
-hopfully
+hopfully © M
 
-evengefully
+evengefully © M
 
-suretcut
+suretcut © M
 
-do-nation
+do-nation © M
 
-feelter
+feelter © M
 
-"derp cheap"
+"derp cheap" © M
 
-freequeency (vacant queen position?)
+freequeency (vacant queen position?) © M
 
 freequency (unoccupied frequency) © LR
 
-okaysional
+okaysional © M
 
-epilapsy
+epilapsy © M
 
-newthrall
+newthrall © M
 
-violens
+violens © M
 
-ultraviolent
+ultraviolent © M
 
-inderpolation
+inderpolation © M
 
-cooltivate
+cooltivate © M
 
-materpiece
+materpiece © M
 
-feelth
+feelth © M
 
-sensorship
+sensorship © M
 
-aimunition
+aimunition © M
 
-mugnetic (attractive face)
+mugnetic (attractive face) © M
 
-combatibility
+combatibility © M
 
-sixstem
+sixstem © M
 
-electrick
+electrick © M
 
-arsonal (pyrotechnics)
+arsonal (pyrotechnics) © M
 
-crewcible
+crewcible © M
 
-taveurn
+taveurn © M
 
-trendsaction
+trendsaction © M
 
-twogather
+twogather © M
 
-gasteroid
+gasteroid © M
 
-insinerate
+insinerate © M
 
-pipsquick
+pipsquick © M
 
-farmiliar
+farmiliar © M
 
-importent
+importent © M
 
-plog (slogging plot)
+plog (slogging plot) © M
 
-buycicle
+buycicle © M
 
-raindom
+raindom © M
 
-infission (taking an internal sample)
+infission (taking an internal sample) © M
 
-confission (confusing confession that splits the pair)
+confission (confusing confession that splits the pair) © M
 
-mixol
+mixol © M
 
-fruster
+fruster © M
 
-improoment (making space)
+improoment (making space) © M
 
-emberassing
+emberassing © M
 
-embearassing
+embearassing © M
 
-immeatiate
+immeatiate © M
 
-rampants
+rampants © M
 
-portalable
+portalable © M
 
-Whenceday
+Whenceday © M
 
-cantch-22 (you can't)
+cantch-22 (you can't) © M
 
-dealivery
+dealivery © M
 
-peerform
+peerform © M
 
-thingk
+thingk © M
 
-dickficult
+dickficult © M
 
-grandom
+grandom © M
 
-grandmiral
+grandmiral © M
 
-printsess
+printsess © M
 
-catmatic (free-thinking)
+catmatic (free-thinking) © M
 
-placeholdear
+placeholdear © M
 
-placeholdeer
+placeholdeer © M
 
-veersion
+veersion © M
 
-eerror (eerie mistake)
+eerror (eerie mistake) © M
 
-chargear
+chargear © M
 
-plausiable
+plausiable © M
 
-tailsman
+tailsman © M
 
-arghitechture © Mitranim
+arghitechture © M
 
-girlfiend (nasty fiance) © Mitranim
+girlfiend (nasty fiance) © M
 
-joyn © Mitranim
+joyn © M
 
-annonsense © Mitranim
+annonsense © M
 
-langauge © Mitranim
+langauge © M
 
-refucktoring © Mitranim
+refucktoring © M
 
-deepslay © Mitranim
+deepslay © M
 
-onederful © Mitranim
+onederful © M
 
-jobsworth (an official who upholds petty rules even at the expense of humanity or common sense) © LandRaider
+jobsworth (an official who upholds petty rules even at the expense of humanity or common sense) © LR
 
-knowtice (spot something you already knew about) © Mitranim
+knowtice (spot something you already knew about) © M
 
-captin © Mitranim
+captin © M
 
-bearzerker © Mitranim
+bearzerker © M
 
-wretchribution © Mitranim
+wretchribution © M
 
-gangerous (dangerous in gangs, like small animals) © Mitranim
+gangerous (dangerous in gangs, like small animals) © M
 
-condishion © Mitranim
+condishion © M
 
-racearch (eugenics) © Mitranim
+racearch (eugenics) © M
 
-crossmetic © Mitranim
+crossmetic © M
 
-catalock © Mitranim
+catalock © M
 
-iceburg (city built on/of ice) © Mitranim
+iceburg (city built on/of ice) © M
 
-maytenance © Mitranim
+maytenance © M
 
-claptomania © Mitranim
+claptomania © M
 
-jewplicate © Mitranim
+jewplicate © M
 
-stronghole (underground fortress) © Mitranim
+stronghole (underground fortress) © M
 
-angressive © Mitranim
+angressive © M
 
-sentree © Mitranim
+sentree © M
 
-walkaround (circumnavigate the problem) © Mitranim
+walkaround (circumnavigate the problem) © M
 
-notefication © Mitranim
+notefication © M
 
-purrformance © Mitranim
+purrformance © M
 
-enteresting © Mitranim
+enteresting © M
 
-nayway (regardless and irrespective) © Mitranim
+nayway (regardless and irrespective) © M
 
-pickture © Mitranim
+pickture © M
 
-feeture (paywalled) © Mitranim
+feeture (paywalled) © M
 
-stupersonic © Mitranim
+stupersonic © M
 
-duplicat (cat reproduction) © Mitranim
+duplicat (cat reproduction) © M
 
-highlarious © LeoJo
+highlarious © LJ
 
-censorshit © LeoJo
+censorshit © LJ
 
-expirementation (experimenting with whether expired food will poison you or not; experiments that cause the subject to "expire") © LandRaider
+expirementation (experimenting with whether expired food will poison you or not; experiments that cause the subject to "expire") © LR
 
 fueld © Yury
 
@@ -3044,1137 +3044,1137 @@ expreset (expressed) © Nicos (SZC)
 
 presense © Nicos (SZC)
 
-"mind mine / mine mind" ("mind mine" or "mine mind" → my mind; "mind mine" where mine = weapon → mine for the mind, or of a mind; "mind mine" where mine = lode → abundance of minds; "mine mind" where mine = dig, delve → delve into mind) © Mitranim
+"mind mine / mine mind" ("mind mine" or "mine mind" → my mind; "mind mine" where mine = weapon → mine for the mind, or of a mind; "mind mine" where mine = lode → abundance of minds; "mine mind" where mine = dig, delve → delve into mind) © M
 
-pedator (pedo-predator) © Mitranim
+pedator (pedo-predator) © M
 
-robusted (busted for good) © Mitranim
+robusted (busted for good) © M
 
-algorhythm (well-choreographed algorithm) © Mitranim
+algorhythm (well-choreographed algorithm) © M
 
-feedbark (angry response) © Mitranim
+feedbark (angry response) © M
 
-combox (combo-box, UI control) © Mitranim
+combox (combo-box, UI control) © M
 
-diss-miss (discharge with disdain) © Mitranim
+diss-miss (discharge with disdain) © M
 
-divorcity © Mitranim
+divorcity © M
 
-diver-city © Mitranim
+diver-city © M
 
-divorcify (split up for variety) © Mitranim
+divorcify (split up for variety) © M
 
-undefiend (sinister "undefined"; JS programmers will understand) © Mitranim
+undefiend (sinister "undefined"; JS programmers will understand) © M
 
-thirstday (prior to drunkday) © Mitranim
+thirstday (prior to drunkday) © M
 
-transfirm (solid change) © Mitranim
+transfirm (solid change) © M
 
-preylude (stalking victim) © Mitranim
+preylude (stalking victim) © M
 
-praylude (preparatory prayer) © Mitranim
+praylude (preparatory prayer) © M
 
-preyparation © Mitranim
+preyparation © M
 
-prayparation © Mitranim
+prayparation © M
 
-newclear (wipes the landscape clean) © Mitranim
+newclear (wipes the landscape clean) © M
 
-exqueeze-it ([exquisite]) © Mitranim
+exqueeze-it ([exquisite]) © M
 
-complan (decide to complain later) © Mitranim
+complan (decide to complain later) © M
 
-blogchain (reposted = true forever) © Mitranim
+blogchain (reposted = true forever) © M
 
-parallyze (paralyze in parallel) © Mitranim
+parallyze (paralyze in parallel) © M
 
-Marsedes (Ares' war chariot) © Mitranim
+Marsedes (Ares' war chariot) © M
 
-lowyer © Mitranim
+lowyer © M
 
-homesexual (likes comfort) © Mitranim
+homesexual (likes comfort) © M
 
-overoll (all-round) © Mitranim
+overoll (all-round) © M
 
-robosst (tough as a boss) © Mitranim
+robosst (tough as a boss) © M
 
-enteraction (first encounter) © Mitranim
+enteraction (first encounter) © M
 
-blightning (lightning that corrupts?) © Mitranim
+blightning (lightning that corrupts?) © M
 
-undefiend © Mitranim
+undefiend © M
 
-broadcats © Mitranim
+broadcats © M
 
-deathsperation (last throes) © Mitranim
+deathsperation (last throes) © M
 
-hullk (massive frame) © Mitranim
+hullk (massive frame) © M
 
-madmade © Mitranim
+madmade © M
 
-sickumstance (undesirable circumstance) © Mitranim
+sickumstance (undesirable circumstance) © M
 
-femail (chainmail for female figure?) © Mitranim
+femail (chainmail for female figure?) © M
 
-innside (in a tavern) © Mitranim
+innside (in a tavern) © M
 
-mantain (manual maintenance) © Mitranim
+mantain (manual maintenance) © M
 
-underneat (well-kept underside) © Mitranim
+underneat (well-kept underside) © M
 
-pingwin (pushy bird) © Mitranim
+pingwin (pushy bird) © M
 
-inventual (occasionally insightful) © Mitranim
+inventual (occasionally insightful) © M
 
-emberrassing (scorching embarrassment) © Mitranim
+emberrassing (scorching embarrassment) © M
 
-upgreat (grand improvement) © Mitranim
+upgreat (grand improvement) © M
 
-upgrand (great improvement) © Mitranim
+upgrand (great improvement) © M
 
-corract (actually correct) © Mitranim
+corract (actually correct) © M
 
-messive (big and unkempt) © Mitranim
+messive (big and unkempt) © M
 
-infamation (defaming info) © Mitranim
+infamation (defaming info) © M
 
-memengful (memorable) © Mitranim
+memengful (memorable) © M
 
-memengless (unmemorable) © Mitranim
+memengless (unmemorable) © M
 
-moanent (painful moment) © Mitranim
+moanent (painful moment) © M
 
-confix (problem-solving configuration) © Mitranim
+confix (problem-solving configuration) © M
 
-univerasity (mastery of everything) © Mitranim
+univerasity (mastery of everything) © M
 
-univercity (very large university) © Mitranim
+univercity (very large university) © M
 
-furyfier (raging purifier) © Mitranim
+furyfier (raging purifier) © M
 
-lockchain (link chain made of carabiners? padlocks?) © Mitranim
+lockchain (link chain made of carabiners? padlocks?) © M
 
-attension (tense focus) © Mitranim
+attension (tense focus) © M
 
-deeploy (covert drop behind enemy lines; layered deception) © Mitranim
+deeploy (covert drop behind enemy lines; layered deception) © M
 
-darkument (morbid document) © Mitranim
+darkument (morbid document) © M
 
-platforum © Mitranim
+platforum © M
 
-crawlback (slow callback) © Mitranim
+crawlback (slow callback) © M
 
-flockchain © Mitranim
+flockchain © M
 
-syncure © Mitranim
+syncure © M
 
-freakuent (bizarrely frequent) © Mitranim
+freakuent (bizarrely frequent) © M
 
-freakuency (bizarre frequency) © Mitranim
+freakuency (bizarre frequency) © M
 
-asfailt (badly-made asphalt) © Mitranim
+asfailt (badly-made asphalt) © M
 
-sickmas (holiday you're sick of? sick during holiday?) © Mitranim
+sickmas (holiday you're sick of? sick during holiday?) © M
 
-bitchumen © Mitranim
+bitchumen © M
 
-whizzard © Mitranim
+whizzard © M
 
-breakpaint (painted-on threshold; painful threshold) © Mitranim
+breakpaint (painted-on threshold; painful threshold) © M
 
-housand © Mitranim
+housand © M
 
-demonsterate (unveil something monstrous) © Mitranim
+demonsterate (unveil something monstrous) © M
 
-stimular (excitingly reminiscent) © Mitranim
+stimular (excitingly reminiscent) © M
 
-hollowday (meaningless holiday) © Mitranim
+hollowday (meaningless holiday) © M
 
-relephant © Mitranim
+relephant © M
 
-unbullievable (clearly a load of bull) © Mitranim
+unbullievable (clearly a load of bull) © M
 
-hype-mind © Mitranim
+hype-mind © M
 
-overwheelm (rollstomp) © Mitranim
+overwheelm (rollstomp) © M
 
-reapair © Mitranim
+reapair © M
 
-vampyre (vampire burned to death) © Mitranim
+vampyre (vampire burned to death) © M
 
-cloose (loosely shut) © Mitranim
+cloose (loosely shut) © M
 
-wisper © Mitranim
+wisper © M
 
-wispring © Mitranim
+wispring © M
 
-ripplicate (multiply by repetition) © Mitranim
+ripplicate (multiply by repetition) © M
 
-feedbag (holds your messages) © Mitranim
+feedbag (holds your messages) © M
 
-malebox © Mitranim
+malebox © M
 
-asswer (snarky response) © Mitranim
+asswer (snarky response) © M
 
-ultimatic © Mitranim
+ultimatic © M
 
-exsample (example that no longer fits?) © Mitranim
+exsample (example that no longer fits?) © M
 
-eggsample © Mitranim
+eggsample © M
 
-contestrophe (catastrophic competition) © Mitranim
+contestrophe (catastrophic competition) © M
 
-vainguard (useless frontliners) © Mitranim
+vainguard (useless frontliners) © M
 
-anthemma (flagpole antenna?) © Mitranim
+anthemma (flagpole antenna?) © M
 
-eyebrowse (directs your gaze) © Mitranim
+eyebrowse (directs your gaze) © M
 
-flushtuate © Mitranim
+flushtuate © M
 
-realipstick (not overdoing the cosmetics) © Mitranim
+realipstick (not overdoing the cosmetics) © M
 
-emergenation (creative fantasies) © Mitranim
+emergenation (creative fantasies) © M
 
-dieve (suicidal jump) © Mitranim
+dieve (suicidal jump) © M
 
-wreckord (ruined record) © Mitranim
+wreckord (ruined record) © M
 
-cooporation (organization built on cooperation) © Mitranim
+cooporation (organization built on cooperation) © M
 
-castrophic © Mitranim
+castrophic © M
 
-placeholer © Mitranim
+placeholer © M
 
-eyeland (Ireland?) © Mitranim
+eyeland (Ireland?) © M
 
-guesstomer (vaguely recognizable customer) © Mitranim
+guesstomer (vaguely recognizable customer) © M
 
-moovment (herd stampede) © Mitranim
+moovment (herd stampede) © M
 
-afrobatics © Mitranim
+afrobatics © M
 
-acrobotics (agile cybernetics) © Mitranim
+acrobotics (agile cybernetics) © M
 
-pengun © Mitranim
+pengun © M
 
-costumer (buys clothes) © Mitranim
+costumer (buys clothes) © M
 
-wreckognize © Mitranim
+wreckognize © M
 
-disguard (discard) © Mitranim
+disguard (discard) © M
 
-seize-on (season to act on the opportunities) © Mitranim
+seize-on (season to act on the opportunities) © M
 
-pessibility (worst expectation) © Mitranim
+pessibility (worst expectation) © M
 
-perillel (an accompanying peril) © Mitranim
+perillel (an accompanying peril) © M
 
-wonderer (excited by going places) © Mitranim
+wonderer (excited by going places) © M
 
-magnitube (telescope?) © Mitranim
+magnitube (telescope?) © M
 
-lagin (slow login) © Mitranim
+lagin (slow login) © M
 
-bitterfly (beautiful but not tasty) © Mitranim
+bitterfly (beautiful but not tasty) © M
 
-broadcost (expensive broadcast) © Mitranim
+broadcost (expensive broadcast) © M
 
-deathstroy (lethal overkill) © Mitranim
+deathstroy (lethal overkill) © M
 
-keyboar © Mitranim
+keyboar © M
 
-daemonstration (demonic show, turns viewers into monsters?) © Mitranim
+daemonstration (demonic show, turns viewers into monsters?) © M
 
-attaintion (grab attention and keep it) © Mitranim
+attaintion (grab attention and keep it) © M
 
-braind (smart brand) © Mitranim
+braind (smart brand) © M
 
-pressentation (forceful show) © Mitranim
+pressentation (forceful show) © M
 
-poopup (crappy popup) © Mitranim
+poopup (crappy popup) © M
 
-wokearound (suddenly realized solution) © Mitranim
+wokearound (suddenly realized solution) © M
 
-mentallic © Mitranim
+mentallic © M
 
-dataction (noticed in the data) © Mitranim
+dataction (noticed in the data) © M
 
-beem (spraying bees?) © Mitranim
+beem (spraying bees?) © M
 
-reaplace (harvest and replace) © Mitranim
+reaplace (harvest and replace) © M
 
-replayce © Mitranim
+replayce © M
 
-reaplay © Mitranim
+reaplay © M
 
-wherehouse (lost store) © Mitranim
+wherehouse (lost store) © M
 
-deathtination (final destination of all life) © Mitranim
+deathtination (final destination of all life) © M
 
-imposture (imposing stature? mimicking figure?) © Mitranim
+imposture (imposing stature? mimicking figure?) © M
 
-ad-apt (tailored advertising) © Mitranim
+ad-apt (tailored advertising) © M
 
-represend (diplomatic envoy) © Mitranim
+represend (diplomatic envoy) © M
 
-guyde © Mitranim
+guyde © M
 
-inspyre (burning passion) © Mitranim
+inspyre (burning passion) © M
 
-offishial (sleazy representative) © Mitranim
+offishial (sleazy representative) © M
 
-carrycter (star of the show) © Mitranim
+carrycter (star of the show) © M
 
-guessture (ambiguous motion) © Mitranim
+guessture (ambiguous motion) © M
 
-expact (silent agreement?) © Mitranim
+expact (silent agreement?) © M
 
-demend © Mitranim
+demend © M
 
-reacharge (reach out to refuel?) © Mitranim
+reacharge (reach out to refuel?) © M
 
-infestigate © Mitranim
+infestigate © M
 
-struckle (fistful struggle) © Mitranim
+struckle (fistful struggle) © M
 
-ageancy (mature freedom) © Mitranim
+ageancy (mature freedom) © M
 
-xenonym (alien verbal counterpart) © Mitranim
+xenonym (alien verbal counterpart) © M
 
-intersting (jolting wonder) © Mitranim
+intersting (jolting wonder) © M
 
-deafinite © Mitranim
+deafinite © M
 
-deafenite © Mitranim
+deafenite © M
 
-excelerate (progress through excellence) © Mitranim
+excelerate (progress through excellence) © M
 
-physit (visit in person) © Mitranim
+physit (visit in person) © M
 
-murderator (ban-happy moderator) © Mitranim
+murderator (ban-happy moderator) © M
 
-engauge (get involved, with careful examination) © Mitranim
+engauge (get involved, with careful examination) © M
 
-mashrooms © Mitranim
+mashrooms © M
 
-my'shrooms © Mitranim
+my'shrooms © M
 
-enemation (hostile movement) © Mitranim
+enemation (hostile movement) © M
 
-porking (parking like a swine) © Mitranim
+porking (parking like a swine) © M
 
-prophessional (expert good at predictions) © Mitranim
+prophessional (expert good at predictions) © M
 
-valueball (expensive sphere) © Mitranim
+valueball (expensive sphere) © M
 
-thundermental (stormy temperament) © Mitranim
+thundermental (stormy temperament) © M
 
-lifesafer (moderate safeguard) © Mitranim
+lifesafer (moderate safeguard) © M
 
-"nail in the coughing" (killer disease) © Mitranim
+"nail in the coughing" (killer disease) © M
 
-kingratulations (royal gratitude) © Mitranim
+kingratulations (royal gratitude) © M
 
-orcestrate (horde manipulation) © Mitranim
+orcestrate (horde manipulation) © M
 
-sicksessful © Mitranim
+sicksessful © M
 
-sucksexsful (lewd way to the top) © Mitranim
+sucksexsful (lewd way to the top) © M
 
-illeggal (gal's legs too good, should be outlawed) © Mitranim
+illeggal (gal's legs too good, should be outlawed) © M
 
-dencity (population clustering) © Mitranim
+dencity (population clustering) © M
 
-evilution (malicious development) © Mitranim
+evilution (malicious development) © M
 
-expyre (burn out) © Mitranim
+expyre (burn out) © M
 
-exscreamely © Mitranim
+exscreamely © M
 
-airid (dry and windy) © Mitranim
+airid (dry and windy) © M
 
-conetract (narrow down to a cone?) © Mitranim
+conetract (narrow down to a cone?) © M
 
-busket © Mitranim
+busket © M
 
-decimail © Mitranim
+decimail © M
 
-guarden (den of guards? tight group of guards?) © Mitranim
+guarden (den of guards? tight group of guards?) © M
 
-fearomone (dread-inducing secretion) © Mitranim
+fearomone (dread-inducing secretion) © M
 
-miningful (dig for deep meaning) © Mitranim
+miningful (dig for deep meaning) © M
 
-broblem © Mitranim
+broblem © M
 
-reeltime (too fast for stability) © Mitranim
+reeltime (too fast for stability) © M
 
-aimgle (good shooting angle) © Mitranim
+aimgle (good shooting angle) © M
 
-transection © Mitranim
+transection © M
 
-destonation © Mitranim
+destonation © M
 
-commplex (convoluted communications) © Mitranim
+commplex (convoluted communications) © M
 
-innclude © Mitranim
+innclude © M
 
-costomer (customer too expensive to serve) © Mitranim
+costomer (customer too expensive to serve) © M
 
-transfur (pelt transportation) © Mitranim
+transfur (pelt transportation) © M
 
-bookva © Mitranim
+bookva © M
 
-improoment (making more space) © Mitranim
+improoment (making more space) © M
 
-cementics (semantics set in stone) © Mitranim
+cementics (semantics set in stone) © M
 
-stradegy (trade tactics; tragic choice of tactics) © Mitranim
+stradegy (trade tactics; tragic choice of tactics) © M
 
-settlite (colonial satellite) © Mitranim
+settlite (colonial satellite) © M
 
-sightelite (observational satellite) © Mitranim
+sightelite (observational satellite) © M
 
-saptimber (lumbering month) © Mitranim
+saptimber (lumbering month) © M
 
-preydator © Mitranim
+preydator © M
 
-seequential © Mitranim
+seequential © M
 
-diebolic (lethally malicious) © Mitranim
+diebolic (lethally malicious) © M
 
-uppertunity (chance to gain an upper hand) © Mitranim
+uppertunity (chance to gain an upper hand) © M
 
-typigal (normal gal) © Mitranim
+typigal (normal gal) © M
 
-lightlyhood © Mitranim
+lightlyhood © M
 
-superising (astonishingly superior) © Mitranim
+superising (astonishingly superior) © M
 
-tagst (extreme shorthand writing?) © Mitranim
+tagst (extreme shorthand writing?) © M
 
-axtract (cut out the essence) © Mitranim
+axtract (cut out the essence) © M
 
-axcellent (highly skilled with an axe) © Mitranim
+axcellent (highly skilled with an axe) © M
 
-axstatic (murderous trance) © Mitranim
+axstatic (murderous trance) © M
 
-summersault © Mitranim
+summersault © M
 
-embad (bad inclusion) © Mitranim
+embad (bad inclusion) © M
 
-exspearment © Mitranim
+exspearment © M
 
-bettery (superior energy storage) © Mitranim
+bettery (superior energy storage) © M
 
-arcrobotics (uses open-air electric conduction?) © Mitranim
+arcrobotics (uses open-air electric conduction?) © M
 
-multiplie (dishonest arithmetic) © Mitranim
+multiplie (dishonest arithmetic) © M
 
-matearial (accompanying material) © Mitranim
+matearial (accompanying material) © M
 
-digtate © Mitranim
+digtate © M
 
-condirtions (grimy conditions) © Mitranim
+condirtions (grimy conditions) © M
 
-soular © Mitranim
+soular © M
 
-criticall (critical of everything) © Mitranim
+criticall (critical of everything) © M
 
-usedful (formerly useful) © Mitranim
+usedful (formerly useful) © M
 
-mooney (made-up currency?) © Mitranim
+mooney (made-up currency?) © M
 
-udderstand © Mitranim
+udderstand © M
 
-undermediary © Mitranim
+undermediary © M
 
-bottlenet © Mitranim
+bottlenet © M
 
-acheesement (achieved through unsavory means) © Mitranim
+acheesement (achieved through unsavory means) © M
 
-diemond © Mitranim
+diemond © M
 
-eyecon (painting that stares right back at you) © Mitranim
+eyecon (painting that stares right back at you) © M
 
-ducktape © Mitranim
+ducktape © M
 
-wreckommend (devastatingly bad advice) © Mitranim
+wreckommend (devastatingly bad advice) © M
 
-fucktion (dickish faction) © Mitranim
+fucktion (dickish faction) © M
 
-suckceptible (gullible) © Mitranim
+suckceptible (gullible) © M
 
-sassinate (take down by talking down) © Mitranim
+sassinate (take down by talking down) © M
 
-golleague (fellow gopher: Golang programmer) © Mitranim
+golleague (fellow gopher: Golang programmer) © M
 
-playcate (playfully appease) © Mitranim
+playcate (playfully appease) © M
 
-maintenant (high-maintenance tenant) © Mitranim
+maintenant (high-maintenance tenant) © M
 
-filmiliar (known from movies) © Mitranim
+filmiliar (known from movies) © M
 
-buyproduct (sellable byproduct) © Mitranim
+buyproduct (sellable byproduct) © M
 
-screwtinize © Mitranim
+screwtinize © M
 
-endependent (forever self-sufficient) © Mitranim
+endependent (forever self-sufficient) © M
 
-whichcraft (unrecognizable sorcery) © Mitranim
+whichcraft (unrecognizable sorcery) © M
 
-ooptimal © Mitranim
+ooptimal © M
 
-memestream (mainstream thinking) © Mitranim
+memestream (mainstream thinking) © M
 
-redunrant (superfluous speech) © Mitranim
+redunrant (superfluous speech) © M
 
-remembed (recalled while resting) © Mitranim
+remembed (recalled while resting) © M
 
-Moscowl (Russian frown?) © Mitranim
+Moscowl (Russian frown?) © M
 
-absrobe (absorb into garments? absorptive garments?) © Mitranim
+absrobe (absorb into garments? absorptive garments?) © M
 
-draumatic (emotionally damaging) © Mitranim
+draumatic (emotionally damaging) © M
 
-userful (used by many) © Mitranim
+userful (used by many) © M
 
-sharpnel © Mitranim
+sharpnel © M
 
-paln (plan with pals) © Mitranim
+paln (plan with pals) © M
 
-ceasonal (ceases from time to time) © Mitranim
+ceasonal (ceases from time to time) © M
 
-predickt © Mitranim
+predickt © M
 
-messconception © Mitranim
+messconception © M
 
-diegram © Mitranim
+diegram © M
 
-worc (grunt work) © Mitranim
+worc (grunt work) © M
 
-suckspect (misplaced suspicion?) © Mitranim
+suckspect (misplaced suspicion?) © M
 
-sasspect (openly deride on suspicion) © Mitranim
+sasspect (openly deride on suspicion) © M
 
-maintaint © Mitranim
+maintaint © M
 
-puriod (time of purification) © Mitranim
+puriod (time of purification) © M
 
-jawb (jaw-intensive job? involves a lot of talking?) © Mitranim
+jawb (jaw-intensive job? involves a lot of talking?) © M
 
-deadonation (lethal explosion) © Mitranim
+deadonation (lethal explosion) © M
 
-sicknature (perverse signature) © Mitranim
+sicknature (perverse signature) © M
 
-baita (enticing but flawed beta version?) © Mitranim
+baita (enticing but flawed beta version?) © M
 
-queentessential (royally perfect?) © Mitranim
+queentessential (royally perfect?) © M
 
-quitessential © Mitranim
+quitessential © M
 
-mygrate © Mitranim
+mygrate © M
 
-arghitecture (grumble-inducing structure) © Mitranim
+arghitecture (grumble-inducing structure) © M
 
-expectacular (magnificent as expected) © Mitranim
+expectacular (magnificent as expected) © M
 
-q-rated ("q" for "quality") © Mitranim
+q-rated ("q" for "quality") © M
 
-leprository (repository of rotten things) © Mitranim
+leprository (repository of rotten things) © M
 
-lepository (repository of pleasant things; only a Russian would understand) © Mitranim
+lepository (repository of pleasant things; only a Russian would understand) © M
 
-mediarite © Mitranim
+mediarite © M
 
-fature (future of lazy gluttons) © Mitranim
+fature (future of lazy gluttons) © M
 
-pantspermia © Mitranim
+pantspermia © M
 
-punspermia © Mitranim
+punspermia © M
 
-"nice to eat you" (carnivore to victim; also see "nice to meat you") © Mitranim
+"nice to eat you" (carnivore to victim; also see "nice to meat you") © M
 
-hybreed (cross-breed) © Mitranim
+hybreed (cross-breed) © M
 
-pervmission (lewd consent) © Mitranim
+pervmission (lewd consent) © M
 
-payge (pay-gated article) © Mitranim
+payge (pay-gated article) © M
 
-gaym (rapturous play) © Mitranim
+gaym (rapturous play) © M
 
-attactic (offensive strategy) © Mitranim
+attactic (offensive strategy) © M
 
-deafault (tone-deaf built-in) © Mitranim
+deafault (tone-deaf built-in) © M
 
-enterrupt © Mitranim
+enterrupt © M
 
-purseon (walking, talking wallet) © Mitranim
+purseon (walking, talking wallet) © M
 
-cursemas © Mitranim
+cursemas © M
 
-fucktor (show-stopping factor) © Mitranim
+fucktor (show-stopping factor) © M
 
-inventgory (carrying body parts?) © Mitranim
+inventgory (carrying body parts?) © M
 
-coverment (secretive government) © Mitranim
+coverment (secretive government) © M
 
-bestard (superior half-breed) © Mitranim
+bestard (superior half-breed) © M
 
-buypass (bribe for unauthorized entry) © Mitranim
+buypass (bribe for unauthorized entry) © M
 
-battleneck (decisive part of the fight) © Mitranim
+battleneck (decisive part of the fight) © M
 
-foodball (playing with food) © Mitranim
+foodball (playing with food) © M
 
-taintalize (corrupting lure?) © Mitranim
+taintalize (corrupting lure?) © M
 
-coffeeinn (caffeinating tavern) © Mitranim
+coffeeinn (caffeinating tavern) © M
 
-exhotic (exhilaratingly hot) © Mitranim
+exhotic (exhilaratingly hot) © M
 
-jerktator © Mitranim
+jerktator © M
 
-birdsday © Mitranim
+birdsday © M
 
-crytearia (tragically impassable criteria?) © Mitranim
+crytearia (tragically impassable criteria?) © M
 
-insite (insider information) © Mitranim
+insite (insider information) © M
 
-revelationize © Mitranim
+revelationize © M
 
-adeptation © Mitranim
+adeptation © M
 
-iceolated (stranded in a cold place) © Mitranim
+iceolated (stranded in a cold place) © M
 
-ridickule © Mitranim
+ridickule © M
 
-reducktion © Mitranim
+reducktion © M
 
-bladent (blatantly sharp) © Mitranim
+bladent (blatantly sharp) © M
 
-donestairs © Mitranim
+donestairs © M
 
-barricare © Mitranim
+barricare © M
 
-dicknity (uppity demeanor) © Mitranim
+dicknity (uppity demeanor) © M
 
-encampsulate © Mitranim
+encampsulate © M
 
-sexcuse © Mitranim
+sexcuse © M
 
-pantemonium © Mitranim
+pantemonium © M
 
-meleedrama (ends in violence, like Shakespeare works) © Mitranim
+meleedrama (ends in violence, like Shakespeare works) © M
 
-injuraction (harmful interaction) © Mitranim
+injuraction (harmful interaction) © M
 
-chilldren (for laissez-faire parents) © Mitranim
+chilldren (for laissez-faire parents) © M
 
-chilldrone © Mitranim
+chilldrone © M
 
-cuntry (place full of dicks) © Mitranim
+cuntry (place full of dicks) © M
 
-asscalate © Mitranim
+asscalate © M
 
-amoneyt © Mitranim
+amoneyt © M
 
-feelter © Mitranim
+feelter © M
 
-statemement (memorable sentence) © Mitranim
+statemement (memorable sentence) © M
 
-cityzen © Mitranim
+cityzen © M
 
-electoynics © Mitranim
+electoynics © M
 
-cointer © Mitranim
+cointer © M
 
-defoolt © Mitranim
+defoolt © M
 
-membershop © Mitranim
+membershop © M
 
-essense (essential sense) © Mitranim
+essense (essential sense) © M
 
-assence © Mitranim
+assence © M
 
-cantdidate © Mitranim
+cantdidate © M
 
-offertunity © Mitranim
+offertunity © M
 
-surprice (costlier than expected) © Mitranim
+surprice (costlier than expected) © M
 
-uniworse © Mitranim
+uniworse © M
 
-foodhold (grasping the food market) © Mitranim
+foodhold (grasping the food market) © M
 
-junktion © Mitranim
+junktion © M
 
-"dragon drop" (drag'n'drop) © Mitranim
+"dragon drop" (drag'n'drop) © M
 
-marshroom © Mitranim
+marshroom © M
 
-dieversity © Mitranim
+dieversity © M
 
-raydiation © Mitranim
+raydiation © M
 
-pissful (peaceful) © Mitranim
+pissful (peaceful) © M
 
-monstrocity (monstrous settlement) © Mitranim
+monstrocity (monstrous settlement) © M
 
-flagshit © Mitranim
+flagshit © M
 
-poption (potion that pops) © Mitranim
+poption (potion that pops) © M
 
-readuntant © Mitranim
+readuntant © M
 
-redonedont (shouldn't have been repeated) © Mitranim
+redonedont (shouldn't have been repeated) © M
 
-graydient (between black and white) © Mitranim
+graydient (between black and white) © M
 
-sistern © Mitranim
+sistern © M
 
-eekcetera (icky remainder) © Mitranim
+eekcetera (icky remainder) © M
 
-mainkind (dominant race) © Mitranim
+mainkind (dominant race) © M
 
-lepublic (République française) © Mitranim
+lepublic (République française) © M
 
-staysis © Mitranim
+staysis © M
 
-assteroid © Mitranim
+assteroid © M
 
-fuckt (inconvenient fact) © Mitranim
+fuckt (inconvenient fact) © M
 
-stundard © Mitranim
+stundard © M
 
-rundom © Mitranim
+rundom © M
 
-notural (shouldn't occur naturally, but does) © Mitranim
+notural (shouldn't occur naturally, but does) © M
 
-intrinsick (naturally malfunctioning) © Mitranim
+intrinsick (naturally malfunctioning) © M
 
-intrinstick © Mitranim
+intrinstick © M
 
-suspent © Mitranim
+suspent © M
 
-substainable © Mitranim
+substainable © M
 
-"marry cristmas" © Mitranim
+"marry cristmas" © M
 
-egosystem (revolves around one) © Mitranim
+egosystem (revolves around one) © M
 
-shotcoming © Mitranim
+shotcoming © M
 
-misstake © Mitranim
+misstake © M
 
-naybor (disagreeable neighbor) © Mitranim
+naybor (disagreeable neighbor) © M
 
-malproblem © Mitranim
+malproblem © M
 
-careacter © Mitranim
+careacter © M
 
-nicemare © Mitranim
+nicemare © M
 
-maindatory (required above all else) © Mitranim
+maindatory (required above all else) © M
 
-mindatory © Mitranim
+mindatory © M
 
-eeliens (slimy, squeazy, snake-like, foreign things) © Mitranim
+eeliens (slimy, squeazy, snake-like, foreign things) © M
 
-famouse © Mitranim
+famouse © M
 
-pairpendicular (pairallel intersection) © Mitranim
+pairpendicular (pairallel intersection) © M
 
-pairallel © Mitranim
+pairallel © M
 
-maidness (state of crazy beautiful?) © Mitranim
+maidness (state of crazy beautiful?) © M
 
-newtralize © Mitranim
+newtralize © M
 
-ornametal (metal decorations? intricate engravings on metal?) © Mitranim
+ornametal (metal decorations? intricate engravings on metal?) © M
 
-bugteria © Mitranim
+bugteria © M
 
-skullpture (WH40k Imperial art style) © Mitranim
+skullpture (WH40k Imperial art style) © M
 
-dienamic (suicidally quick?) © Mitranim
+dienamic (suicidally quick?) © M
 
-dienamite © Mitranim
+dienamite © M
 
-equickment © Mitranim
+equickment © M
 
-dielemma (to die or not to die) © Mitranim
+dielemma (to die or not to die) © M
 
-flatform © Mitranim
+flatform © M
 
-trucktor © Mitranim
+trucktor © M
 
-dragtor (machine for tugging heavy stuff) © Mitranim
+dragtor (machine for tugging heavy stuff) © M
 
-traptor (dangerously malfunctioning vehicle) © Mitranim
+traptor (dangerously malfunctioning vehicle) © M
 
-costumize (dress it up to your liking) © Mitranim
+costumize (dress it up to your liking) © M
 
-manyfacture (mass-produce) © Mitranim
+manyfacture (mass-produce) © M
 
-litreally (writing come true) © Mitranim
+litreally (writing come true) © M
 
-robolution © Mitranim
+robolution © M
 
-realaxation © Mitranim
+realaxation © M
 
-freshold © Mitranim
+freshold © M
 
-interfeelence (feelings getting in the way) © Mitranim
+interfeelence (feelings getting in the way) © M
 
-sicklical (unhealthy cycle) © Mitranim
+sicklical (unhealthy cycle) © M
 
-diegest (lethal when ingested) © Mitranim
+diegest (lethal when ingested) © M
 
-starelize © Mitranim
+starelize © M
 
-trickonometry © Mitranim
+trickonometry © M
 
-vermion (nuisance particle) © Mitranim
+vermion (nuisance particle) © M
 
-missilaneous © Mitranim
+missilaneous © M
 
-tamperature © Mitranim
+tamperature © M
 
-craptrap (cheap rubbish) © Mitranim
+craptrap (cheap rubbish) © M
 
-sillynder © Mitranim
+sillynder © M
 
-gearanteed (ensured by equipment) © Mitranim
+gearanteed (ensured by equipment) © M
 
-coversation (secretive talk) © Mitranim
+coversation (secretive talk) © M
 
-craptaclysm © Mitranim
+craptaclysm © M
 
-healium (restorative substance; opposite of hurtium) © Mitranim
+healium (restorative substance; opposite of hurtium) © M
 
-saycret (has been outed away) © Mitranim
+saycret (has been outed away) © M
 
-saycred © Mitranim
+saycred © M
 
-saygment © Mitranim
+saygment © M
 
-inchroduce (establish very slowly) © Mitranim
+inchroduce (establish very slowly) © M
 
-launchitude © Mitranim
+launchitude © M
 
-heartship (relationship-building hardship) © Mitranim
+heartship (relationship-building hardship) © M
 
-ripeat © Mitranim
+ripeat © M
 
-indicat © Mitranim
+indicat © M
 
-pairents © Mitranim
+pairents © M
 
-funite (fun while it lasts?) © Mitranim
+funite (fun while it lasts?) © M
 
-figureprint (whole-body biometric) © Mitranim
+figureprint (whole-body biometric) © M
 
-keypability (key skill) © Mitranim
+keypability (key skill) © M
 
-yellevator © Mitranim
+yellevator © M
 
-restrant © Mitranim
+restrant © M
 
-membrain © Mitranim
+membrain © M
 
-trickstar © Mitranim
+trickstar © M
 
-gateaway (faraway portal; portal that leads far away) © Mitranim
+gateaway (faraway portal; portal that leads far away) © M
 
-murkury (tainted quicksilver) © Mitranim
+murkury (tainted quicksilver) © M
 
-paytent © Mitranim
+paytent © M
 
-payple (consumers) © Mitranim
+payple (consumers) © M
 
-unstompable (indomitable) © Mitranim
+unstompable (indomitable) © M
 
-sicknificant (unwanted but important) © Mitranim
+sicknificant (unwanted but important) © M
 
-notkey (missing hotkey) © Mitranim
+notkey (missing hotkey) © M
 
-aftermoon (from moonset to moonrise?) © Mitranim
+aftermoon (from moonset to moonrise?) © M
 
-excludead © Mitranim
+excludead © M
 
-bossible (ordered = can be done) © Mitranim
+bossible (ordered = can be done) © M
 
-necromanagement (managing obsolete things) © Mitranim
+necromanagement (managing obsolete things) © M
 
-feetback (feeling it with your feet) © Mitranim
+feetback (feeling it with your feet) © M
 
-dickoration © Mitranim
+dickoration © M
 
-assid © Mitranim
+assid © M
 
-lockal (exclusive to area) © Mitranim
+lockal (exclusive to area) © M
 
-doneload (downloaded before you noticed) © Mitranim
+doneload (downloaded before you noticed) © M
 
-"fragtion of a second" (makes a difference for a kill) © Mitranim
+"fragtion of a second" (makes a difference for a kill) © M
 
-dicktionary © Mitranim
+dicktionary © M
 
-igeological (dug-up, outdated ideology) © Mitranim
+igeological (dug-up, outdated ideology) © M
 
-lagtency © Mitranim
+lagtency © M
 
-boopster (pulse booster) © Mitranim
+boopster (pulse booster) © M
 
-addishion © Mitranim
+addishion © M
 
-richual (expensive custom) © Mitranim
+richual (expensive custom) © M
 
-diegnostic (fatal verdict) © Mitranim
+diegnostic (fatal verdict) © M
 
-tealicious © Mitranim
+tealicious © M
 
-dealicious © Mitranim
+dealicious © M
 
-flayvor (of freshly skinned victim) © Mitranim
+flayvor (of freshly skinned victim) © M
 
-mugsimum © Mitranim
+mugsimum © M
 
-infiltrolltor © Mitranim
+infiltrolltor © M
 
-infilthrator © Mitranim
+infilthrator © M
 
-infiltraitor © Mitranim
+infiltraitor © M
 
-windoors © Mitranim
+windoors © M
 
-dipslay (murder for show) © Mitranim
+dipslay (murder for show) © M
 
-stayble © Mitranim
+stayble © M
 
-staybilize © Mitranim
+staybilize © M
 
-appainrent © Mitranim
+appainrent © M
 
-dealivery (pay on arrival?) © Mitranim
+dealivery (pay on arrival?) © M
 
-peerform (keep up with peers) © Mitranim
+peerform (keep up with peers) © M
 
-averange (normal bounds) © Mitranim
+averange (normal bounds) © M
 
-labtop (lab computer) © Mitranim
+labtop (lab computer) © M
 
-killahurtz (dangerously loud?) © Mitranim
+killahurtz (dangerously loud?) © M
 
-decksterity (skill with cards) © Mitranim
+decksterity (skill with cards) © M
 
-rapeat © Mitranim
+rapeat © M
 
-estamplish (stamp your mark) © Mitranim
+estamplish (stamp your mark) © M
 
-bulloon © Mitranim
+bulloon © M
 
-lowcation © Mitranim
+lowcation © M
 
-conveersation (veers off topic) © Mitranim
+conveersation (veers off topic) © M
 
-dogument (proof of pedigree) © Mitranim
+dogument (proof of pedigree) © M
 
-feelament (feeler whiskers) © Mitranim
+feelament (feeler whiskers) © M
 
-cubinet © Mitranim
+cubinet © M
 
-dialock (inescapable conversation) © Mitranim
+dialock (inescapable conversation) © M
 
-chambeer (beer cellar? supersized keg?) © Mitranim
+chambeer (beer cellar? supersized keg?) © M
 
-mugnum (oversized mug) © Mitranim
+mugnum (oversized mug) © M
 
-deepeer © Mitranim
+deepeer © M
 
-fullback (retreat at full throttle) © Mitranim
+fullback (retreat at full throttle) © M
 
-dicktate © Mitranim
+dicktate © M
 
-dierect (last dying order? suicide mission order?) © Mitranim
+dierect (last dying order? suicide mission order?) © M
 
-messacre © Mitranim
+messacre © M
 
-sloughter (flaying victims? slogging through victims?) © Mitranim
+sloughter (flaying victims? slogging through victims?) © M
 
-punktuate (rebellious punctuation) © Mitranim
+punktuate (rebellious punctuation) © M
 
-diegonal (lethal cut across) © Mitranim
+diegonal (lethal cut across) © M
 
-eyefirmative (confirm with eye contact) © Mitranim
+eyefirmative (confirm with eye contact) © M
 
-aimprovise (snapshot) © Mitranim
+aimprovise (snapshot) © M
 
-sickure © Mitranim
+sickure © M
 
-sickcure © Mitranim
+sickcure © M
 
-deplayment © Mitranim
+deplayment © M
 
-howlmark © Mitranim
+howlmark © M
 
-terrortory (dreadful place) © Mitranim
+terrortory (dreadful place) © M
 
-assalt © Mitranim
+assalt © M
 
-dengeon © Mitranim
+dengeon © M
 
-libroratory © Mitranim
+libroratory © M
 
-neckst (neck-in-neck follower) © Mitranim
+neckst (neck-in-neck follower) © M
 
-scarecely © Mitranim
+scarecely © M
 
-freaksample (here's our unusual exhibit...) © Mitranim
+freaksample (here's our unusual exhibit...) © M
 
-offerize ([authorize]) © Mitranim
+offerize ([authorize]) © M
 
-steamulate © Mitranim
+steamulate © M
 
-airmatic ([aromatic]) © Mitranim
+airmatic ([aromatic]) © M
 
-egol (conceited eagle) © Mitranim
+egol (conceited eagle) © M
 
-"fuckus fire" (devastating focus fire) © Mitranim
+"fuckus fire" (devastating focus fire) © M
 
-shitment (crappy delivery) © Mitranim
+shitment (crappy delivery) © M
 
-greenade © Mitranim
+greenade © M
 
-psience (study of psionics) © Mitranim
+psience (study of psionics) © M
 
-piratechnic © Mitranim
+piratechnic © M
 
-medness (drug-induced insanity) © Mitranim
+medness (drug-induced insanity) © M
 
-beatiful (looks good after beating; mug is asking for a fist) © Mitranim
+beatiful (looks good after beating; mug is asking for a fist) © M
 
-anythink © Mitranim
+anythink © M
 
-doormant (in stasis until open) © Mitranim
+doormant (in stasis until open) © M
 
-humiliar © Mitranim
+humiliar © M
 
-mathod (mathematical approach) © Mitranim
+mathod (mathematical approach) © M
 
-conseal (hide under a seal) © Mitranim
+conseal (hide under a seal) © M
 
-wingdove ([window]) © Mitranim
+wingdove ([window]) © M
 
-deependency (ingrained dependence) © Mitranim
+deependency (ingrained dependence) © M
 
-hellevator © Mitranim
+hellevator © M
 
-asswards (ass-backwards) © Mitranim
+asswards (ass-backwards) © M
 
-bedass (impressive in bed) © Mitranim
+bedass (impressive in bed) © M
 
-gloathing (gloat-worthy possession or accomplishment) © Mitranim
+gloathing (gloat-worthy possession or accomplishment) © M
 
-reapertoire (variety of harvesting tools?) © Mitranim
+reapertoire (variety of harvesting tools?) © M
 
-reeload (reload with shaky hands) © Mitranim
+reeload (reload with shaky hands) © M
 
-eggsellent (wondrous food sale) © Mitranim
+eggsellent (wondrous food sale) © M
 
-idiosyncrazy © Mitranim
+idiosyncrazy © M
 
-soulution (liquidated soul) © Mitranim
+soulution (liquidated soul) © M
 
-tailent © Mitranim
+tailent © M
 
-inkreadible (unbelievable manuscript) © Mitranim
+inkreadible (unbelievable manuscript) © M
 
-sadback © Mitranim
+sadback © M
 
-playted © Mitranim
+playted © M
 
-sunclasses (classy shades) © Mitranim
+sunclasses (classy shades) © M
 
-pervmanent © Mitranim
+pervmanent © M
 
-driveer (swerving driving style) © Mitranim
+driveer (swerving driving style) © M
 
-moneyplated (paid for expensive equipment) © Mitranim
+moneyplated (paid for expensive equipment) © M
 
-assimulation © Mitranim
+assimulation © M
 
-reprojuice © Mitranim
+reprojuice © M
 
-laydy (easily laid) © Mitranim
+laydy (easily laid) © M
 
-feeld © Mitranim
+feeld © M
 
-baground © Mitranim
+baground © M
 
-elemontary © Mitranim
+elemontary © M
 
-untensity (degree of relaxation) © Mitranim
+untensity (degree of relaxation) © M
 
-dogu (tooldog / 道具犬; see https://en.wikipedia.org/wiki/Dogu) © Mitranim
+dogu (tooldog / 道具犬; see https://en.wikipedia.org/wiki/Dogu) © M
 
-bumfire (that kind of trashcan bonfire that bums have; spontaneous gas combustion?) © LeoJo
+bumfire (that kind of trashcan bonfire that bums have; spontaneous gas combustion?) © LJ
 
-idiotology (idiotic ideology; study of idiots) © LeoJo
+idiotology (idiotic ideology; study of idiots) © LJ
 
-reapercushions © LeoJo
+reapercushions © LJ
 
-coloony (lune colony of looneys) © LeoJo
+coloony (lune colony of looneys) © LJ
 
-ashually © LeoJo
+ashually © LJ
 
-stalldier © LeoJo
+stalldier © LJ
 
-helichopter © LeoJo
+helichopter © LJ
 
-Administratrivialties (random, small things that need to be micromanaged/delegated) © LeoJo
+Administratrivialties (random, small things that need to be micromanaged/delegated) © LJ
 
-Winterference/Winderference (for when winter/snow or alternatively wind causes problems) © LeoJo
+Winterference/Winderference (for when winter/snow or alternatively wind causes problems) © LJ
 
-frostilities (Cold war interaction) © LeoJo
+frostilities (Cold war interaction) © LJ
 
-democrazy © LeoJo
+democrazy © LJ
 
-sardondick ([sardonic]) © LeoJo
+sardondick ([sardonic]) © LJ
 
-annoynymous (anonymous and annoying) © LandRaider
+annoynymous (anonymous and annoying) © LR
 
-coversion (covert conversion) © LandRaider
+coversion (covert conversion) © LR
 
-survillaince (surveillance by a villain) © LandRaider
+survillaince (surveillance by a villain) © LR
 
-phenomeal (a phenomenal meal) © LandRaider
+phenomeal (a phenomenal meal) © LR
 
-screept © LandRaider
+screept © LR
 
-scatterpillar © LandRaider
+scatterpillar © LR
 
-warewolf (a wolf for sale?) © LandRaider
+warewolf (a wolf for sale?) © LR
 
-defailopers (OW developers, anyone who uses Java) © LandRaider
+defailopers (OW developers, anyone who uses Java) © LR
 
-ambitchious © LandRaider
+ambitchious © LR
 
-memewhile © LandRaider
+memewhile © LR
 
-forklore (when someone forks the existing lore with an alternative timeline or smth?) © LandRaider
+forklore (when someone forks the existing lore with an alternative timeline or smth?) © LR
 
-bearocracy (bureacracy of bears? bureaucracy that has to be beared? overbearing bureaucracy?) © LandRaider
+bearocracy (bureacracy of bears? bureaucracy that has to be beared? overbearing bureaucracy?) © LR
 
-corpirate (corporate but pirate) © LandRaider
+corpirate (corporate but pirate) © LR
 
-chronoorgy (fucking up time travel in a really bad way) © LandRaider
+chronoorgy (fucking up time travel in a really bad way) © LR
 
-beartrayal (betrayal by a bear) © LandRaider
+beartrayal (betrayal by a bear) © LR
 
-truemor (rumor that's true) © LandRaider
+truemor (rumor that's true) © LR
 
 ingradient © Jessica (SZC)
 
@@ -4218,886 +4218,886 @@ infestment © Brian (SZC)
 
 beaware (beware) © Brian (SZC)
 
-aimplitude (amplitude of aim? ample aim?) © LandRaider
+aimplitude (amplitude of aim? ample aim?) © LR
 
-monsturizer (moisturizer for/by monsters) © LandRaider
+monsturizer (moisturizer for/by monsters) © LR
 
 boolshit (ugly and useless program or extension) © TrueNight
 
-softmare (horrifying software) © Mitranim
+softmare (horrifying software) © M
 
-heretick © Mitranim
+heretick © M
 
-remaindeer (partial deer carcass) © Mitranim
+remaindeer (partial deer carcass) © M
 
-assessination (deadly audit) © Mitranim
+assessination (deadly audit) © M
 
-robuttal © Mitranim
+robuttal © M
 
-destoryer (erases from history) © Mitranim
+destoryer (erases from history) © M
 
-singal (beckoning song of a lonely gal) © Mitranim
+singal (beckoning song of a lonely gal) © M
 
-asstearisk © Mitranim
+asstearisk © M
 
-architexture (magnificent surface) © Mitranim
+architexture (magnificent surface) © M
 
-explan (figure out a plan while explaining it) © Mitranim
+explan (figure out a plan while explaining it) © M
 
-shituation (self explanatory) © LeoJo
+shituation (self explanatory) © LJ
 
-meating (meeting of friends where you eat a lot of meat; BBQ with friends) © LandRaider
+meating (meeting of friends where you eat a lot of meat; BBQ with friends) © LR
 
-derpartment (an extremely incompetent department) © LandRaider
+derpartment (an extremely incompetent department) © LR
 
-reapeat (reap someone again) © LandRaider
+reapeat (reap someone again) © LR
 
-statisfied (satisfied statistically or by statistics) © LandRaider
+statisfied (satisfied statistically or by statistics) © LR
 
-enterpretation (submitting your own view) © LandRaider
+enterpretation (submitting your own view) © LR
 
-outroduce (tell your friends not to deal with the person anymore, 'cause they a bitch) © LandRaider
+outroduce (tell your friends not to deal with the person anymore, 'cause they a bitch) © LR
 
-stereotypographical (when you can always expect anything related to printing text to fuck up decent standards and data presentation) © LandRaider
+stereotypographical (when you can always expect anything related to printing text to fuck up decent standards and data presentation) © LR
 
-satyre © Mitranim
+satyre © M
 
-contrapt (has a _catchy_ clause) © Mitranim
+contrapt (has a _catchy_ clause) © M
 
-Munday (mundane weekday) © Mitranim
+Munday (mundane weekday) © M
 
-boyfiend (nasty fiance) © Mitranim
+boyfiend (nasty fiance) © M
 
-shockolate (shockingly delicious) © Mitranim
+shockolate (shockingly delicious) © M
 
-"pausitive thinking" (taking a pause to make good decisions) © Mitranim
+"pausitive thinking" (taking a pause to make good decisions) © M
 
-missteak (not having steak for dinner) © Mitranim
+missteak (not having steak for dinner) © M
 
-waisted (opposite of starved) © Mitranim
+waisted (opposite of starved) © M
 
-plateform © Mitranim
+plateform © M
 
-expertease (false confidence from brief experience; paywalled professional advice) © Mitranim
+expertease (false confidence from brief experience; paywalled professional advice) © M
 
-confidense (confidence born from ignorance) © Mitranim
+confidense (confidence born from ignorance) © M
 
-windsday (windy winter Wednesday) © Mitranim
+windsday (windy winter Wednesday) © M
 
-axxident © Mitranim
+axxident © M
 
-pythong (an embrace too tight) © Mitranim
+pythong (an embrace too tight) © M
 
-outsquirts © Mitranim
+outsquirts © M
 
-gamepay (pay to experience) © Mitranim
+gamepay (pay to experience) © M
 
-payground (pay to play) © Mitranim
+payground (pay to play) © M
 
-noledge (higher education: you forget everything and don't get a stepping stone in life) © Mitranim
+noledge (higher education: you forget everything and don't get a stepping stone in life) © M
 
-surpassion (the drive to prevail) © Mitranim
+surpassion (the drive to prevail) © M
 
-fryday (grill party) © Mitranim
+fryday (grill party) © M
 
-stupig (snorting dumb) © Mitranim
+stupig (snorting dumb) © M
 
-blest (blessed best) © Mitranim
+blest (blessed best) © M
 
-iconomy (worship economy? being economical with icons in GUI?) © Mitranim
+iconomy (worship economy? being economical with icons in GUI?) © M
 
-crowfunding (a murder of backers) © Mitranim
+crowfunding (a murder of backers) © M
 
-impracticool © Mitranim
+impracticool © M
 
-bullieve (faith against all evidence) © Mitranim
+bullieve (faith against all evidence) © M
 
-apparrotly (according to rumor) © Mitranim
+apparrotly (according to rumor) © M
 
-amountain (huge amount) © Mitranim
+amountain (huge amount) © M
 
-wrecktify (repair badly) © Mitranim
+wrecktify (repair badly) © M
 
-filther (dirty filter that makes it worse) © Mitranim
+filther (dirty filter that makes it worse) © M
 
-momental (a lapse of sentience) © Mitranim
+momental (a lapse of sentience) © M
 
-scammoner (has accomplices) © Mitranim
+scammoner (has accomplices) © M
 
-maturial (robust, proven material) © Mitranim
+maturial (robust, proven material) © M
 
-assassment (talk it down to get a better price) © Mitranim
+assassment (talk it down to get a better price) © M
 
-bagpack (recursive, infinite storage) © Mitranim
+bagpack (recursive, infinite storage) © M
 
-forestress (forest forstress) © Mitranim
+forestress (forest forstress) © M
 
-worstress (fortress with bad memories) © Mitranim
+worstress (fortress with bad memories) © M
 
-techtonic (causes seismic shift in technology) © Mitranim
+techtonic (causes seismic shift in technology) © M
 
-worrier (should pick a less stressful occupation) © Mitranim
+worrier (should pick a less stressful occupation) © M
 
-makerting (marketing though real action) © Mitranim
+makerting (marketing though real action) © M
 
-godlines (irrefutable guidelines) © Mitranim
+godlines (irrefutable guidelines) © M
 
-worshop (ritual gathering) © Mitranim
+worshop (ritual gathering) © M
 
-warshop (warmongering gathering) © Mitranim
+warshop (warmongering gathering) © M
 
-countract (has precise reckoning) © Mitranim
+countract (has precise reckoning) © M
 
-indecaytion (eternal omen) © Mitranim
+indecaytion (eternal omen) © M
 
-endearsment (hearty endorsement) © Mitranim
+endearsment (hearty endorsement) © M
 
-endorcement (cements someone's opinion) © Mitranim
+endorcement (cements someone's opinion) © M
 
-endoorsment (so good, you have to go outdoors and get it) © Mitranim
+endoorsment (so good, you have to go outdoors and get it) © M
 
-addickted (nymphomaniac) © Mitranim
+addickted (nymphomaniac) © M
 
-assass (evaluate derisively) © Mitranim
+assass (evaluate derisively) © M
 
-remembeer (remembering small scraps after a hangover) © LeoJo
+remembeer (remembering small scraps after a hangover) © LJ
 
-competentors (competent competitors?) © LandRaider
+competentors (competent competitors?) © LR
 
-mediocore (mediocre core?) © LandRaider
+mediocore (mediocre core?) © LR
 
-phoneto (a photo made by a phone) © LandRaider
+phoneto (a photo made by a phone) © LR
 
-ancestore (sells old trinkets) © Mitranim
+ancestore (sells old trinkets) © M
 
-cleptocurrency (currency that is always trying to rip you off) © LandRaider
+cleptocurrency (currency that is always trying to rip you off) © LR
 
-bewares (wares that you need to be beware of for whatever reason) © LandRaider
+bewares (wares that you need to be beware of for whatever reason) © LR
 
-cerebrus (brainy guard dog) © Mitranim
+cerebrus (brainy guard dog) © M
 
-windter (extreme winter) © Mitranim
+windter (extreme winter) © M
 
-happyning (fortunate happenstance) © Mitranim
+happyning (fortunate happenstance) © M
 
-cerebration (party for intellectual accomplishment) © Mitranim
+cerebration (party for intellectual accomplishment) © M
 
-beautifoul (attractive and repulsive at once) © Mitranim
+beautifoul (attractive and repulsive at once) © M
 
-mugnate (a magnate who mugs people, or a very rich mugger) © LandRaider
+mugnate (a magnate who mugs people, or a very rich mugger) © LR
 
-con-fu (art of deception; fake martial mastery) © Mitranim
+con-fu (art of deception; fake martial mastery) © M
 
-bullproof (impervious to nonsense) © Mitranim
+bullproof (impervious to nonsense) © M
 
-murkup (dirty markup; dirty makeup; warpaint) © Mitranim
+murkup (dirty markup; dirty makeup; warpaint) © M
 
-starecase (insurmountable obstacle you can only stare at; glass display case) © Mitranim
+starecase (insurmountable obstacle you can only stare at; glass display case) © M
 
-suspact © Mitranim
+suspact © M
 
-pervious (not im-pervious, vulnerable to lewd things) © Mitranim
+pervious (not im-pervious, vulnerable to lewd things) © M
 
-tearemony (tea ceremony? mourning ceremony?) © LeoJo
+tearemony (tea ceremony? mourning ceremony?) © LJ
 
-wormth (abundance of worms?) © LandRaider
+wormth (abundance of worms?) © LR
 
-varlord (the lord of variables?) © LandRaider
+varlord (the lord of variables?) © LR
 
-mailware (arrives by mail) © Mitranim
+mailware (arrives by mail) © M
 
-cannonical © Mitranim
+cannonical © M
 
-guesshole (ruins the fun by revealing the mystery) © Mitranim
+guesshole (ruins the fun by revealing the mystery) © M
 
-astaroid (star fragment? brown dwarf?) © Mitranim
+astaroid (star fragment? brown dwarf?) © M
 
-adrainaline (overdrive that drains you) © Mitranim
+adrainaline (overdrive that drains you) © M
 
-eldrich (rich, sinister elder) © Mitranim
+eldrich (rich, sinister elder) © M
 
-"hand satanizer" ("special" brand of sanitizer) © Mitranim
+"hand satanizer" ("special" brand of sanitizer) © M
 
-trashold © Mitranim
+trashold © M
 
-availuable (something that's available and valuable) © Mitranim
+availuable (something that's available and valuable) © M
 
-perfromance © Mitranim
+perfromance © M
 
-froget (amphibian memory) © Mitranim
+froget (amphibian memory) © M
 
-soilder (gritty footman) © Mitranim
+soilder (gritty footman) © M
 
-deathsmiss (dismiss... permanently) © Mitranim
+deathsmiss (dismiss... permanently) © M
 
-bugdet (budget with holes) © Mitranim
+bugdet (budget with holes) © M
 
-dumbination (control through propaganda) © Mitranim
+dumbination (control through propaganda) © M
 
-playload (a load of toys) © Mitranim
+playload (a load of toys) © M
 
-fratmate (fraternity flatmate) © Mitranim
+fratmate (fraternity flatmate) © M
 
-expain (clarify in excruciating detail) © Mitranim
+expain (clarify in excruciating detail) © M
 
-mewment (pussyfooting) © Mitranim
+mewment (pussyfooting) © M
 
-dienger (mortal danger) © Mitranim
+dienger (mortal danger) © M
 
-tacticool © LandRaider
+tacticool © LR
 
-Sinistar (a sinister star?) © LandRaider
+Sinistar (a sinister star?) © LR
 
-atmosfear (scary, unbreathable atmoshphere?) © LandRaider
+atmosfear (scary, unbreathable atmoshphere?) © LR
 
-"this font is worth its weight in bold" © Mitranim
+"this font is worth its weight in bold" © M
 
-neckname © Mitranim
+neckname © M
 
-pinful (causes piercing pain) © Mitranim
+pinful (causes piercing pain) © M
 
-dolpin © Mitranim
+dolpin © M
 
-dolfin (dolphin fin) © Mitranim
+dolfin (dolphin fin) © M
 
-scannerd (someone who digitizes all their paperwork?) © Mitranim
+scannerd (someone who digitizes all their paperwork?) © M
 
-abount (too much about one subject) © Mitranim
+abount (too much about one subject) © M
 
-deducation © Mitranim
+deducation © M
 
-atomsphere © Mitranim
+atomsphere © M
 
-recomment (repeatedly leave a recommendation) © Mitranim
+recomment (repeatedly leave a recommendation) © M
 
-grillfriend (GF that roasts you all the time) © Mitranim
+grillfriend (GF that roasts you all the time) © M
 
-hewman (tailor) © Mitranim
+hewman (tailor) © M
 
-"flesh memory" (brain) © Mitranim
+"flesh memory" (brain) © M
 
-optimisaction (one optimisation pass) © Mitranim
+optimisaction (one optimisation pass) © M
 
-diss-cuss-ting © Mitranim
+diss-cuss-ting © M
 
-assk © Mitranim
+assk © M
 
-assking © Mitranim
+assking © M
 
-"loathing screen" (a long loading screen?) © LandRaider
+"loathing screen" (a long loading screen?) © LR
 
-devilstation (devastating demonic infestation?) © LandRaider
+devilstation (devastating demonic infestation?) © LR
 
-desease (sea sickness?) © LandRaider
+desease (sea sickness?) © LR
 
-trailore (trailer giving away too much of the lore) © LandRaider
+trailore (trailer giving away too much of the lore) © LR
 
-arbitrartor (inconsistent arbiter) © Mitranim
+arbitrartor (inconsistent arbiter) © M
 
-blockchin © Mitranim
+blockchin © M
 
-interesetting (fascinating backdrop?) © Mitranim
+interesetting (fascinating backdrop?) © M
 
-sellfish (name for a seafood restaurant? fishy sellout?) © Mitranim
+sellfish (name for a seafood restaurant? fishy sellout?) © M
 
-redputation (bloody trail) © Mitranim
+redputation (bloody trail) © M
 
-manotechnology (manual work?) © Mitranim
+manotechnology (manual work?) © M
 
-manomachine (cyborg?) © Mitranim
+manomachine (cyborg?) © M
 
-pegasys (unicorn technology?) © Mitranim
+pegasys (unicorn technology?) © M
 
-memotion (preprogrammed emotion? preprogrammed movement?; an emotion people think they're feeling just because the media/internet/memes tell them they should) © Mitranim
+memotion (preprogrammed emotion? preprogrammed movement?; an emotion people think they're feeling just because the media/internet/memes tell them they should) © M
 
-keeptocurrency (currency that is never spent) © Mitranim
+keeptocurrency (currency that is never spent) © M
 
-hambush (surprise boar) © Mitranim
+hambush (surprise boar) © M
 
-hackcellent (shortcut to success?) © Mitranim
+hackcellent (shortcut to success?) © M
 
-hangling (person being hanged) © Mitranim
+hangling (person being hanged) © M
 
-tenasty (unwelcome persistence) © Mitranim
+tenasty (unwelcome persistence) © M
 
-execuse (executive excuse?) © LandRaider
+execuse (executive excuse?) © LR
 
-octobeer (brewfest month) © Mitranim
+octobeer (brewfest month) © M
 
-flakship (anti-air flagship) © Mitranim
+flakship (anti-air flagship) © M
 
-anonymouse (hidden, quiet) © Mitranim
+anonymouse (hidden, quiet) © M
 
-responce (pretentious reply?) © Mitranim
+responce (pretentious reply?) © M
 
-Sibearia (land of bears) © Mitranim
+Sibearia (land of bears) © M
 
-mementum (cultural inertia) © Mitranim
+mementum (cultural inertia) © M
 
-enterprice (corporate-grade price) © Mitranim
+enterprice (corporate-grade price) © M
 
-motherhacker © Mitranim
+motherhacker © M
 
-cointainer (money bag) © Mitranim
+cointainer (money bag) © M
 
-"trash test" (crash test that trashes the product) © Mitranim
+"trash test" (crash test that trashes the product) © M
 
-wounderful (something great that also hurts you) © Mitranim
+wounderful (something great that also hurts you) © M
 
-bullshift (misguided change of direction) © Mitranim
+bullshift (misguided change of direction) © M
 
-sacriface © Mitranim
+sacriface © M
 
-entitty © Mitranim
+entitty © M
 
-cryptone (cryptic intonation) © Mitranim
+cryptone (cryptic intonation) © M
 
-ooperation (operation resulting in an oopsie) © Mitranim
+ooperation (operation resulting in an oopsie) © M
 
-eyedentification (iris scanning, or eye-to-eye confirmation) © Mitranim
+eyedentification (iris scanning, or eye-to-eye confirmation) © M
 
-interpretentious (art critic) © LandRaider
+interpretentious (art critic) © LR
 
-costmetic (very expensive makeup) © Mitranim
+costmetic (very expensive makeup) © M
 
-betcoin (for gambling) © Mitranim
+betcoin (for gambling) © M
 
-"saldo mortale" (accounting: reconciling a big account) © Mitranim
+"saldo mortale" (accounting: reconciling a big account) © M
 
-alboom (explosive hit) © Mitranim
+alboom (explosive hit) © M
 
-attank (highly aggressive war machine?) © Mitranim
+attank (highly aggressive war machine?) © M
 
-attactor (someone _attactive_?) © Mitranim
+attactor (someone _attactive_?) © M
 
 unbelievabull (too incredulous to believe) © Yury
 
-notwork (dysfunctional network) © Mitranim
+notwork (dysfunctional network) © M
 
-"neural notwork" (dysfunctional neural network, which is most of them) © Mitranim
+"neural notwork" (dysfunctional neural network, which is most of them) © M
 
-authomatic © Mitranim
+authomatic © M
 
-aloneside (imaginary companion?) © Mitranim
+aloneside (imaginary companion?) © M
 
-scaremish (scary skirmish) © LandRaider
+scaremish (scary skirmish) © LR
 
-wreckoning (devastating reckoning) © LandRaider
+wreckoning (devastating reckoning) © LR
 
-aimateur (someone with poor aim) © Mitranim
+aimateur (someone with poor aim) © M
 
-geekstarter © Mitranim
+geekstarter © M
 
-hypeloop (feedback loop of hype) © Mitranim
+hypeloop (feedback loop of hype) © M
 
-hypethetical (exists in imagination of riled-up fans) © Mitranim
+hypethetical (exists in imagination of riled-up fans) © M
 
-"boot force" (a mighty kick) © Mitranim
+"boot force" (a mighty kick) © M
 
-samewhere (different place, same thing) © Mitranim
+samewhere (different place, same thing) © M
 
-"bubble gun" © Mitranim
+"bubble gun" © M
 
-lameployer (lame employer) © LandRaider
+lameployer (lame employer) © LR
 
-anonism (vain obsession with anonymity) © Mitranim
+anonism (vain obsession with anonymity) © M
 
-Jewsday (_very_ american Tuesday) © Mitranim
+Jewsday (_very_ american Tuesday) © M
 
-maintrix (mother network) © Mitranim
+maintrix (mother network) © M
 
-architech (chief technologist?) © Mitranim
+architech (chief technologist?) © M
 
-"Honk Kong" (city of honking jams) © Mitranim
+"Honk Kong" (city of honking jams) © M
 
-untelligence (opposite of intelligence) © LeoJo
+untelligence (opposite of intelligence) © LJ
 
-bottlefield (a field of bottles formed as an aftermath of heavy drinking, usually left behind by gopniks) © LandRaider
+bottlefield (a field of bottles formed as an aftermath of heavy drinking, usually left behind by gopniks) © LR
 
-"deadly simple" © Mitranim
+"deadly simple" © M
 
-hassless © Mitranim
+hassless © M
 
-transanction (balance deduction as punishment) © Mitranim
+transanction (balance deduction as punishment) © M
 
-condolescendence (a condescending condolence) © LandRaider
+condolescendence (a condescending condolence) © LR
 
-terrorform (terraforming an inhabited planet? genocidal terraform?) © LandRaider
+terrorform (terraforming an inhabited planet? genocidal terraform?) © LR
 
-documention (very brief documentation) © Mitranim
+documention (very brief documentation) © M
 
-apparantus (automatic ranting machine) © Mitranim
+apparantus (automatic ranting machine) © M
 
-weakend (not-too-well spent weekend) © LandRaider
+weakend (not-too-well spent weekend) © LR
 
-trycer (shooting blind with tracer rounds?) © Mitranim
+trycer (shooting blind with tracer rounds?) © M
 
-mythconception © Mitranim
+mythconception © M
 
-mythinformation © Mitranim
+mythinformation © M
 
-"suicide squat" © Mitranim
+"suicide squat" © M
 
-bitcon (bitcoin con) © LandRaider
+bitcon (bitcoin con) © LR
 
-crysader (aggressively sad person) © Mitranim
+crysader (aggressively sad person) © M
 
-shittyzen (a bad citizen) © LandRaider
+shittyzen (a bad citizen) © LR
 
-cogweb (mechanical tangle) © Mitranim
+cogweb (mechanical tangle) © M
 
-bitchmark (benchmark trashing something) © Mitranim
+bitchmark (benchmark trashing something) © M
 
-octobus (eight-wheeled bus?) © Mitranim
+octobus (eight-wheeled bus?) © M
 
-ken-gúru (see https://en.wiktionary.org/wiki/ken) © Mitranim
+ken-gúru (see https://en.wiktionary.org/wiki/ken) © M
 
-"rule of dumb" (easy-to-follow thumb rule) © Mitranim
+"rule of dumb" (easy-to-follow thumb rule) © M
 
-roadcast (highway radio) © Mitranim
+roadcast (highway radio) © M
 
-dogspanion (trusty companion animal) © Mitranim
+dogspanion (trusty companion animal) © M
 
-catspert © Mitranim
+catspert © M
 
-dogspert © Mitranim
+dogspert © M
 
-thunderdog (underdog's loud comeback) © Mitranim
+thunderdog (underdog's loud comeback) © M
 
-beeware (bee extra careful) © Mitranim
+beeware (bee extra careful) © M
 
-bonefactor (seemingly beneficial but secretly bones you?) © Mitranim
+bonefactor (seemingly beneficial but secretly bones you?) © M
 
-bonefire (necromancer's bonfire) © Mitranim
+bonefire (necromancer's bonfire) © M
 
-"competely different" (competing alternatives) © Mitranim
+"competely different" (competing alternatives) © M
 
-rectangel (perfect rectangle? square with wings?) © Mitranim
+rectangel (perfect rectangle? square with wings?) © M
 
-rektangel © Mitranim
+rektangel © M
 
-failgun (unimpressive railgun) © Mitranim
+failgun (unimpressive railgun) © M
 
-"30-megahurt cannon" © Mitranim
+"30-megahurt cannon" © M
 
-megahurtz (unit of pain) © Mitranim
+megahurtz (unit of pain) © M
 
-explosure (too much attention) © Mitranim
+explosure (too much attention) © M
 
-bitchcoin (fake currency) © Mitranim
+bitchcoin (fake currency) © M
 
-"deja view" (flashback of the past) © Mitranim
+"deja view" (flashback of the past) © M
 
-defit (extinction of the unfittest) © Mitranim
+defit (extinction of the unfittest) © M
 
-madvisor (terribly unwise aide; visor that shows maddening things) © Mitranim
+madvisor (terribly unwise aide; visor that shows maddening things) © M
 
-scourage (unwelcome courage?) © Mitranim
+scourage (unwelcome courage?) © M
 
-"argumented reality" (when people can't decide on reality augmentation) © Mitranim
+"argumented reality" (when people can't decide on reality augmentation) © M
 
-"son of a bee" © Mitranim
+"son of a bee" © M
 
-beehave © Mitranim
+beehave © M
 
-robutt (considerable metal behind) © Mitranim
+robutt (considerable metal behind) © M
 
-threequel (part of trilogy) © Mitranim
+threequel (part of trilogy) © M
 
-brobot © Mitranim
+brobot © M
 
-assploit (exploiting a rear weakness) © Mitranim
+assploit (exploiting a rear weakness) © M
 
-assplode © Mitranim
+assplode © M
 
-assplod © Mitranim
+assplod © M
 
-fatom (fat atom) © Mitranim
+fatom (fat atom) © M
 
-hentail (lecherous appendage) © Mitranim
+hentail (lecherous appendage) © M
 
-manatic (maniacal fanatic?) © Mitranim
+manatic (maniacal fanatic?) © M
 
-shitdown © Mitranim
+shitdown © M
 
-harget (hard target) © Mitranim
+harget (hard target) © M
 
-gunnon (hand cannon?) © Mitranim
+gunnon (hand cannon?) © M
 
-oozurper (slimy dictator?) © Mitranim
+oozurper (slimy dictator?) © M
 
-failacy © Mitranim
+failacy © M
 
-bondit (trusty bandit) © Mitranim
+bondit (trusty bandit) © M
 
-buzzworthy © Mitranim
+buzzworthy © M
 
-borderlads (hard-living folks) © Mitranim
+borderlads (hard-living folks) © M
 
-orderlands (well-governed territory) © Mitranim
+orderlands (well-governed territory) © M
 
-scrapshooter (non-marksman) © Mitranim
+scrapshooter (non-marksman) © M
 
-paintful © Mitranim
+paintful © M
 
-hatful (handful / hateful) © Mitranim
+hatful (handful / hateful) © M
 
-"mined games" (minesweeping) © Mitranim
+"mined games" (minesweeping) © M
 
-horrner (corner or horrors) © Mitranim
+horrner (corner or horrors) © M
 
-fanbuy (buying fanboy) © Mitranim
+fanbuy (buying fanboy) © M
 
-freload (free reload) © Mitranim
+freload (free reload) © M
 
-"weary well" (like "I know these things weary well") © Mitranim
+"weary well" (like "I know these things weary well") © M
 
-pumpking © Mitranim
+pumpking © M
 
-loonshine © Mitranim
+loonshine © M
 
-lensor (ocular sensor) © Mitranim
+lensor (ocular sensor) © M
 
-loonatic © Mitranim
+loonatic © M
 
-filewall © Mitranim
+filewall © M
 
-payper © Mitranim
+payper © M
 
-intergration (grating contact between components) © Mitranim
+intergration (grating contact between components) © M
 
-interator (interactor? integrator? iterator?) © Mitranim
+interator (interactor? integrator? iterator?) © M
 
-intergated (combination through access control) © Mitranim
+intergated (combination through access control) © M
 
-hollowgram © Mitranim
+hollowgram © M
 
-"tank you" © Mitranim
+"tank you" © M
 
-ascendiary (beefed-up incendiary?) © Mitranim
+ascendiary (beefed-up incendiary?) © M
 
-loonshot (moonshot that cannot possibly work) © Mitranim
+loonshot (moonshot that cannot possibly work) © M
 
-alumnium (a substance made of... alumni?) © Mitranim
+alumnium (a substance made of... alumni?) © M
 
-"gritting party" (tough greeting party?) © Mitranim
+"gritting party" (tough greeting party?) © M
 
-"denemies / demonies" (is what you fight in Doom) © Mitranim
+"denemies / demonies" (is what you fight in Doom) © M
 
-gloatee (goatee of gloating goat?) © Mitranim
+gloatee (goatee of gloating goat?) © M
 
-screwnshot (compromising screenshot) © Mitranim
+screwnshot (compromising screenshot) © M
 
-scamvert (shifty advert) © Mitranim
+scamvert (shifty advert) © M
 
-scambag (annoying con man) © Mitranim
+scambag (annoying con man) © M
 
-"mecdonalds / mechdonalds" (charge station for mechs) © Mitranim
+"mecdonalds / mechdonalds" (charge station for mechs) © M
 
-mehdonalds © Mitranim
+mehdonalds © M
 
-mechkind © Mitranim
+mechkind © M
 
-skelethal © Mitranim
+skelethal © M
 
-funtastic © Mitranim
+funtastic © M
 
-naypalm (hand sign that says "no") © Mitranim
+naypalm (hand sign that says "no") © M
 
-baybee © Mitranim
+baybee © M
 
-majestick (imposing staff) © Mitranim
+majestick (imposing staff) © M
 
-majesdick (...stunning rod) © Mitranim
+majesdick (...stunning rod) © M
 
-magestick (mage staff) © Mitranim
+magestick (mage staff) © M
 
-majesdig (so majestic I dig it) © Mitranim
+majesdig (so majestic I dig it) © M
 
-adolt (stupid adult) © Mitranim
+adolt (stupid adult) © M
 
-molden (all slimy with mold?) © Mitranim
+molden (all slimy with mold?) © M
 
-blatent (obvious in latent hindsight?) © Mitranim
+blatent (obvious in latent hindsight?) © M
 
-someonce (a stranger you met once) © Mitranim
+someonce (a stranger you met once) © M
 
-teleportal © Mitranim
+teleportal © M
 
-somethine (something yours?) © Mitranim
+somethine (something yours?) © M
 
-mistaple (accidentally stapling something you didn't mean) © Mitranim
+mistaple (accidentally stapling something you didn't mean) © M
 
-commsole (communications console) © Mitranim
+commsole (communications console) © M
 
-agreenment (very $$ profitable agreement) © Mitranim
+agreenment (very $$ profitable agreement) © M
 
-fainth (faint faith?) © Mitranim
+fainth (faint faith?) © M
 
-drakon (midway between drake and dragon) © Mitranim
+drakon (midway between drake and dragon) © M
 
-mourndern (mourn-worthy modern?) © Mitranim
+mourndern (mourn-worthy modern?) © M
 
-"byield / byielding" (building and giving away) © Mitranim
+"byield / byielding" (building and giving away) © M
 
-sumbit (submit bits for processing) © Mitranim
+sumbit (submit bits for processing) © M
 
-"protect yr ass... et" © Mitranim
+"protect yr ass... et" © M
 
-simultitude (many things simultaneously? many simulations?) © Mitranim
+simultitude (many things simultaneously? many simulations?) © M
 
-stimultitude (many stimulations?) © Mitranim
+stimultitude (many stimulations?) © M
 
-stimiltitude (many similar stimulations?) © Mitranim
+stimiltitude (many similar stimulations?) © M
 
-similtitude (being similar to many things?) © Mitranim
+similtitude (being similar to many things?) © M
 
-similidude (a guy that looks like another?) © Mitranim
+similidude (a guy that looks like another?) © M
 
-seemultaneous (perceived at the same time) © Mitranim
+seemultaneous (perceived at the same time) © M
 
-seemilar (seems similar at first) © Mitranim
+seemilar (seems similar at first) © M
 
-hungred (hungry like a hundred) © Mitranim
+hungred (hungry like a hundred) © M
 
-"spatial awakeness" © Mitranim
+"spatial awakeness" © M
 
-superise (great surprise) © Mitranim
+superise (great surprise) © M
 
-argurument (irrefutable argument from a guru) © Mitranim
+argurument (irrefutable argument from a guru) © M
 
-skiller (skillful killer) © Mitranim
+skiller (skillful killer) © M
 
-membear © Mitranim
+membear © M
 
-bloodlie (bloodline that turned out fake) © Mitranim
+bloodlie (bloodline that turned out fake) © M
 
-beleave © Mitranim
+beleave © M
 
-fakening © Mitranim
+fakening © M
 
-exquise (exquisite excuse) © Mitranim
+exquise (exquisite excuse) © M
 
-exqueeze (ex-fiancee) © Mitranim
+exqueeze (ex-fiancee) © M
 
-greate (create something great) © Mitranim
+greate (create something great) © M
 
-teamate (someone you have a tea with) © Mitranim
+teamate (someone you have a tea with) © M
 
-sleap (leaping into bed?) © Mitranim
+sleap (leaping into bed?) © M
 
-remined (reminded of a bad memory?) © Mitranim
+remined (reminded of a bad memory?) © M
 
-veryfy (verify thoroughly) © Mitranim
+veryfy (verify thoroughly) © M
 
-trainiac (training freak) © Mitranim
+trainiac (training freak) © M
 
-"sun of a beach" © Mitranim
+"sun of a beach" © M
 
-hell-a-copter © Mitranim
+hell-a-copter © M
 
-overdog (opposite of underdog) © Mitranim
+overdog (opposite of underdog) © M
 
-gamoeba (typical WoW gamer) © Mitranim
+gamoeba (typical WoW gamer) © M
 
-hardbeat (heartbeat with a bang) © Mitranim
+hardbeat (heartbeat with a bang) © M
 
-passenegr (black passenger) © Mitranim
+passenegr (black passenger) © M
 
-dickflect © Mitranim
+dickflect © M
 
-Legionardo © Mitranim
+Legionardo © M
 
-secrent (secret rent?) © Mitranim
+secrent (secret rent?) © M
 
-seekret (a secret to find) © Mitranim
+seekret (a secret to find) © M
 
-secrekt (rekt without nobody else knowing) © Mitranim
+secrekt (rekt without nobody else knowing) © M
 
-empyre (empire being burned to the ground) © Mitranim
+empyre (empire being burned to the ground) © M
 
-cheftain (chief of chefs) © Mitranim
+cheftain (chief of chefs) © M
 
-warchef © Mitranim
+warchef © M
 
-countact (act of counting your contacts) © Mitranim
+countact (act of counting your contacts) © M
 
-hobot (stray robot) © Mitranim
+hobot (stray robot) © M
 
-"this is a bed idea" (something that should be done in bed) © Mitranim
+"this is a bed idea" (something that should be done in bed) © M
 
-hellmet (acquaintance from hell? infernal headgear?) © Mitranim
+hellmet (acquaintance from hell? infernal headgear?) © M
 
-"hell met" (opposite of "well met") © Mitranim
+"hell met" (opposite of "well met") © M
 
-combonent (part of a combo?) © Mitranim
+combonent (part of a combo?) © M
 
-heeling (pretending to heal while actually legging it) © Mitranim
+heeling (pretending to heal while actually legging it) © M
 
-greatful (greatly grateful?) © Mitranim
+greatful (greatly grateful?) © M
 
-severall (all items on display) © Mitranim
+severall (all items on display) © M
 
-orkout (grunt-inducing exercise) © Mitranim
+orkout (grunt-inducing exercise) © M
 
-Chooseday (very american Tuesday) © Mitranim
+Chooseday (very american Tuesday) © M
 
-romains (dead Romans) © Mitranim
+romains (dead Romans) © M
 
-arrrchitecture (riggin' a proper pirate vessel) © Mitranim
+arrrchitecture (riggin' a proper pirate vessel) © M
 
-awwrchitecture (cute building or structure) © Mitranim
+awwrchitecture (cute building or structure) © M
 
-singnal (one signal, or a broadcast of someone singing) © Mitranim
+singnal (one signal, or a broadcast of someone singing) © M
 
-"built to blast" © Mitranim
+"built to blast" © M
 
-teamplate (exemplary team, a template for others?) © Mitranim
+teamplate (exemplary team, a template for others?) © M
 
-raidear (dear raidmate) © Mitranim
+raidear (dear raidmate) © M
 
-powerhorse (powerhouse of horsepower) © Mitranim
+powerhorse (powerhouse of horsepower) © M
 
-mess-sage © Mitranim
+mess-sage © M
 
-bullprint (flawed blueprint?) © Mitranim
+bullprint (flawed blueprint?) © M
 
-injurance © Mitranim
+injurance © M
 
-cocporn (porn with popcorn?) © Mitranim
+cocporn (porn with popcorn?) © M
 
-bondfire (cozy fireplace for friends) © Mitranim
+bondfire (cozy fireplace for friends) © M
 
-assoul (deeply rotten individual) © Mitranim
+assoul (deeply rotten individual) © M
 
-memtor (memory trainer?) © Mitranim
+memtor (memory trainer?) © M
 
-reasonance (resounding consensus) © Mitranim
+reasonance (resounding consensus) © M
 
-surveylance (penetrate first, ask questions later) © Mitranim
+surveylance (penetrate first, ask questions later) © M
 
-feory (scaremongering speculation) © Mitranim
+feory (scaremongering speculation) © M
 
-disscuss © Mitranim
+disscuss © M
 
-tellyvision (tells you what to think) © Mitranim
+tellyvision (tells you what to think) © M
 
-whorrior (hoe conqueror) © Mitranim
+whorrior (hoe conqueror) © M
 
-ass-signment (marks your ass for beating) © Mitranim
+ass-signment (marks your ass for beating) © M
 
-pieceful (resting in pieces) © Mitranim
+pieceful (resting in pieces) © M
 
-worning (a tiresome, obsolete warning) © Mitranim
+worning (a tiresome, obsolete warning) © M
 
-memestress (lady who spends too much time on the internet?) © Mitranim
+memestress (lady who spends too much time on the internet?) © M
 
-memester (semester of memorising) © Mitranim
+memester (semester of memorising) © M
 
-gleethal © Mitranim
+gleethal © M
 
-guidelies (untrustworthy guidelines) © Mitranim
+guidelies (untrustworthy guidelines) © M
 
-exploid © Mitranim
+exploid © M
 
-Bangcock (special district of Bangkok) © Mitranim
+Bangcock (special district of Bangkok) © M
 
-paythrough (viewers paying streamer to play game) © Mitranim
+paythrough (viewers paying streamer to play game) © M
 
-sicks (unlucky six) © Mitranim
+sicks (unlucky six) © M
 
-"nice to meat you" (carnivore to victim; alternatively, spoken after gibbing someone with a rocket) © Mitranim
+"nice to meat you" (carnivore to victim; alternatively, spoken after gibbing someone with a rocket) © M
 
-pinspiration (when you pin down something to be inspired by) © Mitranim
+pinspiration (when you pin down something to be inspired by) © M
 
-assthetics (booty beauty) © Mitranim
+assthetics (booty beauty) © M
 
-sucksessful (popular garbage) © Mitranim
+sucksessful (popular garbage) © M
 
-vommit (programming: commit consisting of mental vomit) © Mitranim
+vommit (programming: commit consisting of mental vomit) © M
 
-"let me ax you a question" (killer, while approaching victim) © Mitranim
+"let me ax you a question" (killer, while approaching victim) © M
 
-satellight (light following someone around) © Mitranim
+satellight (light following someone around) © M
 
-fleshlight (bio-luminescence) © Mitranim
+fleshlight (bio-luminescence) © M
 
-attrack © Mitranim
+attrack © M
 
-talonted (dangerous talent) © Mitranim
+talonted (dangerous talent) © M
 
-eggsistence (existing in a vegetable state?) © Mitranim
+eggsistence (existing in a vegetable state?) © M
 
-bedcause (because of something that happened in a bed?) © Mitranim
+bedcause (because of something that happened in a bed?) © M
 
-fatmate (fat flatmate) © Mitranim
+fatmate (fat flatmate) © M
 
-guesst (vaguely recognizable visitor) © Mitranim
+guesst (vaguely recognizable visitor) © M
 
-daynger (danger in broad daylight) © Mitranim
+daynger (danger in broad daylight) © M
 
-"attention spam" © LeoJo
+"attention spam" © LJ
 
-sunprise (surprising sunrise; out in the heat without solar protection) © LeoJo
+sunprise (surprising sunrise; out in the heat without solar protection) © LJ
 
-guilelines (untrustworthy guidelines) © LeoJo
+guilelines (untrustworthy guidelines) © LJ
 
-guessthetics (the art of guessing) © LeoJo
+guessthetics (the art of guessing) © LJ
 
-sucksessfool (fool who stumbled its way to success) © LeoJo
+sucksessfool (fool who stumbled its way to success) © LJ
 
-relationshit (bad relationship) © LandRaider
+relationshit (bad relationship) © LR
 
-freedge (with free food) © LandRaider
+freedge (with free food) © LR
 
-breaktrue (a breakthrough that, unlike all the battery ones, is true) © LandRaider
+breaktrue (a breakthrough that, unlike all the battery ones, is true) © LR
 
-enterfear (interfere) © LandRaider
+enterfear (interfere) © LR
 
-conquery (conquest) © LandRaider
+conquery (conquest) © LR
 
-apollogy (Apollo apologizing?) © LandRaider
+apollogy (Apollo apologizing?) © LR
 
-foresick (forsake) © LandRaider
+foresick (forsake) © LR
 
-knightmare © LandRaider
+knightmare © LR
 
-maybee (danger of bees) © LandRaider
+maybee (danger of bees) © LR
 
-adoorable (something that can be equipped with a door) © LandRaider
+adoorable (something that can be equipped with a door) © LR
 
-"parking slut" (my friend today while looking for a free parking slot at a crowded mall) © LandRaider
+"parking slut" (my friend today while looking for a free parking slot at a crowded mall) © LR
 
-werehouse (warehouse full of werewolves or something? warehouse that turns into somethine else?) © LandRaider
+werehouse (warehouse full of werewolves or something? warehouse that turns into somethine else?) © LR
 
-mistape (when you accidentally stick a piece of duct tape somewhere you didn't mean to) © LandRaider
+mistape (when you accidentally stick a piece of duct tape somewhere you didn't mean to) © LR
 
-squatmate (someone you squat with — either as gopniks or when you occupy something unlawfully) © LandRaider
+squatmate (someone you squat with — either as gopniks or when you occupy something unlawfully) © LR
 
-grosseries (groceries you don't really want to eat) © LandRaider
+grosseries (groceries you don't really want to eat) © LR
 
-"I'll splay your spleen and splatter your brains all over the splashboard, then splice the remains together with a splint, it will be splendid!" © LandRaider
+"I'll splay your spleen and splatter your brains all over the splashboard, then splice the remains together with a splint, it will be splendid!" © LR
 
-goregone (something that's luckily in the past but not without blood spilled) © LandRaider
+goregone (something that's luckily in the past but not without blood spilled) © LR
 
-terrivision (terrible television) © LandRaider
+terrivision (terrible television) © LR
 
-envylope (when you are given a red envelope with a lot more money than your friends and siblings) © LandRaider
+envylope (when you are given a red envelope with a lot more money than your friends and siblings) © LR
 
-cantdy (candy you aren't allowed to eat) © LandRaider
+cantdy (candy you aren't allowed to eat) © LR
 
-vengetable (vengeful vegetable; a table of vegetables you have to eat for being a bad kid) © LandRaider
+vengetable (vengeful vegetable; a table of vegetables you have to eat for being a bad kid) © LR
 
-teamfork (when you agree with your team to split up and flank the enemy) © LandRaider
+teamfork (when you agree with your team to split up and flank the enemy) © LR
 
-retrotarded (made retarded by using retro-aesthetics, like Nintendo games) © LandRaider
+retrotarded (made retarded by using retro-aesthetics, like Nintendo games) © LR
 
-keybored (when you start making typos because you're tired of the conversation) © LandRaider
+keybored (when you start making typos because you're tired of the conversation) © LR
 
-apocalips (when something really fucks up your lips like a third degree burn) © LandRaider
+apocalips (when something really fucks up your lips like a third degree burn) © LR
 
-worrning (a worrying warning) © LandRaider
+worrning (a worrying warning) © LR
 
-wrotten (something that's written but also rotten because it sucks) © LandRaider
+wrotten (something that's written but also rotten because it sucks) © LR
 
-fatmate (a fat flatmate?) © LandRaider
+fatmate (a fat flatmate?) © LR

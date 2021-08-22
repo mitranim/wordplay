@@ -130,6 +130,16 @@ func writeString(out io.Writer, val string) {
 }
 
 // Why do I have to write this?
+func readFile(path string) []byte {
+	return try.ByteSlice(os.ReadFile(path))
+}
+
+// Why do I have to write this?
+func readFileString(path string) string {
+	return bytesToMutableString(readFile(path))
+}
+
+// Why do I have to write this?
 func writeFile(path string, val []byte) {
 	try.To(os.MkdirAll(filepath.Dir(path), os.ModePerm))
 	try.To(os.WriteFile(path, val, os.ModePerm))
