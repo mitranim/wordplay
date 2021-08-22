@@ -44,11 +44,21 @@ func (self *charset) str(str string) *charset {
 	return self
 }
 
+func (self *charset) union(set *charset) *charset {
+	for i, ok := range set {
+		if ok {
+			self[i] = true
+		}
+	}
+	return self
+}
+
 var (
 	charsetSpace      = new(charset).str(" \t\v")
 	charsetNewline    = new(charset).str("\r\n")
-	charsetWhitespace = new(charset).str(" \t\v\r\n")
-	charsetDelim      = new(charset).str(" \t\v\r\n#()[];,")
+	charsetPunct      = new(charset).str("#()[];,")
+	charsetWhitespace = new(charset).union(charsetSpace).union(charsetNewline)
+	charsetDelim      = new(charset).union(charsetWhitespace).union(charsetPunct)
 )
 
 func counter(n int) []struct{} { return make([]struct{}, n) }
