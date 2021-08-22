@@ -285,13 +285,13 @@ func (self *Parser) scannedByte(char byte) bool {
 	return false
 }
 
-func (self *Parser) bytesWith(set charset) {
+func (self *Parser) bytesWith(set *charset) {
 	for self.more() && set.hasByte(self.Source[self.cursor]) {
 		self.cursor++
 	}
 }
 
-func (self *Parser) charsWith(set charset) {
+func (self *Parser) charsWith(set *charset) {
 	for i, char := range self.rest() {
 		if !set.hasRune(char) {
 			self.cursor += i
@@ -301,7 +301,7 @@ func (self *Parser) charsWith(set charset) {
 	self.end()
 }
 
-func (self *Parser) charsWithout(set charset) {
+func (self *Parser) charsWithout(set *charset) {
 	for i, char := range self.rest() {
 		if set.hasRune(char) {
 			self.cursor += i

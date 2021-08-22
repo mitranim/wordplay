@@ -1,5 +1,5 @@
 MAKEFLAGS := --silent --always-make
-TEST      := test $(if $(filter $(verb), true), -v,) -count=1 -short
+TEST      := test $(if $(filter $(verb), true), -v,) -count=1 -short -run=$(run)
 BENCH     := test -count=1 -short -bench=$(or $(run),.) -benchmem
 
 test-w:
