@@ -41,7 +41,7 @@ func (self *Entry) AppendContent(buf []byte) []byte {
 }
 
 func (self *Entry) AppendPhrase(buf []byte) []byte {
-	if strHas(self.Phrase, isWhitespace) {
+	if strHas(self.Phrase, charsetWhitespace) {
 		buf = append(buf, `"`...)
 		buf = append(buf, self.Phrase...)
 		buf = append(buf, `"`...)

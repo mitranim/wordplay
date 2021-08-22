@@ -30,44 +30,45 @@ func bytesToStringAlloc(bytes []byte) string   { return string(bytes) }
 func stringToBytesAlloc(input string) []byte   { return []byte(input) }
 func bytesToMutableString(input []byte) string { return *(*string)(unsafe.Pointer(&input)) }
 
-func isSpace(char rune) bool {
-	switch char {
-	case ' ', '\t', '\v':
-		return true
-	default:
-		return false
-	}
+type charset []bool
+
+func (self charset) hasInt(val int) bool   { return int(val) < len(self) && self[int(val)] }
+func (self charset) hasByte(val byte) bool { return int(val) < len(self) && self[int(val)] }
+func (self charset) hasRune(val rune) bool { return int(val) < len(self) && self[int(val)] }
+
+var charsetSpace = charset{
+	' ':  true,
+	'\t': true,
+	'\v': true,
 }
 
-func isNewline(char rune) bool {
-	switch char {
-	case '\r', '\n':
-		return true
-	default:
-		return false
-	}
+var charsetNewline = charset{
+	'\r': true,
+	'\n': true,
 }
 
-func isWhitespace(char rune) bool {
-	return isSpace(char) || isNewline(char)
+var charsetWhitespace = charset{
+	' ':  true,
+	'\t': true,
+	'\v': true,
+	'\r': true,
+	'\n': true,
 }
 
-func isNonNewline(char rune) bool { return !isNewline(char) }
-
-func isDelimPunct(char rune) bool {
-	switch char {
-	case '#', '(', ')', '[', ']', ';':
-		return true
-	default:
-		return false
-	}
+var charsetDelim = charset{
+	' ':  true,
+	'\t': true,
+	'\v': true,
+	'\r': true,
+	'\n': true,
+	'#':  true,
+	'(':  true,
+	')':  true,
+	'[':  true,
+	']':  true,
+	';':  true,
+	',':  true,
 }
-
-func isDelim(char rune) bool {
-	return isWhitespace(char) || isDelimPunct(char)
-}
-
-func isNonDelim(char rune) bool { return !isDelim(char) }
 
 func counter(n int) []struct{} { return make([]struct{}, n) }
 
@@ -118,9 +119,9 @@ func headChar(str string) (char rune, size int) {
 	return
 }
 
-func strHas(str string, fun func(rune) bool) bool {
+func strHas(str string, set charset) bool {
 	for _, char := range str {
-		if fun(char) {
+		if set.hasRune(char) {
 			return true
 		}
 	}

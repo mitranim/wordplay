@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io"
 
 	"github.com/davecgh/go-spew/spew"
 )
@@ -27,12 +28,12 @@ func (self ParseErr) Format(fms fmt.State, verb rune) {
 			return
 		}
 		if fms.Flag('+') {
-			fms.Write(stringToBytesAlloc(self.fmt(true)))
+			io.WriteString(fms, self.fmt(true))
 			return
 		}
-		fms.Write(stringToBytesAlloc(self.fmt(true)))
+		io.WriteString(fms, self.fmt(true))
 	default:
-		fms.Write(stringToBytesAlloc(self.fmt(true)))
+		io.WriteString(fms, self.fmt(true))
 	}
 }
 
