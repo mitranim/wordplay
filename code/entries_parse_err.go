@@ -38,7 +38,7 @@ func (self ParseErr) Format(fms fmt.State, verb rune) {
 
 func (self ParseErr) fmt(expand bool) (out string) {
 	row, col := rowCol(self.Source, self.Cursor)
-	spf(&out, `%v:%v`, row, col)
+	spf(&out, `<row:col> %v:%v`, row, col)
 
 	if self.Cause != nil {
 		sep(&out, `: `)
@@ -50,7 +50,7 @@ func (self ParseErr) fmt(expand bool) (out string) {
 	}
 
 	if len(self.Snippet) > 0 {
-		sep(&out, `; found: `)
+		sep(&out, `; following text: `)
 		spf(&out, `%q`, self.Snippet)
 	}
 	return
@@ -58,6 +58,10 @@ func (self ParseErr) fmt(expand bool) (out string) {
 
 func rowCol(str string, cursor int) (row int, col int) {
 	for i, char := range str {
+		if i == cursor {
+			break
+		}
+
 		if char == '\r' && i < len(str)-2 && str[i+1] == '\n' {
 			continue
 		}
