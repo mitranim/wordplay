@@ -29,8 +29,11 @@ const (
 	SHORT_SNIPPET_LEN = 64
 )
 
-func bytesToStringAlloc(bytes []byte) string   { return string(bytes) }
-func stringToBytesAlloc(input string) []byte   { return []byte(input) }
+// nolint:deadcode,unused
+func bytesToStringAlloc(bytes []byte) string { return string(bytes) }
+
+func stringToBytesAlloc(input string) []byte { return []byte(input) }
+
 func bytesToMutableString(input []byte) string { return *(*string)(unsafe.Pointer(&input)) }
 
 // Fixed size because it's simpler and we only need ASCII support.
@@ -146,6 +149,7 @@ func writeFile(path string, val []byte) {
 }
 
 // Why do I have to write this?
+// nolint:deadcode,unused
 func writeFileStr(path string, val string) {
 	writeFile(path, stringToBytesAlloc(val))
 }

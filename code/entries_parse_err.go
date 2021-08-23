@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
+	"io"
 
 	"github.com/davecgh/go-spew/spew"
+	e "github.com/pkg/errors"
 )
 
 type ParseErr struct {
@@ -78,4 +80,12 @@ func rowCol(str string, cursor int) (row int, col int) {
 	row++
 	col++
 	return
+}
+
+func errNewline(delim rune) error {
+	return e.Errorf(`expected closing %q, found newline`, delim)
+}
+
+func errEof(delim rune) error {
+	return e.Wrapf(io.EOF, `expected closing %q, found EOF`, delim)
 }

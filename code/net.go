@@ -73,14 +73,6 @@ func RenderHtml(children ...interface{}) x.Bui {
 	)
 }
 
-func formatEntryPhrase(entry Entry) string {
-	return bytesToStringAlloc(entry.AppendPhrase(nil))
-}
-
-func formatEntryMeanings(entry Entry) string {
-	return bytesToStringAlloc(entry.AppendMeanings(nil))
-}
-
 /*
 In principle, we might want to deduplicate concurrent instances of this request,
 returning the result of a single request to multiple callers that have been

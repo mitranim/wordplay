@@ -1,5 +1,11 @@
 package main
 
+import (
+	"strings"
+
+	e "github.com/pkg/errors"
+)
+
 type Entries []Entry
 
 func (self Entries) Bytes() (buf []byte) {
@@ -70,9 +76,17 @@ func (self *Entry) HasMeanings() bool { return len(self.Meanings) > 0 }
 func (self *Entry) HasTags() bool     { return len(self.Tags) > 0 }
 
 func (self *Entry) appendMeaning(val string) {
+	val = strings.TrimSpace(val)
+	if len(val) == 0 {
+		panic(e.New(`unexpected empty meaning`))
+	}
 	self.Meanings = append(self.Meanings, val)
 }
 
 func (self *Entry) appendTag(val string) {
+	val = strings.TrimSpace(val)
+	if len(val) == 0 {
+		panic(e.New(`unexpected empty tag`))
+	}
 	self.Tags = append(self.Tags, val)
 }
