@@ -1402,7 +1402,7 @@ egochamber (echochamber for lonely people who keep only their own counsel) © LJ
 
 incompetitor (incompetent competitor) © LJ
 
-purrsonal © M
+purrson (🐈 lover) © M
 
 appinion © M
 
