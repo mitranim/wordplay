@@ -34,6 +34,22 @@ func TestParseAndFormat(t *testing.T) {
 	}
 }
 
+func BenchmarkParse(b *testing.B) {
+	for range counter(b.N) {
+		_ = ParseEntries(tSrc)
+	}
+}
+
+func BenchmarkFormat(b *testing.B) {
+	entries := ParseEntries(tSrc)
+
+	b.ResetTimer()
+
+	for range counter(b.N) {
+		_ = entries.Bytes()
+	}
+}
+
 func writeTempFile(t *testing.T, subpath string, content []byte) string {
 	tempDir := os.TempDir()
 	if tempDir == "" {

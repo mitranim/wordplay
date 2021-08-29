@@ -7,7 +7,9 @@ import (
 	"github.com/mitranim/cmd"
 )
 
-var commands = cmd.Map{}
+var commands = cmd.Map{
+	`norm`: cmdNorm,
+}
 
 func init() {
 	time.Local = nil

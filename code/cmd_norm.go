@@ -1,7 +1,5 @@
 package main
 
-func init() { commands.Add(`norm`, cmdNorm) }
-
 func cmdNorm() {
 	entries := ParseEntries(readFileString(SRC_FILE))
 

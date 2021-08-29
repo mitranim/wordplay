@@ -1,27 +1,13 @@
 package main
 
 import (
-	"context"
 	"fmt"
 	"io"
-	h "net/http"
 	"os"
 	"path/filepath"
 	"unsafe"
 
-	x "github.com/mitranim/gax"
 	"github.com/mitranim/try"
-)
-
-type (
-	Rew = h.ResponseWriter
-	Req = h.Request
-	Ctx = context.Context
-)
-
-var (
-	E  = x.E
-	AP = x.AP
 )
 
 const (
@@ -154,7 +140,7 @@ func writeFileStr(path string, val string) {
 	writeFile(path, stringToBytesAlloc(val))
 }
 
-// Significantly faster than `utf8.DecodeRuneInString`.
+// Like `utf8.DecodeRuneInString` but much faster and without `utf8.RuneError`.
 func headChar(str string) (char rune, size int) {
 	for i, val := range str {
 		if i == 0 {
