@@ -1,5 +1,12 @@
 package main
 
+import (
+	"fmt"
+	"os"
+
+	"github.com/mitranim/repr"
+)
+
 func cmdNorm() {
 	entries := ParseEntries(readFileString(SRC_FILE))
 
@@ -17,6 +24,13 @@ func cmdNorm() {
 		if entry.Author == "" || entry.Author == "Mitranim" {
 			entry.Author = "M"
 		}
+	}
+
+	dupes := entries.Dupes()
+	if len(dupes) > 0 {
+		fmt.Println(`duplicates:`)
+		repr.Println(dupes)
+		os.Exit(1)
 	}
 
 	writeFile(SRC_FILE, entries.Bytes())

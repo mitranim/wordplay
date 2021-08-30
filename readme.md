@@ -1,4 +1,198 @@
+pullarity (related to magnetism and pulling something in) © LJ
+
+markot (place for trading 🐈) © LJ
+
+medkot (vasca kavat) [wf] © LR
+
+levytation (escape tax by flying away?) © M
+
+delie (later, if you're dumb enough to believe it) © LR
+
+chancelore (easily missable) © LR
+
+hottel (another term for a brothel) © M
+
+membershit (💩) © Yury
+
+membersheep (🐑) © Yury
+
+bombastard (bombastic bastard) © LJ
+
+decorare © M
+
+aeither © M
+
+byer (stupid "hello" idiot that instantly ignores you when you respond) © LR
+
+congloomerate © M
+
+debig (maybe going on a diet/losing weight; debugging your figure) © LJ
+
+discunt (cheaper prostitute?) © M
+
+moneytor (record financial transactions) © LR
+
+showar (public shower? 🚿) © M
+
+genetick © LR
+
+typig (⌨️🐖) © M
+
+peerversion © LR
+
+sickophant © M
+
+adornable © M
+
+feelosophy © LR
+
+subscrition © M
+
+prodeuce © LR
+
+mass-próduce © M
+
+practits (possibly 🦆 in shooting range 🎯) © M
+
+hwo (who and how?) © LR
+
+tablah (sloppy table definition in SQL) © M
+
+stoopidity © M
+
+soilid © LR
+
+pubelic (nude in public?) © M
+
+rememboring (because you had nothing else to do) © LR
+
+gimplay (dumbed-down) © LR
+
+messquerade © M
+
+smugling © M
+
+necksercise (👔💪) © LJ
+
+hollowgraphic © LR
+
+disversity (opposite of diversity) © LJ
+
+enerdgy (🤓⚡️🔋) © M
+
+beecosystem (🐝) © LR
+
+shoKING (⚡️👑) © M
+
+pnig (to disturb someone with a notification 👢) [ru] © M
+
+pomotion © Nelli
+
+miney (🪙⛏ out of the ground?) © M
+
+dymanic (😈) © LR
+
+bugket (holds bait 🎣) © M
+
+drawmatic (attracts onlookers) © M
+
+interstaining (curious but makes you feel dirty) © LJ
+
+emordalise (maybe to make a head bust of someone to immortalise them) © LJ
+
+emortalize (kill to taxidermy) © M
+
 adverteasement © M
+
+slyghtly © M
+
+mombership © Yury
+
+harleking © M
+
+harlequeen © M
+
+bowmb (freaking Kuva Bramma) [wf] © LR
+
+habbit (something you dabble in?) © Igor
+
+decadance (💃) © LR
+
+overbored (when something is so far fetched you can't help but be bored by it) © LR
+
+veinom (flows inside) © LR
+
+vainom (infects with Narciss ilness) © LR
+
+ingreedyent © LR
+
+egology (perhaps a flowery way of calling the human psyche) © LJ
+
+stabborn (🔪) © LR
+
+stubboorn © LJ
+
+entroduce © M
+
+gorund (underhill ⛰) [ru] © M
+
+beckground (a past that calls) © Yury
+
+Moss🐄 (what it was a millenia ago) © M
+
+pillgrim (💊😤) © M
+
+substenance © M
+
+inductrinate (inject mind-altering chemicals into blood ducts?) © LR
+
+indocktrinate © M
+
+moroning © LR
+
+morening © M
+
+qualititties © LR
+
+astronaughty (sex in space 😏🌠) © LJ
+
+cheaps (affordable chips) © LR
+
+scumdrel © M
+
+loominary © LR
+
+memugry (aka facial recognition) © LJ
+
+memoory (where anything gets lost) © M
+
+annoytate (when someone explains a pun) © M
+
+annoitate (unwanted praise) © M
+
+machiavillain © LJ
+
+fapulous (like Adeptus Custodes) © LR
+
+purrview (when you watch cats 🐈 👀) © LJ
+
+purson (with a thick wallet?) © Yury
+
+accpunt (one you don't care about) © M
+
+"carton villain" (laughable _and_ weak) © M
+
+cantrol (of unruly) © M
+
+exonomics (for when we have space industries and the like) © LJ
+
+anythong © M
+
+prograss (growing 🪴?) © LJ
+
+shedule © M
+
+ragexp (when you can't make a regexp work) © M
 
 domesticage © LR
 
@@ -14,8 +208,6 @@ dyenamic (changes colors constantly) © LR
 
 outrangeous (such a stretch that it infuriates) © LJ
 
-bugfox (hunting down to squash it 🦊🐞) © M
-
 epithany (when you come up with a smart comeback quickly on the spot) © LJ
 
 pitfail © M
@@ -27,8 +219,6 @@ armputation © LJ
 aswinine © M
 
 assinine © M
-
-subscraption © Yury
 
 modoll © M
 
@@ -45,8 +235,6 @@ trainwerk © M
 actopus (🐙) © Yury
 
 Actober (when things happen) © M
-
-refucktoring © M
 
 icknore © M
 
@@ -71,8 +259,6 @@ categlory © Yury
 anywear (clothes for every occasion) © LR
 
 sembalance (approximation of fairness) © M
-
-immigrunt (unqualified immigrant) © LR
 
 lawndry (doing or rather hanging your laundry up in the garden; irrigating / cleaning your lawn) © LJ
 
@@ -102,19 +288,13 @@ whatch © M
 
 seet (before 📺) © M
 
-dieversion (fatal) © LR
-
 augwomentation © M
 
 boobster (breast augmentation) © LR
 
 understandebil © LJ
 
-koñdidate (🐴 that could potentially win a race) © LR
-
-slaggish © M
-
-negatiation (failed negotiations) © LJ
+koñdidate (poised to win a race 🐎; high-🐴power hire) [🐴] © LR
 
 negoatiation (when your diplomacy runs on 🐐) © LR
 
@@ -374,10 +554,6 @@ paradies (what muslims believe in: paradise after death; alternatively, paradise
 
 fanction (fan fiction? fan action? fan function? fun faction?) © M
 
-daemoon (🌚😈) © M
-
-deeposit (located deep underground) © LR
-
 naughtylus © LR
 
 sequelies (one lie after another) © LR
@@ -422,21 +598,15 @@ democratorship (a dictatorship that at least pretends to be democratic) © LJ
 
 chessplate (♟) © M
 
-sicknificant (lethal illness?) © LJ
-
 equiviolent (equivalently aggressive) © LR
 
 whyriety (questionable variety, like someone's wardrobe) © LR
 
-dielogue (dialogue that ends in one party dying) © LR
+dielogue (dialogue that ends in one party dying; boss yapping before you finish him) © LR
 
 wrecklamation (can't tell if repairing it, or wrecking harder) © LR
 
 erudeite (an insufferable know-it-all) © LJ
-
-kotegory (in a cat-a-log 🐈) © M
-
-litteracy (when you've read a lot but it's all garbage) © LR
 
 pur-chase (something you keep looking for, but can't buy?) © Igor
 
@@ -568,8 +738,6 @@ commduit (transmission relay) © M
 
 enjoin (join in enjoyment, like an MP game) © LR
 
-sinthesis (sinful thesis? synthesis through sin?; impregnation; apocrypha: thesis that gets you excommunicated, therefore a sinner) © LR
-
 separat (loner away from pack) © M
 
 finction (financial feature or action) © M
@@ -672,11 +840,7 @@ addwise © LR
 
 cancell © M
 
-raindom © M
-
-aveilable © M
-
-dieversion © M
+dieversion (fatal distraction) © M
 
 abducktion (when you steal a 🦆 ... or a 🦆 steals you) © LR
 
@@ -754,7 +918,7 @@ fartist (produces modern art) © LJ
 
 delaytency (also known as lagtency) © LJ
 
-immigrunt © LJ
+immigrunt (unqualified immigrant) © LJ
 
 districkt (has a difficult-to-navigate layout) © M
 
@@ -968,8 +1132,6 @@ tuplicate © M
 
 entertaisting (entertaining and tasty) © LJ
 
-expectremaintation © LR
-
 arghument © LR
 
 editional © Yury
@@ -1022,9 +1184,9 @@ callculate © M
 
 excrementation © M
 
-expectremaintation © LR
+expectremaintation (on cadavers) © LR
 
-slong [🐘] © M
+slong [🐘; ru] © M
 
 somethink © Yury
 
@@ -1135,8 +1297,6 @@ discribe (etch on a disc?) © M
 aboondance © M
 
 ambiguilty (when someone‘s guilt is in question) © LJ
-
-derpty © M
 
 debillitating © M
 
@@ -1402,7 +1562,7 @@ egochamber (echochamber for lonely people who keep only their own counsel) © LJ
 
 incompetitor (incompetent competitor) © LJ
 
-purrson (🐈 lover) © M
+purrson (🐈 lover; male cat cub; furry lover) © M
 
 appinion © M
 
@@ -1624,8 +1784,6 @@ apartyment (party apartment) © LR
 
 coldron © M
 
-freshold © M
-
 unnoying © M
 
 nanimal © M
@@ -1660,7 +1818,7 @@ hardcordead © M
 
 hardcorded © LR
 
-bugfox © M
+bugfox (hunting down to squash it 🦊🐞) © M
 
 derpty © LR
 
@@ -1697,8 +1855,6 @@ incompatibile © M
 directroy © M
 
 possibile © M
-
-whitespread © M
 
 ulternative © M
 
@@ -1740,7 +1896,7 @@ confeegurable © M
 
 recoñ (mounted scout) © LR
 
-sinthesis © M
+sinthesis (sinful thesis? synthesis through sin?; impregnation; apocrypha: thesis that gets you excommunicated, therefore a sinner) © M
 
 corridot © M
 
@@ -1765,8 +1921,6 @@ missage (the missive you missed) © M
 promissing © M
 
 litterally © LR
-
-cheapset © LR
 
 flogking © M
 
@@ -1834,8 +1988,6 @@ legistics © M
 
 lagacy © LR
 
-ducktape © M
-
 declaraction © M
 
 deliberat © M
@@ -1847,8 +1999,6 @@ anymal © LR
 mattric (metric that matters) © LR
 
 containmination (contained contamination) © LR
-
-deafault © M
 
 dateabase © LR
 
@@ -1873,10 +2023,6 @@ murmurder © M
 elichiable © M
 
 megazine © M
-
-junktion © LR
-
-resque © M
 
 medievil © M
 
@@ -1974,7 +2120,7 @@ manyually © M
 
 ackwards © Yury
 
-discour © Yury
+discour (through intense search) © Yury
 
 septomber © M
 
@@ -1983,8 +2129,6 @@ correctify (rectify a false correction) © LJ
 hvostage (tails you on a rescue mission) [ru] © M
 
 wholographic © M
-
-sindicate © M
 
 trigged © M
 
@@ -2030,13 +2174,9 @@ soulty © M
 
 dodjo © LR
 
-violince © M
-
 blunderbus © M
 
 petch © M
-
-wisper © M
 
 recomdemnation (liked but didn't recommend due to many condemned negatives) © M
 
@@ -2090,11 +2230,9 @@ queuestion © LR
 
 questtion © M
 
-resqueue © M
+resque (wait to be saved) © M
 
 borther (bothersome brother?) © LR
-
-insinerate © M
 
 quariantine (self-quarantine by wearing hermetic suits) © M
 
@@ -2119,10 +2257,6 @@ mushrimp (dish made of Mushrooms and Shrimps) © LJ
 shaftware (bad software) © LJ
 
 suckware (bad software) © LJ
-
-annoyant © LJ
-
-textpert (someone who knows a text inside out) © LJ
 
 moderightor © M
 
@@ -2149,8 +2283,6 @@ discription © M
 valuedate © M
 
 optimizaction © M
-
-appstract © M
 
 commond © M
 
@@ -2188,8 +2320,6 @@ abdomination © M
 
 cansellation © M
 
-bearzerker © M
-
 campitalize © M
 
 sentiant © M
@@ -2205,10 +2335,6 @@ suckulent © M
 outdayted © M
 
 stereotrope © LJ
-
-vainguard © M
-
-priviledge © M
 
 recommand © M
 
@@ -2296,10 +2422,6 @@ attemptation © M
 
 archane © M
 
-blastphemy © M
-
-sellfish © M
-
 cellfish © M
 
 excessible © M
@@ -2370,8 +2492,6 @@ infilthtraitor © M
 
 infilthtrator © M
 
-infiltraitor © M
-
 genereal © M
 
 lickquit © M
@@ -2412,8 +2532,6 @@ saleary © M
 
 fucktionality © M
 
-weakend © M
-
 incestines © M
 
 scaremorguering © M
@@ -2440,13 +2558,9 @@ starturday © M
 
 skeletone © M
 
-langauge (metric of intelligence?) © M
-
 curtesy © M
 
 dendelion © M
-
-dengeon © M
 
 idiotlogy © LR
 
@@ -2504,11 +2618,11 @@ jesture © M
 
 workoing © M
 
-violens © M
-
 violince © M
 
 violance © M
+
+lewdickrous © M
 
 lewdicrous © M
 
@@ -2565,8 +2679,6 @@ cognisphere (Essentially a place, especially an intangible theoretical one where
 mugkings (mug markings) © LJ
 
 queery © M
-
-guarden © M
 
 arhive © M
 
@@ -2676,8 +2788,6 @@ cheapset © LR
 
 roombamate (roommate who cleans up after everyone) © LJ
 
-okaysional © M
-
 derelicat © M
 
 frogrance (using frog extract for perfume) © LJ
@@ -2770,8 +2880,6 @@ suretcut © M
 
 do-nation © M
 
-feelter © M
-
 "derp cheap" © M
 
 freequeency (vacant queen position?) © M
@@ -2842,8 +2950,6 @@ mixol © M
 
 fruster © M
 
-improoment (making space) © M
-
 emberassing © M
 
 embearassing © M
@@ -2857,10 +2963,6 @@ portalable © M
 Whenceday © M
 
 cantch-22 (you can't) © M
-
-dealivery © M
-
-peerform © M
 
 thingk © M
 
@@ -2896,7 +2998,7 @@ joyn © M
 
 annonsense © M
 
-langauge © M
+langauge (metric of intelligence) © M
 
 refucktoring © M
 
@@ -3064,8 +3166,6 @@ diver-city © M
 
 divorcify (split up for variety) © M
 
-undefiend (sinister "undefined"; JS programmers will understand) © M
-
 thirstday (prior to drunkday) © M
 
 transfirm (solid change) © M
@@ -3102,7 +3202,7 @@ enteraction (first encounter) © M
 
 blightning (lightning that corrupts?) © M
 
-undefiend © M
+undefiend (sinister "undefined", JS programmers will understand) [code] © M
 
 broadcats © M
 
@@ -3426,7 +3526,7 @@ transfur (pelt transportation) © M
 
 bookva © M
 
-improoment (making more space) © M
+improoment (making space) © M
 
 cementics (semantics set in stone) © M
 
@@ -3896,7 +3996,7 @@ payple (consumers) © M
 
 unstompable (indomitable) © M
 
-sicknificant (unwanted but important) © M
+sicknificant (unwanted but important; lethal illness?) © M
 
 notkey (missing hotkey) © M
 
@@ -3986,7 +4086,7 @@ feelament (feeler whiskers) © M
 
 cubinet © M
 
-dialock (inescapable conversation) © M
+dialock (inescapable conversation 🔒) © M
 
 chambeer (beer cellar? supersized keg?) © M
 
@@ -5029,8 +5129,6 @@ talonted (dangerous talent) © M
 eggsistence (existing in a vegetable state?) © M
 
 bedcause (because of something that happened in a bed?) © M
-
-fatmate (fat flatmate) © M
 
 guesst (vaguely recognizable visitor) © M
 

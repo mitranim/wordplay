@@ -19,6 +19,31 @@ func (self Entries) String() string {
 	return bytesToMutableString(self.Bytes())
 }
 
+func (self Entries) Group(fun func(Entry) string) map[string]Entries {
+	out := map[string]Entries{}
+
+	for _, val := range self {
+		key := fun(val)
+		out[key] = append(out[key], val)
+	}
+
+	return out
+}
+
+func (self Entries) Dupes() (out []string) {
+	groups := self.Group(Entry.GetPhrase)
+
+	for _, val := range self {
+		key := val.Phrase
+		if len(groups[key]) > 1 {
+			out = append(out, key)
+			delete(groups, key)
+		}
+	}
+
+	return
+}
+
 type Entry struct {
 	Author   string
 	Phrase   string
@@ -90,3 +115,6 @@ func (self *Entry) appendTag(val string) {
 	}
 	self.Tags = append(self.Tags, val)
 }
+
+// For grouping.
+func (self Entry) GetPhrase() string { return self.Phrase }
