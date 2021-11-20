@@ -8,7 +8,12 @@ import (
 )
 
 func cmdNorm() {
-	entries := ParseEntries(readFileString(SRC_FILE))
+	normFile(`../readme.md`)
+	normFile(`../readme_ru.md`)
+}
+
+func normFile(path string) {
+	entries := ParseEntries(readFileString(path))
 
 	for i := range entries {
 		entry := &entries[i]
@@ -33,5 +38,5 @@ func cmdNorm() {
 		os.Exit(1)
 	}
 
-	writeFile(SRC_FILE, entries.Bytes())
+	writeFile(path, entries.Bytes())
 }

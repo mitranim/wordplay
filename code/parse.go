@@ -237,6 +237,10 @@ func (self *Parser) from(start int) string {
 
 func (self *Parser) end() { self.cursor = len(self.Source) }
 
+func (self *Parser) headByte() byte {
+	return self.Source[self.cursor]
+}
+
 func (self *Parser) scanned(fun func(*Parser)) bool {
 	start := self.cursor
 	fun(self)
@@ -248,7 +252,7 @@ func (self *Parser) scannedNewline() bool {
 }
 
 func (self *Parser) scannedByte(char byte) bool {
-	if self.more() && self.Source[self.cursor] == char {
+	if self.more() && self.headByte() == char {
 		self.cursor++
 		return true
 	}
@@ -265,7 +269,7 @@ func (self *Parser) scannedChar(val rune) bool {
 }
 
 func (self *Parser) bytesWith(set *charset) {
-	for self.more() && set.hasByte(self.Source[self.cursor]) {
+	for self.more() && set.hasByte(self.headByte()) {
 		self.cursor++
 	}
 }

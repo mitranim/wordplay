@@ -2,13 +2,13 @@ MAKEFLAGS := --silent --always-make
 TEST      := test $(if $(filter $(verb), true), -v,) -count=1 -short -run=$(run)
 BENCH     := test -count=1 -short -bench=$(or $(run),.) -benchmem
 
-test-w:
+test_w:
 	gow -c -v $(TEST)
 
 test:
 	go $(TEST)
 
-bench-w:
+bench_w:
 	gow -c -v $(BENCH)
 
 bench:
@@ -17,11 +17,14 @@ bench:
 lint:
 	golangci-lint run
 
-run-w:
+run_w:
 	gow -c -v run . $(run)
 
 run:
 	go run . $(run)
+
+norm:
+	$(MAKE) run run=norm
 
 # Usage:
 #   make log search="<word>"

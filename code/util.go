@@ -100,8 +100,15 @@ func strHas(str string, set *charset) bool {
 	return false
 }
 
-func appendNewlines(buf []byte) []byte {
-	return append(buf, "\n\n"...)
+func appendNewlineIfNeeded(buf []byte) []byte {
+	if len(buf) > 0 {
+		return appendNewline(buf)
+	}
+	return buf
+}
+
+func appendNewline(buf []byte) []byte {
+	return append(buf, '\n')
 }
 
 func appendJoined(buf []byte, sep string, vals []string) []byte {
@@ -140,7 +147,8 @@ func writeFileStr(path string, val string) {
 	writeFile(path, stringToBytesAlloc(val))
 }
 
-// Like `utf8.DecodeRuneInString` but much faster and without `utf8.RuneError`.
+// Like `utf8.DecodeRuneInString`, but much faster in Go < 1.17, and without
+// `utf8.RuneError`.
 func headChar(str string) (char rune, size int) {
 	for i, val := range str {
 		if i == 0 {

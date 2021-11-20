@@ -52,11 +52,12 @@ type Entry struct {
 }
 
 func (self *Entry) Append(buf []byte) []byte {
+	buf = appendNewlineIfNeeded(buf)
 	buf = self.AppendPhrase(buf)
 	buf = self.AppendMeanings(buf)
 	buf = self.AppendTags(buf)
 	buf = self.AppendAuthor(buf)
-	buf = appendNewlines(buf)
+	buf = appendNewline(buf)
 	return buf
 }
 
