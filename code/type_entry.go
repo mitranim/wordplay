@@ -16,7 +16,7 @@ func (self Entries) Bytes() (buf []byte) {
 }
 
 func (self Entries) String() string {
-	return bytesToMutableString(self.Bytes())
+	return bytesString(self.Bytes())
 }
 
 func (self Entries) Group(fun func(Entry) string) map[string]Entries {

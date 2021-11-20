@@ -12,7 +12,7 @@ import (
 	"github.com/mitranim/try"
 )
 
-var tSrc = bytesToMutableString(bytes.TrimSpace(try.ByteSlice(os.ReadFile(SRC_FILE))))
+var tSrc = bytesString(bytes.TrimSpace(try.ByteSlice(os.ReadFile(SRC_FILE))))
 
 func TestParseAndFormat(t *testing.T) {
 	source := tSrc
@@ -20,9 +20,9 @@ func TestParseAndFormat(t *testing.T) {
 	output := strings.TrimSpace(entries.String())
 
 	if testing.Verbose() {
-		fmt.Printf("source:  %v\n", writeTempFile(t, "source", stringToBytesAlloc(source)))
-		fmt.Printf("output:  %v\n", writeTempFile(t, "output", stringToBytesAlloc(output)))
-		fmt.Printf("entries: %v\n", writeTempFile(t, "entries", repr.Bytes(entries)))
+		fmt.Printf("source:  %v\n", writeTempFile(t, "source", source))
+		fmt.Printf("output:  %v\n", writeTempFile(t, "output", output))
+		fmt.Printf("entries: %v\n", writeTempFile(t, "entries", repr.String(entries)))
 	}
 
 	if source != output {
@@ -50,13 +50,13 @@ func BenchmarkFormat(b *testing.B) {
 	}
 }
 
-func writeTempFile(t *testing.T, subpath string, content []byte) string {
+func writeTempFile(t *testing.T, subpath, content string) string {
 	tempDir := os.TempDir()
 	if tempDir == "" {
 		t.Fatal("failed to create temporary directory: got empty path")
 	}
 
 	path := filepath.Join(tempDir, `wordplay_testing`, subpath)
-	writeFile(path, content)
+	writeFileStr(path, content)
 	return path
 }

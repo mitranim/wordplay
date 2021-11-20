@@ -15,12 +15,7 @@ const (
 	SHORT_SNIPPET_LEN = 64
 )
 
-// nolint:deadcode,unused
-func bytesToStringAlloc(bytes []byte) string { return string(bytes) }
-
-func stringToBytesAlloc(input string) []byte { return []byte(input) }
-
-func bytesToMutableString(input []byte) string { return *(*string)(unsafe.Pointer(&input)) }
+func bytesString(input []byte) string { return *(*string)(unsafe.Pointer(&input)) }
 
 // Fixed size because it's simpler and we only need ASCII support.
 // Used by pointer because large size = slow copying.
@@ -132,7 +127,7 @@ func readFile(path string) []byte {
 
 // Why do I have to write this?
 func readFileString(path string) string {
-	return bytesToMutableString(readFile(path))
+	return bytesString(readFile(path))
 }
 
 // Why do I have to write this?
@@ -142,9 +137,15 @@ func writeFile(path string, val []byte) {
 }
 
 // Why do I have to write this?
-// nolint:deadcode,unused
-func writeFileStr(path string, val string) {
-	writeFile(path, stringToBytesAlloc(val))
+func writeFileStr(path, val string) {
+	try.To(os.MkdirAll(filepath.Dir(path), os.ModePerm))
+
+	file, err := os.OpenFile(path, os.O_WRONLY|os.O_CREATE|os.O_TRUNC, os.ModePerm)
+	try.To(err)
+	defer file.Close()
+
+	try.Int(file.WriteString(val))
+	try.To(file.Close())
 }
 
 // Like `utf8.DecodeRuneInString`, but much faster in Go < 1.17, and without
