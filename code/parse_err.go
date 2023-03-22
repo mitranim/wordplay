@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/davecgh/go-spew/spew"
-	e "github.com/pkg/errors"
+	"github.com/mitranim/gg"
+	"github.com/mitranim/gg/grepr"
 )
 
 type ParseErr struct {
@@ -25,16 +25,16 @@ func (self ParseErr) Format(fms fmt.State, verb rune) {
 	switch verb {
 	case 'v':
 		if fms.Flag('#') {
-			spew.Fdump(fms, self)
+			gg.Write(fms, grepr.String(self))
 			return
 		}
 		if fms.Flag('+') {
-			writeString(fms, self.fmt(true))
+			gg.Write(fms, self.fmt(true))
 			return
 		}
-		writeString(fms, self.fmt(true))
+		gg.Write(fms, self.fmt(true))
 	default:
-		writeString(fms, self.fmt(true))
+		gg.Write(fms, self.fmt(true))
 	}
 }
 
@@ -58,13 +58,15 @@ func (self ParseErr) fmt(expand bool) (out string) {
 	return
 }
 
-func rowCol(str string, cursor int) (row int, col int) {
-	for i, char := range str {
-		if i == cursor {
+func rowCol(src string, pos int) (row int, col int) {
+	var chars int
+	for ind, char := range src {
+		chars++
+		if chars == pos {
 			break
 		}
 
-		if char == '\r' && i < len(str)-2 && str[i+1] == '\n' {
+		if char == '\r' && ind < len(src)-2 && src[ind+1] == '\n' {
 			continue
 		}
 
@@ -83,9 +85,9 @@ func rowCol(str string, cursor int) (row int, col int) {
 }
 
 func errNewline(delim rune) error {
-	return e.Errorf(`expected closing %q, found newline`, delim)
+	return gg.Errf(`expected closing %q, found newline`, delim)
 }
 
 func errEof(delim rune) error {
-	return e.Wrapf(io.EOF, `expected closing %q, found EOF`, delim)
+	return gg.Wrapf(io.EOF, `expected closing %q, found EOF`, delim)
 }

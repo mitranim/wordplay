@@ -1,48 +1,53 @@
 package main
 
 import (
-	"bytes"
 	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
 	"testing"
 
-	"github.com/mitranim/repr"
-	"github.com/mitranim/try"
+	"github.com/mitranim/gg"
+	"github.com/mitranim/gg/grepr"
+	"github.com/mitranim/gg/gtest"
 )
 
-var tSrc = bytesString(bytes.TrimSpace(try.ByteSlice(os.ReadFile(SRC_FILE))))
+var tSrc = strings.TrimSpace(gg.ReadFile[string](SRC_FILE))
 
-func TestParseAndFormat(t *testing.T) {
+func Test_parse_and_format(t *testing.T) {
+	defer gtest.Catch(t)
+
 	source := tSrc
 	entries := ParseEntries(source)
 	output := strings.TrimSpace(entries.String())
 
 	if testing.Verbose() {
-		fmt.Printf("source:  %v\n", writeTempFile(t, "source", source))
-		fmt.Printf("output:  %v\n", writeTempFile(t, "output", output))
-		fmt.Printf("entries: %v\n", writeTempFile(t, "entries", repr.String(entries)))
+		fmt.Printf("source:  %v\n", writeTempFile(`source`, source))
+		fmt.Printf("output:  %v\n", writeTempFile(`output`, output))
+		fmt.Printf("entries: %v\n", writeTempFile(`entries`, grepr.String(entries)))
 	}
 
 	if source != output {
 		if testing.Verbose() {
-			t.Fatalf("mismatch of source and formatted output")
+			t.Fatal(`mismatch of source and formatted output`)
 		} else {
-			t.Fatal("mismatch of source and formatted output; run test in verbose mode for details")
+			t.Fatal(`mismatch of source and formatted output; run test in verbose mode for details`)
 		}
 	}
 }
 
-func BenchmarkParse(b *testing.B) {
+func Benchmark_parse(b *testing.B) {
+	defer gtest.Catch(b)
+
 	for range counter(b.N) {
 		_ = ParseEntries(tSrc)
 	}
 }
 
-func BenchmarkFormat(b *testing.B) {
-	entries := ParseEntries(tSrc)
+func Benchmark_format(b *testing.B) {
+	defer gtest.Catch(b)
 
+	entries := ParseEntries(tSrc)
 	b.ResetTimer()
 
 	for range counter(b.N) {
@@ -50,13 +55,11 @@ func BenchmarkFormat(b *testing.B) {
 	}
 }
 
-func writeTempFile(t *testing.T, subpath, content string) string {
+func writeTempFile(subpath, content string) string {
 	tempDir := os.TempDir()
-	if tempDir == "" {
-		t.Fatal("failed to create temporary directory: got empty path")
-	}
+	gtest.NotZero(tempDir, `need non-empty path for temporary directory`)
 
 	path := filepath.Join(tempDir, `wordplay_testing`, subpath)
-	writeFileStr(path, content)
+	writeFile(path, content)
 	return path
 }

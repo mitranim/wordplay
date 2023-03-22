@@ -3,20 +3,15 @@ package main
 import (
 	"time"
 
-	"github.com/davecgh/go-spew/spew"
 	"github.com/mitranim/cmd"
+	"github.com/mitranim/gg"
 )
 
-var commands = cmd.Map{
-	`norm`: cmdNorm,
-}
+var commands = cmd.Map{`norm`: cmdNorm}
 
-func init() {
-	time.Local = nil
-	spew.Config.Indent = "  "
-}
+func init() { time.Local = nil }
 
 func main() {
-	defer cmd.Report()
+	defer gg.Fatal()
 	commands.Get()()
 }

@@ -4,8 +4,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/mitranim/try"
-	e "github.com/pkg/errors"
+	"github.com/mitranim/gg"
 )
 
 func ParseEntries(src string) Entries {
@@ -26,12 +25,12 @@ func MakeParser(content string) Parser {
 }
 
 func (self *Parser) Parse() {
-	defer try.Detail(`failed to parse entries`)
-	defer try.Trans(self.err)
+	defer gg.Detail(`failed to parse entries`)
+	defer gg.Trans(self.err)
 
 	for self.more() {
 		if !self.scanned((*Parser).any) {
-			panic(e.New(`unrecognized content`))
+			panic(gg.Errv(`unrecognized content`))
 		}
 	}
 }
@@ -56,7 +55,7 @@ func (self *Parser) entryQuoted() {
 	self.cursor += len(`"`)
 
 	if len(phrase) == 0 {
-		panic(e.New(`quoted phrase is empty`))
+		panic(gg.Errv(`quoted phrase is empty`))
 	}
 
 	self.entry.Phrase = phrase
@@ -73,7 +72,7 @@ func (self *Parser) entryUnquoted() {
 
 	phrase := strings.TrimSpace(self.from(start))
 	if len(phrase) == 0 {
-		panic(e.New(`phrase is empty`))
+		panic(gg.Errv(`phrase is empty`))
 	}
 
 	self.entry.Phrase = phrase
@@ -97,30 +96,30 @@ func (self *Parser) entryMeanings() {
 	start := self.cursor
 	cursor := self.cursor
 
-	for i, char := range self.rest() {
+	for ind, char := range self.rest() {
 		if charsetNewline.hasRune(char) {
-			self.cursor = start + i + utf8.RuneLen(char)
+			self.cursor = start + ind + utf8.RuneLen(char)
 			panic(errNewline(')'))
 		}
 
 		if char == ';' {
-			self.cursor = start + i
-			self.appendMeaning(self.from(cursor))
+			self.cursor = start + ind
+			self.addMeaning(self.from(cursor))
 			self.cursor += len(`;`)
 			cursor = self.cursor
 			continue
 		}
 
 		if char == ')' {
-			self.cursor = start + i
-			self.appendMeaning(self.from(cursor))
+			self.cursor = start + ind
+			self.addMeaning(self.from(cursor))
 			self.cursor += len(`)`)
 			return
 		}
 
 		if char == '(' {
-			self.cursor = start + i + len(`(`)
-			panic(e.New(`unexpected nested "("`))
+			self.cursor = start + ind + len(`(`)
+			panic(gg.Errv(`unexpected nested "("`))
 		}
 	}
 
@@ -128,9 +127,9 @@ func (self *Parser) entryMeanings() {
 	panic(errEof(')'))
 }
 
-func (self *Parser) appendMeaning(val string) {
+func (self *Parser) addMeaning(val string) {
 	// defer self.detail()
-	self.entry.appendMeaning(val)
+	self.entry.addMeaning(val)
 }
 
 func (self *Parser) entryTags() {
@@ -142,30 +141,30 @@ func (self *Parser) entryTags() {
 	start := self.cursor
 	cursor := self.cursor
 
-	for i, char := range self.rest() {
+	for ind, char := range self.rest() {
 		if charsetNewline.hasRune(char) {
-			self.cursor = start + i + utf8.RuneLen(char)
+			self.cursor = start + ind + utf8.RuneLen(char)
 			panic(errNewline(']'))
 		}
 
 		if char == ';' {
-			self.cursor = start + i
-			self.appendTag(self.from(cursor))
+			self.cursor = start + ind
+			self.addTag(self.from(cursor))
 			self.cursor += len(`;`)
 			cursor = self.cursor
 			continue
 		}
 
 		if char == ']' {
-			self.cursor = start + i
-			self.appendTag(self.from(cursor))
+			self.cursor = start + ind
+			self.addTag(self.from(cursor))
 			self.cursor += len(`]`)
 			return
 		}
 
 		if char == '[' {
-			self.cursor = start + i + len(`[`)
-			panic(e.New(`unexpected nested "["`))
+			self.cursor = start + ind + len(`[`)
+			panic(gg.Errv(`unexpected nested "["`))
 		}
 	}
 
@@ -173,9 +172,9 @@ func (self *Parser) entryTags() {
 	panic(errEof(']'))
 }
 
-func (self *Parser) appendTag(val string) {
+func (self *Parser) addTag(val string) {
 	// defer self.detail()
-	self.entry.appendTag(val)
+	self.entry.addTag(val)
 }
 
 func (self *Parser) entryAuthor() {
@@ -189,7 +188,7 @@ func (self *Parser) entryAuthor() {
 
 	author := strings.TrimSpace(self.from(start))
 	if len(author) == 0 {
-		panic(e.New(`expected "©" to be followed by author name`))
+		panic(gg.Errv(`expected "©" to be followed by author name`))
 	}
 
 	self.entry.Author = author
@@ -205,7 +204,7 @@ func (self *Parser) delimWhitespace() {
 
 	// nolint:staticcheck
 	if self.more() && !self.scannedNewline() || self.more() && !self.scannedNewline() {
-		panic(e.New(`expected at least two newlines or EOF`))
+		panic(gg.Errv(`expected at least two newlines or EOF`))
 	}
 
 	self.whitespace()
@@ -222,7 +221,7 @@ func (self *Parser) rest() string {
 	if self.more() {
 		return self.Source[self.cursor:]
 	}
-	return ""
+	return ``
 }
 
 func (self *Parser) from(start int) string {
@@ -232,7 +231,7 @@ func (self *Parser) from(start int) string {
 	if start < self.cursor {
 		return self.Source[start:self.cursor]
 	}
-	return ""
+	return ``
 }
 
 func (self *Parser) end() { self.cursor = len(self.Source) }
@@ -275,9 +274,9 @@ func (self *Parser) bytesWith(set *charset) {
 }
 
 func (self *Parser) charsWithout(set *charset) {
-	for i, char := range self.rest() {
+	for ind, char := range self.rest() {
 		if set.hasRune(char) {
-			self.cursor += i
+			self.cursor += ind
 			return
 		}
 	}
@@ -285,14 +284,14 @@ func (self *Parser) charsWithout(set *charset) {
 }
 
 func (self *Parser) singleLineUntil(delim rune) {
-	for i, char := range self.rest() {
+	for ind, char := range self.rest() {
 		if charsetNewline.hasRune(char) {
-			self.cursor += i
+			self.cursor += ind
 			panic(errNewline(delim))
 		}
 
 		if char == delim {
-			self.cursor += i
+			self.cursor += ind
 			return
 		}
 	}

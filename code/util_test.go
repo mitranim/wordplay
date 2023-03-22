@@ -3,30 +3,35 @@ package main
 import (
 	"strings"
 	"testing"
+
+	"github.com/mitranim/gg"
+	"github.com/mitranim/gg/gtest"
 )
 
 func Test_charset(t *testing.T) {
-	testCharset(t, new(charset), "")
-	testCharset(t, charsetSpace, " \t\v")
-	testCharset(t, charsetNewline, "\r\n")
-	testCharset(t, charsetWhitespace, " \t\v\r\n")
-	testCharset(t, charsetDelim, " \t\v\r\n#()[];,")
+	defer gtest.Catch(t)
+
+	testCharset(new(charset), ``)
+	testCharset(charsetSpace, " \t\v")
+	testCharset(charsetNewline, "\r\n")
+	testCharset(charsetWhitespace, " \t\v\r\n")
+	testCharset(charsetDelim, " \t\v\r\n#()[];,")
 }
 
-func testCharset(t *testing.T, set *charset, chars string) {
-	for i := 0; i <= 256; i++ {
-		if strings.ContainsRune(chars, rune(i)) {
+func testCharset(set *charset, chars string) {
+	for ind := range gg.Iter(256) {
+		if strings.ContainsRune(chars, rune(ind)) {
 			continue
 		}
 
-		if set.has(i) {
-			t.Fatalf("charset shouldn't contain %#0.2x", i)
+		if set.has(ind) {
+			panic(gg.Errf(`charset must not contain %#0.2x`, ind))
 		}
 	}
 
 	for _, char := range chars {
 		if !set.hasRune(char) {
-			t.Fatalf("charset should contain %#0.2x", char)
+			panic(gg.Errf(`charset must contain %#0.2x`, char))
 		}
 	}
 }

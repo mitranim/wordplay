@@ -1,10 +1,4 @@
-github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
-github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/mitranim/cmd v0.1.1 h1:iMY6zBQaTYaXbnCZQwa0fpEJE/Lgt519WaVdW+1k6y0=
 github.com/mitranim/cmd v0.1.1/go.mod h1:L3wDcJjmhcGOLadn3C1DXAbfXS+Z3eelIJmtLo1Gl7U=
-github.com/mitranim/repr v0.1.4 h1:TyYjXsgJzPz6kFvoAyMr59WmuU1hOLzKJAKAJKZHhHg=
-github.com/mitranim/repr v0.1.4/go.mod h1:Oq5CXYj9gIShVielHhMuHUNSOThfoiY2WgYrC9imoRc=
-github.com/mitranim/try v0.1.5 h1:ioqnljgOzOEW271qKACE/zx2dvawqhhQtFNs6KTWNrY=
-github.com/mitranim/try v0.1.5/go.mod h1:ipAI5o4KhJtrgYjpPyxFrpe2ef03QaneyOavKLcMORE=
-github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
-github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/mitranim/gg v0.1.3 h1:nqcDtHO4GJf59kECyUJOl2oTHcV8HPQSvoHGebezL9k=
+github.com/mitranim/gg v0.1.3/go.mod h1:x2V+nJJOpeMl/XEoHou9zlTvFxYAcGOCqOAKpVkF0Yc=
