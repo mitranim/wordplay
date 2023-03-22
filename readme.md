@@ -1,6 +1,6 @@
 silicoin © M
 
-"the existence of 'beta' implies the existence of 'worsa'" © LR
+"existence of 'beta' implies existence of 'worsa'" © LR
 
 sadvertisement (stuff like those ads asking you for charity donations) © LJ
 
@@ -282,7 +282,7 @@ liblyary [ru] © LR
 
 aperight (simian that consistently walks upright 🐒) © LR
 
-sonflower (the existence of which implies the existence of "momflower" and more) © M
+sonflower (existence of which implies existence of "momflower" and more) © M
 
 opteamize © M
 
@@ -368,7 +368,7 @@ seamergency © LJ
 
 thikn (trying to use that dense skull) © M
 
-"the existence of a 'succubus' implies the existence of a 'sucsphere' and 'sucpyramid'" © LJ
+"existence of a 'succubus' implies existence of a 'sucsphere' and 'sucpyramid'" © LJ
 
 minipulate © M
 
@@ -400,7 +400,7 @@ relictant (maybe being unwilling or frankly unable to do something due to age-re
 
 contrapaganda (monotheism) © M
 
-"the existence of 'propaganda' implies the existence of 'contraganda'" © LJ
+"existence of 'propaganda' implies existence of 'contraganda'" © LJ
 
 exitstence © LR
 
@@ -638,7 +638,7 @@ koñditioning (training regimen for 🐴) © M
 
 koñtribution (to the well-being of the 🐴 tribe?) © Yury
 
-"the existence of a '.computer' implies the existence of a '.netputer'" © LJ
+"existence of a '.computer' implies existence of a '.netputer'" © LJ
 
 koñputer [🐴] © M
 
@@ -668,7 +668,7 @@ podlowan (betrays the Jedi Order) [ru] © LR
 
 republick © M
 
-"the existence of 'nutrients' implies the existence of 'oldtrients'" (rotten/moldy food?) © LJ
+"existence of 'nutrients' implies existence of 'oldtrients'" (rotten/moldy food?) © LJ
 
 circustance © ️ Yury
 
@@ -972,7 +972,7 @@ icknore © M
 
 reeliable (always makes you shake) © M
 
-"the existence of 'heresy' implies the existence of 'theresy'" © LR
+"existence of 'heresy' implies existence of 'theresy'" © LR
 
 reprehandsible (mittens going where they don't belong) © M
 
@@ -1002,13 +1002,13 @@ ourganization (as opposed to theirganization) © LR
 
 cellery (well-packed assortment of greens) © LJ
 
-"the existence of 'admin' implies the existence of 'admax'" (the former is when you have adblocker installed, the latter is if you do not) © LR
+"existence of 'admin' implies existence of 'admax'" (the former is when you have adblocker installed, the latter is if you do not) © LR
 
 oddmin © M
 
 koñnibalism [🐴] © M
 
-"the existence of 'lesson' implies the existence of 'moreon'" © M
+"existence of 'lesson' implies existence of 'moreon'" © M
 
 laterr (when your tardiness causes a big issue down the line) © LJ
 
