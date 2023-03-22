@@ -2794,6 +2794,8 @@ fartress © M
 
 sadistick © M
 
+sadisfucktion © M
+
 sadisfaction © M
 
 sadisfying © M
@@ -4211,6 +4213,8 @@ kingratulations (royal gratitude) © M
 orcestrate (horde manipulation) © M
 
 sicksessful © M
+
+sucksexfull (lewd / promiscuous) © Yury
 
 sucksexsful (lewd way to the top) © M
 
