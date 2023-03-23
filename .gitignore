@@ -1,6 +1,7 @@
 /*
 !/.*ignore
-!/*.md
+!/readme.md
+!/readme_ru.md
 
 !/code
 /code/*

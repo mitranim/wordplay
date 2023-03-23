@@ -1,4 +1,14 @@
+github.com/joeshaw/envdecode v0.0.0-20200121155833-099f1fc765bd h1:nIzoSW6OhhppWLm4yqBwZsKJlAayUu5FGozhrF3ETSM=
+github.com/joeshaw/envdecode v0.0.0-20200121155833-099f1fc765bd/go.mod h1:MEQrHur0g8VplbLOv5vXmDzacSaH9Z7XhcgsSh1xciU=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
 github.com/mitranim/cmd v0.1.1 h1:iMY6zBQaTYaXbnCZQwa0fpEJE/Lgt519WaVdW+1k6y0=
 github.com/mitranim/cmd v0.1.1/go.mod h1:L3wDcJjmhcGOLadn3C1DXAbfXS+Z3eelIJmtLo1Gl7U=
 github.com/mitranim/gg v0.1.3 h1:nqcDtHO4GJf59kECyUJOl2oTHcV8HPQSvoHGebezL9k=
 github.com/mitranim/gg v0.1.3/go.mod h1:x2V+nJJOpeMl/XEoHou9zlTvFxYAcGOCqOAKpVkF0Yc=
+github.com/mitranim/gr v0.1.11 h1:+RyW/TmP6G6VH4QHa6oteEk1wMA1kWrACmGlONKLlwk=
+github.com/mitranim/gr v0.1.11/go.mod h1:+KWiSN9jztMUxh9ljLxHmg8B7v6vCT/iZ2XD1AQn9JY=
+github.com/mitranim/gt v0.1.20 h1:1ZjUpBCvu7MhjjiuEYOc6m996ded6KMLOyGJbkGeaJ0=
+github.com/mitranim/gt v0.1.20/go.mod h1:rU4w9kksmZemCHWjXNzafhFCYQpCeM2+lGfhEkSNbKk=
+github.com/mitranim/rf v0.5.2 h1:Oyr2zOAM4uyytL9oYXX38j5Oh5yINofKA1AmC7Z2DNs=
+github.com/mitranim/rf v0.5.2/go.mod h1:nd93fkZKajizpTVRLkoQBaZQFBb54Ne6zSDhrjrtxj4=

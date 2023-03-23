@@ -8,22 +8,22 @@ import (
 	"github.com/mitranim/gg/grepr"
 )
 
-func cmdNorm() {
-	normFile(`../readme.md`)
-	normFile(`../readme_ru.md`)
+func CmdNorm() {
+	NormFile(`../readme.md`)
+	NormFile(`../readme_ru.md`)
 }
 
-func normFile(path string) {
+func NormFile(path string) {
 	entries := ParseEntries(gg.ReadFile[string](path))
 
 	for ind := range entries {
 		entry := &entries[ind]
 
-		if entry.Author == `LandRaider` {
+		if entry.Author == `LandRaider` || entry.Author == `VengefulAncient` {
 			entry.Author = `LR`
 		}
 
-		if entry.Author == `LeoJo` {
+		if entry.Author == `LeoJo` || entry.Author == `LeoJo231094` {
 			entry.Author = `LJ`
 		}
 

@@ -1,10 +1,11 @@
 MAKEFLAGS := --silent --always-make
 TEST := test $(if $(filter $(verb),true),-v,) -count=1 -short -run=$(run)
-BENCH := test -count=1 -short -bench=$(or $(run),.) -benchmem -timeout=1s
+BENCH := test -count=1 -short -run=- -bench=$(or $(run),.) -benchmem -benchtime=128ms -timeout=1s
+GOW := gow -c -v -i=testdata
 
 .PHONY: test_w
 test_w:
-	gow -c -v $(TEST)
+	$(GOW) $(TEST)
 
 .PHONY: test
 test:
@@ -12,7 +13,7 @@ test:
 
 .PHONY: bench_w
 bench_w:
-	gow -c -v $(BENCH)
+	$(GOW) $(BENCH)
 
 .PHONY: bench
 bench:
@@ -24,7 +25,7 @@ lint:
 
 .PHONY: run_w
 run_w:
-	gow -c -v run . $(run)
+	$(GOW) run . $(run)
 
 .PHONY: run
 run:
@@ -33,6 +34,10 @@ run:
 .PHONY: norm
 norm:
 	$(MAKE) run run=norm
+
+.PHONY: discord_download
+discord_download:
+	$(MAKE) run run=discord_download
 
 # Usage:
 #   make log search="<word>"

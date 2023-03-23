@@ -2,9 +2,11 @@ package main
 
 import (
 	"path/filepath"
+	r "reflect"
 	"strings"
 
 	"github.com/mitranim/gg"
+	"github.com/mitranim/rf"
 )
 
 const (
@@ -110,6 +112,26 @@ func HeadChar(str string) (char rune, size int) {
 		}
 	}
 	return
+}
+
+func ReqField[Out, Src any](src Src, off uintptr) Out {
+	typ := gg.Type[Src]()
+	field := rf.TypeOffsetFields(typ)[off][0]
+	val := r.ValueOf(&src).Elem().FieldByIndex(field.Index).Interface().(Out)
+
+	if gg.IsZero(val) {
+		panic(gg.Errf(`unexpected zero value of field %q of %v`, field.Name, typ))
+	}
+	return val
+}
+
+func SortReverse[A gg.Lesser[A]](val []A) {
+	gg.Sort(val)
+	gg.Reverse(val)
+}
+
+func JoinLinesSparse[A gg.Text](src ...A) A {
+	return gg.ToText[A](gg.JoinOpt(src, gg.Newline+gg.Newline))
 }
 
 // TODO move to `gg`. Needs tests. TODO another version that takes char index.
