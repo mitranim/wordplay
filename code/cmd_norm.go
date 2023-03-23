@@ -39,5 +39,5 @@ func normFile(path string) {
 		os.Exit(1)
 	}
 
-	writeFile(path, entries.Bytes())
+	WriteFile(path, entries.String())
 }

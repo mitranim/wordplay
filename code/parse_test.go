@@ -14,6 +14,7 @@ import (
 
 var tSrc = strings.TrimSpace(gg.ReadFile[string](SRC_FILE))
 
+// TODO test invalid sources.
 func Test_parse_and_format(t *testing.T) {
 	defer gtest.Catch(t)
 
@@ -39,7 +40,7 @@ func Test_parse_and_format(t *testing.T) {
 func Benchmark_parse(b *testing.B) {
 	defer gtest.Catch(b)
 
-	for range counter(b.N) {
+	for range gg.Iter(b.N) {
 		_ = ParseEntries(tSrc)
 	}
 }
@@ -50,8 +51,8 @@ func Benchmark_format(b *testing.B) {
 	entries := ParseEntries(tSrc)
 	b.ResetTimer()
 
-	for range counter(b.N) {
-		_ = entries.Bytes()
+	for range gg.Iter(b.N) {
+		_ = entries.String()
 	}
 }
 
@@ -60,6 +61,6 @@ func writeTempFile(subpath, content string) string {
 	gtest.NotZero(tempDir, `need non-empty path for temporary directory`)
 
 	path := filepath.Join(tempDir, `wordplay_testing`, subpath)
-	writeFile(path, content)
+	WriteFile(path, content)
 	return path
 }

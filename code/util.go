@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
 	"path/filepath"
+	"strings"
 
 	"github.com/mitranim/gg"
 )
@@ -12,75 +12,67 @@ const (
 	SHORT_SNIPPET_LEN = 64
 )
 
-// Fixed size because it's simpler and we only need ASCII support.
-// Used by pointer because large size = slow copying.
-// Simpler and faster than bitset.
-type charset [128]bool
+// Performs much better than equivalent map-based set.
+type Charset []bool
 
-func (self *charset) has(val int) bool      { return val < len(self) && self[val] }
-func (self *charset) hasByte(val byte) bool { return self.has(int(val)) }
-func (self *charset) hasRune(val rune) bool { return self.has(int(val)) }
+func (self Charset) HasInt(val int) bool   { return val < len(self) && self[val] }
+func (self Charset) HasByte(val byte) bool { return self.HasInt(int(val)) }
+func (self Charset) HasRune(val rune) bool { return self.HasInt(int(val)) }
 
-func (self *charset) hasRunes(src string) bool {
+func (self Charset) HasRunes(src string) bool {
 	for _, char := range src {
-		if self.hasRune(char) {
+		if self.HasRune(char) {
 			return true
 		}
 	}
 	return false
 }
 
-func (self *charset) str(str string) *charset {
-	for _, char := range str {
-		self[char] = true
+func (self Charset) Add(val int) Charset {
+	diff := val - len(self)
+	if diff >= 0 {
+		self = gg.GrowLen(self, diff+1)
+	}
+	self[val] = true
+	return self
+}
+
+func (self Charset) AddStr(src string) Charset {
+	for _, char := range src {
+		self = self.Add(int(char))
 	}
 	return self
 }
 
-func (self *charset) union(set *charset) *charset {
-	for ind, ok := range set {
+func (self Charset) AddFrom(src Charset) Charset {
+	for ind, ok := range src {
 		if ok {
-			self[ind] = true
+			self = self.Add(ind)
 		}
 	}
 	return self
 }
 
 var (
-	charsetSpace      = new(charset).str(" \t\v")
-	charsetNewline    = new(charset).str("\r\n")
-	charsetPunct      = new(charset).str(`#()[];,`)
-	charsetWhitespace = new(charset).union(charsetSpace).union(charsetNewline)
-	charsetDelim      = new(charset).union(charsetWhitespace).union(charsetPunct)
+	CharsetSpace      = Charset(nil).AddStr(" \t\v")
+	CharsetNewline    = Charset(nil).AddStr("\r\n")
+	CharsetWhitespace = Charset(nil).AddFrom(CharsetSpace).AddFrom(CharsetNewline)
+	CharsetDelim      = Charset(nil).AddStr(`()[]©`).AddFrom(CharsetNewline)
 )
 
-func counter(n int) []struct{} { return make([]struct{}, n) }
+func Snippet(src string, limit uint) string {
+	return gg.Ellipsis(UntilNewline(src), limit)
+}
 
-func sep(ptr *string, sep string) {
-	if len(*ptr) > 0 {
-		*ptr += sep
+func UntilNewline[A gg.Text](src A) A {
+	ind := strings.IndexAny(gg.ToString(src), "\r\n")
+	if ind >= 0 {
+		return src[:ind]
 	}
+	return src
 }
 
-func spf(ptr *string, pattern string, args ...interface{}) {
-	*ptr += fmt.Sprintf(pattern, args...)
-}
-
-func snippet(input string, limit int) string {
-	for ind, char := range input {
-		switch char {
-		case '\n', '\r':
-			return input[:ind]
-		}
-
-		if ind > limit {
-			return input[:ind] + "…"
-		}
-	}
-	return input
-}
-
-func leadingNewlineSize(str string) int {
+func LeadingNewlineSize(str string) int {
 	if len(str) >= 2 && str[0] == '\r' && str[1] == '\n' {
 		return 2
 	}
@@ -90,18 +82,7 @@ func leadingNewlineSize(str string) int {
 	return 0
 }
 
-func appendNewlineIfNeeded(buf []byte) []byte {
-	if len(buf) > 0 {
-		return appendNewline(buf)
-	}
-	return buf
-}
-
-func appendNewline(buf []byte) []byte {
-	return append(buf, '\n')
-}
-
-func appendJoined(buf []byte, sep string, vals []string) []byte {
+func AppendJoined(buf []byte, sep string, vals []string) []byte {
 	for ind, val := range vals {
 		if ind > 0 {
 			buf = append(buf, sep...)
@@ -111,14 +92,14 @@ func appendJoined(buf []byte, sep string, vals []string) []byte {
 	return buf
 }
 
-func writeFile[A gg.Text](path string, val A) {
+func WriteFile[A gg.Text](path string, val A) {
 	gg.MkdirAll(filepath.Dir(path))
 	gg.WriteFile(path, val)
 }
 
 // Like `utf8.DecodeRuneInString`, but much faster in Go < 1.17, and without
 // `utf8.RuneError`.
-func headChar(str string) (char rune, size int) {
+func HeadChar(str string) (char rune, size int) {
 	for ind, val := range str {
 		if ind == 0 {
 			char = val
@@ -129,4 +110,43 @@ func headChar(str string) (char rune, size int) {
 		}
 	}
 	return
+}
+
+// TODO move to `gg`. Needs tests. TODO another version that takes char index.
+func RowCol(src string, byteInd int) (row int, col int) {
+	for ind, char := range src {
+		if ind >= byteInd {
+			break
+		}
+
+		if char == '\r' && ind < len(src)-2 && src[ind+1] == '\n' {
+			continue
+		}
+
+		if char == '\r' || char == '\n' {
+			row++
+			col = 0
+			continue
+		}
+
+		col++
+	}
+
+	row++
+	col++
+	return
+}
+
+func Unquote(src string) string {
+	const quote = '"'
+	size := len(src)
+
+	if size > 1 && src[0] == quote && src[size-1] == quote {
+		inner := src[1 : size-1]
+		if !strings.ContainsRune(inner, quote) {
+			return inner
+		}
+	}
+
+	return src
 }

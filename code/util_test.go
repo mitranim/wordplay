@@ -8,30 +8,30 @@ import (
 	"github.com/mitranim/gg/gtest"
 )
 
-func Test_charset(t *testing.T) {
+func Test_Charset(t *testing.T) {
 	defer gtest.Catch(t)
 
-	testCharset(new(charset), ``)
-	testCharset(charsetSpace, " \t\v")
-	testCharset(charsetNewline, "\r\n")
-	testCharset(charsetWhitespace, " \t\v\r\n")
-	testCharset(charsetDelim, " \t\v\r\n#()[];,")
+	testCharset(Charset(nil), ``)
+	testCharset(CharsetSpace, " \t\v")
+	testCharset(CharsetNewline, "\r\n")
+	testCharset(CharsetWhitespace, " \t\v\r\n")
+	testCharset(CharsetDelim, "()[]©\r\n")
 }
 
-func testCharset(set *charset, chars string) {
+func testCharset(set Charset, chars string) {
 	for ind := range gg.Iter(256) {
 		if strings.ContainsRune(chars, rune(ind)) {
 			continue
 		}
 
-		if set.has(ind) {
-			panic(gg.Errf(`charset must not contain %#0.2x`, ind))
+		if set.HasInt(ind) {
+			panic(gg.Errf(`charset must not contain int %#0.2x (%v); charset: %v`, ind, ind, set))
 		}
 	}
 
 	for _, char := range chars {
-		if !set.hasRune(char) {
-			panic(gg.Errf(`charset must contain %#0.2x`, char))
+		if !set.HasRune(char) {
+			panic(gg.Errf(`charset must contain rune %#0.2x (%q); charset: %v`, char, char, set))
 		}
 	}
 }

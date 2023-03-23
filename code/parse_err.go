@@ -15,9 +15,7 @@ type ParseErr struct {
 	Cause   error
 }
 
-func (self ParseErr) Error() string {
-	return self.fmt(false)
-}
+func (self ParseErr) Error() string { return self.fmt(false) }
 
 func (self ParseErr) Unwrap() error { return self.Cause }
 
@@ -38,50 +36,30 @@ func (self ParseErr) Format(fms fmt.State, verb rune) {
 	}
 }
 
-func (self ParseErr) fmt(expand bool) (out string) {
-	row, col := rowCol(self.Source, self.Cursor)
-	spf(&out, `<row:col> %v:%v`, row, col)
+func (self ParseErr) fmt(expand bool) string {
+	row, col := RowCol(self.Source, self.Cursor)
 
-	if self.Cause != nil {
-		sep(&out, `: `)
-		if expand {
-			spf(&out, `%+v`, self.Cause)
-		} else {
-			spf(&out, `%v`, self.Cause)
-		}
-	}
+	var buf gg.Buf
+	buf.AppendString(`<row:col> `)
+	buf.AppendInt(row)
+	buf.AppendString(`:`)
+	buf.AppendInt(col)
 
 	if len(self.Snippet) > 0 {
-		sep(&out, `; following text: `)
-		spf(&out, `%q`, self.Snippet)
-	}
-	return
-}
-
-func rowCol(src string, pos int) (row int, col int) {
-	var chars int
-	for ind, char := range src {
-		chars++
-		if chars == pos {
-			break
-		}
-
-		if char == '\r' && ind < len(src)-2 && src[ind+1] == '\n' {
-			continue
-		}
-
-		if char == '\r' || char == '\n' {
-			row++
-			col = 0
-			continue
-		}
-
-		col++
+		buf.AppendString(`; followed by: `)
+		buf.AppendString(gg.Quote(self.Snippet))
 	}
 
-	row++
-	col++
-	return
+	if self.Cause != nil {
+		buf.AppendString(`; `)
+		if expand {
+			buf.Fprintf(`%+v`, self.Cause)
+		} else {
+			buf.AppendAny(self.Cause)
+		}
+	}
+
+	return buf.String()
 }
 
 func errNewline(delim rune) error {

@@ -20,9 +20,7 @@ type Parser struct {
 	entry   Entry
 }
 
-func MakeParser(content string) Parser {
-	return Parser{Source: content}
-}
+func MakeParser(content string) Parser { return Parser{Source: content} }
 
 func (self *Parser) Parse() {
 	defer gg.Detail(`failed to parse entries`)
@@ -38,48 +36,24 @@ func (self *Parser) Parse() {
 func (self *Parser) any() {
 	switch {
 	case self.scanned((*Parser).whitespace):
-	case self.scanned((*Parser).entryQuoted):
-	case self.scanned((*Parser).entryUnquoted):
+	case self.scanned((*Parser).entryLine):
 	}
 }
 
-func (self *Parser) entryQuoted() {
-	if !self.scannedByte('"') {
-		return
-	}
-
-	start := self.cursor
-	self.singleLineUntil('"')
-
-	phrase := strings.TrimSpace(self.from(start))
-	self.cursor += len(`"`)
-
-	if len(phrase) == 0 {
-		panic(gg.Errv(`quoted phrase is empty`))
-	}
-
-	self.entry.Phrase = phrase
-	self.entryRest()
-}
-
-func (self *Parser) nonDelim() { self.charsWithout(charsetDelim) }
-
-func (self *Parser) entryUnquoted() {
+func (self *Parser) entryLine() {
 	start := self.cursor
 	if !self.scanned((*Parser).nonDelim) {
 		return
 	}
 
 	phrase := strings.TrimSpace(self.from(start))
-	if len(phrase) == 0 {
-		panic(gg.Errv(`phrase is empty`))
+	if !(len(phrase) > 0) {
+		panic(gg.Errv(`empty phrase`))
 	}
 
-	self.entry.Phrase = phrase
-	self.entryRest()
-}
+	// Somewhat suboptimal due to reparsing.
+	self.entry.Phrase = Unquote(phrase)
 
-func (self *Parser) entryRest() {
 	self.entryMeanings()
 	self.entryTags()
 	self.entryAuthor()
@@ -97,7 +71,7 @@ func (self *Parser) entryMeanings() {
 	cursor := self.cursor
 
 	for ind, char := range self.rest() {
-		if charsetNewline.hasRune(char) {
+		if CharsetNewline.HasRune(char) {
 			self.cursor = start + ind + utf8.RuneLen(char)
 			panic(errNewline(')'))
 		}
@@ -127,9 +101,11 @@ func (self *Parser) entryMeanings() {
 	panic(errEof(')'))
 }
 
+func (self *Parser) nonDelim() { self.charsWithout(CharsetDelim) }
+
 func (self *Parser) addMeaning(val string) {
 	// defer self.detail()
-	self.entry.addMeaning(val)
+	self.entry.AddMeaning(val)
 }
 
 func (self *Parser) entryTags() {
@@ -142,7 +118,7 @@ func (self *Parser) entryTags() {
 	cursor := self.cursor
 
 	for ind, char := range self.rest() {
-		if charsetNewline.hasRune(char) {
+		if CharsetNewline.HasRune(char) {
 			self.cursor = start + ind + utf8.RuneLen(char)
 			panic(errNewline(']'))
 		}
@@ -174,7 +150,7 @@ func (self *Parser) entryTags() {
 
 func (self *Parser) addTag(val string) {
 	// defer self.detail()
-	self.entry.addTag(val)
+	self.entry.AddTag(val)
 }
 
 func (self *Parser) entryAuthor() {
@@ -210,12 +186,11 @@ func (self *Parser) delimWhitespace() {
 	self.whitespace()
 }
 
-func (self *Parser) whitespace() { self.bytesWith(charsetWhitespace) }
-func (self *Parser) space()      { self.bytesWith(charsetSpace) }
-func (self *Parser) newline()    { self.cursor += leadingNewlineSize(self.rest()) }
-func (self *Parser) nonNewline() { self.charsWithout(charsetNewline) }
-
-func (self *Parser) more() bool { return self.cursor < len(self.Source) }
+func (self *Parser) whitespace() { self.bytesWith(CharsetWhitespace) }
+func (self *Parser) space()      { self.bytesWith(CharsetSpace) }
+func (self *Parser) newline()    { self.cursor += LeadingNewlineSize(self.rest()) }
+func (self *Parser) nonNewline() { self.charsWithout(CharsetNewline) }
+func (self *Parser) more() bool  { return self.cursor < len(self.Source) }
 
 func (self *Parser) rest() string {
 	if self.more() {
@@ -236,13 +211,13 @@ func (self *Parser) from(start int) string {
 
 func (self *Parser) end() { self.cursor = len(self.Source) }
 
-func (self *Parser) headByte() byte {
-	return self.Source[self.cursor]
-}
+func (self *Parser) headByte() byte { return self.Source[self.cursor] }
 
 func (self *Parser) scanned(fun func(*Parser)) bool {
 	start := self.cursor
-	fun(self)
+	if fun != nil {
+		fun(self)
+	}
 	return self.cursor > start
 }
 
@@ -259,7 +234,7 @@ func (self *Parser) scannedByte(char byte) bool {
 }
 
 func (self *Parser) scannedChar(val rune) bool {
-	char, size := headChar(self.rest())
+	char, size := HeadChar(self.rest())
 	if size > 0 && val == char {
 		self.cursor += size
 		return true
@@ -267,44 +242,27 @@ func (self *Parser) scannedChar(val rune) bool {
 	return false
 }
 
-func (self *Parser) bytesWith(set *charset) {
-	for self.more() && set.hasByte(self.headByte()) {
+func (self *Parser) bytesWith(set Charset) {
+	for self.more() && set.HasByte(self.headByte()) {
 		self.cursor++
 	}
 }
 
-func (self *Parser) charsWithout(set *charset) {
+func (self *Parser) charsWithout(set Charset) {
 	for ind, char := range self.rest() {
-		if set.hasRune(char) {
+		if set.HasRune(char) {
 			self.cursor += ind
 			return
 		}
 	}
 	self.end()
-}
-
-func (self *Parser) singleLineUntil(delim rune) {
-	for ind, char := range self.rest() {
-		if charsetNewline.hasRune(char) {
-			self.cursor += ind
-			panic(errNewline(delim))
-		}
-
-		if char == delim {
-			self.cursor += ind
-			return
-		}
-	}
-
-	self.end()
-	panic(errEof(delim))
 }
 
 func (self *Parser) err(err error) error {
 	return ParseErr{
 		Source:  self.Source,
 		Cursor:  self.cursor,
-		Snippet: snippet(self.rest(), SHORT_SNIPPET_LEN),
+		Snippet: Snippet(self.rest(), SHORT_SNIPPET_LEN),
 		Cause:   err,
 	}
 }
