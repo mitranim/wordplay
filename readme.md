@@ -1310,7 +1310,7 @@ fartial © M
 
 inproper © M
 
-bootom / boottom (a butt that's asking for a boot) © Yury
+boottom (alternatively "bootom"; a butt that's asking for a boot) © Yury
 
 costline © LJ
 
@@ -1646,7 +1646,7 @@ rastupitsa (an idiot who got stuck in the mud) [ru] © LJ
 
 puntuation (improving or ruining a moment with a well-timed or poorly-timed pun) © LJ
 
-goobermint / gooberment (as in goobers whose main purpose in life is minting cash to drive up inflation) © Chipmunch
+gooberment (alternatively "goobermint"; as in goobers whose main purpose in life is minting cash to drive up inflation) © Chipmunch
 
 lagislature (when laws are put into place too late, for example all sorts of internet-laws because b00mers in the govnovernment are tech-illiterate; slow judiciary in general) © LJ
 
@@ -1686,7 +1686,7 @@ nayming © M
 
 pump-kin © M
 
-joyage / joyager (travel for fun) © LJ
+joyager (travels for fun) © LJ
 
 occuracy © M
 
@@ -1774,7 +1774,9 @@ socialies © LR
 
 shittyotic © LJ
 
-koñcatenate / koñcat (🐴 🐈) © Yury
+koñcat (🐴🐈) © Yury
+
+koñcatenate (combine 🐴 with 🐈) © Yury
 
 intrapolate © M
 
@@ -1912,7 +1914,7 @@ clusterphobic © M
 
 seegil © LR
 
-mythematical / mythematics (when the greek letters start to appear) © LJ
+mythematics (when the greek letters start to appear) © LJ
 
 hatchred © M
 
@@ -2358,7 +2360,9 @@ blatancy (slow enough to notice) © M
 
 screamshot © M
 
-oment / omentary © M
+oment © M
+
+omentary © M
 
 impointent (ironically either a weak argument or a really important one) © LJ
 
@@ -2558,7 +2562,7 @@ simpool © Yury
 
 simpull © Yury
 
-sopli ship © LR/LJ
+sopli ship © LR
 
 soplier [ru] © M
 
@@ -3198,7 +3202,7 @@ byer (stupid "hello" idiot that instantly ignores you when you respond) © LR
 
 congloomerate © M
 
-debig (maybe going on a diet/losing weight; debugging your figure) © LJ
+debig (maybe going on a diet / losing weight; debugging your figure) © LJ
 
 discunt (cheaper prostitute?) © M
 
@@ -3434,7 +3438,7 @@ sembalance (approximation of fairness; appearance of being _half_-fair) © M
 
 lawndry (doing or rather hanging your laundry up in the garden; irrigating / cleaning your lawn) © LJ
 
-koñnection (🐴 socializing / 🐴 attachment) © M
+koñnection (🐴 socializing, 🐴 attachment) © M
 
 koñstitution (🐴 power?) [🐴] © Yury
 
@@ -3566,7 +3570,7 @@ stategy (for min-maxers who win by jerking off to stat bonuses) © LJ
 
 moneyfestation © LR
 
-pithon (when you write pithy comments using/about python) © LJ
+pithon (when you write pithy comments using/about Python) © LJ
 
 manafestation (manifestation of magic) © LJ
 
@@ -3740,7 +3744,7 @@ cowalry (riding cows 🐄) © LR
 
 boorbarian (really dim barbarians, if that's possible) © LJ
 
-amnity/emity (some sort of love-hate-relationship perhaps? ❤💔) © LJ
+amnity (alternatively "emity"; some sort of love-hate-relationship perhaps? ❤️💔) © LJ
 
 archtefact (made by architects) © M
 
