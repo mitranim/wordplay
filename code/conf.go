@@ -29,6 +29,13 @@ type Conf struct {
 	DiscordAfterMsgId      DiscordMsgId `json:"-" env:"DISCORD_AFTER_MSG_ID"`
 }
 
+func (self *Conf) Init() {
+	// Ideally, this would be called in `init`. Placed here for technical reasons.
+	gg.Try(godotenv.Load(`.env.properties`))
+
+	gg.Try(envdecode.StrictDecode(self))
+}
+
 func (self Conf) ReqDiscordChan() string {
 	return ReqField[string](self, u.Offsetof(self.DiscordChan))
 }
@@ -55,15 +62,4 @@ func (self Conf) DiscordApiUrlMsgs() gt.NullUrl {
 
 func (self Conf) DiscordReferer() gt.NullUrl {
 	return DiscordSelfUrl.AddPath(self.ReqDiscordChan())
-}
-
-/*
-Assumes that we've already initialized global env variables from env files. See
-the `init` function in this module.
-*/
-func (self *Conf) Init() {
-	// Ideally, this would be called in `init`. Placed here for technical reasons.
-	gg.Try(godotenv.Load(`.env.properties`))
-
-	gg.Try(envdecode.StrictDecode(self))
 }

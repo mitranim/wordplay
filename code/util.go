@@ -1,6 +1,8 @@
 package main
 
 import (
+	"fmt"
+	"io"
 	"path/filepath"
 	r "reflect"
 	"strings"
@@ -159,6 +161,12 @@ func RowCol(src string, byteInd int) (row int, col int) {
 	return
 }
 
+/*
+Missing feature: support for unescaping. Different languages and text formats
+use different syntax for escaping. Most sensible ones have standardized on
+backslash escaping, but some holdouts use different syntax. For example in SQL,
+single quotes are escaped by duplicating them: ''.
+*/
 func Unquote(src string) string {
 	const quote = '"'
 	size := len(src)
@@ -171,4 +179,28 @@ func Unquote(src string) string {
 	}
 
 	return src
+}
+
+// TODO move to `gg.`
+func AppendNewlineOpt[A ~string](val A) A {
+	if len(val) > 0 && !gg.HasNewlineSuffix(val) {
+		return val + A(gg.Newline)
+	}
+	return val
+}
+
+// Permissive version of `fmt.Fprintln`: does nothing if output is nil.
+// TODO move to `gg.`
+func Fprintln(out io.Writer, msg ...any) {
+	if out != nil {
+		gg.Write(out, AppendNewlineOpt(gg.Str(msg...)))
+	}
+}
+
+// Permissive version of `fmt.Fprintf`: does nothing if output is nil.
+// TODO move to `gg.`
+func Fprintf(out io.Writer, pat string, arg ...any) {
+	if out != nil {
+		fmt.Fprintf(out, pat, gg.NoEscUnsafe(arg)...)
+	}
 }
