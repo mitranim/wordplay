@@ -1,3 +1,51 @@
+meowtant (also "mewtant"; ill-bred feline) © M
+
+spinache (gives you a vertigo when eaten) © M
+
+frenchise (popular product out of the land of cheese and wine) © M
+
+existence of "Newton" implies existence of "Oldton" and "Newgram" © M
+
+existence of "profound" implies existence of "nooblost" © LR
+
+existence of "tree bark" implies existence of "grass meow" © LR
+
+proofound © M
+
+baram (🐏) [ru] © M
+
+dishruptance (accidentally opening dishwasher while it's running) © J/GPT
+
+pignoble (perhaps refined, but only by swine standards) © M
+
+existence of "sorting" almost implies existence of "sanding" (but not really) © M
+
+existence of "insert" implies existence of "outsert" (aka "delete") © M
+
+chausvinism (male pig arrogance) © M
+
+desserter (gives up on proper food in favor of sweet surrender) © M
+
+compacat (kitten or mini-bred feline) © M
+
+sexposed (photographed in the act) © M
+
+existence of "male" implies existence of "bone" (if you don't get it, study Latin) © M
+
+existence of "swine" implies existence of "svodka" © M
+
+existence of "close" implies existence of "cwin" © M
+
+existence of "lion" implies existence of "lieoff" (after eating a hearty chunk of meat, for instance 🥩😴) © M
+
+vetrification (пустить по ветру) [ru] © M
+
+Ragnarock (music that brings about the end of the world) © M
+
+Lagnarok (apocalyptically bad network connection) [jp] © M
+
+каталох (full of ripoff goods) [ru] © M
+
 existence of "farmer" implies existence of "closemer" and "nearmer" (also nærmer for WF users) © M
 
 existence of "peeling" implies existence of "pfishing" © M
@@ -1038,7 +1086,7 @@ uffset © Yury
 
 coolapsed © Yury
 
-endolphins (hormonal satisfaction from watching dolphins) © LJ
+endolphins (hormonal satisfaction from watching acquatic mammals) © LJ
 
 peatrified © LJ
 
@@ -1992,9 +2040,9 @@ shortify © Yury
 
 shortification © Yury
 
-chillinge © M
+chillinge (terrifying proposition) © M
 
-haysitate © M
+haysitate (deliberate while sitting in hay) © M
 
 heysitate © M
 
@@ -2012,13 +2060,11 @@ coñfirm (🐎🏪) © Yury
 
 thicksteen © Mike
 
-noice © LJ
-
 disploy © M
 
 querification (ascertaining the question) © Yury
 
-souplier © Yury
+souplier (liquid food vendor) © Yury
 
 participunt (someone who didn't come, or someone cracking out the puns) © Yury
 
@@ -3034,7 +3080,7 @@ goondess (stupid kind?) © M
 
 appetide (random hunger) © LJ
 
-appetit (tasty 🐦 or 🤱) © M
+appetit (taste for feminine beauty; deliciously-cooked fowl 🐦) © M
 
 apptite (ordering food through app?) © M
 
@@ -5212,7 +5258,7 @@ enducation © M
 
 beerable © M
 
-lagluster © M
+lagluster (sucks due to slow performance) © M
 
 veryable © Yury
 

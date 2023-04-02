@@ -1,5 +1,7 @@
 малокосос (needs to drink more milk to grow) [ru] © M
 
+турбопровод (has jet turbines inside) [ru] © M
+
 просранство (territory you lost control over) [ru] © LR
 
 теннисиськи [ru] © Yury
