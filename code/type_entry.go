@@ -9,12 +9,12 @@ import (
 type Entries []Entry
 
 // Implement `fmt.Stringer`.
-func (self Entries) String() string { return gg.ToString(self.Append(nil)) }
+func (self Entries) String() string { return gg.ToString(self.AppendTo(nil)) }
 
-// Implement `gg.Appender`.
-func (self Entries) Append(buf []byte) []byte {
+// Implement `gg.AppenderTo`.
+func (self Entries) AppendTo(buf []byte) []byte {
 	for _, val := range self {
-		buf = val.Append(buf)
+		buf = val.AppendTo(buf)
 	}
 	return buf
 }
@@ -44,10 +44,10 @@ type Entry struct {
 func (self Entry) Pk() string { return self.Phrase }
 
 // Implement `fmt.Stringer`.
-func (self Entry) String() string { return gg.ToString(self.Append(nil)) }
+func (self Entry) String() string { return gg.ToString(self.AppendTo(nil)) }
 
-// Implement `gg.Appender`.
-func (self Entry) Append(src []byte) []byte {
+// Implement `gg.AppenderTo`.
+func (self Entry) AppendTo(src []byte) []byte {
 	buf := gg.Buf(src)
 	if buf.Len() > 0 {
 		buf.AppendNewline()
