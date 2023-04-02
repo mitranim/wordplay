@@ -4,8 +4,6 @@ spinache (gives you a vertigo when eaten) © M
 
 frenchise (popular product out of the land of cheese and wine) © M
 
-existence of "Newton" implies existence of "Oldton" and "Newgram" © M
-
 existence of "profound" implies existence of "nooblost" © LR
 
 existence of "tree bark" implies existence of "grass meow" © LR
@@ -18,10 +16,6 @@ dishruptance (accidentally opening dishwasher while it's running) © J/GPT
 
 pignoble (perhaps refined, but only by swine standards) © M
 
-existence of "sorting" almost implies existence of "sanding" (but not really) © M
-
-existence of "insert" implies existence of "outsert" (aka "delete") © M
-
 chausvinism (male pig arrogance) © M
 
 desserter (gives up on proper food in favor of sweet surrender) © M
@@ -32,21 +26,11 @@ sexposed (photographed in the act) © M
 
 existence of "male" implies existence of "bone" (if you don't get it, study Latin) © M
 
-existence of "swine" implies existence of "svodka" © M
-
-existence of "close" implies existence of "cwin" © M
-
-existence of "lion" implies existence of "lieoff" (after eating a hearty chunk of meat, for instance 🥩😴) © M
-
 vetrification (пустить по ветру) [ru] © M
 
 Ragnarock (music that brings about the end of the world) © M
 
 Lagnarok (apocalyptically bad network connection) [jp] © M
-
-каталох (full of ripoff goods) [ru] © M
-
-existence of "farmer" implies existence of "closemer" and "nearmer" (also nærmer for WF users) © M
 
 existence of "peeling" implies existence of "pfishing" © M
 
@@ -68,15 +52,9 @@ perspecktive (personal close-up on something you're about to take a bite of) © 
 
 existence of "together" implies existence of "fromgather" (coming back with a hangover) © M
 
-existence of "business" implies existence of "troll-eye-business" © M
-
-existence of "hour" implies existence of "htheir" © M
-
 proparations (preparing by putting the props in their rightful places) © M
 
 existence of "biome" implies existence of "syntheticme" © M
-
-existence of "ball" implies existence of "bnone" © M
 
 existence of "cooking" implies existence of "cooqueen" (hen in charge of evaluating food quality) © M
 
@@ -100,35 +78,11 @@ ogressive (belligerent like an 👹) © M
 
 dismembear (tear apart with huge claws, or endure such tearing) © M
 
-existence of "regulatetion" implies existence of "reguldranktion" (which is a far more realistick and stable form of controll) © M
-
-existence of "gift" implies existence of "gthent" and "gelset" © M
-
 riversal (making rivers flow backwards) © M
-
-existence of "gnaw" implies existence of "gforget" (fuck the anglophones) © M
-
-existence of "grain" implies existence of "ghail", "gsnow", and "gdraught" © M
-
-existence of "exitence" implies existence of "enterance" © M
-
-existence of "human" implies existence of "humthe" © M
-
-existence of "preparation" implies existence of "postparation" © M
 
 existence of "payback" implies existence of "payforward" and "payfront" © M
 
-existence of "fire" implies existence of "flike" and "flove" © M
-
-existence of "cat" implies existence of "con" © M
-
-existence of "follow" implies existence of "folhigh" © M
-
-existence of "dear" implies existence of "dnose" and "deye" © M
-
 existence of "generosity" implies existence of "memerosity" (propensity for prolific culture?) © M
-
-existence of "farm" implies existence of "nearm" and "closem", as well as "fleg" © M
 
 natality (miscarriage, a natal fatality; alternatively, opposite of "fatality", a birth) © M
 
@@ -138,15 +92,11 @@ parasit (merely _sits_ at someone else's table) © M
 
 existence of "aerodynamics" and "hydrodynamics" implies existence of "aerostatics" and "hydrostatics" © M
 
-existence of "aestatics" implies existence of "aedynamics" © M
-
 Singapoor © M
 
 existence of "profession" implies existence of "confession" © M
 
 MUGila [ru] © LJ
-
-"armsome" and "arsesome" too © M
 
 existence of "handsome" implies existence of "footsome", "legsome", and possibly "mugsome" © M
 
@@ -184,17 +134,11 @@ strollop (strolling strumpet) © M
 
 eintertainment (one-time laughs for Germanic speakers) © M
 
-existence of "higherarch" implies existence of "lowerarch" © M
-
 existence of "pattern" implies existence of "mattern" © M
 
 spychological warfare © LJ
 
-existence of "talisman" implies existence of "taliswoman" © M
-
-existence of "hight" implies existence of "lowt" © M
-
-existence of "dieamond" implies existence of "liveamond" © M
+existence of "talisman" implies existence of "taliswoman" (witch who makes amulets?) © M
 
 rolepay (play-to-win in a single-player RPG? or perhaps accepting bad consequences for a choice you prefer?) © M
 
@@ -217,8 +161,6 @@ spectaculation © M
 if "louse" becomes "lice" and "mouse" becomes "mice", "house" should become "hice" © M
 
 existence of "patroll" implies existence of "matroll" © M
-
-existence of "yestarday" implies existence of "nostarday" © M
 
 corpuss (feline body) © M
 
@@ -329,8 +271,6 @@ beer-pressure (when your friend group forces you to drink) © LJ
 steeling wheel (held fast just before collision) © Yury
 
 drag'n'fly © M
-
-existence of "kobold" implies existence of "koitalic" © M
 
 existence of "imperialism" implies existence of "cherubealism" © LR
 
@@ -492,8 +432,6 @@ transmugrification (face plastic surgery, severe aging) © M
 
 necktar (protein coctail for developing a buff neck) © M
 
-existence of "flight" implies existence of "fheavy" and "fdark" © M
-
 future cars will replace "steering wheel" with "steering will" (BMI and/or autopilot) © M
 
 velossity (deceleration) © M
@@ -534,8 +472,6 @@ cobolt (fastening device made of rare metal) © M
 
 lowgin (entrance in a low position, possibly to a gyne) © M
 
-existence of "urination" implies existence of "fecation" © M
-
 brokefast (morning food you just had) © Yury © Mitranim
 
 Gearmany (where they make machinery) © M
@@ -567,8 +503,6 @@ mouseketeer (weaponized rodent) © M
 antcestors (precursors to hive species) © M
 
 airomatic (gas-borne chemicals) © M
-
-also existence of "boykot" implies existence of "girlkot" © M
 
 existence of "boycot" implies existence of "girlcot" (aka separate sleeping places) © M
 
@@ -620,15 +554,11 @@ shortgun (sawn-off shotty) © M
 
 sanscript (indian writing) © M
 
-existence of "cannon" implies existence of "cantnon" and "canyes" © M
-
 boughtleneck (missing / sold out part) © M
 
 misstery (disappointing reveal) © M
 
 sellulose © M
-
-existence of "loadout" implies existence of "loadin" © M
 
 onederstanding (seeing the truth) © M
 
@@ -834,10 +764,6 @@ kotcha © M
 
 existence of "amendment" implies existence of "awomendment" © M
 
-existence of "manual" implies existence of "pedal" © M
-
-existence of "manual" implies existence of "legal" © M
-
 contrabanned © LJ
 
 progless © LJ
@@ -1006,10 +932,6 @@ furtunate © Yury
 
 furtune © Yury
 
-existence of "phone" implies existence of "phtwo" © LR
-
-existence of "email" implies existence of "efemail" © M
-
 shieldren © M
 
 payckage © M
@@ -1156,8 +1078,6 @@ existence of "backoff" implies existence of "backon" (🐖🥩) © M
 
 existence of "bacon" implies existence of "bakeon", "bacoff", "bakeoff" © M
 
-existence of "factory" implies existence of "lieory" © M
-
 pawnder © M
 
 stoolen (nicked furniture) © M
@@ -1220,8 +1140,6 @@ existence of "vanguard" implies existence of "truckguard" and "lorryguard" © M
 
 instinkt © M
 
-existence of "Don Quixote" and "don't worry" implies existence of "Don Tworry" © M
-
 experimint © M
 
 slackluster © M
@@ -1233,8 +1151,6 @@ bearrier (🔒🚪⛔🐻) © LR
 assertificate © M
 
 beelivery © LJ
-
-existence of "disasster" implies existence of "disheadster" © M
 
 existence of "disasters" implies existence of "asters" (clearly a natural state without any complications) © LJ
 
@@ -1286,10 +1202,6 @@ kettlyst © M
 
 clausterfuck © M
 
-existence of "dog" implies existence of "lived" and "natas" © M
-
-existence of "catch" implies existence of "dogch" © M
-
 adoptation © M
 
 detells © M
@@ -1309,8 +1221,6 @@ mossquito (breeds in dark damp places) © M
 sheepherd © M
 
 sheepard © M
-
-existence of "tomato" implies existence of "fromato" © M
 
 farticle (fake news) © M
 
@@ -1340,7 +1250,7 @@ generus © M
 
 genierous © M
 
-existence of "claymore" implies existence of "clayless", "cstandmore", and "csitmore" © M
+existence of "claymore" implies existence of "clayless" © M
 
 taxt © M
 
@@ -1386,13 +1296,7 @@ gleetch © M
 
 sleepign (🐷 💤) © M
 
-existence of "soil" implies existence of "swater" and "sgas" © M
-
-existence of "tissue" implies existence of "tsolution" © M
-
 enternity (which you enter never to return) © M
-
-existence of "glisten" implies existence of "gread", as well as "gspeak", "gtalk", "gwrite" © M
 
 sharety © LJ
 
@@ -1508,7 +1412,9 @@ labortary (studies means of canceling life) © M
 
 truck record (proof of mastery of 🚜) © M
 
-existence of "legal" implies existence of "armal", "fetal" and "handal" © M
+existence of "manual" implies existence of "pedal" © M
+
+existence of "legal" implies existence of "manual" © M
 
 spoontaneous © LJ
 
@@ -1594,7 +1500,7 @@ susspect (one that got sussed out) © M
 
 creatness © M
 
-existence of "correction" implies existence of "corrinaction" (when doing nothing is right) © M
+existence of "corraction" implies existence of "corrinaction" (when doing nothing is right) © M
 
 corraction (taking action to correct something) © M
 
@@ -1614,11 +1520,7 @@ echosystem (life in a hollow chamber like a cave) © M
 
 ickosystem (full of icky slimy stuff) © M
 
-existence of "debit" implies existence of "debyte" © M
-
 slyme (slithers into places you wouldn't expect) © M
-
-existence of "organism" implies existence of "andganism" © M
 
 oreganism (lives in and feeds on ore, like some bacteria) © M
 
@@ -2858,7 +2760,7 @@ seamergency © LJ
 
 thikn (trying to use that dense skull) © M
 
-existence of a "succubus" implies existence of a "sucsphere" and "sucpyramid" © LJ
+existence of "succubus" implies existence of "sucsphere" and "sucpyramid" © LJ
 
 minipulate (little by little) © M
 
@@ -3128,7 +3030,7 @@ koñditioning (training regimen for 🐴) © M
 
 koñtribution (to the well-being of the 🐴 tribe?) © Yury
 
-existence of a '.computer' implies existence of a '.netputer' © LJ
+existence of ".computer" implies existence of ".netputer" © LJ
 
 koñputer [🐴] © M
 

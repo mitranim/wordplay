@@ -1,3 +1,5 @@
+каталох (full of ripoff goods) [ru] © M
+
 малокосос (needs to drink more milk to grow) [ru] © M
 
 турбопровод (has jet turbines inside) [ru] © M
