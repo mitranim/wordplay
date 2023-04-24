@@ -27,6 +27,10 @@ func NormFile(path string) {
 			entry.Author = `LJ`
 		}
 
+		if entry.Author == `Yury` {
+			entry.Author = `Y`
+		}
+
 		if entry.Author == `` || entry.Author == `Mitranim` {
 			entry.Author = `M`
 		}

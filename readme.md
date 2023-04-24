@@ -176,7 +176,7 @@ existence of "gallery" implies existence of "ladlery" (where kitchen utensils ar
 
 goplet (common mug used by gopniks instead of goblet) © M
 
-"cowmoonication" 🐄 💨 © LJ
+cowmoonication (🐄💨) © LJ
 
 fauxtograph (altered or otherwise falsified image) © LJ
 
@@ -196,7 +196,7 @@ existence of "talisman" implies existence of "taliswoman" (witch who makes amule
 
 rolepay (play-to-win in a single-player RPG? or perhaps accepting bad consequences for a choice you prefer?) © M
 
-batarray (multitude of flying mammals) © Yury
+batarray (multitude of flying mammals) © Y
 
 conwince (through difficult persuasion options) © M
 
@@ -230,9 +230,9 @@ consentration (agreeing to focus all efforts on something) © Dogmatix
 
 dorkness © M
 
-you buy food because of your "buyology" © Yury
+you buy food because of your "buyology" © Y
 
-badroom (for naughty activities) © Yury
+badroom (for naughty activities) © Y
 
 praysing © M
 
@@ -322,7 +322,7 @@ brutecast (maybe something like liveleak) © LJ
 
 beer-pressure (when your friend group forces you to drink) © LJ
 
-steeling wheel (held fast just before collision) © Yury
+steeling wheel (held fast just before collision) © Y
 
 drag'n'fly © M
 
@@ -348,7 +348,7 @@ swrod (dangerous poking stick) © M
 
 whirlwing © M
 
-cashalot (rich whale) © Yury
+cashalot (rich whale) © Y
 
 barkground (neighborhood full of loud dogs) © M
 
@@ -384,7 +384,7 @@ begginning © M
 
 awaylable (reachable only by mail) © M
 
-amerikoñ (equine from North or South America) © Yury
+amerikoñ (equine from North or South America) © Y
 
 screwtiny (revisor's inspection) © LJ
 
@@ -648,7 +648,7 @@ existence of "maniac" implies existence of "womaniac" © M
 
 existence of "manager" implies existence of "womanager" © M
 
-sloppery © Yury
+sloppery © Y
 
 deffective © M
 
@@ -854,7 +854,7 @@ althornative (painful palliative) © M
 
 difficultry © LJ
 
-moduration © Yury
+moduration © Y
 
 supportsmen (sportsmen representing a country) © M
 
@@ -890,7 +890,7 @@ peecock (makes a rainbow) © M
 
 elopequence (amorous persuasion) © M
 
-peace of shit © Yury
+peace of shit © Y
 
 "diabolick" 😋😈 © LJ
 
@@ -902,11 +902,11 @@ performangst © LJ
 
 oiligarch (got rich off fossil fuels) © LJ
 
-coñteenend © Yury
+coñteenend © Y
 
-mounteen © Yury
+mounteen © Y
 
-coñbinatorics © Yury
+coñbinatorics © Y
 
 mountin (full of ore veins) © M
 
@@ -930,7 +930,7 @@ afrodisiac (voodoo love potion; hungry for melanin) © M
 
 budjet (for rapid spending, money shooting out) © M
 
-napking © Yury
+napking © Y
 
 argumend (words of reconciliation after heated debate) © M
 
@@ -962,7 +962,7 @@ disciplan © M
 
 campain © M
 
-ultraviolate radiation (penetrates your defenses) © Yury
+ultraviolate radiation (penetrates your defenses) © Y
 
 compromiss © M
 
@@ -980,11 +980,11 @@ targeting ridicule (when you keep missing easy shots; aiming to make a laugh out
 
 placegolder © TK
 
-authorizate © Yury
+authorizate © Y
 
-furtunate © Yury
+furtunate © Y
 
-furtune © Yury
+furtune © Y
 
 shieldren © M
 
@@ -1058,9 +1058,9 @@ atrashious © M
 
 probablematic © M
 
-uffset © Yury
+uffset © Y
 
-coolapsed © Yury
+coolapsed © Y
 
 endolphins (hormonal satisfaction from watching acquatic mammals) © LJ
 
@@ -1178,7 +1178,7 @@ existence of "deliver" implies existence of "destomach", "dekidney", and more ©
 
 existence of "widget" implies existence of "widgive" and "widtake" © M
 
-orgenically © Yury
+orgenically © Y
 
 sendence © M
 
@@ -1236,7 +1236,7 @@ threedom © LR
 
 jeanocide (extermination of certain types of fabrics?) © LR
 
-maneer © Yury
+maneer © Y
 
 meetrics © M
 
@@ -1244,9 +1244,9 @@ metricks © M
 
 playnning © M
 
-motherator © Yury
+motherator © Y
 
-sceracity © Yury
+sceracity © Y
 
 perishute (flawed/faulty parachute) © LJ
 
@@ -1322,7 +1322,7 @@ fartial © M
 
 inproper © M
 
-boottom (alternatively "bootom"; a butt that's asking for a boot) © Yury
+boottom (alternatively "bootom"; a butt that's asking for a boot) © Y
 
 costline © LJ
 
@@ -1502,7 +1502,7 @@ andrestanding © M
 
 incherested (ready to dip a toe into the _toepic_) © M
 
-cat-a-strophe (terrible cat poetry 😼) [de] © Yury
+cat-a-strophe (terrible cat poetry 😼) [de] © Y
 
 headpjones 🤔 © M
 
@@ -1638,7 +1638,7 @@ nopposite © M
 
 adequit (leave when it's still early enough to not make things worse) © LJ
 
-oopstacle © Yury
+oopstacle © Y
 
 lolgislation (stupid law) © LJ
 
@@ -1744,7 +1744,7 @@ villaingers © LR
 
 mehthod © LJ
 
-conscientiousness (quality of wishing to do one's work or duty well and thoroughly) © Yury
+conscientiousness (quality of wishing to do one's work or duty well and thoroughly) © Y
 
 reaview (a scathing one) © M
 
@@ -1778,9 +1778,9 @@ socialies © LR
 
 shittyotic © LJ
 
-koñcat (🐴🐈) © Yury
+koñcat (🐴🐈) © Y
 
-koñcatenate (combine 🐴 with 🐈) © Yury
+koñcatenate (combine 🐴 with 🐈) © Y
 
 intrapolate © M
 
@@ -1860,7 +1860,7 @@ gall ladder © M
 
 weapon of mass distraction © LJ
 
-shuffolding © Yury
+shuffolding © Y
 
 alternot (untenable alternative) © LJ
 
@@ -1992,9 +1992,9 @@ accruate (_accruing_ proper information?) © LJ
 
 shot story (where protagonist dies, or just a mindless action movie) © LJ
 
-shortify © Yury
+shortify © Y
 
-shortification © Yury
+shortification © Y
 
 chillinge (terrifying proposition) © M
 
@@ -2010,23 +2010,23 @@ cosmosis (cosmic bleed between planes of existence? between universes?) © M
 
 goptimized (language simplified to the point of being rude; robbed to simplify) © LR
 
-looKING (🙊👑) © Yury
+looKING (🙊👑) © Y
 
-coñfirm (🐎🏪) © Yury
+coñfirm (🐎🏪) © Y
 
 thicksteen © Mike
 
 disploy © M
 
-querification (ascertaining the question) © Yury
+querification (ascertaining the question) © Y
 
-souplier (liquid food vendor) © Yury
+souplier (liquid food vendor) © Y
 
-participunt (someone who didn't come, or someone cracking out the puns) © Yury
+participunt (someone who didn't come, or someone cracking out the puns) © Y
 
-highlightning © Yury
+highlightning © Y
 
-tabull © Yury
+tabull © Y
 
 fucksimile (lifelike sex doll; also came up in a discussion about how digital versions of real humans would be treated legally if some real-world crime was done to them in VR/AR; also potential of pornstars or people in general pimping a virtual representation of their body out for money or illegally stealing someone's likeness to sell it) © LJ
 
@@ -2036,7 +2036,7 @@ hype-tech (fusion, crypto, "AI", you name it) © LJ
 
 conflickt (arguing over favorite flicks) © M
 
-🐴flict © Yury
+🐴flict © Y
 
 confleact (over nitpicks) © M
 
@@ -2052,9 +2052,9 @@ flighter © M
 
 quantitty © M
 
-okree © Yury
+okree © Y
 
-ogree © Yury
+ogree © Y
 
 likecycle (the lifecycle of a mimicrer like a cuckoo) © M
 
@@ -2062,7 +2062,7 @@ matterdata © LJ
 
 mateadata © M
 
-koñfusion © Yury
+koñfusion © Y
 
 stimultaneously © M
 
@@ -2080,7 +2080,7 @@ boundty © M
 
 busness (bus company) © LJ
 
-demonstraight © Yury
+demonstraight © Y
 
 pign (?) © M
 
@@ -2110,7 +2110,7 @@ someone bazaring you © M
 
 cimplicity © LJ
 
-wickend © Yury
+wickend © Y
 
 toilate (when you don't make it to the toilet in time 😬) © LJ
 
@@ -2158,9 +2158,9 @@ collabooration (involves rude people) © LR
 
 callaboration (over Zoom) © LR
 
-cullaboration (when the weakest links are culled) © Yury
+cullaboration (when the weakest links are culled) © Y
 
-cluboration (when they "encourage" you with beatings) © Yury
+cluboration (when they "encourage" you with beatings) © Y
 
 diemension (place that kills you; afterlife, like Hell) © M
 
@@ -2202,7 +2202,7 @@ eyepeal © M
 
 zepeling (small zeppelin) © LJ
 
-buttom © Yury
+buttom © Y
 
 malcuntent © LJ
 
@@ -2236,9 +2236,9 @@ pithetic © M
 
 innport (port town with many inns?) © M
 
-existence of "inport" implies existence of "outport" (better than "import") © Yury
+existence of "inport" implies existence of "outport" (better than "import") © Y
 
-moneyfest © Yury
+moneyfest © Y
 
 manurefacture © LR
 
@@ -2254,7 +2254,7 @@ eticat (😺👔) © LR
 
 inklewd (raunchy tattoo?) © LR
 
-appi (API for app developers) © Yury
+appi (API for app developers) © Y
 
 oregion © LR
 
@@ -2270,7 +2270,7 @@ Dermocles' sword (something shitty/dumb waiting to happen) © LR
 
 instoling © M
 
-passworld (maybe a passport respectable enough that it lets one travel freely everywhere 🌍) © Yury
+passworld (maybe a passport respectable enough that it lets one travel freely everywhere 🌍) © Y
 
 saneari (a little adventure/trip close to home) © LJ
 
@@ -2292,7 +2292,7 @@ payrents (when they pay your rent) © LR
 
 wedget (integrates WeChat?) © LR
 
-widjet (tiny rocket engine) © Yury
+widjet (tiny rocket engine) © Y
 
 crimeanal (😈🇷🇺) © LJ
 
@@ -2304,7 +2304,7 @@ criminull (?) © LR
 
 existence of "devil" implies existence of "dgood" © LR
 
-the debil on my shoulder (it **thinks** it's evil 😈🤪) © Yury
+the debil on my shoulder (it **thinks** it's evil 😈🤪) © Y
 
 paramore (there's actually a band named that) © LR
 
@@ -2368,7 +2368,7 @@ omentary © M
 
 impointent (ironically either a weak argument or a really important one) © LJ
 
-insanity check © Yury
+insanity check © Y
 
 surway © M
 
@@ -2396,7 +2396,7 @@ funnelize © M
 
 profill (profile form you must fill) © M
 
-hardkot © Yury
+hardkot © Y
 
 lrage © M
 
@@ -2420,9 +2420,9 @@ allso © M
 
 inwhited © M
 
-laughtency (laughably short delay) © Yury
+laughtency (laughably short delay) © Y
 
-lightency (delay caused by limited light speed) © Yury
+lightency (delay caused by limited light speed) © Y
 
 broduction © M
 
@@ -2462,7 +2462,7 @@ glolbal © M
 
 countrybution © LR
 
-countribution © Yury
+countribution © Y
 
 cuntribution © M
 
@@ -2534,11 +2534,11 @@ anysing © M
 
 tear🦆s © LJ
 
-pro🦆tion © Yury
+pro🦆tion © Y
 
 hippopotom (big slowpoke 🦛) [ru] © M
 
-debooger (👃🔨) © Yury
+debooger (👃🔨) © Y
 
 caught kot (🪤 🐈) © M
 
@@ -2556,13 +2556,13 @@ lemomade © LR
 
 calcollate (over a large dataset) © M
 
-coolcoolate © Yury
+coolcoolate © Y
 
 colculate (over many columns) © M
 
-simpool © Yury
+simpool © Y
 
-simpull © Yury
+simpull © Y
 
 sopli ship © LR
 
@@ -2580,7 +2580,7 @@ calldron © M
 
 hijinx © M
 
-ubuild [ru] © Yury
+ubuild [ru] © Y
 
 seervice (providing clairvoyance) © M
 
@@ -2588,11 +2588,11 @@ lolgic © M
 
 oldult © M
 
-malahit (popular mineral) © Yury
+malahit (popular mineral) © Y
 
 turnbine © M
 
-turbin (trashcan with built-in shredder blades) © Yury
+turbin (trashcan with built-in shredder blades) © Y
 
 sparser (parses incomplete text?) © M
 
@@ -2614,17 +2614,17 @@ bagin © M
 
 metal illness (anaemia; brain damange from heavy metal addiction) © M
 
-frajail © Yury
+frajail © Y
 
-rekvaaairement (🐸 🎵) [ru] © Yury
+rekvaaairement (🐸 🎵) [ru] © Y
 
-prohibidead © Yury
+prohibidead © Y
 
-meanwhale © Yury
+meanwhale © Y
 
-scarecity © Yury
+scarecity © Y
 
-scearecity © Yury
+scearecity © Y
 
 gloval (global value) © M
 
@@ -2648,7 +2648,7 @@ troyan whores (gift to competitors to keep them busy) © M
 
 whorse © M
 
-howly shit (🐺) © Yury
+howly shit (🐺) © Y
 
 raidy (ready for raiding) © M
 
@@ -2674,11 +2674,11 @@ cownt © LR
 
 amoont (🐄🌚) © M
 
-guardline (last-ditch guideline? hard rules?) © Yury
+guardline (last-ditch guideline? hard rules?) © Y
 
 puncakes © M
 
-inventure (adventure in invention) © Yury
+inventure (adventure in invention) © Y
 
 incombatible (can't be given in MUG?) © LJ
 
@@ -2706,7 +2706,7 @@ dependong © M
 
 maintion © M
 
-liebrary (full of misinformation) © Yury
+liebrary (full of misinformation) © Y
 
 aboarlition (extermination of 🐗) © LJ
 
@@ -2722,7 +2722,7 @@ abombination (🧟💣) © LR
 
 ipnut (🥾) [ru] © M
 
-repornduce © Yury
+repornduce © Y
 
 liblyary [ru] © LR
 
@@ -2744,15 +2744,15 @@ clearvoyance © M
 
 phont © M
 
-enah [ru] © Yury
+enah [ru] © Y
 
-deadluck (may or may not deadlock if you're lucky) © Yury
+deadluck (may or may not deadlock if you're lucky) © Y
 
 compilotion © LJ
 
-compeelation © Yury
+compeelation © Y
 
-interfierention © Yury
+interfierention © Y
 
 realistick © M
 
@@ -2774,7 +2774,7 @@ radicalous © M
 
 svingot (slab of pork meat 🐖) © LJ
 
-porvider [ru] © Yury
+porvider [ru] © Y
 
 doneside © M
 
@@ -2802,9 +2802,9 @@ blackluster © M
 
 countrol © M
 
-cowder (codes 🐄💩) © Yury
+cowder (codes 🐄💩) © Y
 
-bullder (🐂⚒️) © Yury
+bullder (🐂⚒️) © Y
 
 tittoo © LJ
 
@@ -2854,7 +2854,7 @@ existense (time during which we exist; tense life) © LJ
 
 orkonomics (probably based on how much one can deal out or endure in the mug; after that you can take what you want) © LJ
 
-organomics (conveniences for organics) © Yury
+organomics (conveniences for organics) © Y
 
 owener © M
 
@@ -2870,7 +2870,7 @@ fromtend © M
 
 subjackt © M
 
-horrifine © Yury
+horrifine © Y
 
 extraresting © LJ
 
@@ -2896,19 +2896,19 @@ cheapear © M
 
 answerig (voicemail? ☎️) © LR
 
-chick-in © Yury
+chick-in © Y
 
-chick this out © Yury
+chick this out © Y
 
-everyware (ubiquitous goods) © Yury
+everyware (ubiquitous goods) © Y
 
-koñgratulations © Yury
+koñgratulations © Y
 
-congreatulatons © Yury
+congreatulatons © Y
 
-asswell (source of dumb ideas) © Yury
+asswell (source of dumb ideas) © Y
 
-everwhere © Yury
+everwhere © Y
 
 dicket © M
 
@@ -3000,7 +3000,7 @@ bellance © M
 
 cuntain © M
 
-shirt-lived © Yury
+shirt-lived © Y
 
 somesing (random tune) © M
 
@@ -3010,11 +3010,11 @@ countroller © M
 
 cuntroller (gynecologist) © M
 
-cantroll (must pay this 👹 to roll further) © Yury
+cantroll (must pay this 👹 to roll further) © Y
 
 cantinue (just because you can; when you really can't; open another tin can) © M
 
-cuntinue (sex second round?) © Yury
+cuntinue (sex second round?) © Y
 
 dickade (when temporarily everything's bad, like Perestroika) © M
 
@@ -3042,13 +3042,13 @@ apptite (ordering food through app?) © M
 
 appetithe (food tax?) © M
 
-bone appetite (🦴🍖) © Yury
+bone appetite (🦴🍖) © Y
 
 treem (cutting tree branches?) © M
 
 fucktory (makes sex toys) © M
 
-matchess © Yury
+matchess © Y
 
 redustribution (when you clean your room of dust; or, rather, shove it into places where it can't be seen 😂) © LJ
 
@@ -3082,7 +3082,7 @@ conducktor (🦆) © M
 
 koñditioning (training regimen for 🐴) © M
 
-koñtribution (to the well-being of the 🐴 tribe?) © Yury
+koñtribution (to the well-being of the 🐴 tribe?) © Y
 
 existence of ".computer" implies existence of ".netputer" © LJ
 
@@ -3100,7 +3100,7 @@ luckation © M
 
 abdomnement © M
 
-upponent (has the upper hand?) © Yury
+upponent (has the upper hand?) © Y
 
 mugration (influx of unwashed mugs?) © M
 
@@ -3120,7 +3120,7 @@ circustance © ️ Yury
 
 dirtea © M
 
-murge © Yury
+murge © Y
 
 bysickle (with bladed wheels) © M
 
@@ -3130,9 +3130,9 @@ sharelatan (doesn't actually know shit about investments; people who pretend to 
 
 classick (old illness that was thought extinct, like the bubonic plague re-appearing 🦠) © LJ
 
-enhan-cement © Yury
+enhan-cement © Y
 
-enchancement (luck boost?) © Yury
+enchancement (luck boost?) © Y
 
 practricktioner © LJ
 
@@ -3166,13 +3166,13 @@ trainsparent © M
 
 transpairent © M
 
-mailfunctioning © Yury
+mailfunctioning © Y
 
-painc © Yury
+painc © Y
 
-cycol (circle-shaped pillar?) © Yury
+cycol (circle-shaped pillar?) © Y
 
-orgument (first meaningful argument) © Yury
+orgument (first meaningful argument) © Y
 
 maygic © M
 
@@ -3190,9 +3190,9 @@ chancelore (easily missable) © LR
 
 hottel (another term for a brothel; has spa and suntan facilities) © M
 
-membershit (💩) © Yury
+membershit (💩) © Y
 
-membersheep (🐑) © Yury
+membersheep (🐑) © Y
 
 bombastard (bombastic bastard) © LJ
 
@@ -3284,7 +3284,7 @@ adverteasement © M
 
 slyghtly © M
 
-mombership © Yury
+mombership © Y
 
 harleking © M
 
@@ -3314,7 +3314,7 @@ entroduce © M
 
 gorund (underhill ⛰) [ru] © M
 
-beckground (a past that calls) © Yury
+beckground (a past that calls) © Y
 
 Moss🐄 (what it was a millenia ago) © M
 
@@ -3354,7 +3354,7 @@ fapulous (like Adeptus Custodes) © LR
 
 purrview (when you watch cats 🐈 👀) © LJ
 
-purson (with a thick wallet?) © Yury
+purson (with a thick wallet?) © Y
 
 accpunt (one you don't care about) © M
 
@@ -3410,7 +3410,7 @@ electrickcity (unreliable) © LR
 
 trainwerk © M
 
-actopus (🐙) © Yury
+actopus (🐙) © Y
 
 Actober (when things happen) © M
 
@@ -3432,7 +3432,7 @@ uroad (typical russian road; ugly road with potholes) [ru] © LR
 
 safekeyping (securely under lock and key) © M
 
-categlory © Yury
+categlory © Y
 
 anywear (clothes for every occasion) © LR
 
@@ -3442,7 +3442,7 @@ lawndry (doing or rather hanging your laundry up in the garden; irrigating / cle
 
 koñnection (🐴 socializing, 🐴 attachment) © M
 
-koñstitution (🐴 power?) [🐴] © Yury
+koñstitution (🐴 power?) [🐴] © Y
 
 ourganization (as opposed to theirganization) © LR
 
@@ -3516,13 +3516,13 @@ sisyphon © LJ
 
 abugdance (plenty of bugs like this upgrade) © LR
 
-safare (a fee you have to pay for a safari) © Yury
+safare (a fee you have to pay for a safari) © Y
 
-inhiretance © Yury
+inhiretance © Y
 
-inheretense © Yury
+inheretense © Y
 
-embadded (not inserted properly) © Yury
+embadded (not inserted properly) © Y
 
 forkast (a prophecy with many outcomes) © M
 
@@ -3558,7 +3558,7 @@ transmite (parasite contagion) © M
 
 peckage (bunch of bird feed?) © M
 
-enterface (newcomer?) © Yury
+enterface (newcomer?) © Y
 
 painguin (pecks really hard; lived too long for its species) © M
 
@@ -3660,17 +3660,17 @@ cointent (👛🐴; using a safe for storing money? 👎; storing your money in 
 
 monotics (implied by existence of politices; maybe autocracies/dictatorships?) © LJ
 
-inport (arrives by ship 🚢) © Yury
+inport (arrives by ship 🚢) © Y
 
 emergentsy © LR
 
 rundevu (rushing to meet) © M
 
-Bullgaria (land of 🐂) © Yury
+Bullgaria (land of 🐂) © Y
 
-bullshield (immunity to nonsense 🛡🐂) © Yury
+bullshield (immunity to nonsense 🛡🐂) © Y
 
-mooderation (mood correction) © Yury
+mooderation (mood correction) © Y
 
 incorrection (when you correct someone but it's actually wrong) © LJ
 
@@ -3686,7 +3686,7 @@ supricing (surprisingly expensive/cheap) © LJ
 
 meatadata (very juicy 🍖) © M
 
-hurtbeat (💔🔨; arrhythmia) © Yury
+hurtbeat (💔🔨; arrhythmia) © Y
 
 visionair (some hallucinogenic gas) © LJ
 
@@ -3726,7 +3726,7 @@ purposal © M
 
 finealized © M
 
-forbirden (for 🦜en) © Yury
+forbirden (for 🦜en) © Y
 
 paradies (what muslims believe in: paradise after death; alternatively, paradise lost) © LR
 
@@ -3806,7 +3806,7 @@ sirtificate © M
 
 lendscape (land that you rent, or rent out to someone; not borrowscape) © M
 
-cyclick © Yury
+cyclick © Y
 
 empression © M
 
@@ -3824,9 +3824,9 @@ aimbush © M
 
 govknowerment (surveillance state) © M
 
-introfucktion © Yury
+introfucktion © Y
 
-introducktion © Yury
+introducktion © Y
 
 peekture (only caught a glimpse) © M
 
@@ -3858,9 +3858,9 @@ koñfactionary [🐴] © LR
 
 candydate © M
 
-mailwhere (hijacks email?) © Yury
+mailwhere (hijacks email?) © Y
 
-deal with the debil (😈) © Yury
+deal with the debil (😈) © Y
 
 logeek © LR
 
@@ -3868,7 +3868,7 @@ litteracy (when you've read a lot but it's all garbage) © LR
 
 kotegory (in a cat-a-log) [🐈] © M
 
-afterwords (after a talk) © Yury
+afterwords (after a talk) © Y
 
 publick (attacked by dog attention in public?) © M
 
@@ -4068,7 +4068,7 @@ mulltiplayer © M
 
 plotform © M
 
-tearminate (😭) © Yury
+tearminate (😭) © Y
 
 tornminate (tear the agreement) © M
 
@@ -4076,15 +4076,15 @@ gophernment (state run by uplifted, sentient gophers?; state run by Go developer
 
 deckstop © Madiat
 
-koñdom (home for 🐴; plastic dome that keeps 🐴 inside) [🐴] © Yury
+koñdom (home for 🐴; plastic dome that keeps 🐴 inside) [🐴] © Y
 
 koñtingency (when 🐴 are out of koñtrol) [🐴] © LR
 
-koñcurrent (🐴 racing each other) [🐴] © Yury
+koñcurrent (🐴 racing each other) [🐴] © Y
 
-koñtinent (where wild 🐴 are abundant) [🐴] © Yury
+koñtinent (where wild 🐴 are abundant) [🐴] © Y
 
-koñtinuum (endless stream of 🐴 puns) [🐴] © Yury
+koñtinuum (endless stream of 🐴 puns) [🐴] © Y
 
 liesense (being able to tell when one is lying, i.e. not accepting someone's _liecense_) © LR
 
@@ -4110,7 +4110,7 @@ workship © M
 
 disgussion © M
 
-fallder © Yury
+fallder © Y
 
 manyfold © M
 
@@ -4164,7 +4164,7 @@ fieldtering © M
 
 religoon © LJ
 
-sibiling © Yury
+sibiling © Y
 
 sabotrage © LR
 
@@ -4256,9 +4256,9 @@ smellting © LR
 
 koñtainer (stable?) [🐴] © M
 
-muderation (public defamation) © Yury
+muderation (public defamation) © Y
 
-murderation © Yury
+murderation © Y
 
 conactor (brings people together to swindle them) © M
 
@@ -4310,7 +4310,7 @@ entertaisting (entertaining and tasty) © LJ
 
 arghument © LR
 
-editional (added with corrections?) © Yury
+editional (added with corrections?) © Y
 
 pirage (being angry at being the victim of piracy; alternatively a contracted form of the historical "Age of Piracy") © LJ
 
@@ -4364,7 +4364,7 @@ expectremaintation (on cadavers) © LR
 
 slong [🐘; ru] © M
 
-somethink © Yury
+somethink © Y
 
 waisting food (eating so much your waist grows) © LR
 
@@ -4442,7 +4442,7 @@ inwastement (wasted investment, courtesy of seeing new university buildings from
 
 fatch (go get food) © M
 
-diffold (stacked defaults) © Yury
+diffold (stacked defaults) © Y
 
 eyetem (👁) © M
 
@@ -4506,7 +4506,7 @@ individial © M
 
 purperty © M
 
-koñtroll [🐴] © Yury
+koñtroll [🐴] © Y
 
 corporat (someone who bootlicks or defends corporations/consumerism) © LJ
 
@@ -4516,7 +4516,7 @@ domesticat © LJ
 
 messtake © M
 
-confersion © Yury
+confersion © Y
 
 vendoor © M
 
@@ -4546,9 +4546,9 @@ shellter © M
 
 beetween © M
 
-artbeertrary © Yury
+artbeertrary © Y
 
-arbeertrary © Yury
+arbeertrary © Y
 
 arbeatrary © M
 
@@ -4590,11 +4590,11 @@ staintment © M
 
 digsappear © M
 
-diggits © Yury
+diggits © Y
 
 orcitecture (bashed together by grunts) © M
 
-beeriod © Yury
+beeriod © Y
 
 moistly © M
 
@@ -4618,7 +4618,7 @@ compyre © M
 
 pistool © M
 
-menually © Yury
+menually © Y
 
 cheear © M
 
@@ -4644,13 +4644,13 @@ sellebrate © M
 
 talken (communication token) © M
 
-obstickle © Yury
+obstickle © Y
 
 fitture © M
 
-anywon © Yury
+anywon © Y
 
-roboost © Yury
+roboost © Y
 
 morbile © M
 
@@ -4680,7 +4680,7 @@ sleepery slope © M
 
 shotsighted © M
 
-edditional © Yury
+edditional © Y
 
 concockt © M
 
@@ -4700,7 +4700,7 @@ underrestimate © M
 
 scathold © M
 
-blackup (shadow backup) © Yury
+blackup (shadow backup) © Y
 
 dickumentation © M
 
@@ -4714,19 +4714,19 @@ purrpose © M
 
 strasheklassnik [ru] © LR
 
-compuller © Yury
+compuller © Y
 
 deathsappointing © LR
 
 reallyable (really reliable able ally) © LR
 
-tellink © Yury
+tellink © Y
 
 pussyfist © M
 
 deepbugging © M
 
-shyning (glowing blushing) © Yury
+shyning (glowing blushing) © Y
 
 grabitate © M
 
@@ -4746,25 +4746,25 @@ cullindar (schedule for slaughter) © M
 
 add-apt © M
 
-dicklaration (requires a cunter-argument) © Yury
+dicklaration (requires a cunter-argument) © Y
 
-arrowr © Yury
+arrowr © Y
 
-airror © Yury
+airror © Y
 
-twomorrow © Yury
+twomorrow © Y
 
-costomization © Yury
+costomization © Y
 
 mealk © M
 
-lieteral © Yury
+lieteral © Y
 
-whitespice © Yury
+whitespice © Y
 
 probeability © M
 
-koñman [🐴] © Yury
+koñman [🐴] © Y
 
 comman © M
 
@@ -4772,7 +4772,7 @@ inclewd © M
 
 incload © M
 
-keybird © Yury
+keybird © Y
 
 enterpreter © M
 
@@ -4804,7 +4804,7 @@ addictional © M
 
 disctinct © M
 
-turnsaction © Yury
+turnsaction © Y
 
 conwaynient © M
 
@@ -4820,7 +4820,7 @@ anymy (any enemy; enemy of anyone?) © LR
 
 lookrative © LR
 
-themplate © Yury
+themplate © Y
 
 reazoneable © M
 
@@ -4840,7 +4840,7 @@ sickquence © M
 
 unambuguous © M
 
-fullder (packed folder) © Yury
+fullder (packed folder) © Y
 
 headear © M
 
@@ -4870,7 +4870,7 @@ condirtional © M
 
 scaracter © LR
 
-preformance © Yury
+preformance © Y
 
 coughtious © M
 
@@ -5132,7 +5132,7 @@ brainbow © M
 
 consolidarity © M
 
-cantains © Yury
+cantains © Y
 
 bamboobzled © M
 
@@ -5184,9 +5184,9 @@ infarmation © M
 
 manugement (manual micromanagement) © M
 
-autestic © Yury
+autestic © Y
 
-ass-sumption © Yury
+ass-sumption © Y
 
 alloycate © M
 
@@ -5216,11 +5216,11 @@ beerable © M
 
 lagluster (sucks due to slow performance) © M
 
-veryable © Yury
+veryable © Y
 
-companent © Yury
+companent © Y
 
-realevant © Yury
+realevant © Y
 
 blahsphemy (spouting random gibberish offensive to godheads) © M
 
@@ -5248,7 +5248,7 @@ pessemitstick © M
 
 opteamum © M
 
-someboy © Yury
+someboy © Y
 
 deal-C (third-rate DLC) © M
 
@@ -5290,15 +5290,15 @@ attraptive (sort of like a honeypot; meaning a woman that seduces people for som
 
 cirquit © M
 
-sucksassful © Yury
+sucksassful © Y
 
 punyshment (scoffing at someone who did wrong) © M
 
 manyually © M
 
-ackwards © Yury
+ackwards © Y
 
-discour (through intense search; when you scratch off the layers of shit masking something) © Yury
+discour (through intense search; when you scratch off the layers of shit masking something) © Y
 
 septomber © M
 
@@ -6244,67 +6244,67 @@ censorshit © LJ
 
 expirementation (experimenting with whether expired food will poison you or not; experiments that cause the subject to "expire") © LR
 
-fueld © Yury
+fueld © Y
 
-surwaves (surveys) © Yury
+surwaves (surveys) © Y
 
-properites © Yury
+properites © Y
 
-brainch © Yury
+brainch © Y
 
-siparate © Yury
+siparate © Y
 
-eekxactly © Yury
+eekxactly © Y
 
-bottery © Yury
+bottery © Y
 
-meaningfool © Yury
+meaningfool © Y
 
-memeingfool © Yury
+memeingfool © Y
 
-docktor © Yury
+docktor © Y
 
-whitch © Yury
+whitch © Y
 
-tocken © Yury
+tocken © Y
 
-topick (choice topic) © Yury
+topick (choice topic) © Y
 
-deposite (where you go to drop off things) © Yury
+deposite (where you go to drop off things) © Y
 
-redirector (director that offloads all the work?) © Yury
+redirector (director that offloads all the work?) © Y
 
-itermediate © Yury
+itermediate © Y
 
-atreboot © Yury
+atreboot © Y
 
-addreboot © Yury
+addreboot © Y
 
-oopen © Yury
+oopen © Y
 
-duckument © Yury
+duckument © Y
 
-bullistic © Yury
+bullistic © Y
 
-foundraising © Yury
+foundraising © Y
 
-usefull © Yury
+usefull © Y
 
-userfull © Yury
+userfull © Y
 
-unrealated © Yury
+unrealated © Y
 
-admint © Yury
+admint © Y
 
-invider © Yury
+invider © Y
 
-tryverse © Yury
+tryverse © Y
 
-legocy © Yury
+legocy © Y
 
-anuswer © Yury
+anuswer © Y
 
-hoverment © Yury
+hoverment © Y
 
 souper (souper dish) © TrueNight
 
@@ -6660,7 +6660,7 @@ orcestrate (horde manipulation) © M
 
 sicksessful © M
 
-sucksexfull (lewd / promiscuous) © Yury
+sucksexfull (lewd / promiscuous) © Y
 
 sucksexsful (lewd way to the top) © M
 
@@ -7856,7 +7856,7 @@ attank (highly aggressive war machine?) © M
 
 attactor (someone _attactive_?) © M
 
-unbelievabull (too incredulous to believe) © Yury
+unbelievabull (too incredulous to believe) © Y
 
 notwork (dysfunctional network) © M
 
