@@ -20,17 +20,17 @@ func (self Entries) AppendTo(buf []byte) []byte {
 }
 
 func (self Entries) Dupes() (out []string) {
-	getKey := Entry.Pk
-	groups := gg.Group(self, getKey)
+	counts := make(map[string]int)
 
-	for _, val := range self {
-		key := getKey(val)
-		if len(groups[key]) > 1 {
-			out = append(out, key)
-			delete(groups, key)
+	return gg.MapCompact(self, func(val Entry) (_ string) {
+		key := val.Pk()
+		count := counts[key]
+		counts[key]++
+		if count == 1 {
+			return key
 		}
-	}
-	return
+		return
+	})
 }
 
 type Entry struct {
