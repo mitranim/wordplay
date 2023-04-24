@@ -12,6 +12,8 @@ import (
 	"github.com/mitranim/gt"
 )
 
+const logPrefixDiscordDownload = `[discord_download] `
+
 type DiscordDownload struct {
 	Log        io.Writer
 	OutPath    string
@@ -47,23 +49,24 @@ func (self *DiscordDownload) Flush() {
 func (self *DiscordDownload) Download() {
 	defer self.Flush()
 
-	for range gg.Iter(128) {
+	const limit = 128
+	for ind := range gg.Iter(limit) {
 		var page DiscordMsgPage
 		self.Req().Res().Ok().Json(&page)
 
 		if gg.IsEmpty(page) {
-			Fprintln(self.Log, `found empty page, done`)
+			Fprintln(self.Log, logPrefixDiscordDownload, `found empty page, done; output path: `, self.OutPath)
 			return
 		}
 		gg.Append(&self.Pages, page)
 		self.SetMaxMsg(page.Max())
 
-		Fprintln(self.Log, `sleeping`)
+		Fprintln(self.Log, logPrefixDiscordDownload, `downloaded page `, ind, `, sleeping`)
 		time.Sleep(time.Second)
-		Fprintln(self.Log, `continuing`)
+		Fprintln(self.Log, logPrefixDiscordDownload, `continuing`)
 	}
 
-	Fprintln(self.Log, `exceeed maximum number of iterations`)
+	Fprintln(self.Log, logPrefixDiscordDownload, `exceeded maximum number of iterations: `, limit)
 }
 
 func (self *DiscordDownload) SetMaxMsg(next DiscordMsg) {
