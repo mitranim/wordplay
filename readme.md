@@ -266,7 +266,7 @@ thenks (preliminary gratitude for future actions) © M
 
 younique (name for clothing/fashion brand) © M
 
-Govnorod (for people who really don't like either of the Novgorodi) © LJ
+Govnorod (for people who really don't like either of the Novgorodi) [ru] © LJ
 
 facepal (friend who smacks you in the face when you do something dumb) © M
 
@@ -384,7 +384,7 @@ begginning © M
 
 awaylable (reachable only by mail) © M
 
-amerikoñ (equine from North or South America) © Y
+amerikoñ (equine from North or South America) [🐴] © Y
 
 screwtiny (revisor's inspection) © LJ
 
@@ -1778,9 +1778,9 @@ socialies © LR
 
 shittyotic © LJ
 
-koñcat (🐴🐈) © Y
+koñcat (🐴🐈) [🐴] © Y
 
-koñcatenate (combine 🐴 with 🐈) © Y
+koñcatenate (combine 🐴 with 🐈) [🐴] © Y
 
 intrapolate © M
 
@@ -2062,7 +2062,7 @@ matterdata © LJ
 
 mateadata © M
 
-koñfusion © Y
+koñfusion [🐴] © Y
 
 stimultaneously © M
 
@@ -2122,7 +2122,7 @@ fillter © M
 
 hurtcoded © M
 
-drakoñ (🐲🐴? ridable serpent?) [ru] © M
+drakoñ (🐲🐴? ridable serpent?) [🐴] [ru] © M
 
 gospell (holy incantation with magic power) © M
 
@@ -2348,7 +2348,7 @@ boaSTING © M
 
 boahsting © M
 
-koñic © M
+koñic [🐴] © M
 
 matchrics (metrics for matches) © M
 
@@ -2442,7 +2442,7 @@ suckseptible © M
 
 succseptible © M
 
-silikoñ © LJ
+silikoñ [🐴] © LJ
 
 silicoin © M
 
@@ -2902,7 +2902,7 @@ chick this out © Y
 
 everyware (ubiquitous goods) © Y
 
-koñgratulations © Y
+koñgratulations [🐴] © Y
 
 congreatulatons © Y
 
@@ -2964,7 +2964,7 @@ hurrt (attack that puts you in the durrt; also bad puns) © M
 
 payn (so expensive that it hurts) © M
 
-koñtrust © M
+koñtrust [🐴] © M
 
 contrekt (with unfavorable outcome) © M
 
@@ -2976,11 +2976,11 @@ cantrust © M
 
 countrust © M
 
-koñthrust © M
+koñthrust [🐴] © M
 
 conthrust © LR
 
-koñtrast © M
+koñtrast [🐴] © M
 
 contrust © M
 
@@ -3080,9 +3080,9 @@ koñducktor (🐴 🦆) [🐴] © M
 
 conducktor (🦆) © M
 
-koñditioning (training regimen for 🐴) © M
+koñditioning (training regimen for 🐴) [🐴] © M
 
-koñtribution (to the well-being of the 🐴 tribe?) © Y
+koñtribution (to the well-being of the 🐴 tribe?) [🐴] © Y
 
 existence of ".computer" implies existence of ".netputer" © LJ
 
@@ -3440,7 +3440,7 @@ sembalance (approximation of fairness; appearance of being _half_-fair) © M
 
 lawndry (doing or rather hanging your laundry up in the garden; irrigating / cleaning your lawn) © LJ
 
-koñnection (🐴 socializing, 🐴 attachment) © M
+koñnection (🐴 socializing, 🐴 attachment) [🐴] © M
 
 koñstitution (🐴 power?) [🐴] © Y
 
@@ -3452,7 +3452,7 @@ existence of "admin" implies existence of "admax" (the former is when you have a
 
 oddmin © M
 
-koñnibalism [🐴] © M
+koñnibalism (🐴 eating 🐴) [🐴] © M
 
 existence of "lesson" implies existence of "moreon" © M
 
@@ -3998,7 +3998,7 @@ conspirituality (spiritual conspiracy?) © LR
 
 villionaire (rich villain) © LR
 
-koñsequence (horse procession) © LR
+koñsequence (🐴 procession) [🐴] © LR
 
 bonebardment © M
 
@@ -4242,7 +4242,7 @@ baroqueue © M
 
 plantform (vegetation support; growth that supports) © M
 
-koñsciousness (animal-level intelligence) © M
+koñsciousness (animal-level intelligence) [🐴] © M
 
 haulder (holding harness for hauling) © M
 
