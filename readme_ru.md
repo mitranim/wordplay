@@ -1,3 +1,7 @@
+ворворство (savage, barbarian mugging) [ru] © M
+
+бааловаться (messing around with a demon lord; playing around with the occult and accidentally summoning an arch demon) [ru] © M
+
 каталох (full of ripoff goods) [ru] © M
 
 малокосос (needs to drink more milk to grow) [ru] © M

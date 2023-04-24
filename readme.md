@@ -1,3 +1,57 @@
+lewdtenant (visiting, expendable, useful personnel) © M
+
+Ozstralia (upside down land) © M
+
+fur-fetched © M
+
+platinium (currency backed by rare metal) [ru] © M
+
+peripathetic (wandering about in dismay) © M
+
+opgrade (from normal-grade to OP-grade) © M
+
+Shredding Gar's Cat (where the box is rigged to _blend_ the cat if opened wrong) © M
+
+marsk (headress worn on the red planet) © M
+
+e-motion capture (recording facial activity) © M
+
+waycation (going far and wide; over the hill and far away) © M
+
+buggage (when you're straddled with the baggage of bugs, e.g. from previous devs/arch 🪲🧳) © LR
+
+mantenance © M
+
+reincatnation (😼x9) © LJ
+
+beenefits (honey? wax? whatever the fuck else bees are good for) © LR
+
+flushbang (makes them run 🚽💣) © M
+
+levorution (rotation counter-clockwise?; when the lefties win?) © M
+
+bullion (decoction from 🐂) © M
+
+subtellite (well-hidden orbiting object) © M
+
+purgechase © M
+
+fyuri (ferocious her-on-her action) [jp] © M
+
+existence of "developer" implies existence of "devmarryer" © M
+
+manureisms (shitty behaviour) © LJ
+
+manneyurism (a detail of behavior that annoys you to the point of insult) © M
+
+succumbus (give yourself up to it) © M
+
+tryangulate (with small chances of success) © M
+
+apprehensieve © LJ
+
+an absence of proof doesn't prove an absence © M
+
 meowtant (also "mewtant"; ill-bred feline) © M
 
 spinache (gives you a vertigo when eaten) © M
@@ -436,7 +490,7 @@ future cars will replace "steering wheel" with "steering will" (BMI and/or autop
 
 velossity (deceleration) © M
 
-pausitive (declared beneficial after some deliberation) © M
+pausitive (thinking before agreeing; declared beneficial after some deliberation) © M
 
 eeling (sensation of electrified slimy scales against your skin) © M
 
@@ -1894,7 +1948,7 @@ stoodent © M
 
 smugler (slave trader?) © M
 
-counsell (aka lobbyism) © M
+counsell (aka lobbyism; having a meeting on how best to profit from a member's misfortune) © M
 
 devestation (taking off a chest piece) © LJ
 
