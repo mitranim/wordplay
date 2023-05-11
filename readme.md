@@ -1,3 +1,65 @@
+yoinktment (appropriated medical treatment) © M
+
+kingdoom (inevitable fate of feudalrchy) © M
+
+lollercoaster (enjoyable attraction) [jp] © M
+
+illiterature (unintelligible scrawlings) © M
+
+hurt immunity (resistance acquired through mass suffering) © M
+
+face transition (melting someone's physiognomy from solid phase to liquid phase) © M
+
+idoit (earnest fool) © M
+
+decocktion (chicken soup) © M
+
+Neinstein (makes no discoveries) © M
+
+madgick (practiced by wild sorcerers) © M
+
+imug (image but just the face, portrait?) © LJ
+
+condolenses (looking closely at misfortune) © M
+
+eyes cream (frozen tears) © M
+
+existence of "hypnosis" implies existence of "hypnobro" (aka the hypnotist) © M
+
+buttler (meddlesome servant) © M
+
+preferendum (collective choice) © Stanislaw Lem
+
+impaincient (hurt by OCD) © M
+
+baita version (alluring early access) © M
+
+cancervation (involves cancerogenic preservatives) © M
+
+protechtion (highly advanced defense) © M
+
+brotection (having muscular bodyguards) © M
+
+afailable © M
+
+punpers (helps if you lose your shit while laughing) © Y
+
+eelium (swim bladder gas) © M
+
+arbotrary (chosen by 🤖) © M
+
+pullarm (two-handed weapon with a hook or harpoon) © M
+
+cosmedics (dressed-up nurses) © M
+
+sendtry (spies and phones home) © M
+
+rainsack (rob someone under the cover of a storm?) © M
+
+scream reader (very loud assistive technology) © M
+
+rewrok (changing something so much that you wrack it) © M
+
 lewdtenant (visiting, expendable, useful personnel) © M
 
 Ozstralia (upside down land) © M
@@ -20,7 +82,7 @@ waycation (going far and wide; over the hill and far away) © M
 
 buggage (when you're straddled with the baggage of bugs, e.g. from previous devs/arch 🪲🧳) © LR
 
-mantenance © M
+mantenance (caring for human health) © M
 
 reincatnation (😼x9) © LJ
 
@@ -1832,7 +1894,7 @@ simpossible (when one keeps failing at a simple task) © LJ
 
 weekling © M
 
-mailfunction © M
+mailfunction (failed email delivery?) © M
 
 humudity (also known as rasputitsa, see https://en.wikipedia.org/wiki/Rasputitsa) © LJ
 
@@ -2122,7 +2184,7 @@ fillter © M
 
 hurtcoded © M
 
-drakoñ (🐲🐴? ridable serpent?) [🐴] [ru] © M
+drakoñ (🐲🐴? ridable serpent?) [🐴; ru] © M
 
 gospell (holy incantation with magic power) © M
 
@@ -3614,7 +3676,7 @@ Dumass (Russian parliamentary official) © LJ
 
 digdefied (defy/prevent something with dignity and class) © LJ
 
-proofile (identity document?) © M
+proofile (verifies someone's identity or details) © M
 
 reliarble © LR
 
@@ -4114,7 +4176,7 @@ fallder © Y
 
 manyfold © M
 
-pisstol © M
+pisstol (squirts urine) © M
 
 moneypulation (financial machinations) © M
 
@@ -6986,7 +7048,7 @@ offertunity © M
 
 surprice (costlier than expected) © M
 
-uniworse © M
+uniworse (crapsack world) © M
 
 foodhold (grasping the food market) © M
 

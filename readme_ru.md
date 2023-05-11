@@ -1,3 +1,7 @@
+пихота (pikemen) [ru] © TK
+
+убожественно (so bad, it's good) [ru] © TK
+
 ворворство (savage, barbarian mugging) [ru] © M
 
 бааловаться (messing around with a demon lord; playing around with the occult and accidentally summoning an arch demon) [ru] © M
