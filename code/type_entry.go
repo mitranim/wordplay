@@ -111,3 +111,9 @@ func (self *Entry) AddTag(val string) {
 	}
 	self.Tags = append(self.Tags, val)
 }
+
+func (self *Entry) ReplaceAuthor(src []string, tar string) {
+	if gg.Has(src, self.Author) {
+		self.Author = tar
+	}
+}

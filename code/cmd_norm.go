@@ -19,21 +19,19 @@ func NormFile(path string) {
 	for ind := range entries {
 		entry := &entries[ind]
 
-		if entry.Author == `LandRaider` || entry.Author == `VengefulAncient` {
-			entry.Author = `LR`
-		}
+		entry.ReplaceAuthor(
+			[]string{`LandRaider`, `VengefulAncient`, `vengefulancient`},
+			`LR`,
+		)
 
-		if entry.Author == `LeoJo` || entry.Author == `LeoJo231094` || entry.Author == `El Jay` {
-			entry.Author = `LJ`
-		}
+		entry.ReplaceAuthor(
+			[]string{`LeoJo`, `LeoJo231094`, `El Jay`, `.el.jay.`},
+			`LJ`,
+		)
 
-		if entry.Author == `Yury` {
-			entry.Author = `Y`
-		}
+		entry.ReplaceAuthor([]string{`Yury`}, `Y`)
 
-		if entry.Author == `` || entry.Author == `Mitranim` {
-			entry.Author = `M`
-		}
+		entry.ReplaceAuthor([]string{``, `Mitranim`, `mitranim`}, `M`)
 	}
 
 	dupes := entries.Dupes()
