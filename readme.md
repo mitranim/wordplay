@@ -1,3 +1,53 @@
+ayynimal (offworld fauna) © M
+
+owwl (pecks you hard) © M
+
+computetive (two machines/AI arguing?) © LJ
+
+farce field (fake protection, like paper tiger military) © M
+
+braindishing (demonstrating intellectual superiority) © M
+
+up 'n eat 'em (excited for feast?) © M
+
+rodiation (re-emitted by irradiated control rods) © M
+
+nuclear detergent (dealing with some sort of infestation by employing nuclear weapons) © LJ
+
+drun-ken (knowledge achieved due to altered state of mind) © M
+
+smotherland (chokes your potential) © LR
+
+erobics (lewd gymnastics) © M
+
+demoncratic (ruled by evil spirits?) © M
+
+carniwall (an obstacle to some of the more carnal pleasures at a festival) © M
+
+burrowcrat (the government form moles use; also "burrowcracy") © LJ
+
+crewsader (part of knightly team?) © M
+
+supermarine (ship that does not submerge; ship with no displacement, like some catamarans) © M
+
+hyperthetical (axiomatic) © M
+
+openion (written thought) © M
+
+existence of "opinion" implies existence of "oquill" (which is used to pen said opinion) © M
+
+fountan (overflows with ionizing radiation?) © M
+
+wenchure (whoring? bride search?) © M
+
+encownter (collision with 🐄) © LR
+
+ledgendary (immortalized in witness accounts) © M
+
+awwsome (irresistibly cute) © M
+
+Neitherlands (🇷🇺🇱🇺) © LJ
+
 yoinktment (appropriated medical treatment) © M
 
 kingdoom (inevitable fate of feudalrchy) © M
@@ -1908,7 +1958,7 @@ imagyarnation (nationalistic dreams of Hungarians, aka Magyars) © LJ
 
 radicalies © M
 
-imagynation (erotic fantasies) © M
+imagynation (lewd fantasies) © M
 
 imygination © M
 
@@ -2008,7 +2058,7 @@ stewdent (apprentice cook) © M
 
 stoodent © M
 
-smugler (slave trader?) © M
+smugler (proudly successful contrabandist; slave trader) © M
 
 counsell (aka lobbyism; having a meeting on how best to profit from a member's misfortune) © M
 
