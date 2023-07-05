@@ -1,3 +1,25 @@
+einterteinment (a _singular_ performance) [de] © M
+
+jackass of all trades (bad at everything) © M
+
+cattlyst (encourages animal growth? possibly antibiotics?) © M
+
+horridor (where terrors stalk you) © M
+
+existence of "narcosis" implies existence of "nacrobro" (who sells those drugs) © M
+
+polgovnik (crappy leader) [ru] © LJ
+
+trainsition (travel by railway) © M
+
+moustash (box with theatric props or makeup) © M
+
+kektus © M
+
+overrude (boorisly enforce a decision) © M
+
+tellascope (describes what it observes?) © M
+
 ayynimal (offworld fauna) © M
 
 owwl (pecks you hard) © M
@@ -102,7 +124,7 @@ pullarm (two-handed weapon with a hook or harpoon) © M
 
 cosmedics (dressed-up nurses) © M
 
-sendtry (spies and phones home) © M
+sendtry (phones home whenever it spots something) © M
 
 rainsack (rob someone under the cover of a storm?) © M
 
@@ -122,7 +144,7 @@ peripathetic (wandering about in dismay) © M
 
 opgrade (from normal-grade to OP-grade) © M
 
-Shredding Gar's Cat (where the box is rigged to _blend_ the cat if opened wrong) © M
+Shredding Gar's Cat (where the box is rigged to _blend_ the cat if opened wrong; quoted from Steins Gate) © M
 
 marsk (headress worn on the red planet) © M
 
@@ -5292,7 +5314,7 @@ dateabase © LR
 
 suckrificial © LR
 
-infarmation © M
+infarmation (useful for obtaining large quantities) © M
 
 manugement (manual micromanagement) © M
 
