@@ -33,6 +33,12 @@ func (self Entries) Dupes() (out []string) {
 	})
 }
 
+func (self Entries) ReplaceAuthors(src map[string]string) {
+	for ind := range self {
+		self[ind].ReplaceAuthor(src)
+	}
+}
+
 type Entry struct {
 	Author   string
 	Phrase   string
@@ -112,8 +118,9 @@ func (self *Entry) AddTag(val string) {
 	self.Tags = append(self.Tags, val)
 }
 
-func (self *Entry) ReplaceAuthor(src []string, tar string) {
-	if gg.Has(src, self.Author) {
-		self.Author = tar
+func (self *Entry) ReplaceAuthor(src map[string]string) {
+	val, ok := src[self.Author]
+	if ok {
+		self.Author = val
 	}
 }
