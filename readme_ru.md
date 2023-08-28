@@ -1,3 +1,9 @@
+запоездать (when the train you’re on is running late) [ru] © M
+
+бешенцы (refugees out of control) [ru] © LR
+
+ревёнок (whiny brat) [ru] © M
+
 пихота (pikemen) [ru] © TK
 
 убожественно (so bad, it's good) [ru] © TK

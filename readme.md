@@ -1,3 +1,57 @@
+alcowhole (container full of intoxicants; pure ethanol; someone at their intake limit) © M
+
+bloodgeoning (hard beating) © M
+
+Culombia ("culo" = "ass" in Spanish) © LJ
+
+servival (of the fittest to serve) © M
+
+plumpkin (rounded-up and yellow in the face from high intake of plant food) © M
+
+Portugeese (wild fowl from West Europe?) © M
+
+existence of "slow" implies existence of "stall" © M
+
+existence of "flashlight" implies existence of "flashdark" (crowd suppression device that blinds you) © M
+
+coperate (out of necessity) © M
+
+enchancing © LJ
+
+heartefact (pacemaker, for example) © M
+
+drinket (prize from drinking competition?) © M
+
+adullt (boring grown-up) © M
+
+owlchemy © M
+
+cowlonize (when you domesticate 🐄🐂) © LR
+
+costumizable (dress it up at will?) © Simon
+
+existence of "together" implies existence of "togiveher" © M
+
+ucranium (slav skull?) © M
+
+bootiful (with gorgeous assets) © M
+
+peercentage (the select best among the equals) © M
+
+diamon (crystalline monster) © M
+
+nut-rition (seed sustenance) © M
+
+encantment (charmed with a cant) © M
+
+banquit (a feast cut short) © M
+
+giraffiti (striped wall painting in a high place) © M
+
+konin (mounted ronin) [ru; 🐴] © LR
+
+deadicated (fatally overzealous) © M
+
 einterteinment (a _singular_ performance) [de] © M
 
 jackass of all trades (bad at everything) © M
@@ -14,7 +68,7 @@ trainsition (travel by railway) © M
 
 moustash (box with theatric props or makeup) © M
 
-kektus © M
+kektus (funny 🌵) © M
 
 overrude (boorisly enforce a decision) © M
 
@@ -1570,7 +1624,7 @@ wariable © M
 
 inishell (left from a seed?) © M
 
-assimulate © M
+assimulate (eating humans and reanimating them as puppets?) © M
 
 mundatory (a boring routine) © M
 
@@ -2256,7 +2310,7 @@ fillter © M
 
 hurtcoded © M
 
-drakoñ (🐲🐴? ridable serpent?) [🐴; ru] © M
+drakoñ (🐲🐴? ridable serpent?) [ru; 🐴] © M
 
 gospell (holy incantation with magic power) © M
 
@@ -3418,7 +3472,7 @@ adverteasement © M
 
 slyghtly © M
 
-mombership © Y
+mombership (living at home well into adulthood) © Y
 
 harleking © M
 
@@ -3484,7 +3538,7 @@ annoitate (unwanted praise) © M
 
 machiavillain © LJ
 
-fapulous (like Adeptus Custodes) © LR
+fapulous (luxuriously voluptious; like Adeptus Custodes) © LR
 
 purrview (when you watch cats 🐈 👀) © LJ
 
@@ -5590,7 +5644,7 @@ costomize © M
 
 freaktion © M
 
-discription (also "diskription") © M
+discription (etched circularly) © M
 
 valuedate © M
 
@@ -5912,7 +5966,7 @@ cloisterophobic © M
 
 sanitymental © LR
 
-guesterday © M
+guesterday (recent party) © M
 
 guessterday © M
 
@@ -5932,7 +5986,7 @@ workoing © M
 
 violince © M
 
-violance © M
+violance (murder with poking sticks) © M
 
 lewdickrous © M
 
@@ -6214,7 +6268,7 @@ cooltivate © M
 
 materpiece © M
 
-feelth © M
+feelth (slithering and icky to touch) © M
 
 sensorship © M
 
@@ -7292,7 +7346,7 @@ funite (fun while it lasts?) © M
 
 figureprint (whole-body biometric) © M
 
-keypability (key skill) © M
+keypability (linchpin skill) © M
 
 yellevator © M
 
