@@ -15,7 +15,7 @@ func CmdNorm() {
 
 func NormFile(path string) {
 	entries := ParseEntries(gg.ReadFile[string](path))
-
+	entries.Norm()
 	dupes := entries.Dupes()
 
 	if len(dupes) > 0 {

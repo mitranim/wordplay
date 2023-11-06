@@ -39,6 +39,8 @@ func (self Entries) ReplaceAuthors(src map[string]string) {
 	}
 }
 
+func (self Entries) Norm() { gg.EachPtr(self, (*Entry).Norm) }
+
 type Entry struct {
 	Author   string
 	Phrase   string
@@ -123,4 +125,11 @@ func (self *Entry) ReplaceAuthor(src map[string]string) {
 	if ok {
 		self.Author = val
 	}
+}
+
+func (self *Entry) Norm() {
+	self.Author = StrNorm(self.Author)
+	self.Phrase = StrNorm(self.Phrase)
+	gg.MapMut(self.Meanings, StrNorm)
+	gg.MapMut(self.Tags, StrNorm)
 }

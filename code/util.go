@@ -161,21 +161,35 @@ func RowCol(src string, byteInd int) (row int, col int) {
 	return
 }
 
-/*
-Missing feature: support for unescaping. Different languages and text formats
-use different syntax for escaping. Most sensible ones have standardized on
-backslash escaping, but some holdouts use different syntax. For example in SQL,
-single quotes are escaped by duplicating them: ''.
-*/
 func Unquote(src string) string {
-	const quote = '"'
+	const quoteAscii = '"'
+	const quoteLeft = `“`
+	const quoteRight = `”`
+
 	size := len(src)
 
-	if size > 1 && src[0] == quote && src[size-1] == quote {
+	if size > 1 && src[0] == quoteAscii && src[size-1] == quoteAscii {
 		inner := src[1 : size-1]
-		if !strings.ContainsRune(inner, quote) {
+
+		// This avoids stripping opening and closing quotes from a string that
+		// actually contains multiple pairs of quotes, breaking two pairs.
+		if !strings.ContainsRune(inner, quoteAscii) {
 			return inner
 		}
+
+		return src
+	}
+
+	if strings.HasPrefix(src, quoteLeft) && strings.HasSuffix(src, quoteRight) {
+		inner := src[len(quoteLeft) : size-len(quoteRight)]
+
+		// This avoids stripping opening and closing quotes from a string that
+		// actually contains multiple pairs of quotes, breaking two pairs.
+		if !strings.Contains(inner, quoteLeft) && !strings.Contains(inner, quoteRight) {
+			return inner
+		}
+
+		return src
 	}
 
 	return src
@@ -204,3 +218,12 @@ func Fprintf(out io.Writer, pat string, arg ...any) {
 		fmt.Fprintf(out, pat, gg.NoEscUnsafe(arg)...)
 	}
 }
+
+var StrNorm = strings.NewReplacer(
+	"\x00", ``,
+	"\u0000", ``,
+	"\u00a0", ` `,
+	`’`, `'`,
+	`“`, `"`,
+	`”`, `"`,
+).Replace
