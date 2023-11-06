@@ -1,3 +1,95 @@
+killogram (tiny doze of deadly poison) © M
+
+mineframe (powerful machine used for cryptocurrency calculations) © M
+
+antity (hostile/opposing entity) © LR
+
+coughee (difficult drink) © M
+
+confindment (hidden jail) © M
+
+residense (tightly packed quarters) © M
+
+gullectible (sold to chumps) © M
+
+existence of "implant" implies existence of "explant" (prosthetic limbs and such?) © M
+
+robought (autonomous merchandise) © M
+
+bidcoins (tokens you're only allowed to use in auctions) © M
+
+dockument (permit to land in port) © M
+
+sofistry (solving debates with violence) © M
+
+messunderstanding © M
+
+debilerate © LJ
+
+whereiable (unknown factor) © M
+
+kilogramps (measure of dead weight?) © M
+
+sviniature © LJ
+
+euranium (mineral found only in continental Europe) © M
+
+dorminant (complacent at the top) © M
+
+bumker (armored shelter for homeless or refugees) © M
+
+hypathetic (mewling suggestion) © M
+
+pairchute (can carry two, or has two domes) © M
+
+puramids (polyhedrons made of single solid substance) © M
+
+grabitation © M
+
+dienosaur (dead lizard) © M
+
+mewborn (kitten) © M
+
+shopment (cargo delivery to/from salespoint) © LJ
+
+umbrace (a hug in the dark) © M
+
+brutiful © LJ
+
+dutchess (ruler of the Netherese) © M
+
+feistival (where they romp and frolic) © M
+
+fastcinating (attention-catcher) © M
+
+boredoom (dangerous ennui) © M
+
+boardom (in a company of boors) © M
+
+withdrawl (growl at someone to give you money? gopnik extortion?) © Y
+
+horizen (soothing landscape) © M
+
+porkupine (large rodent roasted, tasty, spike-free) © M
+
+elewaiter (which EXISTS, but idiots instead called it "dumbwaiter" for some reason) © LR
+
+convertsation (when someone talks to you trying to change your mind on a core tenet) © LR
+
+warloh (pretty much every warlock by default for signing a damning contract for measly powers) [ru] © LR
+
+interwoo (when you try to impress your date with your career rather than character) © LR
+
+interlewd (BG3 companions trying to drag you off to fuck) © LR
+
+faketory (makes counterfeit or subpar goods) © M
+
+ataction (offensive activity) © M
+
+fiendship (gaining trust with an ulterior motive) © M
+
+sarcoughagus (also "sarkoffagus"; full of dust or toxins) © M
+
 alcowhole (container full of intoxicants; pure ethanol; someone at their intake limit) © M
 
 bloodgeoning (hard beating) © M
@@ -66,7 +158,7 @@ polgovnik (crappy leader) [ru] © LJ
 
 trainsition (travel by railway) © M
 
-moustash (box with theatric props or makeup) © M
+moustash (box with theatric makeup) © M
 
 kektus (funny 🌵) © M
 
@@ -128,7 +220,7 @@ yoinktment (appropriated medical treatment) © M
 
 kingdoom (inevitable fate of feudalrchy) © M
 
-lollercoaster (enjoyable attraction) [jp] © M
+lollercoaster (enjoyable attraction) [ja] © M
 
 illiterature (unintelligible scrawlings) © M
 
@@ -224,7 +316,7 @@ subtellite (well-hidden orbiting object) © M
 
 purgechase © M
 
-fyuri (ferocious her-on-her action) [jp] © M
+fyuri (ferocious her-on-her action) [ja] © M
 
 existence of "developer" implies existence of "devmarryer" © M
 
@@ -272,7 +364,7 @@ vetrification (пустить по ветру) [ru] © M
 
 Ragnarock (music that brings about the end of the world) © M
 
-Lagnarok (apocalyptically bad network connection) [jp] © M
+Lagnarok (apocalyptically bad network connection) [ja] © M
 
 existence of "peeling" implies existence of "pfishing" © M
 
@@ -920,7 +1012,7 @@ adonments (decorations you put on) © M
 
 angstiety © LJ
 
-sure-iken (homing blade; for non-weebs: "ken" stands for "blade") [jp] © M
+sure-iken (homing blade; for non-weebs: "ken" stands for "blade") [ja] © M
 
 humore (because we need mor of it) © M
 
@@ -1222,7 +1314,7 @@ equivalnet © M
 
 existence of "malware" implies existence of "bonware" © LR
 
-existence of "lobotomy" implies existence of "robotomy" [jp] © M
+existence of "lobotomy" implies existence of "robotomy" [ja] © M
 
 existence of "microbe" implies existence of "macrobe" (possibly giant clothing piece) © M
 
@@ -2038,7 +2130,7 @@ imagynation (lewd fantasies) © M
 
 imygination © M
 
-cullprit (must be eliminated) © M
+cullprit (someone on a murder spree; someone who must be eliminated) © M
 
 racktify (put back where it belongs) © M
 
@@ -2894,7 +2986,7 @@ dependong © M
 
 maintion © M
 
-liebrary (full of misinformation) © Y
+liebrary (repository of apocripha; full of misinformation) © Y
 
 aboarlition (extermination of 🐗) © LJ
 
@@ -2970,9 +3062,9 @@ unmazing © M
 
 bantits (female gang; amastos outlaws) © LJ
 
-to buy something at 'fool price' (getting ripped off) © LJ
+to buy something at "fool price" (getting ripped off) © LJ
 
-momth © M
+momth (season of natalities) © M
 
 ashivment (when you finally manage to stab someone) © LR
 
@@ -5614,7 +5706,7 @@ meanvile © M
 
 anymation © M
 
-beeple © M
+beeple (🤖 population) © M
 
 sinergy © M
 
@@ -6072,7 +6164,7 @@ infestival © M
 
 mug-a-structure © LR
 
-mekastructure © M
+mekastructure (huge, built by robots, for robots, or _of_ robot) © M
 
 wark © M
 
@@ -6488,7 +6580,7 @@ invider © Y
 
 tryverse © Y
 
-legocy © Y
+legocy (LEGO sets that got discontinued) © LR
 
 anuswer © Y
 
@@ -6856,7 +6948,7 @@ illeggal (gal's legs too good, should be outlawed) © M
 
 dencity (population clustering) © M
 
-evilution (malicious development) © M
+evilution (malicious development; progressing depravity) © M
 
 expyre (waste combustion; burn out) © M
 
@@ -7358,7 +7450,7 @@ trickstar © M
 
 gateaway (faraway portal; portal that leads far away) © M
 
-murkury (tainted quicksilver) © M
+murkury (contaminated quicksilver) © M
 
 paytent © M
 
@@ -7854,7 +7946,7 @@ windter (particularly fierce northern season) © M
 
 happyning (fortunate happenstance) © M
 
-cerebration (party for intellectual accomplishment) © M
+cerebration (exaltation of intelligence) © M
 
 beautifoul (attractive and repulsive at once) © M
 
@@ -7926,7 +8018,7 @@ atmosfear (scary, unbreathable atmoshphere?) © LR
 
 this font is worth its weight in bold © M
 
-neckname © M
+neckname (tattooed alias) © M
 
 pinful (causes piercing pain) © M
 

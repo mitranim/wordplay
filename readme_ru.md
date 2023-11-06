@@ -1,4 +1,8 @@
-запоездать (when the train you’re on is running late) [ru] © M
+хренология (chronology/timeline of bullshit events) [ru] © LR
+
+раздолбоёб (fucks things up, maybe literally) [ru] © M
+
+запоездать (when the train you're on is running late) [ru] © M
 
 бешенцы (refugees out of control) [ru] © LR
 
@@ -18,7 +22,7 @@
 
 турбопровод (has jet turbines inside) [ru] © M
 
-просранство (territory you lost control over) [ru] © LR
+просранство (territory you lost control over or made worse in some way) [ru] © LR
 
 теннисиськи [ru] © Y
 
