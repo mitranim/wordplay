@@ -1,4 +1,42 @@
-killogram (tiny doze of deadly poison) © M
+whoreography (lewd dancing) © LR
+
+futrue (inevitable forecast) © M
+
+chore-ography (being forced to dance) © M
+
+whirlpull (cyclic suck) © M
+
+dev-eloper (absconds with another dev, leaving you down two) © M
+
+soupstenance (liquid nutrition) © M
+
+soupstance (liquid sustenance) © M
+
+realativity © M
+
+magnetude (degree of attraction) © M
+
+chainge (sequence of linked consequences?) © M
+
+dialoh (conversation between hapless bumpkins?) [ru] © M
+
+existence of "positron" implies existence of "negatron" © M
+
+flossophy (predilection for thorough cleaning) © M
+
+findamental (difficult-to-discover foundations) © M
+
+eekosystem (full of filthy, slimy, disgusting things and substances, aka most places on Earth) © M
+
+nanifestation (appearance of something strange) [ja] © M
+
+terrafirming (reinforcing soft soil) © M
+
+clensing (under a magnifying glass 🔍) © M
+
+maskot (😼) [ru] © M
+
+killogram (lethal doze of deadly poison) © M
 
 mineframe (powerful machine used for cryptocurrency calculations) © M
 
@@ -44,7 +82,7 @@ pairchute (can carry two, or has two domes) © M
 
 puramids (polyhedrons made of single solid substance) © M
 
-grabitation © M
+grabitation (force of acquisition) © M
 
 dienosaur (dead lizard) © M
 
@@ -1078,7 +1116,7 @@ roamantic © LJ
 
 selfuric acid (berserk tincture) © M
 
-aerosoil (airborne hard particles) © M
+aerosoil (airborne hard particulates) © M
 
 miniral (found in scarce amounts or very small chunks) © M
 
@@ -1188,7 +1226,7 @@ mounteen © Y
 
 coñbinatorics © Y
 
-mountin (full of ore veins) © M
+mountin (elevated terrain full of metal ore) © M
 
 treasoning (thinking that leads to betrayal) © M
 
@@ -5042,7 +5080,7 @@ lieteral © Y
 
 whitespice © Y
 
-probeability © M
+probeability (testable hypothesis?) © M
 
 koñman [🐴] © Y
 
@@ -5372,7 +5410,7 @@ medification © M
 
 prepaired (partners well-adjusted to each other) © LR
 
-missage (the missive you missed) © M
+missage (a missive you missed) © M
 
 promissing © M
 
@@ -6126,7 +6164,7 @@ agreedment © M
 
 controll © M
 
-blastphemy (bombing saint statues or churches) © M
+blastphemy (explosive vandalization of sacred objects) © M
 
 whoreganization © LR
 
@@ -6192,7 +6230,7 @@ vitamineral © M
 
 abduckt © M
 
-spawntaneous (sudden birth) © M
+spawntaneous (surprising proliferation; unwanted pregnancy; sudden birth) © M
 
 revaulting © M
 
@@ -7424,7 +7462,7 @@ saygment (someone's turn to speak) © M
 
 inchroduce (establish very slowly) © M
 
-launchitude © M
+launchitude (best for launching rockets) © M
 
 heartship (relationship-building hardship) © M
 
