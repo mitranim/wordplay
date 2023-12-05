@@ -23,7 +23,7 @@ type Parser struct {
 func MakeParser(content string) Parser { return Parser{Source: content} }
 
 func (self *Parser) Parse() {
-	defer gg.Detail(`failed to parse entries`)
+	defer gg.Detail(`unable to parse entries`)
 	defer gg.Trans(self.err)
 
 	for self.more() {
