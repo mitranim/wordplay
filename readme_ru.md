@@ -1,3 +1,9 @@
+лосёл (horned ass) [ru] © M
+
+лишний состав (personnel you don't mind sacrificing) [ru] © LR
+
+щеновник (either a bureaucrat who oversees dog-related affairs, or one that can be bribed with gifted dogs, as was stereotypical in Russian classic literature) [ru] © LR
+
 хренология (chronology/timeline of bullshit events) [ru] © LR
 
 раздолбоёб (fucks things up, maybe literally) [ru] © M

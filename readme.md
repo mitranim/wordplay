@@ -1,3 +1,231 @@
+spectoral (transparent or rainbow chestplate?) © M
+
+crime directive (misguided policy from above) © M
+
+medallicity (wearing so many awards, they're a significant part of your mass) © M
+
+clamity (mollusc extinction event?) © M
+
+refuseless (worst junk) © M
+
+eaternity (waiting for food to be ready) © M
+
+variabool (binary switch) © M
+
+supeerior (more "equal" than others) © M
+
+screenshout (?) © M
+
+rowbot (boating automaton) © M
+
+kozmos (universe as understood by 🐐) [ru] © M
+
+causemos (causally consistent cosmology?) © M
+
+chi-kin (poultry-adjacent species) © M
+
+chi-ken (poultry expertise?) © M
+
+kurency (used for trading tobacco and chicken) [ru] © M
+
+sellebration (big merch day) © M
+
+conformation bias (slave to the hive) © M
+
+mindustry (some sort of thought police?) © LJ
+
+quatrillion (e4 * e12?) © M
+
+existence of "comPUTer" implies existence of "comGETer" and "comPOSTer" © M
+
+phomeme (contagious phonetic pun) © M
+
+oinkment (pig grease?) © M
+
+pojrom (food maraudery) [ru] © M
+
+waiflength (shrill frequency) © M
+
+painsive (suffering grimace) © M
+
+decloreation (supplemental canon material) © M
+
+soldiering iron (hot brand for motivating troops) © M
+
+youthoria (a happy childhood) © LJ
+
+youphoria (being happy to see someone specific) © LJ
+
+projetile (rocket bullet) © M
+
+existence of "forget" implies existence of "forgive" (also "forset" and "fortake") © M
+
+mardown (sloppy writing) © M
+
+felinetropy (cat care) © M
+
+silicat (feline statuette made of stone) © M
+
+ourigin (common ancestry) © M
+
+feelantropy © M
+
+longuage (highly agglutinative tongue) © M
+
+existence of "swine" implies existence of "svodka" (for some reason...) [ru] © M
+
+existence of "transparent" implies existence of "transchild" © M
+
+black hold (when you can't escape) © M
+
+madthematics © M
+
+helliosphere (infernal atmosphere) © M
+
+handroid (user of artificial limbs) © M
+
+psyborg (psionically augmented) © M
+
+playnetary (global multiplayer) © M
+
+worriables (concerning factors) © LR
+
+commercenary (trader for hire) © M
+
+penspermia (contagious graphomania) © M
+
+pogress (enthusiastic advance) © M
+
+colaborator (scientific coworker) © M
+
+chekhnology (robotniks, for example) © M
+
+sureiken (unerring projectile) © M
+
+whyolation (transgression with no clear purpose) © LR
+
+svinstok (whistle for 🐖) [ru] © LR
+
+eateration (scheduled intake) © M
+
+kvarium (housing for amphibians 🐸) [ru] © M
+
+eelongated (oblong, flexible, and slimy) © M
+
+blessen (?) © M
+
+eelectric (bio-shocker) © M
+
+astronaught (lost in space) © M
+
+innflux (arrival of guests) © M
+
+ass-fixated (asphyxiated by methane emissions?) © LJ
+
+feest (very expensive dinner with lots of tipping) © M
+
+fangtastical (mystical beast?) © M
+
+exprot (selling expired goods) © M
+
+lanturn (?) © M
+
+sirenity (when a racket is finally silenced) © LJ
+
+trainquility (gazing at passing pastures) © M
+
+zignature © M
+
+prepayration (advance deposit) © M
+
+catgories (feline pedigree types) © M
+
+hazrad (☢️) © M
+
+skoupon (greedily looking for discounts) [ru] © LR
+
+wingter (when birds hibernate or fly away) © M
+
+hyperthesis (foundational axiom) © M
+
+fastscinating (instant attraction) © M
+
+newtrino (to-be-discovered dark matter particle) © M
+
+iceotope (frozen heavy water) © M
+
+rollercoster (very expensive attraction) © M
+
+morderation (face control) [ru] © M
+
+atomospheric (?) © M
+
+declay (me mixing up decay and decline by accident) © LJ
+
+confragration (murder by immolation) © M
+
+veryfication (well-substantiated confirmation) © M
+
+minifacturing (mass production of tiny components) © M
+
+unticipate (give up on something) © Yury © mitranim
+
+sistem (employs nuns and nurses) © M
+
+gimmification (adorning with fluff) © M
+
+donegrade (irreversible degradation) © M
+
+casuality (circumstances that control normies) © M
+
+approgsimation (simulated outcome) © M
+
+streat (full of food stalls) © M
+
+pithingk (a wily remark) © M
+
+spearcing (pithing perdition) © M
+
+endlightenment (final revelation) © M
+
+ruleplaying (tabletop with rule lawyer types) © M
+
+boombardment (with loud explosives) © M
+
+hopium © M
+
+scareful © LR
+
+egreedgious (most outrageous cashgrab) © M
+
+restarant (high-class diner for celebrities ✡️) © M
+
+vibe-ility © M
+
+manurefactory (makes libelous/fake news; animal farm) © LJ
+
+leviafan (oversized turbine) © M
+
+consealed (hidden beyond recovery) © M
+
+hybred (metis with a pedigree) © M
+
+doubull (two two-horns) © M
+
+teendency (immature approach) © M
+
+agrrogate (acquire belligerently; see https://en.wiktionary.org/wiki/arrogate) © M
+
+heubristic (arrogant decision making) © M
+
+distriboot (leg it to deliver) © M
+
+manitude (various degrees of scale) © M
+
+prisonce (inescapable gaze) © M
+
+asspect (foundational component?) © M
+
 whoreography (lewd dancing) © LR
 
 futrue (inevitable forecast) © M
@@ -1526,7 +1754,7 @@ beelivery © LJ
 
 existence of "disasters" implies existence of "asters" (clearly a natural state without any complications) © LJ
 
-disasster © M
+disasster (running for 🚽) © M
 
 attidude © LJ
 
@@ -2478,7 +2706,7 @@ callaboration (over Zoom) © LR
 
 cullaboration (when the weakest links are culled) © Y
 
-cluboration (when they "encourage" you with beatings) © Y
+cluboration (when they "encourage" you with beatings; solving a problem as a group) © Y
 
 diemension (place that kills you; afterlife, like Hell) © M
 
@@ -2496,7 +2724,7 @@ informination © LJ
 
 informaintion © LR
 
-infirmation (either flawed info or maybe also some facts that make you double down on some bias; maybe certificate you get from doctor to prove to your employer/school that you are sick) © LJ
+infirmation (either flawed info or maybe also some facts that make you double down on some bias; maybe certificate you get from doctor to prove to your employer/school that you are sick; unreliable intel; unconvincing data) © LJ
 
 illformation (malicious or false) © LR
 
@@ -2914,7 +3142,7 @@ turbin (trashcan with built-in shredder blades) © Y
 
 sparser (parses incomplete text?) © M
 
-iterface (intermediary representation) © M
+iterface (intermediary representation; iteration protocol) © M
 
 upsettling © M
 
@@ -3850,7 +4078,7 @@ suckseed © M
 
 superbole (if there's "hyperbole", why not this?) © M
 
-esteamed © M
+esteamed (well-prepared dish?) © M
 
 elicktricity © M
 
@@ -4320,7 +4548,7 @@ koñsequence (🐴 procession) [🐴] © LR
 
 bonebardment © M
 
-motification (a ping that moves you; a notice that causes you to act) © LR
+motification (signal to action) © LR
 
 prodocol © M
 
@@ -4566,7 +4794,7 @@ haulder (holding harness for hauling) © M
 
 hight © M
 
-stringth © M
+stringth (tensile power) © M
 
 penful © M
 
@@ -5170,7 +5398,7 @@ benefist © M
 
 cointinue (insert 🪙 to proceed) © M
 
-addictionary © M
+addictionary (reference manual for dangerous drugs) © M
 
 unawear © M
 
@@ -5204,7 +5432,7 @@ apocalapse © M
 
 betterfly © LR
 
-cauldrone © M
+cauldrone (robotic _stew_-ard) © M
 
 dickline (decline dick? decling like a dick?) © LR
 
@@ -5746,7 +5974,7 @@ anymation © M
 
 beeple (🤖 population) © M
 
-sinergy © M
+sinergy (confluence of malefice) © M
 
 mushrimp (dish made of Mushrooms and Shrimps) © LJ
 
@@ -5774,7 +6002,7 @@ costomize © M
 
 freaktion © M
 
-discription (etched circularly) © M
+discription (circular etching) © M
 
 valuedate © M
 
@@ -5836,7 +6064,7 @@ recommand © M
 
 quaranteed © M
 
-computition © M
+computition (calculation race) © M
 
 practicipant © M
 
@@ -7694,7 +7922,7 @@ soulution (liquidated soul) © M
 
 tailent © M
 
-inkreadible (unbelievable manuscript) © M
+inkreadible (awesome handwriting; unbelievable manuscript) © M
 
 sadback © M
 
