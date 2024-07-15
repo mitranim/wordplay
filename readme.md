@@ -142,7 +142,7 @@ chemicoal (slag in ashes?) © M
 
 showruiners (asshole showrunners that fuck up the series, for example by disrespecting source material) © LR
 
-wheed (makes you wheeze after smoking <:wheeze:797010526597021697>) © M
+wheed (makes you wheeze after smoking) © M
 
 democritic (voice of dissent) © M
 
