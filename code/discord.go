@@ -58,6 +58,7 @@ func (self *DiscordDownload) Download() {
 			Fprintln(self.Log, logPrefixDiscordDownload, `found empty page, done; output path: `, self.OutPath)
 			return
 		}
+
 		gg.Append(&self.Pages, page)
 		self.SetMaxMsg(page.Max())
 

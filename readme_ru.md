@@ -1,3 +1,25 @@
+россвет (morning in Russia) © Y
+
+existence of "грамота" implies existence of "килограмота" (overweight parchment) [ru] © M
+
+сосиськи (narrow, elongated tits) [ru] © M
+
+пиздательство (publishes propaganda) [ru] © LR
+
+техналогия (taxable invention) [ru] © M
+
+тихнология (very quiet machinery) [ru] © M
+
+канниболизм (eating people hurts) [ru] © M
+
+конебализм (horse eat horse) [ru] © M
+
+сольнце [ru] © M
+
+собакот (🐕🐈) [ru] © LJ
+
+котолог (registry of cats with pedigrees) [ru] © Y
+
 лосёл (horned ass) [ru] © M
 
 лишний состав (personnel you don't mind sacrificing) [ru] © LR

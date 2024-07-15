@@ -204,6 +204,7 @@ func AppendNewlineOpt[A ~string](val A) A {
 }
 
 // Permissive version of `fmt.Fprintln`: does nothing if output is nil.
+// Also doesn't automatically space-out adjacent strings.
 // TODO move to `gg.`
 func Fprintln(out io.Writer, msg ...any) {
 	if out != nil {
