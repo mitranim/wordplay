@@ -878,8 +878,6 @@ existence of "tree bark" implies existence of "grass meow" © LR
 
 proofound © M
 
-baram (🐏) [ru] © M
-
 dishruptance (accidentally opening dishwasher while it's running) © J/GPT
 
 pignoble (perhaps refined, but only by swine standards) © M
@@ -1144,8 +1142,6 @@ existence of "imperialism" implies existence of "cherubealism" © LR
 
 fart-fetched © M
 
-"barameter" 🐏 © LR
-
 willain © LR
 
 isvini [ru] © LJ
@@ -1314,7 +1310,7 @@ paleostine (ancient human settlements in Mesopotamia or whatever) © M
 
 meateor (slab of meat flying your way 🥩💨) © M
 
-"toothpig" 🪥 🐷 © M
+toothpig (🪥🐷) © M
 
 survibe (live comfortably) © M
 
@@ -1508,7 +1504,7 @@ postphoned (delayed indefinitely) © M
 
 ambossador © M
 
-"unchorted" 👿 © LJ
+unchorted (👿) © LJ
 
 mootivation (drive for something pointless) © M
 
@@ -1524,7 +1520,9 @@ goald (gilded reward; chasing yellow metal) © M
 
 messremember © M
 
-"baram" 🐏 © M
+barameter (🐏) © LR
+
+baram (🐏) [ru] © M
 
 fullanthropy (well-rounded human care) © M
 
@@ -1706,7 +1704,7 @@ elopequence (amorous persuasion) © M
 
 peace of shit © Y
 
-"diabolick" 😋😈 © LJ
+diabolick (😋😈) © LJ
 
 properganda (sets your brain straight) © M
 
