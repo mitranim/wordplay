@@ -1,3 +1,11 @@
+здравоохренение (a healthcare system gone nuts) [ru] © LR
+
+поестка дня (🐖 agenda for the day) [ru] © LR
+
+говнокомандующий (commander-in-shit) [ru] © LR
+
+обосреватель (a reviewer that just shits on everything) [ru] © LR
+
 россвет (morning in Russia) © Y
 
 existence of "грамота" implies existence of "килограмота" (overweight parchment) [ru] © M

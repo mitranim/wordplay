@@ -1,4 +1,180 @@
-asmartment (smart home) © LJ
+ramnant (horned carcass) © M
+
+chemystery (anomalous substances) © LJ
+
+existence of "patrol" implies existence of "matrol" (female squad) © M
+
+poxy war (war involving biological weapons?) © LJ
+
+sulfury (hellish rage) © M
+
+crackodile (with powerful snapjaws; drug that bites you in the ass) © M
+
+tolleration (how much one agrees to be charged) © LR
+
+knews (already seen) © LR
+
+monstar (the best of the worst) © M
+
+robligation (mandate to steal; a bond that's very profitable for one side and very unprofitable for the other) © LJ
+
+hellocinations (when you thought you already saw someone today 🤔) © Y
+
+findex (register for stuff you want to find and/or maybe the name for a search engine) © LJ
+
+gosmos (what runs the universe?) [ru] © M
+
+boobk (contains many mammary illustrations) © M
+
+kotoshka (fat cat 🐈 🥔) [ru] © LJ
+
+seminarse (bad seminar) © LJ
+
+necrobatics (vampire agility) © M
+
+zhravity (an all-devouring attraction) [ru] © LJ
+
+separacist (favors segregation) © M
+
+acatdemy (of veterinary studies?) © M
+
+chore'ch (a monastery that makes you work) © LR
+
+dissapointment (vocally critical) © M
+
+paintkiller (brain bleach for bad art) © M
+
+existence of "cancel" implies existence of "canbuy" © M
+
+existence of "close" implies existence of "cwin" (queen) © M
+
+upstares (glaring upwards) © M
+
+pilgrimate (travel companion) © M
+
+zhorney (food pilgrimage) [ru] © LR
+
+divastation (destruction by powerful vocals) © M
+
+laybor (a horizontal exercise) © M
+
+steal-th (avaritious subterfuge) © M
+
+croocodile (flexible reptilian) © M
+
+torqey (bird with powerful thrust) © M
+
+barbeque (food line) © M
+
+wisdumb (faulty knowledge passed down through generations) © LJ
+
+wait distribution (throwing weight around in a queue) © LJ
+
+alturnative (change of direction) © LJ
+
+existence of "incontinent" implies existence of "outcontinent" and "inocean" © M
+
+vempire (rule of immortal parasites) © M
+
+self-respec (self-remade) © M
+
+feachore (annoying to use) © LR
+
+showell (instrument for digging vertical ditches) © M
+
+warload (explosive warchief) © LJ
+
+literachore (unwanted reading) © M
+
+curiocity (fascinating town; fascination with landmarks) © M
+
+kitsunami (🦊 🌊; also see: "catscade") [ja] © LJ
+
+koffin (container for near-dead) © M
+
+cullture (stripped of unnecessary traditions; fond of ritual sacrifices) © M
+
+accsexories (pleasure toys) © M
+
+irework (angry explosive) © M
+
+maintunance (when you also tune something up) © LR
+
+ambi-sinister (incompetent with both hands) © TP
+
+alleygator (lurks and snatches in tight quarters) © M
+
+biass (especially obstinate prejudice) © M
+
+yeeti (a hairy tosser) © M
+
+eroaded (weathered by traffic) © M
+
+chompion (of a food-devouring contest) © M
+
+merchandice (frozen goods) © LR
+
+renuisance (someone annoying re-emerges or is reborn) © LJ
+
+exersize (big effort) © M
+
+soundbard (human soundboard?) © LJ
+
+whoroscope (monthly-rotating harem) © LJ
+
+degenerosity (giving away too much) © LJ
+
+trashmogrification (transmog with only poor choices) © LJ
+
+onboar memory (animal firmware / animal capacity to learn) © M
+
+shrillion (a number so scary, it makes people shriek) © M
+
+doppelgangster (a twin in crime) © M
+
+ashteroid (crashed and burned remains of one) © M
+
+straingth (for overexertion) © M
+
+kozliningrad (🐐🏰) © LJ
+
+svinventory (pig pen; pig pedigree registry) [ru] © LJ
+
+censory input (neutered perception) © M
+
+my-thology (personal headcanon) © Y
+
+boaran (hybrid horned boar) [ru] © M
+
+astronuts (space food?) © LJ
+
+backteria (archaic protist?) © M
+
+riplication (when earlier generations die early, possibly as a result of reproduction) © M
+
+nervana (total relaxation) © M
+
+expirement (involves disposable test subjects) © M
+
+trollglodite (degenerate caveman) © M
+
+"inthink" or "in-think" (used in ingroups; also implies existence of "outthink": foreign ideas) © M
+
+the existence of "underdog" implies the existence of "overcat" © LR
+
+horse d'oeuvre (equine apperitif; see original: https://en.wiktionary.org/wiki/hors_d%27oeuvre) © M
+
+disrememberment (false memory) © LJ
+
+dismemeberment (taking memories apart) © M
+
+critical mess (overconcentrated bedlam) © M
+
+pixture (assortment of pictures; an album) © LJ
+
+catscade (kitten avalanche) © M
+
+asmartment (smart-home apartment) © LJ
 
 sadventure (results in misfortune) © M
 
@@ -18,7 +194,7 @@ forumla (most-voted recipe?) © M
 
 unfartinately (untimely flatulence 💨) © LJ
 
-pithyful © M
+pithyful (failed sass?) © M
 
 phonetom (👻📱) © LR
 
@@ -30,7 +206,7 @@ roxygen (main constituent of stone) © M
 
 dieasaur (doomed lizard) © M
 
-coconot (empty or not tasty) © Yury © mitranim
+coconot (empty or not tasty) © Y
 
 pooluted (vile swimming pool) © LJ
 
@@ -64,7 +240,7 @@ abyssmal © M
 
 abysmall © M
 
-broomba (automatic sweeper) © M
+broomba (automated sweeper) © M
 
 idealogy (ideology that hinges on idealism) © LR
 
@@ -72,7 +248,7 @@ quantents (quantum contents) © M
 
 gobling (inhuman taste for decorations) © M
 
-champignonship (finding the best mushrooms?) © LR
+champignonship (finding the best mushrooms / truffles) © LR
 
 hippo-potomus (very lazy, procrastinating beast) [ru] © M
 
@@ -132,7 +308,7 @@ equidment (low wages) © LJ
 
 copacity (ability to make peace) © M
 
-haemosphere (drop of blood) © LJ
+haemosphere (drop of blood 🩸) © LJ
 
 knowledger (history of discoveries) © M
 
@@ -158,7 +334,7 @@ arrestaurant (enforces good eating habits) © M
 
 aww-some (too cute for words) © M
 
-monitorus (curved blinkenlight surface) © M
+monitorus (curved surface with blinkenlights) © M
 
 serbent (curved snake) © M
 
@@ -260,7 +436,7 @@ highperbole (great exaggeration, possibly from intoxication) © M
 
 muskulature (stinky bulk) © M
 
-darelict (requires brave explorers) © M
+darelict (invites brave explorers) © M
 
 ayyg (hatches an alien) © M
 
@@ -282,7 +458,7 @@ variabool (binary switch) © M
 
 supeerior (more "equal" than others) © M
 
-screenshout (?) © M
+screenshout © M
 
 rowbot (boating automaton) © M
 
@@ -324,7 +500,7 @@ youthoria (a happy childhood) © LJ
 
 youphoria (being happy to see someone specific) © LJ
 
-projetile (rocket bullet) © M
+projetile (rocket bullet; high-velocity stream) © M
 
 existence of "forget" implies existence of "forgive" (also "forset" and "fortake") © M
 
@@ -380,13 +556,13 @@ kvarium (housing for amphibians 🐸) [ru] © M
 
 eelongated (oblong, flexible, and slimy) © M
 
-blessen (?) © M
+blessen © M
 
 eelectric (bio-shocker) © M
 
 astronaught (lost in space) © M
 
-innflux (arrival of guests) © M
+innflux (arrival of patrons or guests) © M
 
 ass-fixated (asphyxiated by methane emissions?) © LJ
 
@@ -396,7 +572,7 @@ fangtastical (mystical beast?) © M
 
 exprot (selling expired goods) © M
 
-lanturn (?) © M
+lanturn © M
 
 sirenity (when a racket is finally silenced) © LJ
 
@@ -426,7 +602,7 @@ rollercoster (very expensive attraction) © M
 
 morderation (face control) [ru] © M
 
-atomospheric (?) © M
+atomospheric © M
 
 declay (me mixing up decay and decline by accident) © LJ
 
@@ -436,7 +612,7 @@ veryfication (well-substantiated confirmation) © M
 
 minifacturing (mass production of tiny components) © M
 
-unticipate (give up on something) © Yury © mitranim
+unticipate (give up on something) © Y
 
 sistem (employs nuns and nurses) © M
 
@@ -468,7 +644,7 @@ egreedgious (most outrageous cashgrab) © M
 
 restarant (high-class diner for celebrities ✡️) © M
 
-vibe-ility © M
+vibe-ility (does it feel just right) © M
 
 manurefactory (makes libelous/fake news; animal farm) © LJ
 
@@ -588,7 +764,7 @@ shopment (cargo delivery to/from salespoint) © LJ
 
 umbrace (a hug in the dark) © M
 
-brutiful © LJ
+brutiful (attractively brusque?) © LJ
 
 dutchess (ruler of the Netherese) © M
 
@@ -1050,7 +1226,7 @@ praysing © M
 
 reevil © LR
 
-disguss © LR
+disguss (talk about something deeply unpleasant) © LR
 
 zhopinionated [ru] © LJ
 
@@ -1232,7 +1408,7 @@ hitnosis (smack 'em on the head for obedience) © M
 
 hipnosys (delicate technology for mind control) © M
 
-lawsoot © M
+lawsoot (burned-down remains of a document) © M
 
 bendroom (where couples display flexibility) © M
 
@@ -1502,7 +1678,7 @@ apropriate (the right prop for the scene) © M
 
 postphoned (delayed indefinitely) © M
 
-ambossador © M
+ambossador (domineering liaison) © M
 
 unchorted (👿) © LJ
 
@@ -1526,7 +1702,7 @@ baram (🐏) [ru] © M
 
 fullanthropy (well-rounded human care) © M
 
-roboot © M
+roboot (mechanized footwear) © M
 
 vocabullary (gopnik lingo) © M
 
@@ -1930,8 +2106,6 @@ incert © M
 
 mordification (facial plastic surgery; giving something a _face_ lift, perhaps to make it more capable of murder) [ru] © M
 
-indoctorinate (persuade by using "doctored" sources) © M
-
 batchelor © M
 
 existence of "retrofit" implies existence of "modernfit" © LJ
@@ -2060,7 +2234,7 @@ motherator © Y
 
 sceracity © Y
 
-perishute (flawed/faulty parachute) © LJ
+perishute (kills its user) © LJ
 
 katerlysator (feline male stimulating local females) [de] © LJ
 
@@ -2610,7 +2784,7 @@ campture © M
 
 paymend (reparations) © M
 
-aqueduck (bird squatting around plumbing) © M
+aqueduck (aquacious waterfowl; bird squatting around plumbing) © M
 
 physicyst © M
 
@@ -2702,7 +2876,7 @@ riscue (dangerous rescue) © M
 
 riproduce (when parents die while giving birth or get eaten by offspring) © M
 
-escapegoat © M
+escapegoat (refuses to be a sacrifice) © M
 
 scapegoad © M
 
@@ -2894,7 +3068,7 @@ busness (bus company) © LJ
 
 demonstraight © Y
 
-pign (?) © M
+pign © M
 
 orgchanical (cyborg, biotech) © LJ
 
@@ -2936,7 +3110,7 @@ hurtcoded © M
 
 drakoñ (🐲🐴? ridable serpent?) [ru; 🐴] © M
 
-gospell (holy incantation with magic power) © M
+gospell (enchants its faithful flock; enthralling gov propaganda [ru]) © M
 
 shotcut (gunning them down to make way; going to a shady alleyway where someone gets shot) © M
 
@@ -3110,9 +3284,9 @@ crimeanal (😈🇷🇺) © LJ
 
 screaminal (loud when getting arrested?) © LR
 
-creamynal (?) © LR
+creamynal © LR
 
-criminull (?) © LR
+criminull © LR
 
 existence of "devil" implies existence of "dgood" © LR
 
@@ -4694,7 +4868,7 @@ feliny (feline felony) © LR
 
 mythodology (only rumored to work) © M
 
-horrorscope (horoscope full of horrifying predictions) © LR
+horrorscope (doom predictions) © LR
 
 politheist (religious ideologue in politics) © LJ
 
@@ -4778,7 +4952,7 @@ plati-num (a number that you pay) [ru] © M
 
 appbroach © M
 
-armoar (never thicc enough) © M
+armoar (chunky, expansive protective gear; never thicc enough) © M
 
 cateogries © M
 
@@ -5306,8 +5480,6 @@ mathtery © M
 
 sentinet © M
 
-indoctorinated © M
-
 ingreedyents © M
 
 pendemic (writing fad) © M
@@ -5770,7 +5942,7 @@ apairtment (for two) © M
 
 apartyment (party apartment) © LR
 
-coldron © M
+coldron (with stew gone cold) © M
 
 unnoying © M
 
@@ -6014,7 +6186,7 @@ megazine © M
 
 medievil © M
 
-patroll © M
+patroll (roaming levy-taker) © M
 
 culltivate © LR
 
@@ -6078,7 +6250,7 @@ skipter (skip + scepter) © M
 
 purifire © M
 
-dearelict © M
+dearelict (someone's favorite ruin) © M
 
 lol-tech (low-tech but even more laughable) © M
 
@@ -6136,7 +6308,7 @@ pauldrones (shoulder-mounted robots) © M
 
 haulted © M
 
-queentillion © M
+queentillion (royal amount) © Y
 
 exbansion © M
 
@@ -6154,7 +6326,9 @@ oberator (operator that berates you on comms) © M
 
 struss (stress support?) © M
 
-indoctorination © M
+indoctorinate (persuade by using "doctored" sources) © M
+
+indoctorination (induced belief in medicine) © M
 
 mainwhile © M
 
@@ -6350,7 +6524,7 @@ formeat © M
 
 diffstribution © M
 
-absense © M
+absense (merely undetectable; lack of common sense) © M
 
 retconnect © M
 
@@ -7368,7 +7542,7 @@ magnitube (telescope?) © M
 
 lagin (slow login) © M
 
-bitterfly (beautiful but not tasty) © M
+bitterfly (unsavory insect; beautiful but not tasty) © M
 
 broadcost (expensive broadcast) © M
 
@@ -7600,7 +7774,7 @@ fucktion (ability to perform intercourse; dickish faction) © M
 
 suckceptible (gullible) © M
 
-sassinate (take down by talking down) © M
+sassinate (take down by talking down; figuratively murder with a pithy burn) © M
 
 golleague (fellow gopher: Golang programmer) © M
 
@@ -7654,7 +7828,7 @@ sasspect (openly deride on suspicion) © M
 
 maintaint © M
 
-puriod (time of purification) © M
+puriod (time of purification; time of clarity) © M
 
 jawb (jaw-intensive job? involves a lot of talking?) © M
 
@@ -8002,7 +8176,7 @@ bossible (ordered = can be done) © M
 
 necromanagement (managing obsolete things) © M
 
-feetback (feeling it with your feet) © M
+feetback (feeling the ground with your soles) © M
 
 dickoration © M
 
