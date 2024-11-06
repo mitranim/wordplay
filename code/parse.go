@@ -8,9 +8,10 @@ import (
 )
 
 func ParseEntries(src string) Entries {
-	parser := MakeParser(src)
-	parser.Parse()
-	return parser.Entries
+	var par Parser
+	par.Source = src
+	par.Parse()
+	return par.Entries
 }
 
 type Parser struct {
@@ -19,8 +20,6 @@ type Parser struct {
 	cursor  int
 	entry   Entry
 }
-
-func MakeParser(content string) Parser { return Parser{Source: content} }
 
 func (self *Parser) Parse() {
 	defer gg.Detail(`unable to parse entries`)

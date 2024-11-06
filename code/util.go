@@ -195,7 +195,7 @@ func Unquote(src string) string {
 	return src
 }
 
-// TODO move to `gg.`
+// TODO move to `gg`.
 func AppendNewlineOpt[A ~string](val A) A {
 	if len(val) > 0 && !gg.HasNewlineSuffix(val) {
 		return val + A(gg.Newline)
@@ -205,7 +205,7 @@ func AppendNewlineOpt[A ~string](val A) A {
 
 // Permissive version of `fmt.Fprintln`: does nothing if output is nil.
 // Also doesn't automatically space-out adjacent strings.
-// TODO move to `gg.`
+// TODO move to `gg`.
 func Fprintln(out io.Writer, msg ...any) {
 	if out != nil {
 		gg.Write(out, AppendNewlineOpt(gg.Str(msg...)))
@@ -213,7 +213,7 @@ func Fprintln(out io.Writer, msg ...any) {
 }
 
 // Permissive version of `fmt.Fprintf`: does nothing if output is nil.
-// TODO move to `gg.`
+// TODO move to `gg`.
 func Fprintf(out io.Writer, pat string, arg ...any) {
 	if out != nil {
 		fmt.Fprintf(out, pat, gg.NoEscUnsafe(arg)...)

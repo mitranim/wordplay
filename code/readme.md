@@ -4,4 +4,4 @@ Tooling used for validating and normalizing the phrases contained in readme file
 
 ## License
 
-The code is licensed under https://unlicense.org. The phrases contained in the readme files in repo root have no license at the moment.
+The Go and Makefile code is hereby licensed under https://unlicense.org. The phrases contained in the readme files in repo root have no license at the moment.
