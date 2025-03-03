@@ -1,3 +1,7 @@
+бабулинг (when a grandma trolls/bullies someone) [ru] © LR
+
+вредятина (harmful hallucinations) [ru] © M
+
 здравоохренение (a healthcare system gone nuts) [ru] © LR
 
 поестка дня (🐖 agenda for the day) [ru] © LR
