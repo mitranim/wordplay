@@ -32,9 +32,10 @@ func NormFile(path string) {
 	}
 
 	entries.ReplaceAuthors(map[string]string{
-		`LandRaider`:      `LR`,
-		`VengefulAncient`: `LR`,
-		`vengefulancient`: `LR`,
+		`LandRaider`:      `VA`,
+		`LR`:              `VA`,
+		`VengefulAncient`: `VA`,
+		`vengefulancient`: `VA`,
 		`LeoJo`:           `LJ`,
 		`LeoJo231094`:     `LJ`,
 		`El Jay`:          `LJ`,

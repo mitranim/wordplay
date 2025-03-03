@@ -1,14 +1,14 @@
-бабулинг (when a grandma trolls/bullies someone) [ru] © LR
+бабулинг (when a grandma trolls/bullies someone) [ru] © VA
 
 вредятина (harmful hallucinations) [ru] © M
 
-здравоохренение (a healthcare system gone nuts) [ru] © LR
+здравоохренение (a healthcare system gone nuts) [ru] © VA
 
-поестка дня (🐖 agenda for the day) [ru] © LR
+поестка дня (🐖 agenda for the day) [ru] © VA
 
-говнокомандующий (commander-in-shit) [ru] © LR
+говнокомандующий (commander-in-shit) [ru] © VA
 
-обосреватель (a reviewer that just shits on everything) [ru] © LR
+обосреватель (a reviewer that just shits on everything) [ru] © VA
 
 россвет (morning in Russia) © Y
 
@@ -16,7 +16,7 @@ existence of "грамота" implies existence of "килограмота" (ove
 
 сосиськи (narrow, elongated tits) [ru] © M
 
-пиздательство (publishes propaganda) [ru] © LR
+пиздательство (publishes propaganda) [ru] © VA
 
 техналогия (taxable invention) [ru] © M
 
@@ -34,17 +34,17 @@ existence of "грамота" implies existence of "килограмота" (ove
 
 лосёл (horned ass) [ru] © M
 
-лишний состав (personnel you don't mind sacrificing) [ru] © LR
+лишний состав (personnel you don't mind sacrificing) [ru] © VA
 
-щеновник (either a bureaucrat who oversees dog-related affairs, or one that can be bribed with gifted dogs, as was stereotypical in Russian classic literature) [ru] © LR
+щеновник (either a bureaucrat who oversees dog-related affairs, or one that can be bribed with gifted dogs, as was stereotypical in Russian classic literature) [ru] © VA
 
-хренология (chronology/timeline of bullshit events) [ru] © LR
+хренология (chronology/timeline of bullshit events) [ru] © VA
 
 раздолбоёб (fucks things up, maybe literally) [ru] © M
 
 запоездать (when the train you're on is running late) [ru] © M
 
-бешенцы (refugees out of control) [ru] © LR
+бешенцы (refugees out of control) [ru] © VA
 
 ревёнок (whiny brat) [ru] © M
 
@@ -62,13 +62,13 @@ existence of "грамота" implies existence of "килограмота" (ove
 
 турбопровод (has jet turbines inside) [ru] © M
 
-просранство (territory you lost control over or made worse in some way) [ru] © LR
+просранство (territory you lost control over or made worse in some way) [ru] © VA
 
 теннисиськи [ru] © Y
 
 лесбуянки (frolicking in a forest) [ru] © M
 
-жорнал (food diary) [ru] © LR
+жорнал (food diary) [ru] © VA
 
 мозайка (bunny-picture mosaic tiling 🐰🧩🐇) [ru] © M
 
@@ -102,7 +102,7 @@ leechение (medicinal use of bloodsuckers 🩸) [ru] © M
 
 гряница (где нагрянет) [ru] © M
 
-налох (stupidity tax) [ru] © LR
+налох (stupidity tax) [ru] © VA
 
 hypoкрысы (🐀) [ru] © M
 
@@ -132,4 +132,4 @@ hypoкрысы (🐀) [ru] © M
 
 кричическая масса [ru] © M
 
-сынарник [ru] © LR
+сынарник [ru] © VA
