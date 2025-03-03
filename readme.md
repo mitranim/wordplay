@@ -26,7 +26,7 @@ existence of "blueprint" implies existence of "redprint" (weaknesses and vulnera
 
 basstion (fish school of self-defense) © M
 
-kotapult (cat launcher) [ru] © K
+kotapult (cat launcher) [sla] © K
 
 slinkshot (cat launcher or something?..) © M
 
@@ -34,7 +34,7 @@ encoilnment (the state you are in after being coiled) © K
 
 ecoillogical (an impossible or absurd system; a system made up of/based on coils) © M
 
-zlon (😠🐘) [ru] © LR
+zlon (😠🐘) [sla] © LR
 
 potentail (infinite level of unsaid expectations dragging behind a remark whenever someone mentions someone or something has potential) © M
 
@@ -300,7 +300,7 @@ straingth (for overexertion) © M
 
 kozliningrad (city of asses 🫏🐐🏰) [ru] © LJ
 
-svinventory (pig pen; pig pedigree registry) [ru] © LJ
+svinventory (pig pen; pig pedigree registry) [sla] © LJ
 
 censory input (neutered perception) © M
 
@@ -868,7 +868,7 @@ terrafirming (reinforcing soft soil) © M
 
 clensing (under a magnifying glass 🔍) © M
 
-maskot (😼) [ru] © M
+maskot (😼) [sla] © M
 
 killogram (lethal doze of deadly poison) © M
 
@@ -1964,7 +1964,7 @@ purchace (swindling a masterful deal) © M
 
 existence of "anymal" implies existence of "anybon" (it lives and dies; also apparently live creature = bad, dead creature = good 🤔) © M
 
-kotcha © M
+kotcha (when a feline traps their prey) [sla] © M
 
 existence of "amendment" implies existence of "awomendment" © M
 
@@ -2086,7 +2086,7 @@ napking © Y
 
 argumend (words of reconciliation after heated debate) © M
 
-yakots (much better name for Siberian cats) © LJ
+yakots (much better name for Siberian cats) [sla] © LJ
 
 blancat (covering made of feline fur; feline keeping you warm) © M
 
@@ -3546,7 +3546,7 @@ funnelize © M
 
 profill (profile form you must fill) © M
 
-hardkot © Y
+hardkot [sla] © Y
 
 lrage © M
 
@@ -3690,7 +3690,7 @@ hippopotom (big slowpoke 🦛) [ru] © M
 
 debooger (👃🔨) © Y
 
-caught kot (🪤 🐈) © M
+caught kot (🪤🐈) [sla] © M
 
 breckage (debris from something being wrecked) © M
 
@@ -4138,7 +4138,7 @@ cuntrast © M
 
 countrast © M
 
-skottage (🐖🐄🐐🏠) © M
+skottage (🐖🐄🐐🏠) [ru] © M
 
 apologeez © M
 
@@ -4328,7 +4328,7 @@ maygic © M
 
 pullarity (related to magnetism and pulling something in) © LJ
 
-markot (place for trading 🐈) © LJ
+markot (place for trading 🐈) [sla] © LJ
 
 medkot (vasca kavat) [wf] © LR
 
@@ -4794,7 +4794,7 @@ goption © M
 
 coronatin © M
 
-caught by a kot (🐈) © LR
+caught by a kot (🐈) [sla] © LR
 
 ghoulem (animated dead flesh?) © M
 
@@ -4802,7 +4802,7 @@ appearatus (teleportation engine; holographic projector) © LJ
 
 educat (кот учёный 😼) [ru] © LR
 
-narkotik (addictively cuddly 🐈) [ru] © M
+narkotik (addictively cuddly 🐈) [sla] © M
 
 asscertain © M
 
@@ -5016,7 +5016,7 @@ logeek © LR
 
 litteracy (when you've read a lot but it's all garbage) © LR
 
-kotegory (in a cat-a-log) [🐈] © M
+kotegory (in a cat-a-log) [sla] © M
 
 afterwords (after a talk) © Y
 
@@ -5558,7 +5558,7 @@ satisfucktion © LJ
 
 catscene (footage of 🐈) © LJ
 
-kotscene (footage of 🐈) © LJ
+kotscene (footage of 🐈) [sla] © LJ
 
 debrisfing (debriefing: filling heads with flotsam; convening to organise reconstruction efforts of some kind) © LJ
 

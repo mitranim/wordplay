@@ -46,7 +46,7 @@ type Entry struct {
 	Author   string
 	Phrase   string
 	Meanings []string
-	Tags     []string
+	Tags     []string // Preferably ISO 639-1 or ISO 639-2 codes.
 }
 
 // Implement `gg.Pker`.
