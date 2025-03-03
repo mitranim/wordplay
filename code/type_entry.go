@@ -22,6 +22,7 @@ func (self Entries) AppendTo(buf []byte) []byte {
 func (self Entries) Dupes() (out []string) {
 	counts := make(map[string]int)
 
+	// TODO consider case-insensitive matching.
 	return gg.MapCompact(self, func(val Entry) (_ string) {
 		key := val.Pk()
 		count := counts[key]
@@ -104,6 +105,13 @@ func (self Entry) AppendAuthor(src []byte) []byte {
 func (self Entry) HasMeanings() bool { return len(self.Meanings) > 0 }
 func (self Entry) HasTags() bool     { return len(self.Tags) > 0 }
 
+func (self Entry) HasRedundantAuthor() bool {
+	return hasAuthorSign(self.Author) ||
+		hasAuthorSign(self.Phrase) ||
+		gg.Some(self.Meanings, hasAuthorSign) ||
+		gg.Some(self.Tags, hasAuthorSign)
+}
+
 func (self *Entry) AddMeaning(val string) {
 	val = strings.TrimSpace(val)
 	if len(val) == 0 {
@@ -133,3 +141,5 @@ func (self *Entry) Norm() {
 	gg.MapMut(self.Meanings, StrNorm)
 	gg.MapMut(self.Tags, StrNorm)
 }
+
+func hasAuthorSign(src string) bool { return strings.Contains(src, `©`) }

@@ -16,8 +16,15 @@ func CmdNorm() {
 func NormFile(path string) {
 	entries := ParseEntries(gg.ReadFile[string](path))
 	entries.Norm()
-	dupes := entries.Dupes()
 
+	reds := gg.Filter(entries, Entry.HasRedundantAuthor)
+	if len(reds) > 0 {
+		fmt.Println(`redundant authors in entries:`)
+		fmt.Println(reds.String())
+		os.Exit(1)
+	}
+
+	dupes := entries.Dupes()
 	if len(dupes) > 0 {
 		fmt.Println(`duplicates:`)
 		grepr.Println(dupes)
@@ -33,6 +40,11 @@ func NormFile(path string) {
 		`El Jay`:          `LJ`,
 		`.el.jay.`:        `LJ`,
 		`Yury`:            `Y`,
+		`Kayez`:           `K`,
+		`Kaeyz`:           `K`,
+		`kayez`:           `K`,
+		`kaeyz`:           `K`,
+		`_tigy_`:          `T`,
 		`Mitranim`:        `M`,
 		`mitranim`:        `M`,
 		``:                `M`,
