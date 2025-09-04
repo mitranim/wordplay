@@ -1,3 +1,7 @@
+фортепьяно (has an intoxicating sound) [ru] © M
+
+страдантный (standard/expected level of suffering) [ru] © VA
+
 бабулинг (when a grandma trolls/bullies someone) [ru] © VA
 
 вредятина (harmful hallucinations) [ru] © M
@@ -16,7 +20,7 @@ existence of "грамота" implies existence of "килограмота" (ove
 
 сосиськи (narrow, elongated tits) [ru] © M
 
-пиздательство (publishes propaganda) [ru] © VA
+пиздательство (publishes only lies and propaganda) [ru] © VA
 
 техналогия (taxable invention) [ru] © M
 
