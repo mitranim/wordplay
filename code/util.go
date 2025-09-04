@@ -14,6 +14,23 @@ import (
 const (
 	SRC_FILE          = `../readme.md`
 	SHORT_SNIPPET_LEN = 64
+	QUOTE_ASCII       = `"`
+	QUOTE_LEFT_SUB    = `„`
+	QUOTE_LEFT_SUP    = `“`
+	QUOTE_RIGHT_SUP   = `”`
+)
+
+var (
+	CharsetSpace      = Charset(nil).AddStr(" \t\v")
+	CharsetNewline    = Charset(nil).AddStr("\r\n")
+	CharsetWhitespace = Charset(nil).AddFrom(CharsetSpace).AddFrom(CharsetNewline)
+	CharsetDelim      = Charset(nil).AddStr(`()[]©`).AddFrom(CharsetNewline)
+
+	CharsetQuotes = Charset(nil).
+			AddStr(QUOTE_ASCII).
+			AddStr(QUOTE_LEFT_SUB).
+			AddStr(QUOTE_LEFT_SUP).
+			AddStr(QUOTE_RIGHT_SUP)
 )
 
 // Performs much better than equivalent map-based set.
@@ -41,9 +58,11 @@ func (self Charset) Add(val int) Charset {
 	return self
 }
 
-func (self Charset) AddStr(src string) Charset {
-	for _, char := range src {
-		self = self.Add(int(char))
+func (self Charset) AddStr(src ...string) Charset {
+	for _, src := range src {
+		for _, char := range src {
+			self = self.Add(int(char))
+		}
 	}
 	return self
 }
@@ -56,13 +75,6 @@ func (self Charset) AddFrom(src Charset) Charset {
 	}
 	return self
 }
-
-var (
-	CharsetSpace      = Charset(nil).AddStr(" \t\v")
-	CharsetNewline    = Charset(nil).AddStr("\r\n")
-	CharsetWhitespace = Charset(nil).AddFrom(CharsetSpace).AddFrom(CharsetNewline)
-	CharsetDelim      = Charset(nil).AddStr(`()[]©`).AddFrom(CharsetNewline)
-)
 
 func Snippet(src string, limit uint) string {
 	return gg.Ellipsis(UntilNewline(src), limit)
@@ -161,37 +173,44 @@ func RowCol(src string, byteInd int) (row int, col int) {
 	return
 }
 
-func Unquote(src string) string {
-	const quoteAscii = '"'
-	const quoteLeft = `“`
-	const quoteRight = `”`
+func Unquote(src string) (out string) {
+	var headLen int
+	var lastInd int
+	var lastChar rune
+	var quoteCount int
+	charPos := -1
 
-	size := len(src)
+	for ind, char := range src {
+		charPos++
 
-	if size > 1 && src[0] == quoteAscii && src[size-1] == quoteAscii {
-		inner := src[1 : size-1]
-
-		// This avoids stripping opening and closing quotes from a string that
-		// actually contains multiple pairs of quotes, breaking two pairs.
-		if !strings.ContainsRune(inner, quoteAscii) {
-			return inner
+		if charPos == 0 && !CharsetQuotes.HasRune(char) {
+			return src
 		}
 
-		return src
-	}
-
-	if strings.HasPrefix(src, quoteLeft) && strings.HasSuffix(src, quoteRight) {
-		inner := src[len(quoteLeft) : size-len(quoteRight)]
-
-		// This avoids stripping opening and closing quotes from a string that
-		// actually contains multiple pairs of quotes, breaking two pairs.
-		if !strings.Contains(inner, quoteLeft) && !strings.Contains(inner, quoteRight) {
-			return inner
+		if charPos == 1 {
+			headLen = ind
 		}
 
-		return src
+		lastInd = ind
+		lastChar = char
+
+		if CharsetQuotes.HasRune(char) {
+			quoteCount++
+		}
+
+		/**
+		Avoid stripping opening and closing quotes from strings like this:
+
+			"one" two "three"
+		*/
+		if quoteCount > 2 {
+			return src
+		}
 	}
 
+	if CharsetQuotes.HasRune(lastChar) {
+		return src[headLen:lastInd]
+	}
 	return src
 }
 
@@ -225,6 +244,7 @@ var StrNorm = strings.NewReplacer(
 	"\u0000", ``,
 	"\u00a0", ` `,
 	`’`, `'`,
-	`“`, `"`,
-	`”`, `"`,
+	QUOTE_LEFT_SUP, QUOTE_ASCII,
+	QUOTE_RIGHT_SUP, QUOTE_ASCII,
+	QUOTE_LEFT_SUB, QUOTE_ASCII,
 ).Replace

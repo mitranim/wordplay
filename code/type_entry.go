@@ -108,8 +108,10 @@ func (self Entry) HasTags() bool     { return len(self.Tags) > 0 }
 func (self Entry) HasRedundantAuthor() bool {
 	return hasAuthorSign(self.Author) ||
 		hasAuthorSign(self.Phrase) ||
-		gg.Some(self.Meanings, hasAuthorSign) ||
 		gg.Some(self.Tags, hasAuthorSign)
+
+	// Used to be disallowed, but attributing meanings can be useful.
+	// gg.Some(self.Meanings, hasAuthorSign)
 }
 
 func (self *Entry) AddMeaning(val string) {

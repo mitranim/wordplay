@@ -35,3 +35,26 @@ func testCharset(set Charset, chars string) {
 		}
 	}
 }
+
+func TestUnquote(t *testing.T) {
+	defer gtest.Catch(t)
+
+	quotes := []string{
+		QUOTE_ASCII,
+		QUOTE_LEFT_SUB,
+		QUOTE_LEFT_SUP,
+		QUOTE_RIGHT_SUP,
+	}
+
+	for _, pre := range quotes {
+		for _, suf := range quotes {
+			source := pre + `word` + suf
+			gtest.Eq(Unquote(source), `word`)
+		}
+	}
+
+	{
+		const src = `"one" two "three"`
+		gtest.Eq(Unquote(src), src)
+	}
+}

@@ -46,6 +46,7 @@ func NormFile(path string) {
 		`kayez`:           `K`,
 		`kaeyz`:           `K`,
 		`_tigy_`:          `T`,
+		`Pablo`:           `P`,
 		`Mitranim`:        `M`,
 		`mitranim`:        `M`,
 		``:                `M`,

@@ -62,7 +62,7 @@ func (self *Parser) entryLine() {
 
 func (self *Parser) entryMeanings() {
 	self.space()
-	if !self.scannedByte('(') {
+	if !self.skippedBytePrefix('(') {
 		return
 	}
 
@@ -109,7 +109,7 @@ func (self *Parser) addMeaning(val string) {
 
 func (self *Parser) entryTags() {
 	self.space()
-	if !self.scannedByte('[') {
+	if !self.skippedBytePrefix('[') {
 		return
 	}
 
@@ -154,7 +154,7 @@ func (self *Parser) addTag(val string) {
 
 func (self *Parser) entryAuthor() {
 	self.space()
-	if !self.scannedChar('©') {
+	if !self.skippedCharPrefix('©') {
 		return
 	}
 
@@ -178,7 +178,7 @@ func (self *Parser) delimWhitespace() {
 	self.space()
 
 	// nolint:staticcheck
-	if self.more() && !self.scannedNewline() || self.more() && !self.scannedNewline() {
+	if self.more() && !self.skippedNewline() || self.more() && !self.skippedNewline() {
 		panic(gg.Errv(`expected at least two newlines or EOF`))
 	}
 
@@ -220,11 +220,11 @@ func (self *Parser) scanned(fun func(*Parser)) bool {
 	return self.cursor > start
 }
 
-func (self *Parser) scannedNewline() bool {
+func (self *Parser) skippedNewline() bool {
 	return self.scanned((*Parser).newline)
 }
 
-func (self *Parser) scannedByte(char byte) bool {
+func (self *Parser) skippedBytePrefix(char byte) bool {
 	if self.more() && self.headByte() == char {
 		self.cursor++
 		return true
@@ -232,7 +232,7 @@ func (self *Parser) scannedByte(char byte) bool {
 	return false
 }
 
-func (self *Parser) scannedChar(val rune) bool {
+func (self *Parser) skippedCharPrefix(val rune) bool {
 	char, size := HeadChar(self.rest())
 	if size > 0 && val == char {
 		self.cursor += size
@@ -240,6 +240,16 @@ func (self *Parser) scannedChar(val rune) bool {
 	}
 	return false
 }
+
+/*
+func (self *Parser) skippedStringPrefix(val string) bool {
+	if strings.HasPrefix(self.rest(), val) {
+		self.cursor += len(val)
+		return true
+	}
+	return false
+}
+*/
 
 func (self *Parser) bytesWith(set Charset) {
 	for self.more() && set.HasByte(self.headByte()) {
