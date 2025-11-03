@@ -1,3 +1,87 @@
+toilet paper tiger (extra subpar) © LJ
+
+symtax (symbolic writing) © M
+
+sackrifice (bagging the offerings) © M
+
+ramdom (recalling random memories) © M
+
+snapshnot (forgot to store the data) © M
+
+popgrade (follow a popular trend) © M
+
+detechtion (scouting via complicated devices) © M
+
+exply (explicitly imply) © T
+
+panicdote (alarming story) © M
+
+insanitivize (encourage mentally unhealthy behavior) © M
+
+underpstandable (makes you feel stupid you didn't get it right away; easy to get wrong) © M
+
+critischism (when defects split the userbase) © M
+
+spwn (total control over creations) © M
+
+simchronization (equal emulated clock) © M
+
+churtch (of devil worshippers) [sla] © M
+
+threeory (scientific holy trinity) © M
+
+conclosure (final result) © LJ
+
+futorial (introduction to future tech) © M
+
+tradeoofs (thought you were making a good deal, then oofed) © M
+
+poisition (good stance) © M
+
+identifire (easily identified in the dark; a pile of burning documents) © M
+
+undoctrination (evicting false or parasitic ideas) © M
+
+existence of "dogma" implies existence of "catma" (aloof, independent thought) © M
+
+hexecution (running a binary) © M
+
+advertitsment (porn ad; pet bird ad) © LJ
+
+adverstisement (hostile to viewers) © M
+
+figureprints (like fingerprints, but full-body) © M
+
+mentabolism (absorbing mind-altering substances) © M
+
+sleepig (swine sleep habits) © M
+
+the existence of "taste buds" implies the existence of nefarious "taste foes" (poisoning your food) © LJ
+
+knigdom (royal library) [sla] © M
+
+empressive (regally magnificent) © M
+
+ripsk (deadly gamble) © M
+
+biasphere (opinion bubble) © M
+
+glossamer (radiant fabric) © M
+
+carvern (cave created with labor) © M
+
+wrighter (creates with words) © M
+
+protogonist (the beginnings of a hero) © M
+
+grossroads (leads to unsavory places) © M
+
+adamptation (specialization for moist environment) © M
+
+adventage (having better airflow or cooling) © M
+
+realiable (can be depended upon) © M
+
 nonchaku (ineffective melee weapon) © M
 
 existence of "toilet" implies existence of "rewardlet" © M
@@ -104,7 +188,7 @@ maidman (butler mad enough to cross-dress) © M
 
 grainbow (shines on crops) © M
 
-riproduction (when an organism tears itself in half, like amoebas do 🦠; also, when one of the partners dies in the process 🪦; inefficient and doomed, like pandas) © M
+riproduction (dead matter to live mater; when an organism tears itself in half, like amoebas do 🦠; when one of the partners dies in the process 🪦; inefficient and doomed, like pandas) © M
 
 deeployment (oceanic installations; very long-term plans, possibly involving sleeper agents) © M
 
@@ -604,7 +688,7 @@ existence of "bison" implies existence of "bidaughter" (also "trison" whatever t
 
 existence of "blueprint" implies existence of "redprint" (weaknesses and vulnerabilities, how to destroy the thing) © M
 
-basstion (fish school of self-defense) © M
+basstion (a fortress only held up by a commandeering tone; a refuge of bass fish; fish school of self-defense) © M
 
 kotapult (cat launcher) [sla] © K
 
@@ -2818,7 +2902,7 @@ aggrassive (plant that kills you) © M
 
 rewrad © M
 
-bloomprint © M
+bloomprint (schematic coming to life just looking at it) © M
 
 invasible © M
 
@@ -6012,7 +6096,7 @@ infer-red (to make assumptions based on infrared scans) © LJ
 
 gangoon © LJ
 
-laguage (slow, lagging language) © M
+laguage (slow to communicate) © M
 
 hairesy © M
 
@@ -6388,7 +6472,7 @@ precedure © M
 
 unrevel © M
 
-suckrifice © M
+suckrifice (donating blood to a vampire) © M
 
 storytolling © M
 
@@ -7126,7 +7210,7 @@ histroy © M
 
 ripository (repo that went RIP or got ripped off from another) © VA
 
-repositroy © M
+repositroy (contains troyans) © M
 
 youser © M
 
@@ -7702,7 +7786,7 @@ trainsport © M
 
 aviatar © M
 
-kracken © M
+kracken (good at breaking stuff; monster on drugs) © M
 
 ubique © M
 
@@ -8966,7 +9050,7 @@ dipslay (murder for show) © M
 
 stayble © M
 
-staybilize © M
+staybilize (on consistent positions) © M
 
 appainrent © M
 
@@ -9696,7 +9780,7 @@ failgun (unimpressive railgun) © M
 
 megahurtz (unit of pain) © M
 
-explosure (too much attention) © M
+explosure (sudden burst of public interest; too much attention) © M
 
 bitchcoin (fake currency) © M
 
