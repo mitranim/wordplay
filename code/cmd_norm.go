@@ -9,6 +9,7 @@ import (
 )
 
 func CmdNorm() {
+	defer gg.LogTimeNow(`norm`).LogStart().LogEnd()
 	NormFile(`../readme.md`)
 	NormFile(`../readme_ru.md`)
 }

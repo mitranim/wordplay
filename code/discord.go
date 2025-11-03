@@ -35,7 +35,10 @@ func (self DiscordDownload) Req() *gr.Req {
 	})
 }
 
-// Must be defined as pointer method for compatibility with `defer`.
+/*
+Can be used with or without `defer`; defined as a pointer method
+for compatibility with the latter, to be able to see new changes.
+*/
 func (self *DiscordDownload) Flush() {
 	path := self.OutPath
 	if gg.IsZero(path) {
