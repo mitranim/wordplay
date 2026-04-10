@@ -1,3 +1,203 @@
+beeftie (a chunky, tasty beast 🥩) © M
+
+estarblishment (a highly venerated society) © M
+
+manument (likely erected by the dickiest ruler) © M
+
+existence of "defile" implies existence of "defolder" (deleting or scrambling entire data directories) © M
+
+crushendo (overpowering cacophony) © M
+
+strata-gem (a ploy to undig some jewels) © M
+
+chirpnig (kicks you out of bed) [ru] © M
+
+rowdent (has a nice sequence of teeth for gnawing things) © M
+
+fangtasy (all about tooth and claw) © M
+
+colosstrophobic (afraid of being locked up in a giant structure) © M
+
+existence of "ethereal" implies existence of "etheunreal" (even less tangible) © M
+
+coolossus (self-ventilating statue) © M
+
+unpgrade (pretends to be good, but isn't) © M
+
+dampage (degraded by humidity) © M
+
+recardless (independent of what's in the cards) © M
+
+fortifire (alcohol-based battle potion) © M
+
+hairloom (ancestral hairdresser; automatic comb that changes your hair into a desired texture/shape) © M
+
+XPedition (adventure with a lesson) © M
+
+resinance (reverberations in rubber) © M
+
+flights of fantasy (?) © LJ
+
+dynamight (powerful explosive) © M
+
+toilwet (with immediate washing) © M
+
+jesticulation (clown body language) © M
+
+rabit (rabid bunny) © M
+
+flamebouyant (burning water, like with napalm) © LJ
+
+flameboyant (fiery colorful) © M
+
+existence of "clad" implies existence of "class" (dressing with style) © M
+
+liftality (elevating with lethal results) © M
+
+encheatment (using magick to rob someone) © LJ
+
+enchatment (making someone very talkative) © M
+
+pullse (a wave of attraction) © M
+
+diversatility (having many different solutions to many problems) © LJ
+
+algoholic (when you're addicted to social media [algorithms]) © LJ
+
+subminus (opposite of surplus) © LJ
+
+**AI**zheimers (atrophy of skills induced by overuse of AI) © LJ
+
+isshoe (experiencing a problem in someone else's boot) © M
+
+obvisibly (readily visible) © LJ
+
+aspigrant (aspires to become 🐖) © VA
+
+omnithopter (flies anywhere) © M
+
+glassical (museum'ed behind a barrier) © M
+
+mummyfestation (unearthing something preserved) © M
+
+obsolute (used to be true 100%, no longer) © M
+
+tagtician (good at game of tag) © M
+
+tournado (champion of havoc) © M
+
+inkstinct (a writer's hunch) © M
+
+prositive © LJ
+
+sickret (hiding something extremely deplorable) © VA
+
+psycophant (an extra annoying or delirious fan) © M
+
+fluxible (easily reflows) © M
+
+bearier (bear that bars your way to tasty berries) © M
+
+greature (of magnificent magnitude) © M
+
+contraban (on smuggled goods) © M
+
+rehearsay (train in spreading rumors) © M
+
+badwidth (capacity to transmit bullshit) © VA
+
+darkerness (a void within a void) © M
+
+axecution (a sharp decapitation) © M
+
+Critmas (critical wishes coming true) © M
+
+existence of "below" implies existence of "behigh" © M
+
+presentries (when your presence is pleasant to someone) © LJ
+
+the existence of "pastries" implies the existence of "futuries" and "presentries" © LJ
+
+infatry (overfed troops) © M
+
+perparation (before perpetration or perpetuation) © M
+
+windicated (trouncing the nay-sayers) © M
+
+holoday (celebrated with flashy 3D visuals) © M
+
+postpwn (pwn later) © M
+
+afakening (people pretending to be aware) © M
+
+falsilized (mineral accretions that fool archeologists) © M
+
+harmaments (lethal implements) © M
+
+religorn (vile acts perpetrated by/for faith) © LJ
+
+undefind (never know what) © M
+
+leetthal (terminally cool) © M
+
+stundent (unresponsive student — maybe during an exam) © LJ
+
+innbreeding (between regulars) © M
+
+innfighting (between regulars) © M
+
+putcher (puts them down for meat) © M
+
+masscot (one that appeals to a larger audience) © M
+
+existence of "aluminimum" implies existence of "alumaximum" (aka an arithmetic logic unit choosing larger numbers) © M
+
+manurevering (navigating through bullshit) © M
+
+animotion (artificial movement) © M
+
+dresspassing (clothing violation) © M
+
+sibylization (society guided by oracles) © M
+
+jumpion (springiest one) © M
+
+tourmament (torturous competition) © M
+
+free-D printer (dimensionally unchallenged) © M
+
+liberature (free words) © M
+
+peeleonthologist (slices up geo-strata) © M
+
+ripentance (for deadly sins) © M
+
+hundrat (swarming 🐀) © M
+
+oneslaught (one-man army in action) © M
+
+longdry (stays wet forever after laundry) © M
+
+fieldth (very dirty area) © M
+
+bellcony (for ringing) © M
+
+screenshto (an astonishing shot 😮) [ru] © M
+
+dielution (to terminally undetectable proportions) © M
+
+blomit (bloody vomit) © K
+
+arsteroid (in the back-end of nowhere) © M
+
+turforming (reshaping one's territory) © M
+
+hacktus (bladed rather than spiked) © M
+
+heredic (inherited the deviations) © M
+
+inderpreter (scrambles the meaning) © M
+
 toilet paper tiger (extra subpar) © LJ
 
 symtax (symbolic writing) © M
@@ -982,8 +1182,6 @@ nervana (total relaxation) © M
 
 expirement (lethal to its subjects) © M
 
-trollglodite (degenerate caveman) © M
-
 "inthink" or "in-think" (used in ingroups; also implies existence of "outthink": foreign ideas) © M
 
 the existence of "underdog" implies the existence of "overcat" © VA
@@ -1106,7 +1304,7 @@ mousetache (thin like whiskers) © M
 
 misteak (questionably chosen or cooked meat) © M
 
-expensieve (a price barrier that _sorts_ better from worse) © M
+expensieve (a price barrier that _sorts_ better from worse; losing a lot of your savings due to reckless expenses) © M
 
 drahmatic (worryingly expensive) © M
 
@@ -1940,7 +2138,7 @@ existence of "motivator" implies existence of "teamovator" (impetus for an organ
 
 troglobyte (Stone Age unit of information) © M
 
-trollglodyte © M
+trollglodyte (degenerate caveman) © M
 
 ogressive (belligerent like an 👹) © M
 
@@ -2348,7 +2546,7 @@ aerosoul © M
 
 svincter (orifices used during/before/after pigging out) © M
 
-sinfluence (forbidden lusts) © M
+sinfluence (forbidden lusts; contagious desires) © M
 
 keptivity (long-term incarceration) © M
 
@@ -3004,7 +3202,7 @@ debiltor (fiscally careless person) © LJ
 
 existence of "vanguard" implies existence of "truckguard" and "lorryguard" © M
 
-instinkt © M
+instinkt (of a filthy beast) © M
 
 experimint © M
 
@@ -3580,7 +3778,7 @@ sobjective (reality that makes some people sad, but not others) © M
 
 fauxsimile © M
 
-mediogre (sub-standard intelligence) © LJ
+mediogre (sub-standard intelligence; bashed together by dumber hominids) © LJ
 
 due tea (when you must attend a ceremony) © LJ
 
@@ -3602,7 +3800,7 @@ emurgency © M
 
 waivelength © M
 
-digtionary (where you find digfinitions; archeological map showing dig sites) © M
+digtionary (contains deep words; where you find digfinitions; archeological map showing dig sites) © M
 
 consoul (consul someone into trading their soul? ethereal ambassador?) © M
 
@@ -3702,7 +3900,7 @@ riscue (dangerous rescue) © M
 
 riproduce (when parents die while giving birth or get eaten by offspring) © M
 
-escapegoat (refuses to be a sacrifice) © M
+escapegoat (refuses to be a sacrifice; some sort of feigned and abstruse excuse) © M
 
 scapegoad © M
 
@@ -6052,7 +6250,7 @@ aboundance © M
 
 baroqueue © M
 
-plantform (vegetation support; growth that supports) © M
+plantform (vegetative foundation; vegetation support) © M
 
 koñsciousness (animal-level intelligence) [🐴] © M
 
@@ -6708,7 +6906,7 @@ bullwork © M
 
 bulwork (defense that's hard to build 🛡) © M
 
-bullwark (aka bullshield 🛡🐂) © M
+bullwark (beefy defense 🐂; aka bullshield 🛡🐂) © M
 
 rob-bot © M
 
@@ -6728,7 +6926,7 @@ atornment © M
 
 compligated (gated by complexity) © M
 
-culltist © M
+culltist (not above mass-sacrifice) © M
 
 cooltist © M
 
@@ -7498,7 +7696,7 @@ sleaping © M
 
 quickstion © M
 
-eromatic © M
+eromatic (arousing odors) © M
 
 aeromatic © M
 
@@ -8336,7 +8534,7 @@ cooporation (organization built on cooperation) © M
 
 castrophic © M
 
-placeholer © M
+placeholer (a hole to fill) © M
 
 eyeland (Ireland?) © M
 
@@ -8382,7 +8580,7 @@ attaintion (grab attention and keep it) © M
 
 braind (smart brand) © M
 
-pressentation (forceful show) © M
+pressentation (forceful show; involves media people) © M
 
 poopup (crappy popup) © M
 
@@ -8898,7 +9096,7 @@ dienamite (💣☠️) © M
 
 equickment © M
 
-dielemma (to be or not) © M
+dielemma (do or die; to be or not) © M
 
 flatform © M
 
@@ -9790,7 +9988,7 @@ defit (extinction of the unfittest) © M
 
 madvisor (terribly unwise aide; visor that shows maddening things) © M
 
-scourage (unwelcome courage?) © M
+scourage (unwelcome or infectious bravery) © M
 
 argumented reality (when people can't decide on reality augmentation) © M
 

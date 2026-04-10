@@ -1,3 +1,9 @@
+гаубийца (killer artillery) [ru] © M
+
+глупинка (uneducated provinces) [ru] © VA
+
+соглошение (agreement/deal for naive losers) [ru] © VA
+
 фортепьяно (has an intoxicating sound) [ru] © M
 
 страдантный (standard/expected level of suffering) [ru] © VA
